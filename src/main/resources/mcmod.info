@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rosiemod",
+  "name": "Rosie Mod",
+  "description": "An interface between the Rosie AI and a Minecraft client.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gr3enMachin3"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
