@@ -20,7 +20,8 @@ public class ChatEventHandler {
         if (!player.equals(mc.player.getName()) && message.contains("rosie")) {
             if (message.contains("follow me")) {
                 mc.player.sendChatMessage("Ok, " + player + ", I will follow you.");
-                baritone.getFollowProcess().follow(entity -> entity.getName().equals(player));
+                //baritone.getFollowProcess().follow(entity -> entity.getName().equals(player));
+                baritone.getCommandManager().execute("follow " + player);
             }
 
             if (message.contains("stop")) {
