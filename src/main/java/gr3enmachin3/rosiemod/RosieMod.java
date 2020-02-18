@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod;
+package gr3enmachin3.rosiemod;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
