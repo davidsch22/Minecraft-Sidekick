@@ -3,6 +3,7 @@ package gr3enmachin3.rosiemod;
 import baritone.api.BaritoneAPI;
 import baritone.api.command.manager.ICommandManager;
 import net.minecraft.client.Minecraft;
+import net.minecraft.entity.item.EntityItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
@@ -35,22 +36,33 @@ public class ChatHandler {
             if (message.contains("get") || message.contains("bring")) {
                 command += "mine ";
                 if (message.contains("wood") || message.contains("logs")) {
+                    mc.player.sendChatMessage("Ok, " + player + ", I'll be back with what you need.");
+
                     command += "log ";
 
                     String num = message.replaceAll("\\D+","");
+                    int amount;
                     if (!num.equals("")) {
-                        command += num;
+                        amount = Integer.parseInt(num);
                     } else {
-                        command += 16;
+                        amount = 16;
                     }
+                    command += amount;
                     baritone.execute(command);
 
                     Item log = Item.getItemById(17);
                     ItemStack logStack = new ItemStack(log);
-                    mc.player.inventory.hasItemStack(logStack);
-                    while (mc.player.inventory.getSlotFor(new ItemStack(log))) {
-
+                    int slot = mc.player.inventory.getSlotFor(logStack);
+                    while (mc.player.inventory.getStackInSlot(slot).getCount() < amount) {
+                        // Do nothing
                     }
+
+                    mc.player.sendChatMessage("/tp " + player);
+                    mc.player.sendChatMessage("Here you go, " + player + ".");
+                    EntityItem logEntity = new EntityItem(mc.player.world, mc.player.posX, mc.player.posY+1, mc.player.posZ, logStack);
+                    logEntity.setDefaultPickupDelay();
+                    mc.player.world.spawnEntity(logEntity);
+                    mc.player.inventory.setInventorySlotContents(slot, null);
                 }
                 return;
             }
