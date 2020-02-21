@@ -3,7 +3,6 @@ package gr3enmachin3.rosiemod;
 import baritone.api.BaritoneAPI;
 import baritone.api.command.manager.ICommandManager;
 import net.minecraft.client.Minecraft;
-import net.minecraft.entity.item.EntityItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
@@ -81,9 +80,7 @@ public class ChatHandler {
     private static void bringBack(int slot, ItemStack stack) {
         mc.player.sendChatMessage("/tp " + requester);
         mc.player.sendChatMessage("Here you go, " + requester + ".");
-        EntityItem logEntity = new EntityItem(mc.player.world, mc.player.posX, mc.player.posY+1, mc.player.posZ, stack);
-        logEntity.setDefaultPickupDelay();
-        mc.player.world.spawnEntity(logEntity);
-        mc.player.inventory.setInventorySlotContents(slot, null);
+        mc.playerController.sendPacketDropItem(stack);
+        mc.player.inventory.setInventorySlotContents(slot, ItemStack.EMPTY);
     }
 }
