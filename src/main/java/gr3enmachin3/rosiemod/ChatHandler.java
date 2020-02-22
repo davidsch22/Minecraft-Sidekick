@@ -3,16 +3,18 @@ package gr3enmachin3.rosiemod;
 import baritone.api.BaritoneAPI;
 import baritone.api.command.manager.ICommandManager;
 import net.minecraft.client.Minecraft;
+import net.minecraft.client.entity.EntityPlayerSP;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
+import java.util.Optional;
 
 @Mod.EventBusSubscriber
 public class ChatHandler {
-    private static Minecraft mc = Minecraft.getMinecraft();
+    private static EntityPlayerSP player = Minecraft.getMinecraft().player;
     private static ICommandManager baritone = BaritoneAPI.getProvider().getPrimaryBaritone().getCommandManager();
 
     private static String requester;
@@ -26,8 +28,8 @@ public class ChatHandler {
         if (isGetActive) {
             Item item = Item.getItemById(bringBlockId);
             ItemStack itemStack = new ItemStack(item);
-            int slot = mc.player.inventory.getSlotFor(itemStack);
-            if (mc.player.inventory.getStackInSlot(slot).getCount() >= desiredAmount) {
+            int slot = player.inventory.getSlotFor(itemStack);
+            if (slot != -1 && player.inventory.getStackInSlot(slot).getCount() >= desiredAmount) {
                 isGetActive = false;
                 bringBack(slot, itemStack);
             }
@@ -39,12 +41,14 @@ public class ChatHandler {
         String chat = event.getMessage().getUnformattedText();
         if (!chat.contains(">")) return;
 
-        requester = chat.substring(1, chat.indexOf(">"));
+        String speaker = chat.substring(1, chat.indexOf(">"));
         String message = chat.substring(chat.indexOf(">") + 1).toLowerCase();
 
-        if (!requester.equals(mc.player.getName()) && message.contains("rosie")) {
+        if (!speaker.equals(player.getName()) && message.contains("rosie")) {
+            requester = speaker;
+
             if (message.contains("follow me")) {
-                mc.player.sendChatMessage("Ok, " + requester + ", I will follow you.");
+                player.sendChatMessage("Ok, " + requester + ", I will follow you.");
                 baritone.execute("follow player " + requester);
                 return;
             }
@@ -52,10 +56,7 @@ public class ChatHandler {
             if (message.contains("get") || message.contains("bring")) {
                 String command = "mine ";
                 if (message.contains("wood") || message.contains("logs")) {
-                    mc.player.sendChatMessage("Ok, " + requester + ", I'll be back with what you need.");
-
-                    bringBlockId = 17;
-                    command += "log ";
+                    player.sendChatMessage("Ok, " + requester + ", I'll be back with what you need");
 
                     String num = message.replaceAll("\\D+","");
                     if (!num.equals("")) {
@@ -63,7 +64,10 @@ public class ChatHandler {
                     } else {
                         desiredAmount = 16;
                     }
-                    command += desiredAmount;
+                    command += desiredAmount + " ";
+
+                    bringBlockId = 17;
+                    command += "log";
 
                     baritone.execute(command);
                     isGetActive = true;
@@ -72,15 +76,40 @@ public class ChatHandler {
             }
 
             if (message.contains("stop")) {
+                isGetActive = false;
+                player.sendChatMessage("Ok");
                 baritone.execute("stop");
             }
         }
     }
 
     private static void bringBack(int slot, ItemStack stack) {
-        mc.player.sendChatMessage("/tp " + requester);
-        mc.player.sendChatMessage("Here you go, " + requester + ".");
-        mc.playerController.sendPacketDropItem(stack);
-        mc.player.inventory.setInventorySlotContents(slot, ItemStack.EMPTY);
+        try {
+            player.sendChatMessage("/tp " + requester);
+            Thread.sleep(500);
+            player.sendChatMessage("Here you go, " + requester);
+            Optional<ItemStack> validStack = player.inventory.mainInventory.stream().filter(selStack -> selStack.getDisplayName().equals(stack.getDisplayName())).findFirst();
+            if (validStack.isPresent()) {
+                player.inventory.currentItem = slot;
+            } else {
+                // TODO if stack is not in the hotbar
+            }
+
+            Thread sideTask = new Thread() {
+                @Override
+                public void run() {
+                    super.run();
+                    try {
+                        Thread.sleep(2000);
+                        player.dropItem(true);
+                    } catch (InterruptedException e) {
+                        // Do nothing. Thread.sleep() requires this.
+                    }
+                }
+            };
+            sideTask.start();
+        } catch (InterruptedException e) {
+            // Do nothing. Thread.sleep() requires this.
+        }
     }
 }
