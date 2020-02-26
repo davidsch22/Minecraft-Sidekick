@@ -1,5 +1,6 @@
 package gr3enmachin3.rosiemod.processes;
 
+import net.minecraft.inventory.ClickType;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.Mod;
@@ -55,22 +56,27 @@ public class GatherProcess extends Process {
 
             player.sendChatMessage("Here you go, " + requester);
 
-            Optional<ItemStack> validStack = player.inventory.mainInventory.stream().filter(selStack -> selStack.getDisplayName().equals(stack.getDisplayName())).findFirst();
-            if (validStack.isPresent()) {
+            Optional<ItemStack> validStackMain = player.inventory.mainInventory.stream().filter(selStack -> Item.getIdFromItem(selStack.getItem()) == blockId).findFirst();
+            Optional<ItemStack> validStackOffhand = player.inventory.offHandInventory.stream().filter(selStack -> Item.getIdFromItem(selStack.getItem()) == blockId).findFirst();
+            if (validStackMain.isPresent()) {
                 player.inventory.currentItem = slot;
-            } else {
-                // TODO if stack is not in the hotbar
+            } else if (validStackOffhand.isPresent()) {
+                player.inventory.openInventory(player);
+                player.inventoryContainer.slotClick(slot, 0, ClickType.QUICK_MOVE, player);
+                player.inventoryContainer.slotClick(8, 0, ClickType.QUICK_MOVE, player);
+                player.inventoryContainer.slotClick(slot, 0, ClickType.QUICK_MOVE, player);
+                player.inventory.closeInventory(player);
+                player.inventory.currentItem = 8;
             }
 
-            Thread sideTask = new Thread(() -> {
+            new Thread(() -> {
                 try {
                     Thread.sleep(2000);
                     player.dropItem(true);
                 } catch (InterruptedException e) {
                     // Do nothing. Thread.sleep() requires this.
                 }
-            });
-            sideTask.start();
+            }).start();
         } catch (InterruptedException e) {
             // Do nothing. Thread.sleep() requires this.
         }
