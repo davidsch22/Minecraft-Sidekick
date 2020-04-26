@@ -40,7 +40,7 @@ public class ChatReader {
             else if (message.contains("stop")) {
                 process = new CancelProcess();
                 if (previousProcess instanceof GatherProcess) {
-                    ((GatherProcess)previousProcess).setIsRunning(false);
+                    ((GatherProcess)previousProcess).setIsGathering(false);
                 }
             }
 
