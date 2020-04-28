@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
 @EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
 public class FollowTask extends Task {
-    public static boolean isFollowing = false;
+    protected static boolean isFollowing = false;
 
     public FollowTask(String requester) {
         Task.requester = requester;
@@ -20,6 +20,7 @@ public class FollowTask extends Task {
         player.sendChatMessage("I'm right behind you, " + requester);
         isFollowing = true;
         baritone.execute("follow player " + requester);
+        oldRequester = requester;
     }
 
     @SubscribeEvent

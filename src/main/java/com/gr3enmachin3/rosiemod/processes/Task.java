@@ -14,6 +14,7 @@ public abstract class Task {
     protected static ClientPlayerEntity player;
     protected static ICommandManager baritone;
     protected static String requester;
+    protected static String oldRequester;
 
     public abstract void run();
 
@@ -25,5 +26,9 @@ public abstract class Task {
         if (player == null) {
             player = Minecraft.getInstance().player;
         }
+    }
+
+    public static boolean taskIsRunning() {
+        return FollowTask.isFollowing || GatherTask.isGathering || GatherTask.isReturning;
     }
 }

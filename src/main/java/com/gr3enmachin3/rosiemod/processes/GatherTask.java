@@ -16,8 +16,8 @@ public class GatherTask extends Task {
     private static String blockName;
     private static int slot;
     private static int desiredAmount;
-    public static boolean isGathering;
-    public static boolean isReturning;
+    protected static boolean isGathering;
+    protected static boolean isReturning;
 
     public GatherTask(String requester, String blockName) {
         this(requester, blockName, 16);
@@ -47,6 +47,7 @@ public class GatherTask extends Task {
         FollowTask.isFollowing = false;
         isGathering = true;
         baritone.execute(command);
+        oldRequester = requester;
     }
 
     @SubscribeEvent

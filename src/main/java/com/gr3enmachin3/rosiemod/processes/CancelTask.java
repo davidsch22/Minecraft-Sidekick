@@ -1,9 +1,21 @@
 package com.gr3enmachin3.rosiemod.processes;
 
 public class CancelTask extends Task {
+    public CancelTask(String requester) {
+        Task.requester = requester;
+    }
+
     @Override
     public void run() {
-        player.sendChatMessage("Ok");
+        run(false);
+    }
+
+    public void run(boolean interrupt) {
+        if (interrupt && !requester.equals(oldRequester)) {
+            player.sendChatMessage("Sorry, " + requester + ", only " + oldRequester + " can stop my current task");
+            return;
+        }
+        if (!interrupt) player.sendChatMessage("Ok");
         FollowTask.isFollowing = false;
         GatherTask.isGathering = false;
         GatherTask.isReturning = false;

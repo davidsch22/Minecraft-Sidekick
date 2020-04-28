@@ -39,11 +39,13 @@ public class ChatReader {
 
             // Stop previous command
             else if (message.contains("stop")) {
-                task = new CancelTask();
+                task = new CancelTask(speaker);
             }
 
             if (task != null) {
-                if (!(task instanceof CancelTask) && TaskChecker.taskIsRunning()) return;
+                if (!(task instanceof CancelTask) && Task.taskIsRunning()) {
+                    new CancelTask(speaker).run(true);
+                }
                 task.run();
             }
         }
