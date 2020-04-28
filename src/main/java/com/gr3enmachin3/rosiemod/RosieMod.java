@@ -9,10 +9,11 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod("rosiemod")
+@Mod(RosieMod.MOD_ID)
 public class RosieMod
 {
-    private static final Logger LOGGER = LogManager.getLogger();
+    public static final String MOD_ID = "rosiemod";
+    public static final Logger LOGGER = LogManager.getLogger();
 
     public RosieMod() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);

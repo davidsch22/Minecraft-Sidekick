@@ -1,17 +1,20 @@
 package com.gr3enmachin3.rosiemod.processes;
 
+import com.gr3enmachin3.rosiemod.RosieMod;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.gui.screen.inventory.InventoryScreen;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.container.ClickType;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraft.world.biome.Biome;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
-@Mod.EventBusSubscriber(bus=Mod.EventBusSubscriber.Bus.MOD)
+@EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
 public class GatherProcess extends Process {
-    private String blockName;
-    private static int blockId;
+    private static String blockName;
+    private static int slot;
     private static int desiredAmount;
     private static boolean isGathering;
     private static boolean isReturning;
@@ -22,8 +25,8 @@ public class GatherProcess extends Process {
 
     public GatherProcess(String requester, String blockName, int desiredAmount) {
         Process.requester = requester;
-        this.blockName = blockName;
-        blockId = 17; // TODO Set to blockName equivalent
+        GatherProcess.blockName = blockName;
+        GatherProcess.slot = -1;
         GatherProcess.desiredAmount = desiredAmount;
     }
 
@@ -31,19 +34,31 @@ public class GatherProcess extends Process {
     public void run() {
         player.sendChatMessage("Ok, " + requester + ", I'll be back with " + desiredAmount + " " + blockName + "s");
 
+        // player.world.getBiomeManager().getBiome(player.getPosition())
+        Biome thisBiome = player.world.func_225523_d_().func_226836_a_(player.getPosition());
+        //if (thisBiome == Biomes.) {
+            // TODO: Set the specific type of log depending on current biome
+        //}
+
+        blockName = "oak_" + blockName; // Temporary until specific type can be set
+
         String command = "mine " + desiredAmount + " " + blockName;
-        baritone.execute(command);
 
         isGathering = true;
+        baritone.execute(command);
     }
 
     @SubscribeEvent
     public static void tick(TickEvent.PlayerTickEvent event) {
-        int slot = -1;
-
         if (isGathering) {
-            Item item = Item.getItemById(blockId);
-            ItemStack itemStack = new ItemStack(item);
+            ItemStack itemStack = player.inventory.mainInventory.stream().filter(selStack ->
+                    selStack.getItem().getRegistryName().getPath().equals(blockName)).findFirst().orElse(null);
+            if (itemStack == null) {
+                itemStack = player.inventory.offHandInventory.stream().filter(selStack ->
+                        selStack.getItem().getRegistryName().getPath().equals(blockName)).findFirst().orElse(null);
+            }
+            if (itemStack == null) return;
+
             slot = player.inventory.getSlotFor(itemStack);
             if (slot != -1 && player.inventory.getStackInSlot(slot).getCount() >= desiredAmount) {
                 isGathering = false;
@@ -55,10 +70,10 @@ public class GatherProcess extends Process {
             PlayerEntity reqPlayer = player.world.getPlayers().stream().filter(entPlayer -> entPlayer.getName().getString().equals(requester)).findFirst().orElse(null);
             if (reqPlayer != null) {
                 double distance = player.getPositionVector().distanceTo(reqPlayer.getPositionVector());
-                if (distance <= 3) {
+                if (distance <= 4) {
                     isReturning = false;
                     baritone.execute("stop");
-                    dropStack(slot);
+                    dropStack();
                 }
             }
         }
@@ -66,34 +81,24 @@ public class GatherProcess extends Process {
 
     private static void comeBack() {
         player.sendChatMessage("I have what you requested, " + requester + ". I'm on my way back.");
-        baritone.execute("follow player " + requester);
         isReturning = true;
+        baritone.execute("follow player " + requester);
     }
 
-    private static void dropStack(int slot) {
+    private static void dropStack() {
         player.sendChatMessage("Here you go, " + requester);
 
-        ItemStack validStackMain = player.inventory.mainInventory.stream().filter(selStack -> Item.getIdFromItem(selStack.getItem()) == blockId).findFirst().orElse(null);
-        ItemStack validStackOffhand = player.inventory.offHandInventory.stream().filter(selStack -> Item.getIdFromItem(selStack.getItem()) == blockId).findFirst().orElse(null);
-        if (validStackMain != null) {
-            player.inventory.currentItem = slot;
-        } else if (validStackOffhand != null) {
-            player.inventory.openInventory(player);
-            player.container.slotClick(slot, 0, ClickType.QUICK_MOVE, player);
-            player.container.slotClick(8, 0, ClickType.QUICK_MOVE, player);
-            player.container.slotClick(slot, 0, ClickType.QUICK_MOVE, player);
-            player.inventory.closeInventory(player);
-            player.inventory.currentItem = 8;
-        }
+        // TODO: Face requester before dropping stack
 
-        new Thread(() -> {
-            try {
-                Thread.sleep(2000);
-                player.closeScreenAndDropStack();
-            } catch (InterruptedException e) {
-                // Do nothing. Thread.sleep() requires this.
-            }
-        }).start();
+        InventoryScreen invScreen = new InventoryScreen(player);
+        Minecraft.getInstance().displayGuiScreen(invScreen);
+
+        if (slot >= 0 && slot <= 8) {
+            slot += 36;
+        }
+        ItemStack stack = Minecraft.getInstance().playerController.windowClick(invScreen.getContainer().windowId, slot, 1, ClickType.THROW, player);
+        player.inventory.setItemStack(stack);
+        player.closeScreen();
     }
 
     public void setIsGathering(boolean running) {
