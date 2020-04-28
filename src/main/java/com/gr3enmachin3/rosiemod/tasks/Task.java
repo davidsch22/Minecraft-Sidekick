@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.processes;
+package com.gr3enmachin3.rosiemod.tasks;
 
 import baritone.api.BaritoneAPI;
 import baritone.api.command.manager.ICommandManager;

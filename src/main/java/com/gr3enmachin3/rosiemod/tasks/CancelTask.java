@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.processes;
+package com.gr3enmachin3.rosiemod.tasks;
 
 public class CancelTask extends Task {
     public CancelTask(String requester) {

@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.processes;
+package com.gr3enmachin3.rosiemod.tasks;
 
 import com.gr3enmachin3.rosiemod.RosieMod;
 import net.minecraft.client.Minecraft;
@@ -32,15 +32,18 @@ public class GatherTask extends Task {
 
     @Override
     public void run() {
-        player.sendChatMessage("Ok, " + requester + ", I'll be back with " + desiredAmount + " " + blockName + "s");
+        if (blockName.equals("log")) {
+            // Biome thisBiome = player.world.getBiomeManager().getBiome(player.getPosition())
+            Biome thisBiome = player.world.func_225523_d_().func_226836_a_(player.getPosition());
+            String log = BiomeLogMap.biomeLogMap.get(thisBiome);
+            if (log.equals("none")) {
+                player.sendChatMessage("Sorry, " + requester + ", we are not in a biome that has logs");
+                return;
+            }
+            blockName = log + blockName;
+        }
 
-        // player.world.getBiomeManager().getBiome(player.getPosition())
-        Biome thisBiome = player.world.func_225523_d_().func_226836_a_(player.getPosition());
-        //if (thisBiome == Biomes.) {
-            // TODO: Set the specific type of log depending on current biome
-        //}
-
-        blockName = "oak_" + blockName; // Temporary until specific type can be set
+        player.sendChatMessage("Ok, " + requester + ", I'll be back with " + desiredAmount + " " + blockName + "(s)");
 
         String command = "mine " + desiredAmount + " " + blockName;
 
