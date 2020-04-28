@@ -44,6 +44,7 @@ public class GatherProcess extends Process {
 
         String command = "mine " + desiredAmount + " " + blockName;
 
+        FollowProcess.isFollowing = false;
         isGathering = true;
         baritone.execute(command);
     }
@@ -67,8 +68,11 @@ public class GatherProcess extends Process {
         }
 
         if (isReturning) {
-            PlayerEntity reqPlayer = player.world.getPlayers().stream().filter(entPlayer -> entPlayer.getName().getString().equals(requester)).findFirst().orElse(null);
+            PlayerEntity reqPlayer = player.world.getPlayers().stream().filter(entPlayer ->
+                    entPlayer.getName().getString().equals(requester)).findFirst().orElse(null);
             if (reqPlayer != null) {
+                FollowProcess.isFollowing = true;
+
                 double distance = player.getPositionVector().distanceTo(reqPlayer.getPositionVector());
                 if (distance <= 4) {
                     isReturning = false;
@@ -88,7 +92,7 @@ public class GatherProcess extends Process {
     private static void dropStack() {
         player.sendChatMessage("Here you go, " + requester);
 
-        // TODO: Face requester before dropping stack
+        FollowProcess.isFollowing = false;
 
         InventoryScreen invScreen = new InventoryScreen(player);
         Minecraft.getInstance().displayGuiScreen(invScreen);
