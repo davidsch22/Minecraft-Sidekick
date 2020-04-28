@@ -8,11 +8,11 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
 @EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
-public class FollowProcess extends Process {
+public class FollowTask extends Task {
     public static boolean isFollowing = false;
 
-    public FollowProcess(String requester) {
-        Process.requester = requester;
+    public FollowTask(String requester) {
+        Task.requester = requester;
     }
 
     @Override

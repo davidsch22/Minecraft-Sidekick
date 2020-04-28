@@ -12,22 +12,22 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
 @EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
-public class GatherProcess extends Process {
+public class GatherTask extends Task {
     private static String blockName;
     private static int slot;
     private static int desiredAmount;
-    private static boolean isGathering;
-    private static boolean isReturning;
+    public static boolean isGathering;
+    public static boolean isReturning;
 
-    public GatherProcess(String requester, String blockName) {
+    public GatherTask(String requester, String blockName) {
         this(requester, blockName, 16);
     }
 
-    public GatherProcess(String requester, String blockName, int desiredAmount) {
-        Process.requester = requester;
-        GatherProcess.blockName = blockName;
-        GatherProcess.slot = -1;
-        GatherProcess.desiredAmount = desiredAmount;
+    public GatherTask(String requester, String blockName, int desiredAmount) {
+        Task.requester = requester;
+        GatherTask.blockName = blockName;
+        GatherTask.slot = -1;
+        GatherTask.desiredAmount = desiredAmount;
     }
 
     @Override
@@ -44,7 +44,7 @@ public class GatherProcess extends Process {
 
         String command = "mine " + desiredAmount + " " + blockName;
 
-        FollowProcess.isFollowing = false;
+        FollowTask.isFollowing = false;
         isGathering = true;
         baritone.execute(command);
     }
@@ -71,7 +71,7 @@ public class GatherProcess extends Process {
             PlayerEntity reqPlayer = player.world.getPlayers().stream().filter(entPlayer ->
                     entPlayer.getName().getString().equals(requester)).findFirst().orElse(null);
             if (reqPlayer != null) {
-                FollowProcess.isFollowing = true;
+                FollowTask.isFollowing = true;
 
                 double distance = player.getPositionVector().distanceTo(reqPlayer.getPositionVector());
                 if (distance <= 4) {
@@ -84,7 +84,7 @@ public class GatherProcess extends Process {
     }
 
     private static void comeBack() {
-        player.sendChatMessage("I have what you requested, " + requester + ". I'm on my way back.");
+        player.sendChatMessage("I have what you wanted, " + requester + ". I'm coming back");
         isReturning = true;
         baritone.execute("follow player " + requester);
     }
@@ -92,7 +92,7 @@ public class GatherProcess extends Process {
     private static void dropStack() {
         player.sendChatMessage("Here you go, " + requester);
 
-        FollowProcess.isFollowing = false;
+        FollowTask.isFollowing = false;
 
         InventoryScreen invScreen = new InventoryScreen(player);
         Minecraft.getInstance().displayGuiScreen(invScreen);
@@ -103,9 +103,5 @@ public class GatherProcess extends Process {
         ItemStack stack = Minecraft.getInstance().playerController.windowClick(invScreen.getContainer().windowId, slot, 1, ClickType.THROW, player);
         player.inventory.setItemStack(stack);
         player.closeScreen();
-    }
-
-    public void setIsGathering(boolean running) {
-        isGathering = running;
     }
 }

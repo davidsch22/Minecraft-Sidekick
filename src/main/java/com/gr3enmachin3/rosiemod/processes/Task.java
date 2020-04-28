@@ -10,7 +10,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
 @EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
-public abstract class Process {
+public abstract class Task {
     protected static ClientPlayerEntity player;
     protected static ICommandManager baritone;
     protected static String requester;

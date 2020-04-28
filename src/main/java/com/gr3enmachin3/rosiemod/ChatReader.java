@@ -1,17 +1,13 @@
 package com.gr3enmachin3.rosiemod;
 
-import com.gr3enmachin3.rosiemod.processes.CancelProcess;
-import com.gr3enmachin3.rosiemod.processes.FollowProcess;
-import com.gr3enmachin3.rosiemod.processes.GatherProcess;
-import com.gr3enmachin3.rosiemod.processes.Process;
+import com.gr3enmachin3.rosiemod.processes.*;
+import com.gr3enmachin3.rosiemod.processes.Task;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
 @EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
 public class ChatReader {
-    private static Process process;
-
     @SubscribeEvent
     public static void readChat(ClientChatReceivedEvent event) {
         String chat = event.getMessage().getString();
@@ -22,9 +18,11 @@ public class ChatReader {
         String message = chat.substring(chat.indexOf(">") + 1).toLowerCase();
 
         if (!speaker.equals("MSOE_Rosie") && message.contains("rosie")) {
+            Task task = null;
+
             // Follow command
             if (message.contains("follow me")) {
-                process = new FollowProcess(speaker);
+                task = new FollowTask(speaker);
             }
 
             // Gather command
@@ -32,23 +30,21 @@ public class ChatReader {
                 if (message.contains("wood") || message.contains("logs")) {
                     String num = message.replaceAll("\\D+","");
                     if (!num.equals("")) {
-                        process = new GatherProcess(speaker, "log", Integer.parseInt(num));
+                        task = new GatherTask(speaker, "log", Integer.parseInt(num));
                     } else {
-                        process = new GatherProcess(speaker, "log");
+                        task = new GatherTask(speaker, "log");
                     }
                 }
             }
 
             // Stop previous command
             else if (message.contains("stop")) {
-                if (process instanceof GatherProcess) {
-                    ((GatherProcess)process).setIsGathering(false);
-                }
-                process = new CancelProcess();
+                task = new CancelTask();
             }
 
-            if (process != null) {
-                process.run();
+            if (task != null) {
+                if (!(task instanceof CancelTask) && TaskChecker.taskIsRunning()) return;
+                task.run();
             }
         }
     }
