@@ -11,14 +11,11 @@ public class CancelTask extends Task {
     }
 
     public void run(boolean interrupt) {
-        if (interrupt && !requester.equals(oldRequester)) {
-            player.sendChatMessage("Sorry, " + requester + ", only " + oldRequester + " can stop my current task");
-            return;
-        }
         if (!interrupt) player.sendChatMessage("Ok");
         FollowTask.isFollowing = false;
         GatherTask.isGathering = false;
         GatherTask.isReturning = false;
         baritone.execute("stop");
+        oldRequester = requester;
     }
 }

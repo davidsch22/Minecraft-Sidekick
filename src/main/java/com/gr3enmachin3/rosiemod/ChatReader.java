@@ -43,8 +43,9 @@ public class ChatReader {
             }
 
             if (task != null) {
-                if (!(task instanceof CancelTask) && Task.taskIsRunning()) {
-                    new CancelTask(speaker).run(true);
+                if (Task.taskIsRunning()) {
+                    if (!Task.isSameRequester()) return;
+                    if (!(task instanceof CancelTask)) new CancelTask(speaker).run(true);
                 }
                 task.run();
             }

@@ -31,4 +31,12 @@ public abstract class Task {
     public static boolean taskIsRunning() {
         return FollowTask.isFollowing || GatherTask.isGathering || GatherTask.isReturning;
     }
+
+    public static boolean isSameRequester() {
+        if (!requester.equals(oldRequester)) {
+            player.sendChatMessage("Sorry, " + requester + ", only " + oldRequester + " can stop my current task");
+            return false;
+        }
+        return true;
+    }
 }
