@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.tasks;
+package com.gr3enmachin3.rosiemod.maps;
 
 import net.minecraft.world.biome.Biome;
 import net.minecraft.world.biome.Biomes;
@@ -8,9 +8,9 @@ import java.util.Map;
 public class BiomeLogMap {
     private final Map<Biome, String> instBiomeLogMap = new HashMap<>();
 
-    public static Map<Biome, String> biomeLogMap = new BiomeLogMap().instBiomeLogMap;
+    private static final Map<Biome, String> biomeLogMap = new BiomeLogMap().instBiomeLogMap;
 
-    public BiomeLogMap() {
+    private BiomeLogMap() {
         final String OAK = "oak_";
         final String SPRUCE = "spruce_";
         final String BIRCH = "birch_";
@@ -94,5 +94,9 @@ public class BiomeLogMap {
         instBiomeLogMap.put(Biomes.WOODED_BADLANDS_PLATEAU, OAK);
         instBiomeLogMap.put(Biomes.WOODED_HILLS, OAK);
         instBiomeLogMap.put(Biomes.WOODED_MOUNTAINS, OAK);
+    }
+
+    public static String get(Biome key) {
+        return biomeLogMap.get(key);
     }
 }

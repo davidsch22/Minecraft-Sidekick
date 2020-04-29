@@ -20,28 +20,53 @@ public class ChatReader {
         if (!speaker.equals("MSOE_Rosie") && message.contains("rosie")) {
             Task task = null;
 
-            // Follow command
-            if (message.contains("follow me")) {
+            // Tp Command
+            if (message.contains("here") || message.contains("to me")) {
+                task = new TpTask(speaker);
+            }
+
+            // Follow Command
+            else if (message.contains("follow me")) {
                 task = new FollowTask(speaker);
             }
 
-            // Gather command
+            // Gather Command
             else if (message.contains("get") || message.contains("bring")) {
+                String num = message.replaceAll("\\D+","");
+
                 if (message.contains("wood") || message.contains("logs")) {
-                    String num = message.replaceAll("\\D+","");
                     if (!num.equals("")) {
                         task = new GatherTask(speaker, "log", Integer.parseInt(num));
                     } else {
                         task = new GatherTask(speaker, "log");
                     }
+                } else if (message.contains("coal")) {
+                    if (!num.equals("")) {
+                        task = new GatherTask(speaker, "coal_ore", Integer.parseInt(num));
+                    } else {
+                        task = new GatherTask(speaker, "coal_ore");
+                    }
+                } else if (message.contains("iron")) {
+                    if (!num.equals("")) {
+                        task = new GatherTask(speaker, "iron_ore", Integer.parseInt(num));
+                    } else {
+                        task = new GatherTask(speaker, "iron_ore");
+                    }
+                } else if (message.contains("diamond")) {
+                    if (!num.equals("")) {
+                        task = new GatherTask(speaker, "diamond_ore", Integer.parseInt(num));
+                    } else {
+                        task = new GatherTask(speaker, "diamond_ore");
+                    }
                 }
             }
 
-            // Stop previous command
+            // Stop Running Command
             else if (message.contains("stop")) {
                 task = new CancelTask(speaker);
             }
 
+            // Execute Command
             if (task != null) {
                 if (Task.taskIsRunning()) {
                     if (!Task.isSameRequester()) return;
