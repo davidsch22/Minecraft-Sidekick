@@ -1,4 +1,3 @@
-
 #Client only settings, mostly things related to rendering
 [client]
 	#Disable culling of hidden faces next to stairs and slabs. Causes extra rendering, but may fix some resource packs that exploit this vanilla mechanic.
@@ -17,4 +16,3 @@
 	forgeCloudsEnabled = true
 	#When enabled, makes specific reload tasks such as language changing quicker to run.
 	selectiveResourceReloadEnabled = true
-
