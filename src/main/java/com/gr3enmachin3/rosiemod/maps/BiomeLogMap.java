@@ -1,7 +1,7 @@
 package com.gr3enmachin3.rosiemod.maps;
 
-import net.minecraft.world.biome.Biome;
-import net.minecraft.world.biome.Biomes;
+import net.minecraft.world.level.biome.Biome;
+import net.minecraft.world.level.biome.Biomes;
 
 import java.util.HashMap;
 import java.util.Map;
