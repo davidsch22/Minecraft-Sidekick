@@ -12,3 +12,18 @@ Build: 1.15.2-0.1 - Wed Apr 29 2020
 		Can specify number of items to get, defaults to 16 if not specified
 		If running command, only previous requester can stop it
 		When following, AI faces requester
+
+=========
+Build: 1.18.2-0.1 - Wed March 16 2022
+	Commands:
+		Teleport to me
+		Follow me
+		Gather
+		Stop
+
+	Features:
+		Can gather logs, coal, iron, diamond
+		Type of log to get determined by the biome they are standing in
+		Can specify number of items to get, defaults to 16 if not specified
+		If running command, only previous requester can stop it
+		When following, AI faces requester
