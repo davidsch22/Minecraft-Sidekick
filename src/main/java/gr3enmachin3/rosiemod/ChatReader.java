@@ -1,7 +1,7 @@
-package com.gr3enmachin3.rosiemod;
+package gr3enmachin3.rosiemod;
 
-import com.gr3enmachin3.rosiemod.tasks.*;
-import com.gr3enmachin3.rosiemod.tasks.Task;
+import gr3enmachin3.rosiemod.tasks.*;
+import gr3enmachin3.rosiemod.tasks.Task;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;

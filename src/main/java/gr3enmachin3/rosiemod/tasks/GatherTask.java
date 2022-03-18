@@ -1,14 +1,16 @@
-package com.gr3enmachin3.rosiemod.tasks;
+package gr3enmachin3.rosiemod.tasks;
 
-import com.gr3enmachin3.rosiemod.RosieMod;
-import com.gr3enmachin3.rosiemod.maps.BiomeLogMap;
-import com.gr3enmachin3.rosiemod.maps.BlockItemMap;
+import gr3enmachin3.rosiemod.RosieMod;
+import gr3enmachin3.rosiemod.maps.BiomeLogMap;
+import gr3enmachin3.rosiemod.maps.BlockItemMap;
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.screen.inventory.InventoryScreen;
-import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.inventory.container.ClickType;
-import net.minecraft.item.ItemStack;
-import net.minecraft.world.biome.Biome;
+import net.minecraft.client.gui.screens.inventory.InventoryScreen;
+import net.minecraft.core.BlockPos;
+import net.minecraft.core.Holder;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.inventory.ClickType;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.level.biome.Biome;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
@@ -36,18 +38,17 @@ public class GatherTask extends Task {
     @Override
     public void run() {
         if (blockName.equals("log")) {
-            // Biome thisBiome = player.world.getBiomeManager().getBiome(player.getPosition())
-            Biome thisBiome = player.world.func_225523_d_().func_226836_a_(player.getPosition());
-            String log = BiomeLogMap.get(thisBiome);
+            Holder<Biome> thisBiome = player.level.getBiome(new BlockPos(player.position()));
+            String log = BiomeLogMap.get(thisBiome.value());
             if (log.equals("none")) {
-                player.sendChatMessage("Sorry, " + requester + ", we are not in a biome that has logs");
+                player.chat("Sorry, " + requester + ", we are not in a biome that has logs");
                 return;
             }
             blockName = log + blockName;
         }
 
         itemName = BlockItemMap.get(blockName);
-        player.sendChatMessage("Ok, " + requester + ", I'll be back with " + desiredAmount + " " + itemName + "(s)");
+        player.chat("Ok, " + requester + ", I'll be back with " + desiredAmount + " " + itemName + "(s)");
 
         String command = "mine " + desiredAmount + " " + blockName;
 
@@ -60,21 +61,23 @@ public class GatherTask extends Task {
     @SubscribeEvent
     public static void tick(TickEvent.PlayerTickEvent event) {
         if (isGathering) {
-            ItemStack itemStack = player.inventory.mainInventory.stream().filter(selStack ->
+            // ItemStack itemStack = player.inventory.mainInventory.stream().filter(selStack ->
+            //        selStack.getItem().getRegistryName().getPath().equals(itemName)).findFirst().orElse(null);
+            ItemStack itemStack = player.getInventory().items.stream().filter(selStack ->
                     selStack.getItem().getRegistryName().getPath().equals(itemName)).findFirst().orElse(null);
             if (itemStack == null) return;
 
-            slot = player.inventory.getSlotFor(itemStack);
+            slot = player.getInventory().findSlotMatchingItem(itemStack);
             if (slot != -1 && player.inventory.getStackInSlot(slot).getCount() >= desiredAmount) {
                 isGathering = false;
                 isReturning = true;
-                player.sendChatMessage("I have what you wanted, " + requester + ". I'm coming back");
+                player.chat("I have what you wanted, " + requester + ". I'm coming back");
                 baritone.execute("follow player " + requester);
             }
         }
 
         if (isReturning) {
-            PlayerEntity reqPlayer = player.world.getPlayers().stream().filter(entPlayer ->
+            Player reqPlayer = player.world.getPlayers().stream().filter(entPlayer ->
                     entPlayer.getName().getString().equals(requester)).findFirst().orElse(null);
             if (reqPlayer != null) {
                 double distance = player.getPositionVector().distanceTo(reqPlayer.getPositionVector());
@@ -89,7 +92,7 @@ public class GatherTask extends Task {
     }
 
     private static void dropStack() {
-        player.sendChatMessage("Here you go, " + requester);
+        player.chat("Here you go, " + requester);
 
         InventoryScreen invScreen = new InventoryScreen(player);
         Minecraft.getInstance().displayGuiScreen(invScreen);

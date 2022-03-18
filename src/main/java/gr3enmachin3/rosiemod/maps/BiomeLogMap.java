@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.maps;
+package gr3enmachin3.rosiemod.maps;
 
 import net.minecraft.world.level.biome.Biome;
 import net.minecraft.world.level.biome.Biomes;
