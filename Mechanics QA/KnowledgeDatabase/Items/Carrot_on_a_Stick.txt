@@ -1,0 +1,9 @@
+A Carrot on a Stick is an item that can be used to control saddled pigs.
+The carrot must be placed at a diagonal below the fishing rod, making it possible to craft a carrot on a stick using the inventory 2×2 crafting arrangement.
+To use a carrot on a stick, the player must first saddle a pig. The pig will then move in the direction that the carrot on a stick points to. Also, if the player holds a carrot on a stick, all pigs will follow the player. The pigs will slowly eat the carrot, eventually leaving you with a fishing rod. You'll have to re-craft the carrot on a stick before controlling the pig again.
+To make the pig run faster, the player can press use while holding the carrot on a stick. This is called "boosting." Each boost costs 7 durability. If the Carrot on a Stick has less than 7 durability, the boost cannot be used. After a boost is used, the player may switch to another item while retaining the boost.
+The speed of a mounted pig is at 4.00 m/s, boosting it doubles the speed to 8.00 m/s. These speeds are unaffected by potions of swiftness. The boost takes 5 seconds to warm up and lasts 40 seconds. Therefore, it is possible to travel up to 340 blocks on a single boost without holding the carrot on a stick.
+An enchantment table will not offer any enchantments, but Unbreaking can be added with an anvil.
+First image of carrot on a stick released by Dinnerbone.
+Pigs can climb stairs and slabs.
+Jeb riding a pig.

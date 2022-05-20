@@ -1,0 +1,4 @@
+Dec value range: 353:0 – 353:15.
+Hex value range: 15F:0 – 15F:9 / 15FA – 15FF.
+Dyes are used to colour wool blocks and wool on sheep, which can then be sheared off. The sheep will keep its colour forever or untill the player dyes it white again. Note that only white wool can be dyed in all colours, the other colours can not be turned into other colour. However, all sheep can be dyed in other colours.
+It’s way more efficient to dye and shear sheep than it is to sheer white sheep and dye the wool. Not only do you only need just 1 dye per sheep colour, sheared sheep will regrow their wool by eating grass. They will keep their colour untill it either dies or until you recolour it.

@@ -1,0 +1,4 @@
+Dec value: 351:3.
+Hex value: 15F3.
+Maximum stack 64.
+Cocoa beans are found in dungeon chests, but in the next update they can also be found in bonus chests and it’ll be possible to grow them on jungle trees. They will also be random drop from jungle leaves when they decay or when they’re destroyed. Cocoa beans are used to create cookies and it can be used to dye sheep and white wool blocks brown.

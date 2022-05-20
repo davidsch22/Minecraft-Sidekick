@@ -1,0 +1,73 @@
+Zombie Pigmen are a neutral mob from The Nether, and drop 0-1 pieces of rotten flesh upon death as well as 0-1 gold nuggets. They occasionally drop a gold sword or gold helmet if defeated. Zombie Pigmen can also drop gold ingots, or a gold sword however this is very rare.
+They travel in groups of up to 20, and do not attack the player unless the player attacks them first. Zombie Pigmen are able to drown, but cannot be killed by lava. Because they are well-armed, Zombie Pigmen are highly dangerous to an unsuspecting player, also considering the Ghasts and horrible terrain of the Nether.
+Attacking one Zombie Pigman causes the whole group of nearby Zombie Pigmen to become hostile and attack all the players if you are in multiplayer mode, like wolves. Zombie Pigmen won't become neutral again unless they're killed, they won't become neutral even if the player dies, regardless whenever the death was caused by the pigman or not; however, they are faster than a walking player (speed of .95 Blocks Per Second is the enraged zombie pigman's speed) Setting the Game Mode to Peaceful removes all Zombie Pigmen, unlike wolves. If the player is attacked by a group of Zombie Pigmen, escapes through a Portal, and returns to the Nether soon afterward, the Zombie Pigmen will remain hostile. Since Update 1.4, Zombie Pigmen have the ability to pick up weapons and armor of any defeated players.
+In pocket edition, unlike the PC version, Zombie Pigmen spawn from a Nether Reactor. They will attack the player immediately. However, unlike the PC and the Xbox Edition, they do burn in the sun like zombies and skeletons, yet they will not die.
+Zombie Pigmen are incredibly strong, which gives them an unfair advantage to an unprepared player. If the player is in multiplayer, a zombie pigman that has been harmed will be aggressive towards all players (even players that did not harm the pigman). Zombie pigmen spawn in the Nether and the overworld, near any active Nether Portals and when a pig is struck by lightning. If a zombie pigman is harmed by another mob, the zombie pigman that was harmed will become hostile towards the mob that harmed it, but the rest of the group will remain neutral. If you kill a pigman in one hit, the others will not become hostile.
+However, if an iron golem attacks a pigman, only that zombie pigman will be hostile.
+As stated earlier in the article, Zombie Pigmen are extremely difficult enemies to surmount. The best strategy to carry out in the sighting of a zombie pigman is to simply walk away and ignore them, as they are neutral and will not become angry unless harmed. When doing battle with a zombie pigman, it is best advised to attack one single mob at a time and seclude them from the others. This being a reliant strategy, as nearby zombie pigmen will become angry and will swarm the player, closing off any escapes.
+Another efficient way of tackling zombie pigman is from afar with a bow. A regular is okay, but enchanted bows are preferred as the extra perks will become useful in the situation that you are not far enough. The player should be advised that they should still manage a single pigman at a time instead of shooting multiples. They should also be wary of their distance, and should remain at least 15 blocks away and out of the potential sight of a zombie pigman. Note that another excellent strategy is to attack zombie pigmen with another player to increase survival chances and to add extra damage.
+Otherwise, you could pillar jump and the zombie pigmen can't reach you, then just finish them off with a bow or sword.
+Zombie pigmen are difficult enemies when in groups, and can easily overwhelm a player. An effective strategy (that also proves to damage-free) is to build a small tower that is three blocks above the surface. One single block of space is efficient, but it is cautioned that the pigman may not be able to attack you, but will still overlap your model, causing you to move. It is best advised to build a 2x2x3 or 3x3x3 tower so that the player will have no risk in falling into a swarm of angered zombie pigmen and have the optimal safety.
+The Baby Zombie Pigman is a rare mob, it is the baby counterpart of the adult Zombie Pigman. Unlike the adult variant, they posses great speed, much like Baby Zombies. They can become a great hazard if a player mistakenly attempts to attack a herd of Zombie Pigman with a Baby Zombie Pigman monitoring with the group. They also have a chance to be in Chicken Jockey form, due to being a baby-counterpart and they are undead.
+Like all mobs, zombie pigmen are classified in a group of objects called entities. All entities can be summoned with commands or external editors. They can also keep their names given to them unlike blocks. All mobs also have the possibilities of holding items, as well as wearing armor. The model for zombie pigmen shows the the pigman itself wielding a sword. The mob itself does not actually hold a sword and does not deal the damage that a sword would. Zombie pigmen are able to equip different items, but only with external editors. Even at that, their wielded item will still appear as gold sword and not the attributed item. Enchantments on gear and potion affects still effect zombie pigmen.
+The green liquid in the Zombie Pigman skin was originally red, to resemble blood, but was changed because players expressed a want for the lack of blood and gore in Minecraft. The game may have also recieved a higher rating from the ESRB if this was present.
+Zombie Pigmen were originally passive, unarmed mobs in a preview before the Halloween update. After Alpha 1.2, they were changed to neutral and held gold swords. Despite wielding gold swords, a zombie pigman's attack is increasingly strong. This is due to the fact that they deal damage in the same way that a Zombie does in which they add normal damage to weapon damage.
+Before, Zombie Pigmen would live forever; after the November 10, 2010 update, they despawned after a long time and then got replaced by more pigmen.
+If a pig is struck by lightning, it will turn into a Zombie Pigman without the Golden Sword.
+Prior to the 1.8 Beta update, Zombie Pigmen used to drop cooked porkchops (regardless of how they are killed), because Rotten Flesh did not exist yet (Zombies dropped feathers that time).
+Zombie Pigmen share the same body frame as Zombies and The Player.
+Zombie Pigmen burn in daylight but don't take damage since they are immune to fire. As a result they burn for a small moment then back to normal without damage.
+If the player is sitting on a saddled pig and the pig is struck by lightning, the player will still be sitting on the Zombie Pigman.
+Zombie pigmen are zombie version of the original Pigman.
+In pocket edition, zombie pigman are not neutral but hostile. Also, the design of the adult zombie pigmen's head looks like the baby ones.
+In the Nether, there is an extremely rare glitch were a regular Zombie will spawn instead of a Zombie Pigman.
+In the Pocket Edition,  Zombie Pigmen drop golden ingots instead of nuggets.
+A Zombie Pigman.
+A Zombie Pigman in nature.
+As the picture shows, Zombie Pigman are resistant to fire and lava.
+A Baby Zombie Pigman.
+A Baby Zombie Pigman from another view.
+A Zombie Pigmen wearing a Pumpkin.
+A Zombie Pigman wielding an enchanted Golden Sword.
+A Zombie Pigman in diamond armor wielding a diamond Sword of Unbreaking I.
+A Zombie Pigman given a Wither Skeleton Skull. Notice how it only covers up part of the Pigman's rotting face.
+Zombie Pigman rising out of lava.
+Add a photo to this gallery.
+Zombie pigmen are neutral mobs that live in the Nether.
+Zombie pigmen can spawn in the Nether, from Nether portals, or from pigs. They have a 5% chance of spawning as a baby zombie pigman, and a baby zombie pigman has a 5% chance of spawning as a pigman jockey.
+All zombie pigmen spawn with a golden sword, which may randomly be enchanted. This chance increases at higher difficulties, and the sword's enchantment will more commonly be of a higher level.
+Zombie pigmen spawn in groups of 4 in the Nether.
+Zombie pigmen are capable of spawning on the bottom row of obsidian in a Nether portal frame in the Overworld. Spawning inside a nether portal is a factor of the number of portal blocks in the portal - each block has a chance of spawning a zombie on the base of the portal. Building bigger portals means more pigmen spawn, where the smallest 2×3 portal (4×5 frame) has the lowest likelihood of a spawn.
+A zombie pigman will spawn when lightning strikes within 4 blocks of a pig. If the player is riding the pig when lightning hits it, a zombie pigman will appear on top of the player. If the pig is a baby, the zombie pigman will still be full sized.
+In the Pocket Edition, there is no Nether, so zombie pigmen will not spawn there or from Nether portals. Instead, zombie pigmen will spawn when a Nether reactor is successfully activated, as long as the difficulty is not peaceful.
+Zombie pigmen drop 0 to 1 rotten flesh and 0 to 1 gold nuggets. The maximum amount of each can be increased by 1 per level of Looting used, up to a maximum of 4 each at Looting III.
+Zombie pigmen have a 2.5% chance to drop a gold ingot and a 8.5% chance to drop their sword when their death is registered as a player kill. That chances of each can be increased by 1% per level of Looting used, up to a 5.5% chance for a gold ingot and a 11.5% chance for a golden sword at Looting III.
+Zombie pigmen drop 5 experience, or 12 if they are a baby zombie pigman, when their death is registered as a player kill.
+All items they have picked up after spawning will be dropped upon death.
+On Halloween (October 31st), zombie pigmen have a 22.5% chance of spawning with a pumpkin or a 2.5% chance of spawning with a jack o'lantern equipped as headgear.
+If a zombie pigman wearing a pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance at Looting III.
+In Pocket Edition, zombie pigmen have none of the other drops, and instead have these drops.
+Zombie pigmen will drop 0 to 1 gold ingots and 0 to 1 feathers.
+Zombie pigmen have a 2.5% chance each of dropping a carrot or a potato.
+Zombie pigmen tend to move relatively slowly. They can drown, but are immune to fire and lava damage. Baby zombie pigmen are faster than zombie pigmen.
+Like zombies, some zombie pigmen will sometimes bang on wooden doors, and in Hard difficulty, even break them.
+Some zombie pigmen have the ability to pick up items. They will even pick up a weapon if they feel it is better than their golden sword, dropping their golden sword with the same chance as if killed with Looting I.
+Zombie pigmen have 20 ( × 10) health and 2 () armor points, which reduces about 8% of damage.
+When aggravated, their speed will significantly increase to faster than the player's walking speed. They will also make an aggressive noise between 0 to 39 ticks after they are attacked. The pigmen will crowd around and try to overwhelm the player by ganging up on them. Each pigman can deal 5 () on Easy, 9 () on Normal, or 13 () on Hard per hit.
+In addition, some zombie pigmen will have the ability to spawn reinforcements when attacked, including when killed in a single hit. Due to a bug, the spawned reinforcement will sometimes be a regular zombie.
+Zombie pigmen are damaged by the status effect Healing and healed by the status effect Harming. They are immune to both the status effects Regeneration and Poison.
+Zombie pigmen are not initially hostile, but all zombie pigmen within a 67×67×21 to 111×111×21 area centered on the attacked pigman will become aggressive and converge on the player if any individual is attacked, unless the pigman attacked is killed in one hit. This applies to any hit registered as coming from the player, including deflecting ghast fireballs. This only applies to the player; mobs that provoke zombie pigmen will only be attacked by that specific individual.
+Zombie pigmen will remain hostile for 20 to 39.95 seconds, although they will continue to pursue an already-targeted player after this time until the player dies or escapes their 40 block pursuit radius. Approaching an already hostile zombie pigman causes it to sound an alarm call, angering other zombie pigman in a 40-block radius. The forgiveness timer does not advance for zombie pigmen in unloaded chunks. Thus, if the player enters a Nether portal and returns, any provoked zombie pigmen in the area will still be aggressive unless another player was nearby to keep the chunks loaded. Dying will not cause zombie pigmen to become neutral towards the player, regardless of whether they killed you.
+In Pocket Edition, zombie pigmen are always hostile, but have a shorter sight distance than other hostile mobs. They are also much slower than the PC edition.
+A baby zombie pigman riding a chicken.
+A zombie pigman in the Overworld in the thunderstorm that spawned him, near one of his porcine siblings.
+Animation showing the spontaneous combustion of a zombie pigman in the Overworld. The flash of its fire is very brief.
+A zombie pigman in lava.
+A zombie pigman riding a minecart.
+A zombie pigman burning in sunlight in the Pocket Edition. Instead of a brief flash, it burns like other undead mobs, although it does not get hurt by the fire.
+Like regular zombies, zombie pigmen have an attack animation, provided they are holding a weapon.
+A zombie pigman with an enchanted sword.
+A zombie pigman seen in-game from the Pocket Edition (before 0.11.0).
+A zombie pigman wearing enchanted diamond armor with an enchanted diamond sword.
+A zombie pigman that recently spawned around a portal in the Overworld.
+Pigman.

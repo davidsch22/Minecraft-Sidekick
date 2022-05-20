@@ -1,0 +1,7 @@
+Dec value: 373:16396.
+Hex value: 175.
+Maximum stack 1.
+A splash potion of harming will instantly damage every mob and player caught in its blast radius, with the exception of skeletons, zombies and zombie pigmen. Those mobs will be healed instead. There are 2 types of splash potions of harming: splash potion of harming and splash potion of harming II.
+Splash potion of harming will cause 1.5 hearts of damage and potion of harming II will cause 3 hearts of damage, but only when caught in the middle of its blast radius, standing further away will decrease the damage you take.
+Splash potions of harming can be created in 2 ways. Either by first adding a nether wart, then adding a spider eye, then adding a fermented spider eye and then adding gunpowder, or by first adding a nether wart, then adding a glistering melon, then adding a fermented spider eye and then adding gunpowder.
+Glowstone can be added to a splash potion of harming to create a splash potion of harming II. Redstone can only be added to a splash potion of harming II and will change it back to a splash potion of harming.

@@ -1,0 +1,53 @@
+The day/night cycle is a 20 minute long lapse between two main light settings.
+The approximation of real time to Minecraft time 1 tick of gameplay = 3.6 Minecraft seconds.
+The approximation of real time to Minecraft time 1 second of gameplay = 1 Minecraft minute and 12 Minecraft seconds.
+The approximation of real time to Minecraft time 1 minute of gameplay = 1 Minecraft hour and 12 Minecraft minutes.
+The approximation of real time to Minecraft time 1 hour of gameplay = 3 Minecraft days.
+The approximation of real time to Minecraft time 1 day of gameplay = 2.4 Minecraft months, = 72 Minecraft days.
+The approximation of real time to Minecraft time 1 week of gameplay ≈ 1.5 Minecraft years, ≈ 17 Minecraft months, = 72 Minecraft weeks, = 504 Minecraft days.
+The approximation of real time to Minecraft time 1 month of gameplay ≈ 6 Minecraft years, = 72 Minecraft months, ≈ 308.5 Minecraft weeks, = 2,160 Minecraft days.
+The approximation of real time to Minecraft time 1 year of gameplay = 72 Minecraft years, ≈ 876.5 Minecraft months, ≈ 3,757 Minecraft weeks, ≈ 26,297.5 Minecraft days.
+Daytime is the longest section of the cycle, lasting 10 minutes. When a player first spawns on singleplayer in Infdev, Alpha, Beta and the Full Release, the cycle will always start right at the beginning of daytime. Vanilla multiplayer servers also start at the beginning of daytime, but the cycle ignores new players joining, so the cycle could be at any point when any particular player first spawns into a server.
+ Daytime features the Sun and a light blue sky. This color depends on the biome you are currently in. Deserts and Forests have a turquoise sky, while Tundra and Taiga have a more blue sky. If placed in the Overworld using external editors or superflat codes, the End's biome has a black sky all day. The Nether's biome, however, has a normal sky when edited into the Overworld.
+ During daytime, all blocks that are in direct vertical view of the sky receive daylight, the strongest light possible, which is light level 15.
+ Daylight provides ample light for the growth of all trees and crops.
+ Zombies and Skeletons in direct view of the sky (and not in water or wearing helmets) during daytime will be set on fire. Additionally, Spiders in direct view of the sky that are already aggressive will become neutral unless they are currently chasing the player, and Endermen in direct view of the sky will teleport randomly when near the player and become neutral if aggressive.
+ Daylight sensors have the highest output level.
+Lasts 1 ⁄2 minutes. A period between daytime and nighttime, when the Sun sets on the West horizon, and the Moon rises on the East horizon.
+ The light level of all blocks that are in direct vertical view of the sky and are not lit by other sources decreases by 1 every 10 seconds.
+ The sky near the setting Sun will have a red glow when the Sun sets.
+ Actual time of Sunset will not change if the texture for the Sun is changed. The day/night cycle will be the same length with the same effects even if the Sun is visibly larger or smaller.
+ The Sun will also get visibly larger when it sets.
+ Between dusk and dawn you may sleep in a bed. In single-player mode, doing so will advance the day-night cycle to dawn. This will also occur in multiplayer if every player online is in a bed simultaneously. Time doesn't pass with regards to other aspects of the world, though. Crops won't grow, and items in furnaces won't cook, for example, although active weather effects usually stop.
+ The exact first time hostile mobs can spawn in exposed areas is 13187 (equivalent to 19:11:13 in real time) on clear evenings, and 12969 (18:58:08) on rainy evenings.
+Lasts 7 minutes. During nighttime the world is covered in darkness with a light level of 4 and hostile mobs will spawn on the surface. The exact duration for which hostile mobs are able to spawn in exposed areas is 9625 ticks.
+ Nighttime features the Moon and a dark blue sky with white stars.
+ The stars at night appear to move with the Moon, and can be seen in the Void at dawn and dusk.
+ During the night crops will still grow (unless the player sleeps through night).
+ Inverted daylight sensors have the highest output level.
+Lasts 1 ⁄2 minutes. A period between nighttime and daytime, when Moon sets on the West horizon and the Sun rises on the East horizon.
+ All blocks that are in direct vertical view of the sky get 1 shade of lighting brighter every 10 seconds.
+ The sky near the rising Sun will have a red glow when the Sun rises.
+ The Sun will slowly shrink to its 8x8 pixel size while rising.
+ Skeletons and Zombies will begin to burn.
+ Spiders will become neutral.
+ The exact last time hostile mobs can spawn in exposed areas is 22812 (04:48:43) on clear mornings and 23031 (05:01:08) on rainy mornings .
+Clocks allow players to determine Minecraft time. They are useful underground where the current day/night cycle is not visible. They help the player avoid mistakenly surfacing at night and falling prey to night-spawned surface mobs. Clocks will spin uselessly in the Nether and the End as there is no day-night cycle in those dimensions.
+If commands are enabled on the map, then it is possible to set the current time with the following command.
+Each day that progresses adds 24000 ticks to the time counter. While each day looks the same, the Moon will go through one of its 8 different phases each night. These different phases might be interesting for screen shot purposes of for Minecraft astronomy and they can be accessed consecutively by the use of a /time set night followed by a.
+for each new night through the lunar cycle. Alternatively, one can use the following table if a specific night is required.
+There is a command to disable the day-night cycle.
+Where true means the Day-night cycle will occur, while false means it will not.
+Minecraft time is exactly 72 times faster than normal time. This can be easily calculated as the proportion ⁄20 = 72, as there are 1440 minutes in a real day (60 × 24) and 20 minutes in a full Minecraft day.
+The Sun and Moon rotate around the player, not the center of the map.
+In the Minecraft sky, the Sun and Moon always appear in the same position relative to the stars.
+Day and night do not proceed when a single player game is paused. This also applies when switching to a different window, unless a GUI window (such as the inventory) is open. In multiplayer, time proceeds normally as long as the server is on.
+If the player flies or climbs high enough, the Sun and Moon appear at the same time, apparently because the chunks in the way have unloaded. This has been redefined from a bug to a feature. Even a height of 90 or so (say, the top of an Extreme Hills mountain) will keep both visible well after one of them "should" have set at ground level.
+If Zombies or Skeletons are in water, in the shadows (possibly caused by trees), or wearing a helmet; they can survive through the daytime.
+The day-night cycle continues while in the Nether or the End, but the world will not change until the chunks load again.
+Use of a bed or portal can leave nighttime monsters "stranded" in daylight. That is, monsters that were present when you "left" at night, will not despawn merely because it is day when you arrive. (Of course, undead may burn.) The reverse transition (portals and commands only) is slightly less dangerous, as you will have a few moments before the nighttime monsters spawn.
+There cannot be eclipses due to the fact the sun and moon are always on the opposite side of the sky to each other.
+If Spiders emerge from a dark cave during daytime, they will still be hostile, but only for a few seconds.
+Morning twilight begins after 22009 ticks. This is the equivalent of 4:00:32 in real time.
+Skeletons and Zombies can start to burn from 23459 ticks, though they will not necessarily begin to do so immediately. This is the equivalent of 5:27:32 in real time.
+Background game music is triggered at specific times of the day-night cycle (currently unknown).

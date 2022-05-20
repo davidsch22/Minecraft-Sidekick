@@ -1,0 +1,8 @@
+Minecarts with Chests (also called Chest Minecarts or Storage Minecarts) are minecarts with chests inside.
+Minecarts with chests can be retrieved by attacking them.
+Minecarts with chests naturally generate in abandoned mine shafts.
+Minecarts with chests can be placed by using its item on a rail.
+Storage minecart's contents can be accessed by pressing Use Item button on them. The interaction makes no sounds and the chest does not show the opening or closing animation, unlike regular chests.
+The boost that minecarts with chests gain from powered rails is dependent on their load. For example, from a 1 powered rail starter track, an empty minecart with chest will go 64 blocks, but a full minecart with chest will go only 16 blocks (opposed to 8 blocks for an empty normal minecart and 80 blocks for an occupied normal minecart).
+Another physical property of storage minecarts is their ability to be stacked. Whereas only 3 chests can fit in an area 3 blocks tall, up to 4 storage minecarts can fit in the same area.
+A compact storage using storage minecarts (left) compared to chest storage in the same volume.

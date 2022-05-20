@@ -1,0 +1,142 @@
+ Making potions is a great way to boost yourself and can be very useful when trying to overcome more difficult encounters, like the End, the Nether, or even a simple dungeon. There are 2 kinds of potions, normal and splash potions.
+Normal potions are drunk like you would eat food. Splash potions are thrown on the ground using the right mouse button and are thrown towards you aim, though their range isn’t that far. Each potion either has a positive effect or a negative effect. There are also potions with no effect, but they’re stages before either a positive or negative effect potion is made.
+To create a potion you will need to add up to 3 ingredients, all of which are explained below. How to create or gather these items is explained in the individual articles for those items.
+Before you can start brewing you’ll need a few pieces of equipment. Brewing stand: A brewing stand holds up to 3 bottles and is used to add ingredients to those bottles. Each ingredient takes 20 seconds to be added. Bottles you’ve put in the stand will stay there untill you take them out again, they won’t fall on the ground if you close the menu. The potions you put in there don’t have to be the same, so you can change up to 3 different potions with just 1 ingredient.
+ Cauldron: A cauldron can be filled using a bucket. A full cauldron will fill up to 3 bottles, which means it’s pretty much completely useless if you’re looking to brew a lot of potions. A much easier way is by simply placing a water block in a hole and using your bottles on that block, it’ll never run out.
+ Glass bottles: These will be filled with water to start every potion.
+All ingredients can be added to a water bottle, but only 1 of them will give you an effective potion immediately and only 1 ingredient will lead to potions with a positive effect. Nether wart: This ingredient is the only ingredient that leads to potions with a positive effect.
+Adding this to a water bottle will create a awkward potion, which has no effect yet.
+ Fermented spider eye: Using this ingredient will immediately give you a potion of weakness.
+Fermented spider eyes are also used as secondary and tertiary ingredients to add a negative effect to a potion.
+You can also add all other types of ingredients first, but they will create thick or mundane potions, which can only be turned into a potion of weakness by adding a fermented spider eye, which means you’re just wasting an extra ingredient.
+These ingredients are added after you’ve added the first ingredient (usually nether warts). Adding these ingredients will give you a useable potion, though it could be brewed further to make stronger version of that potion. Blaze powder: This’ll turn your awkward potion into a potion of strength.
+ Fermented spider eye: This will create a potion of weakness, which is a bit pointless as you could’ve simply added the fermented spider eye first.
+ Ghast tear: Ghast tears will turn awkward potions into potions of regeneration.
+ Glistering melon: Awkward potions will be turned into potions of healing when you add glisterin melons.
+ Magma cream: Adding magma cream will turn the awkward potions into potions of fire resistance.
+ Spider eye: Spider eyes will turn awkward potions into potions of poison.
+ Sugar: An awkward potion will turn into a potion of swiftness when you add sugar.
+These ingredients alter your existing potions. Fermented spider eye: Adding a fermented spider eye to existing potions will change the potion’s effect. It will usually change to a potion with the opposite effect. A potion of swiftness, for example, will turn into a potion of slowness.
+ Glowstone dust: Adding glowstone dust will increase the strength of most potions. For example, a potion of strength will turn into a potion of strength II, which allows you to deal even more damage.
+ Gunpowder: Adding gunpowder will turn the potion into a splash potion. Splash potions have the same effect, but their strength and/or duration has been reduced.
+ Redstone dust: Redstone dust will increase the duration of most potions.
+Note that you can only add either redstone or glowstone, not both. Adding 1 after the other will apply the effect of the ingredient added last. Also note that not all potions can be enhanced by adding redstone or glowstone. Instant potions, for example, cannot be enhanced by adding redstone.
+The recipes below only mention the ingredients, I’ve left out the water bottle (and mundane, etc potions) as they’re standard in every recipe. Also note that I’ve left out many potion of weakness recipes, as those recipes are pointless. Only the fastest and cheapest recipe has been added.
+Fire resistance (3:00) = nether wart + magmacream.
+Fire resistance (8:00) = nether wart + magmacream + redstone dust.
+Healing (3 hearts) = nether wart + glisterin melon.
+Healing II (6 hearts) = nether wart + glisterin melon + glowstone dust.
+Regeneration potion (0:45) = nether wart + ghast tear.
+Regeneration potion II (0:22) = nether wart + ghast tear + glowtone dust.
+Regeneration potion (2:00) = nether wart + ghast tear + redstone dust.
+Strength potion (3:00) = nether wart + blaze powder.
+Strength potion II (1:30) = nether wart + blaze powder + glowstonestone dust.
+Strength potion (8:00) = nether wart + blaze powder + redstone dust.
+Swiftness potion (3:00) = nether wart + sugar.
+Swiftness potion II (1:30) = nether wart + sugar + glowstone dust.
+Swiftness potion (8:00) = nether wart + sugar + redstone dust.
+Harming (3 hearts) = nether wart + glistering melon + fermented spider eye.
+Harming (3 hearts) = nether wart + spider eye + fermented spider eye.
+Harming II (6 hearts) = nether wart + glistering melon + fermented spider eye + glowstone dust.
+Harming II (6 hearts) = nether wart + spider eye + fermented spider eye + glowstone dust.
+Poison (0:45) = nether wart + spider eye.
+Poison II (0:22) = nether wart + spider eye + glowstone dust.
+Poison (2:00) = nether wart + spider eye + redstone dust.
+Slowness (1:30) = nether wart + sugar + fermented spider eye.
+Slowness (1:30) = nether wart + magma cream + fermented spider eye.
+Slowness (4:00) = nether wart + sugar + fermented spider eye + redstone dust.
+Slowness (4:00) = nether wart + magma cream + fermented spider eye + redstone dust.
+Weakness (1:30) = fermented spider eye.
+Weakness (4:00) = fermented spider eye + redstone dust.
+Fire resistance (2:15) = nether wart + magmacream + gunpowder.
+Fire resistance (6:00) = nether wart + magmacream + redstone dust + gunpowder.
+Healing = nether wart + glisterin melon + gunpowder.
+Healing II = nether wart + glisterin melon + glowstone dust + gunpowder.
+Regeneration potion (0:33) = nether wart + ghast tear + gunpowder.
+Regeneration potion II (0:16) = nether wart + ghast tear + glowtone dust + gunpowder.
+Regeneration potion (1:30) = nether wart + ghast tear + redstone dust + gunpowder.
+Strength potion (2:15) = nether wart + blaze powder + gunpowder.
+Strength potion II (1:07) = nether wart + blaze powder + glowstonestone dust + gunpowder.
+Strength potion (6:00) = nether wart + blaze powder + redstone dust + gunpowder.
+Swiftness potion (2:15) = nether wart + sugar + gunpowder.
+Swiftness potion II (1:07) = nether wart + sugar + glowstone dust + gunpowder.
+Swiftness potion (6:00) = nether wart + sugar + redstone dust + gunpowder.
+Harming = nether wart + glistering melon + fermented spider eye + gunpowder.
+Harming = nether wart + spider eye + fermented spider eye + gunpowder.
+Harming II = nether wart + glistering melon + fermented spider eye + glowstone dust + gunpowder.
+Harming II = nether wart + spider eye + fermented spider eye + glowstone dust + gunpowder.
+Poison (0:33) = nether wart + spider eye + gunpowder.
+Poison II (0:16) = nether wart + spider eye + glowstone dust + gunpowder.
+Poison (1:30) = nether wart + spider eye + redstone dust + gunpowder.
+Slowness (1:07) = nether wart + sugar + fermented spider eye + gunpowder.
+Slowness (1:07) = nether wart + magma cream + fermented spider eye + gunpowder.
+Slowness (1:30) = nether wart + sugar + fermented spider eye + redstone dust + gunpowder.
+Slowness (1:30) = nether wart + magma cream + fermented spider eye + redstone dust + gunpowder.
+Weakness (1:07) = fermented spider eye + gunpowder.
+Weakness (3:00) = fermented spider eye + redstone dust + gunpowder.
+Brewing (or Alchemy) is the process of creating potions and splash potions by adding various ingredients to water bottles in a brewing stand.
+By placing bottles in the lower three slots of the brewing interface and an ingredient in the upper slot, you can distill the ingredient into the bottles and brew potions which may be consumed to grant an effect to the player.
+Every potion starts with a water bottle, made by filling a glass bottle at a water source or filled cauldron. The next step is to add a primary ingredient to create a base potion, which is usually Nether Wart, which creates an awkward potion and has no effects. By brewing a second ingredient into a base potion in the same manner, you can create a potion with a working effect. A third ingredient may be added to make the effect more intense or last longer, or turn the effect harmful. Finally, gunpowder can be added to a potion at any stage to convert it to a splash potion, which can be thrown (or fired using a dispenser) to disperse its effect in a radius. Each brewing step takes 20 seconds.
+Brewing can create very useful and lifesaving items. A good number of them are useful in combat by aiding the player or weakening enemies while others can save the player's life if used quickly, like Fire Resistance or Healing. Gathering the Blaze Rods and Nether Wart necessary for brewing can prove challenging, but once they are set up, most potion ingredients are fairly plentiful and brewing will be a rewarding task.
+Start by gathering Nether Wart. As seen in the chart above, Awkward Potions can be brewed into every possible potion, while all other base potions can only be used to make a Potion of Weakness. Thus you should always start with an Awkward Potion unless you intend to make a Potion of Weakness, in which case it's more efficient to brew Fermented Spider Eye into a water bottle right off the bat and save yourself some Nether Wart. Make sure to create a Nether Wart farm with soul sand before using it all up, it will save you many trips to the Nether.
+As a rule of thumb, there are four modifier ingredients: Redstone Dust makes it last longer, Glowstone Dust makes it stronger (but shorter-lasting), Fermented Spider Eye reverses or "corrupts" the effect, and gunpowder converts it to a splash potion.
+Brewing stands have three slots for three bottles and can brew three potions at once. A single ingredient is enough to brew into all three bottles, so an efficient potion-maker should always brew in batches of three. For even more efficiency, keep in mind this works even if the potions are of different types; you can brew an ingredient into three different types of potions, and each will result just as if you had brewed them individually.
+Always use a water source for refilling your bottles, as the cauldron only has 3 uses while a water source block is infinite. You won't need to always refill the cauldron using buckets. Using a water source can save you 7 iron ingots (to make the cauldron) and even more iron if you decided to store water in buckets.
+Base ingredients are the starting point of all potions. Nether Wart is the primary ingredient added to water bottles at this stage, as it is required to make most of the potions. All other base ingredients will only allow the creation of variations of "Potion of Weakness".
+Secondary ingredients imbue an Awkward Potion with a particular effect but do not alter potion duration or intensity. When added directly to a water bottle, any of these ingredients will produce a Mundane Potion (with the exception of fermented spider eye, which results in a potion of weakness and the golden carrot, which can't be brewed into a water bottle to make a potion).
+Modifiers change the potion's properties. The "longer duration" and "more potent" versions of a potion can be forever interchanged.
+Corrupting Effect: Fermented Spider Eyes will change a potion's base effect, often reversing it or producing a negative potion. A "corrupted" potion usually does the opposite of the original potion.
+ Potions of Invisibility are considered a "corrupted" version of the Potions of Night Vision. Instead of seeing at maximum brightness, you turn invisible.
+All primary potions are created by brewing a single ingredient with a water bottle. Mundane Potions and Potions of Weakness (along with their variants) can be combined with gunpowder to create their throwable (splash potion) counterparts.
+Secondary potions are created by brewing an ingredient with a primary potion and can be combined with gunpowder to create their throwable splash potion counterparts.
+Tertiary potions are created by brewing an ingredient with a secondary potion or another tertiary potion and can be combined with gunpowder to create their throwable splash potion counterparts.
+There are two general methods to create reverted potions, one of which involve the addition of fermented spider eyes. Reversion, in general, references changing a longer, upgraded potion into a its original weaker potion (for example, changing from a potion of poison (extended) into a potion of harming (reverted) by adding fermented spider eye).
+The first method involves adding glowstone (typically) to an already upgraded tertiary potion (seen in Section 5.3.1 or 5.3.2 above). Since these tertiary potions have already been modified with redstone (typically), they can change to their original (revert) unmodified states depending on which modifier was added previously. Not all potions will revert (or react, for that matter) when glowstone powder or redstone dust is added to an upgraded tertiary potion (for example, adding redstone to an already redstone-extended potion will not yield a new potion).
+The second method involves the addition of fermented spider eyes, followed by glowstone (usually). Method two works by adding fermented spider eye to an extended positive potion (i.e. an extended tertiary potion). In almost all cases, this will corrupt the potion (corruption is described in Section 4.3 above) and produce a negative potion of equal strength (in this case, extended). Then, glowstone (depending on the recipe) is added to the extended negative potion. Since these negative tertiary potions (regardless of origin) have already been modified with redstone, the addition of glowstone will revert the potion to a potion of lesser duration.
+A good example of this process at work is the reversion of the potion of weakness. A potion of weakness can be made two ways. The first method is by adding fermented spider eye to a mundane potion (water bottle + ghast tear/glistering melon/blaze powder/magma cream/sugar/spider eye), then adding redstone to produce potion of weakness (extended). The second method is by adding (again) fermented spider eye to either a potion of strength or a potion of regeneration. Potions of strength and regen, in their base or extended forms, will produce potions of weakness with equal magnitude (for the sake of this example, fermented spider eye is added to potion of strength (extended) to produce potion of weakness (extended)).
+Now, there should be two Potions of Weakness (4:00). Glowstone dust is added to the Potion of Weakness (Ext) which reverts the potion into a normal duration (1:30) Potion of Weakness. The act of reducing the duration from 4:00 to 1:30 is reversion. In the inventory, reverted potions will look identical to their base potion, much like mundane and mundane (extended). Their usage is also identical to their base potions, with the exception of turning into reverted potions rather than base potions.
+The following are the most efficient recipes to brew each potion. If two ingredients may be brewed in any order relative to each other, they are separated by a double arrow (↔).
+Fermented Spider EyeFermented Spider Eye ↔ RedstoneNether Wart → Blaze PowderNether Wart → Blaze Powder → RedstoneNether Wart → Blaze Powder → Glowstone DustNether Wart → Ghast TearNether Wart → Ghast Tear → RedstoneNether Wart → Ghast Tear → Glowstone DustNether Wart → SugarNether Wart → Sugar → RedstoneNether Wart → Sugar → Glowstone DustNether Wart → Sugar → Fermented Spider EyeNether Wart → Magma Cream → Fermented Spider EyeNether Wart → Rabbit's Foot → Fermented Spider EyeNether Wart → Sugar → Fermented Spider Eye ↔ RedstoneNether Wart → Magma Cream → Fermented Spider Eye ↔ RedstoneNether Wart → Rabbit's Foot → Fermented Spider Eye ↔ RedstoneNether Wart → Glistering MelonNether Wart → Glistering Melon → Glowstone DustNether Wart → Glistering Melon → Fermented Spider EyeNether Wart → Spider Eye → Fermented Spider EyeNether Wart → Glistering Melon → Fermented Spider Eye ↔ Glowstone DustNether Wart → Spider Eye → Fermented Spider Eye ↔ Glowstone DustNether Wart → Spider EyeNether Wart → Spider Eye → RedstoneNether Wart → Spider Eye → Glowstone DustNether Wart → Magma CreamNether Wart → Magma Cream → RedstoneNether Wart → Golden CarrotNether Wart → Golden Carrot → RedstoneNether Wart → Golden Carrot → Fermented Spider EyeNether Wart → Golden Carrot → Fermented Spider Eye ↔ RedstoneNether Wart → PufferfishNether Wart → Pufferfish → RedstoneNether Wart → Rabbit's FootNether Wart → Rabbit's Foot → Glowstone DustNether Wart → Rabbit's Foot → Redstone.
+Based on information found in minecraft.jar/lang/en_US.lang, the current potion types are listed below Potion of Swiftness.
+lang, the current potion types are listed below Potion of Slowness.
+lang, the current potion types are listed below Potion of Strength.
+lang, the current potion types are listed below Potion of Weakness.
+lang, the current potion types are listed below Potion of Healing.
+lang, the current potion types are listed below Potion of Harming.
+lang, the current potion types are listed below Potion of Regeneration.
+lang, the current potion types are listed below Potion of Fire Resistance.
+lang, the current potion types are listed below Potion of Water Breathing.
+lang, the current potion types are listed below Potion of Poison.
+lang, the current potion types are listed below Potion of Night Vision.
+lang, the current potion types are listed below Potion of Invisibility.
+lang, the current potion types are listed below Potion of Leaping.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Haste.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Dullness.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Nausea.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Blindness.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Hunger.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Decay.
+Due to changes in the brewing system, the following potions are currently not accessible Potion of Resistance.
+Some potions also do not have a real name in minecraft (i.e. Potion of potion.healthBoost.postFix) and are currently not accessible Potion of potion.healthBoost.postFix.
+postFix) and are currently not accessible Potion of potion.absorption.postFix.
+postFix) and are currently not accessible Potion of potion.saturation.postFix.
+As long as at least one of the three bottom spaces is filled, the brewing will continue, and additional bottles of water or potion can be added. However, if the ingredient is removed, or the bottom 3 slots are emptied at any time during the process, the process will stop and nothing will have been brewed.
+The three potions do not necessarily have to be the same.
+Upgrading effect of potion that has no time parameter (i.e. Instant Health, Harming) with glowstone dust has no downsides.
+Upgrading one of the above's level II effect using glowstone will seemingly revert it to the original (metadata-wise, this is not the case).
+Upgrading a potion that has no level II effect (i.e. Fire Resistance, Slowness, Weakness) with redstone has no downsides.
+Upgrading one of the above's extended potion using redstone will seemingly revert it to the original (metadata-wise, this is not the case).
+Although Jeb said that in the 1.9 pre-release 3 there were 161 possible different potion combinations with 2,653 in the future, in the actual third pre-release only 22 different potions could be made without the use of external programs. Of those, 19 potions had one of 8 different effects.
+The Mundane Potion made from redstone has a different metadata (64) than the mundane potion made from any other ingredient (8192). Unlike Mundane 64, Mundane 8192 can be made into a Splash Mundane Potion by adding gunpowder that is, like its base potion, without any effect.
+There are many Potions that were left behind from 1.9 pre-releases that fill up different metadatas that otherwise cannot be brewed or obtained without a SMP server command or inventory editor. These potions include but are not limited to: Bungling Potion, Buttering Potion, Debonair Potion, Refined Potion.
+More water can be taken to the Nether in one trip by filling water buckets, carrying a stack of glass bottles, and using a cauldron. This is because stackable glass bottles do not stack once they have been filled with water.
+Undead mobs (zombies, skeletons, zombie pigmen, and Withers) are unaffected by splash potions of poison and regeneration, take damage from instant health splash potions, and gain health from instant damage.
+Mixing Fermented Spider Eye with any base potion (including the ones that were left behind) will either result in a Potion of Weakness, a Potion of Invisibility, or a Potion of Slowness. The Potions of Slowness and Invisibility can only be brewed from the base potions that were left behind.
+By modifying the item NBT using an editor or commands, it is possible to get a potion that cannot be upgraded into a splash potion.
+Simplified view on all potions and different ways to create them.
+A quicker, but less detailed version of how to make certain potions.
+Crafting.
+Enchanting.
+Smelting.
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide.
+Minecraft Potions - A Visual Guide.

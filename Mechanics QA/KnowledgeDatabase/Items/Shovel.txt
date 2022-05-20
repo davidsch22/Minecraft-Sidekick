@@ -1,0 +1,19 @@
+Shovels are tools used to ease the process of collecting dirt and other blocks.
+Zombies may rarely spawn with an iron shovel. They have a rare chance of dropping one if they spawned with it. It will usually be badly damaged, and may be enchanted.
+Tool smith villagers sell enchanted iron shovels for 5 to 7 emeralds as part of their tier 1 trades. The enchantments will be the same as might be obtained from an enchantment table at levels 5–19.
+A shovel is used to break some materials faster. When breaking a block, it takes 1 damage. Shovels have different amounts of uses based on the type Golden: 33.
+Shovels have different amounts of uses based on the type Wooden: 60.
+Shovels have different amounts of uses based on the type Stone: 132.
+Shovels have different amounts of uses based on the type Iron: 251.
+Shovels have different amounts of uses based on the type Diamond: 1562.
+In the Pocket Edition, a shovel can also be used on a grass block to produce a grass path.
+If you hit a mob while holding a shovel, it increases your attack damage. Shovels take 2 damage when used as a weapon. Shovels deal different damage based on the type Wooden and Golden: 2 ().
+Shovels deal different damage based on the type Stone: 3 ().
+Shovels deal different damage based on the type Iron: 4 ().
+Shovels deal different damage based on the type Diamond: 5 ().
+The following table summarizes the speed at which different quality shovels perform on different block types. Values with a red background indicate that no resource will be dropped when the block is destroyed without a shovel.
+A shovel can receive the following enchantments Efficiency.
+A shovel can receive the following enchantments Silk Touch.
+A shovel can receive the following enchantments Fortune.
+A shovel can receive the following enchantments Unbreaking.
+In pocket edition, wooden shovels will be used as "paddles" when crafting the boat.

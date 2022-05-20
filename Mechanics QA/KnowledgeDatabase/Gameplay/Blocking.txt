@@ -1,0 +1,8 @@
+Blocking is a gameplay mechanic which allows players to block attacks, including arrows and explosions, by holding down the right mouse button while wielding any type of sword. Blocked attacks deal only half the normal damage they normally would. Blocking does not decrease the sword's durability.
+While blocking, the player moves at a speed slower than if they were sneaking.
+Taking damage while blocking does not decrease the durability of your sword.
+Blocking allows for the slowest movements possible. This can occur when the player blocks, sneaks, and moves backward while under the effect of the slowness potion while going through cobwebs placed above still water on top of Soul Sand that is placed on top of ice. This causes the player to move at about 1/32 blocks a second, or 1/2 pixel a second (1 Pixel every 12-13s w/ new calculations) on a default 16x16 texture pack. Blocking while sneaking and with the additional events (but without slowness potion) allows the player go at roughly 0.023854961832 blocks per second (1 block every 41.92 seconds).
+If the player blocks while being shot by a skeleton, the arrow the skeleton fires may sometimes bounce off of the player, but it will still deal damage.
+A player blocking an incoming creeper explosion with an iron sword.
+Sprinting.
+Critical hit.

@@ -1,0 +1,38 @@
+ Iron Bars were added in the 1.8 "Adventure" update. They are a type of block that seems to occur naturally in Strongholds and in NPC villages. They serve a similar purpose to fences.
+The iron bars can be placed in much the same way as fences, Glass Panes, Cobblestone Wall and Mossy Cobblestone Wall.
+Unlike fences and Cobblestone walls, a wall constructed with just one of these bars without anymore place above can be jumped over since it only registers as 1 block in height.
+On July 11, 2011, Notch revealed two new screenshots of a stronghold (in two different brightness settings) where the bars can be clearly seen alongside other common stronghold blocks. The lighting differences have been explained a bit (though not necessarily completely correct) by a user on the forums.
+ A 2x2 area made of the Iron bars can make a hole big enough for the player to fit through, but not rain, water, etc. this can be used as an easy entrance for an underwater house, and even an exit if pistons are used. Glass Panes work in the same way.
+ If a sign or a painting is placed on the iron bars, it appears to float in the air.
+ Iron Bars have the same placement rules as Glass Panes. When Iron Bars are placed singlely it forms a cross shape, similar to what glass panes do.
+ Since Iron Bars can not be destroyed by a Ghast's fireball, and since they block a Ghast's line of sight, Iron Bars can be used as "Ghast-proof" walls for small enclosed roads through the Nether.
+ Iron Bars also prevent fire from spreading, i.e. surrounding a fire with iron bars will prevent wooden items from being lit afire.
+ Despite apparently being thin enough to do so, Iron Bars do NOT let a ghast's explosion touch the block beneath them as long as the block is protected from other angles of the explosion affecting it. This, in theory, means you should be able to use Iron Bars and Sticky Pistons to make openable/closable shutters.
+ The iron bars do not connect to sticky pistons like they do with walls.
+This makes it difficult to make castle gates that are functional and look right.
+  When there isn't a block in one of the sides of the iron bars, it will be pushed into the opposite direction. This also happens with Glass Panes.
+Stone Brick.
+Mossy Stone Brick.
+Cracked Stone Brick.
+Stronghold.
+Iron bars are blocks that serve a similar purpose to fences but are 1 block high instead of 1.5 blocks high.
+Iron bars can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Iron bars occur naturally in strongholds and in Villages.
+Iron bars can be used to create arrow slits when placed between a door and a solid block. This creates a small gap between the door and the iron bars which mobs can see through (and will attempt to attack the player through), and which arrows can be shot out of.
+Another thing to note about iron bars is that torches cannot be placed on the top of them while blocks can.
+Iron bars can be placed in much the same way as fences or glass panes. When placed without anything on its sides, they will appear in the shape of a  from the top, but when something is placed next to it, it can also become flat,  shaped, or  shaped, depending on the blocks surrounding it.
+On July 11, 2011, Notch revealed two new screenshots of a stronghold (in two different brightness settings) where the bars can be clearly seen alongside other common stronghold blocks. The lighting differences have been explained a bit (though not necessarily completely correctly) by a user on the forums.
+A 2x2 area made of the iron bars can make a square shaped hole big enough for the player and most mobs to fit through, but not rain, water, etc. that can be used as an easy entrance for an underwater house, and even an exit if pistons are used. Glass panes work in the same way.
+If a sign or a painting is placed on the iron bars, it appears to float in the air.
+Iron bars also prevent fire from spreading, i.e. surrounding a fire with iron bars will prevent wooden items from being lit aflame.
+Despite apparently being thin enough to do so, iron bars do not let a ghast's explosion touch the block beneath them as long as the block is protected from other angles of the explosion affecting it. This, in theory, means you should be able to use iron bars and sticky pistons to make openable/closable shutters.
+If an iron bar is connected to a block and a rail is placed on the block, the top texture of the iron bar disappears.
+While curing a Zombie Villager, iron bars placed nearby will speed up the healing process. The same happens with beds, and both these things occur in the stereotypical prison cell, encouraging players to imprison them.
+If placed on top of a single cactus, only the corners can damage.
+The player cannot shoot arrows through iron bars.
+In the code, iron bars are known as fenceIron.
+The first image of the bars that Jeb posted, where the iron bars can be seen to the right of the center.
+Image posted by Notch, here we can see iron bars to the left and right of the center.
+Naturally occurring iron bars at a Blacksmith's shop in a village.
+A jail cell made out of iron bars and cobblestone.
+Water will not flow through the holes in the bars, but the player can fit inside them.

@@ -1,0 +1,22 @@
+Dec value: 25.
+Hex value: 19.
+Minimum tool requirement to break: Diamond pickaxe.
+Blast resistance: 4.
+Maximum stack 64.
+Transparency: No.
+Note blocks play a single note when they’re clicked or activated by red power or other switches. This note can be changed by the player. Right clicking it will change the pitch. You can change it up to 2 octaves (24 clicks) after which it’ll reset itself.
+Note blocks can play 5 different instruments which depend on the block the note block is placed on. Bass guitar: Require the note block to be placed on any wooden block, stairs, note blocks and jukeboxes.
+Only wooden slabs don’t work, they play as bass drum notes.
+ Snare drum: Requires the note block to be placed on gravel, sand or soul sand.
+ Bass Drum: Requires the note block to be placed on any stone block, including brick, obsidian, bedrock, enchantment tables, netherrack, nether brick.
+and any stairs, slabs and fences created with stone.
+Wooden slabs also play bass drum sounds.
+ Sticks: Requires the note block to be placed on glass, glass panes and glowstone. Redstone lamps play piano sounds.
+ Piano: Plays when a note block is placed on all other blocks not mentioned above.
+Note blocks require air above it to play a sound. This means it’s impossible to play music underwater without blocking the water flow. The sound can be heard up to 48 blocks away but it’s loudest when up close. When a note block plays a note, a note sign particle will pop out, indicating which note has been plate. This only indicates the pitch, not the instrument. The colours and size will change, depending on the pitch.
+Note blocks can be broken with anything, though axes are the fastest tool. Note that this will reset the note block to its original state. Note blocks are created by placing wooden planks around a piece of redstone dust. The type of planks you use doesn’t matter, you can even use different planks together.
+The most common use for note blocks are doorbells and the creation of music players. Door bells are fairly easy to create, often requiring nothing more than a pressure plate or button connected to a door and one or more note blocks. By using redstone repeaters, delays can be added to play notes in a sequence, so you can create a nice tune for whenever players enter your house.
+Another use for note blocks is to create an alarm system. Linking doors and other mechanisms to one or several note blocks in a single control room allow you to follow anybody in your house. This is a great way to see how close somebody is to getting to your diamond stash. This does require some reasonable knowledge of redstone circuits.
+Note blocks can also be used to communicate with each other. It’s easy to link 2 or more note blocks together over a large distance. By assigning a message to each note and/or instrument, you can tell your friends to come over by just the click of a mouse.
+War drums can be created and used when you declare war or start a battle, similar to battle sequences in movies. Although no (battle) horns are available, you can assign different tactics to different instruments or tunes, now everybody in your team can hear where to attack and when to retreat, without the opposing team being able to see what you’d otherwise would type.
+The amount of note blocks that can be connected together are only limited by what you can build. People have created entire playable songs in minecraft using intricate redstone circuits to mimic or recreate know songs.

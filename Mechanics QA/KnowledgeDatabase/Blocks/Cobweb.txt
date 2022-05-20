@@ -1,0 +1,45 @@
+Cobwebs are a placeable Item that were added in Beta 1.5. They only appear naturally in Abandoned Mine Shafts or stronghold libraries. Cobwebs were previously found in the terrain.png file, but had no Block ID assigned to it. They were officially added in Beta 1.8, and were generated in Abandoned Mineshafts. Cobwebs are also flammable, but they can't be ignited by burning Blocks nearby. It currently has no use, for using it with a Crafting Table has no effect, nor is it craftable from String, an Item that Cobwebs drop. Cobwebs can be broken with the player's hand, but this does take a very long time, especially if the player is stuck in one. Cobwebs can be broken much faster with a Sword or Shears, but this deals double durability points to the Sword. If one of these two Tools is used, then the Cobweb will drop one String. In order to obtain the Block itself, Shears enchanted with the Silk Touch enchantment must be used.
+Video coming soon!
+Moving into a Cobweb limits the player's movement abilities. When they are inside the Cobweb, players will move at a speed equal to about 15% of the normal walking speed. Additionally, jumping will be akin to jumping in a two block high space. Dropping an item into it will make the item stick and gradually sink through it. Unlike Water, however, falling into a Cobweb will not prevent fall damage, although it will be delayed until one makes contact with the ground. This property of the block makes it ideal for players wishing to make Redstone "timers." By having a Dispenser put a Item out, the Item will gradually fall onto a Pressure Plate and activate the next circuit or some other device. More cobwebs can be used to make the time longer. This is also useful for traps, the most common of which forces the entrapped above a lava pit, falling slowly to their death, while preventing them from dumping Water onto the lava to put it out.
+In the tutorial world TU12 for both Xbox 360 and PS3 editions of Minecraft, there are Cobwebs near a regular Spider spawner. Near those are a Chest, which contains a Music Disc entitled "11", and a Bow enchanted with Power V.
+Jumping from as little as one Block above a Cobweb will induce half of a heart in fall damage.
+When falling into a Cobweb, if a player gets into a Minecart or Boat before hitting the ground, they will not take the fall damage until they exit the cart/boat.
+Cobwebs can be placed on any Block, including transparent Blocks or even other Cobwebs.
+Signs and Paintings can be placed on Cobwebs.
+Ghasts will not see players in or behind Cobwebs.
+Destroying a cobweb makes "Stone" sounds, oddly.
+Spiders, as expected, will move right through a Cobweb block without being slowed down.
+Whilst traveling through a Cobweb and attacking, it counts as a critical hit, the same as jumping while attacking would, even if the player did not jump into the Cobweb.
+If a Block of Soul Sand is placed under a Cobweb, the player will move 10% slower through both of them, which is slower than the average sneaking speed.
+Cobwebs can be good for special effects and decor, such as smoke from chimneys, and can be used as quicksand.
+A Cobweb outside for decoration.
+Add a photo to this gallery.
+Cobweb is a block which slows down movement.
+Cobwebs can be obtained by mining them using shears or a sword enchanted with Silk Touch. It will drop 1 piece of string if the shears or sword are not enchanted Silk Touch, and will drop nothing when broken using anything else.
+Cobwebs generate naturally in stronghold libraries and in abandoned mine shafts.
+Mobs can spawn inside of cobwebs. They will not catch sun fire if they are caught in a cobweb. They also diffuse sky light.
+Blocks can be placed on cobwebs, including signs and paintings. When moved by a piston, or sticky piston, the cobweb will drop as a string. When placed in water, it is destroyed and drops a single piece of string. This also happens if water touches them.
+Cobwebs can be used in redstone as a delay by using a dispenser or dropper to discharge an item into a tower of cobwebs above a pressure plate or hopper.
+All mobs that move through cobwebs will slow down, with the exceptions of spiders and cave spiders. Mobs falling through cobwebs will take 13 seconds to move down by 1 block. They will partially stop blast damage if a player and the TNT/creeper/etc are in the cobweb. The slowing effect of the cobweb will increase if it is placed on ice.
+Moving into a cobweb limits the Player's movement abilities, as well. When you are "inside" the cobweb, you will move at a speed of about 15% of the normal walking speed. Additionally, jumping will vibrate the player akin to jumping in a 2-block-high space. It also slows the time of a player breaking blocks. Like water, cobwebs will prevent players falling into it from taking fall damage, meaning a fatal fall can be mitigated with cobwebs. While traveling down through a cobweb and attacking, it counts towards critical hits the same as jumping and attacking as the player falls.
+Items thrown on a cobweb are slowed and will fall through it after about 24 seconds. They will not merge with other items of the same type thrown on the ground.
+Cobwebs have different effects on moving entities. A falling block which falls or is shot into a cobweb will slow down and then be destroyed and become a resource after about 4 seconds. The exception is Primed TNT can pass through Cobwebs without slowing down if they are shot through fast enough, eventually exploding and destroying the cobweb. A shot arrow will pass through cobwebs without being slowed down. Ender pearls are "caught" by cobwebs, which makes them ideal for stopping players from teleporting over walls.
+A minecart with no players in it takes about 9 seconds to fall through a cobweb if a rail is placed directly under the cobweb, but if there is air between the cobweb and the rail, the minecart takes about 34 seconds to fall. Every extra cobweb added will give an additional 25 seconds of falling time. Players are unaffected by cobwebs when in a minecart except when the cobwebs are in the way of the cart.
+A cobweb in game.
+Naturally occurring cobwebs in abandoned mine shafts.
+Cobwebs also naturally occur in stronghold libraries.
+Dec value: 30.
+Hex value: 1E.
+Minimum tool requirement to break.
+None Blast resistance: 20.
+Maximum stack 64.
+Transparency: Yes.
+Cobweb can be found in abandoned mineshafts and strongholds, and has the unique ability of slowing down anything that falls or moves through it, without damaging them. Including dropped items. The only exception to this are both spider types, which can move freely through the cobwebs and fired arrows. Fire charges will turn into fire upon impact with cobwebs. Cobwebs can be destroyed with anything, though swords and shears are the fastest tool. Water, lava and pistons will destroy the cobweb as well.
+Destroyed cobwebs will drop 1 piece of string, which cannot be turned back into cobweb. Cobwebs are unavailable in survival mode, even when you use the silk touch enchantment, but they are available in creative mode. Cobwebs slow down mobs, players and dropped items to about 15% of the player’s walking speed and is the same for all mobs and items.
+In creative mode, custom adventure maps or on multiplayer servers, cobweb is usually used as decoration or as part of traps. The most common decorational uses are, obviously, cobwebs, as well as smoke coming from chimneys. Placing a few cobwebs in a smoke-like pattern coming from a chimney looks great, though usually only when viewed from a reasonable distance, like the ground or other houses.
+Though less commonly used, cobwebs can also make great stars, especially when placed high above the ground with a blue or black background, like blue and black wool. The slowing effect of cobwebs makes it a pretty obvious trap.
+However, cobwebs are flammable, even though they cannot be set on fire directly. So it’s hard to incorporate them in any fire trap.
+Cobwebs placed on ice will decrease movement speed even more, falling in such a trap can be very frustrating.
+But because arrows aren’t slowed down by the cobwebs, players who fell in can easily be sniped from a distance.
+Note that most multiplayer servers have the /spawn command enabled, so players can simply teleport out if they get the chance to. Killing them quickly will be key here.
+Activated TNT will also get stuck in cobwebs, and although this serves as a very effective way to kill a desperate player, the TNT will destroy the cobweb and other blocks around it.

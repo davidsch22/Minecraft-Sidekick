@@ -1,0 +1,3 @@
+Blaze rods are items which are dropped by blazes.
+When killed by a player or tamed wolf, a blaze may drop a blaze rod. Blazes which are killed by other causes will not drop any blaze rods.
+When used in a furnace, a blaze rod lasts 120 seconds (12 items).

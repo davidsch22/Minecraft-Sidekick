@@ -1,0 +1,18 @@
+Nether Wart is a plant that can only be placed on Soul Sand. Like all other crops, the growing time is randomized. When harvested at its mature state, it will drop 2 to 4 nether wart. Nether Wart is very useful when it comes to potions, as you need it to brew Potions other than Potions of Weakness from scratch. Nether Wart is only found in Nether Fortresses and in some Nether Staircases on it's sides. This resource can also be used to breed Chickens. You can only break them in survival though.
+Nether Wart is critical for the brewing of the Awkward Potion, which is used in the base of almost all potions.
+As Nether Wart is a type of seed (the others being Melon Seeds, Pumpkin Seeds, and Seeds, Chickens will eat Nether Wart when right clicked with it in your hand. However, the Chickens won't chase you when you hold the Nether Wart.
+The amount of Nether Wart dropped from mature crops can be affected by the Fortune enchantment.
+Their name in the code is "tile.netherStalkSeeds".
+Nether Wart can be planted in the overworld if Soul Sand is brought over as well.
+Nether wart (known as Nether stalk in the coding) is a plant grown in the Nether.
+Nether wart can be mined with any tool, or without a tool.
+Nether wart generates naturally in nether fortresses as a plant, or inside chests there (in stacks of 3 to 7). In Console editions, it is randomly found in soul sand patches around the Nether.
+When planted on soul sand, nether wart will grow through four stages, though the middle two stages have the same appearance. The duration of each stage is random, with no upper or lower limit, but the average duration is about 3 minutes and 30 seconds. The growth rate is not affected by light or any other environmental factors. Bone meal has no effect on the nether wart. Nether wart can only be planted on soul sand. It will grow in any dimension. Nether warts are ready to harvest when they reach their fourth stage. Breaking a fully grown nether wart yields 2 to 4 nether wart, while an immature one yields only a single nether wart.
+The item and block forms of nether wart have the ID name minecraft:nether_wart. Nether warts have a block ID of 115, and an item ID of 372.
+Nether warts use their block data field to determine the state of growth. They also have a block state expected to replace the block data in the near future.
+Nether warts only have three visually different stages. 3 is fully grown.
+Nether wart makes "stone" sounds when destroyed.
+Nether wart's stage changes cannot be detected by a BUD.
+Nether wart found in a nether fortress.
+Another example of nether wart found in a nether fortress.
+The three different sizes of nether wart as viewed from the side.

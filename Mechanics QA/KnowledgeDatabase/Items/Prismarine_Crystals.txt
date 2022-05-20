@@ -1,0 +1,4 @@
+Prismarine Crystals are items obtained by defeating Guardians and Elder Guardians.
+Prismarine crystals are dropped by Guardians or Elder Guardians. 0-1 are dropped each time.
+The drop only happens if the raw fish drop fails. Looting I gives the best chance (27%).
+Prismarine crystals are dropped by sea lanterns when not using a silk touch tool. They drop 2-3 crystals each time, which can be increased to a maximum of 5 using the fortune enchantment.

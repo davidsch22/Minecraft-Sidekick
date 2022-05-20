@@ -1,0 +1,40 @@
+A Witch is a ranged mob, added in the Pretty Scary Update. Witches are hostile and are found mostly in Swamp Biomes wandering around their houses. When a Witch notices the player they begin to viciously attack them with splash potions. Witches also have the ability to regenerate health. It fires splash potions of weakness, slowness, poison, and harming to weaken the player so it makes it easier to attack the player. Because of this, the player's armor is rendered useless regardless of the armor's material and/or enchantments.
+The Witch is the second hostile ranged mob found in the overworld, the first being the skeleton.
+The Witch is a variation of the villager.
+Unlike villagers, Witches despawn if the player is far enough from them.
+The Witch has an animation involving it's nose.
+ On occasion, if the witch is killed, it will sometimes drop a potion, most likely to be an Instant Health potion. However, it will only drop potions if killed when drinking one.
+The witch is the second gender specific mob in Minecraft. The first being the Ender Dragon.
+Since 1.7.2 witches now spawn naturally, though they are rarer than Endermen. Before this update they could only be found in Witches' huts. They also spawn when a villager is struck with lightning.
+[1][2][3].
+Witches are hostile mobs that use splash potions as their ranged weapon. They also use beneficial potions on themselves defensively.
+Witches can spawn anywhere in the Overworld at a light level of 7 or less.
+Every witch hut spawns a witch inside during world generation. Afterwards, witches and only witches will spawn in the 7×9×7 area that is the witch hut. This is the size of the roof and one block over the porch, from one level below the floor of the hut to two blocks above the roof.
+Witch huts generated before 1.8.1 have a spawn zone of only 7×9×5. Witch huts spawned on high ground also have a reduced or eliminated spawn zone height.
+A witch spawns when lightning strikes within 3–4 blocks of a villager and the villager will despawn to give the effect of it turning into a witch.
+When killed, witches may drop glass bottles (⁄8 chance), glowstone dust (⁄8 chance), gunpowder (⁄8 chance), redstone (⁄8 chance), spider eyes (⁄8 chance), sugar (⁄8 chance), and sticks (⁄8 chance). They make 1–3 drops of 0–2 items each, for a maximum of six items total.
+Each level of Looting increases the maximum items dropped by one for each of the 1–3 drops, leading to a maximum of 5 items per drop, and a maximum of 30 items total.
+Witches can also drop potions of healing, fire resistance, swiftness and water breathing as an equipment drop if killed while drinking that potion. They drop 5 experience when killed by a player or tamed wolf.
+Witches use splash potions offensively, and drink ordinary potions defensively. They have a search radius of 16 blocks.
+They will throw a potion of slowness if the player is at least 8 blocks away and does not already have the slowness status effect.
+They will throw a potion of poison if the player's health is at least 8 () and is not already poisoned.
+They have a 25% chance of throwing a potion of weakness if the player is within 3 blocks and does not already have the weakness status effect.
+If none of the above conditions are true, witches default to using a potion of harming.
+On each AI tick when the witch is not already drinking a potion, it may choose to equip and drink a potion. Drinking the potion takes 1.6 seconds. When under water and lacking water breathing, 15% chance of drinking a potion of water breathing.
+ When on fire and lacking fire resistance, 15% chance of drinking a potion of fire resistance.
+ If damaged, 5% chance of drinking a potion of healing.
+ When more than 11 blocks from a target and lacking swiftness, 43.75% chance of drinking a potion of swiftness.
+Witches are 85% resistant to damage from magic, including poison, instant damage, and thorns.
+If a witch hits another witch with a potion, the witch who is hit will become angry and target the other witch, however it is impossible for either witch to kill the other (without help from a player) due to their use of healing potions and their resistance to each other's splash potions.
+Witches do not utilize the equipment in their huts, but they can be used by players.
+The odds of a witch dropping the maximum amount of drops possible (6 items total) without a Looting enchantment are 1 in 81 (1.2%).
+Witches are extremely difficult to kill via suffocation or cacti (though not impossible), due to their frequent use of healing potions.
+When drinking a potion, a witch's nose will point straight forward.
+Baby villagers, when struck by lightning, will turn into adult witches.
+A witch drinking a potion; note its nose lifting up while it drinks it.
+A witch throwing a potion at the player.
+A witch in its witch hut.
+7 witches fighting in a thunderstorm.
+Witches fighting in a witch farm.
+Three witches holding items.
+Witch and villager difference.

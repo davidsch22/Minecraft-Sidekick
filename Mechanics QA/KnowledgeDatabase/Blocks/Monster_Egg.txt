@@ -1,0 +1,7 @@
+Monster eggs (also known as Silverfish Block; called Silverfish Stone, Silverfish Cobblestone, and Silverfish Stone Brick in the Console Edition) are a block that spawns silverfish when broken. Monster eggs have identical looks to either stone, cobblestone, or stone brick.
+Monster eggs take the same amount of time to break with any tool. When the block is broken, a silverfish spawns where it was broken.
+Mining a monster egg with a Silk Touch tool drops the block that the monster egg is disguised as, and does not spawn the silverfish.
+A silverfish will not drop if the block is destroyed by an explosion, or if the ender dragon destroys a monster egg.
+Monster eggs are naturally found in strongholds and rarely in extreme hills biomes, among stone and stone brick blocks.
+Monster eggs are available in the inventory in creative. They can also be made by placing a stone, cobblestone, or stone brick and then using a silverfish spawn egg on it. Attempting to add more silverfish into the block will result in the silverfish spawning normally. When a monster egg is destroyed by a player in Creative mode, a silverfish is not spawned.
+When mined, monster eggs will spawn a silverfish which will instantly attack the player. If the player attacks a silverfish directly with a sword, bow or potion of Harming, or when a silverfish takes poison damage, nearby monster eggs will break, spawning other aggressive silverfish. If the silverfish is killed in one hit, nearby monster eggs will not break, and no silverfish will spawn from them.

@@ -1,0 +1,31 @@
+Flowers are naturally occurring plants that come in a variety of shapes and colors.
+Flowers can be instantly broken with any item (or no item). Flowers will also be broken if water runs over its location, or if a piston extends or pushes a block into its location.
+Flowers naturally generate on dirt and grass blocks. Even in a biome covered with snow, flowers will generate naturally on dirt blocks with grass, despite the adjoining dirt blocks being covered with snow.
+Iron golems drop 0 to 2 poppies upon death.
+When bone meal is applied to a grass block, flowers have a chance of spawning instead of tall grass on the targeted block and adjacent grass blocks up to 7 blocks away (taxicab distance). The spawned flower depends on the biome (see below).
+When bone meal is applied to a double flower, a second double flower will spawn as an item.
+This chart shows the types of flowers that can naturally generate in each biome, and which biomes can spawn flowers when bone meal is used on grass blocks. Flowers marked "generation" only generate as part of the biome from chunk generation.
+In the console edition, the only flowers that can be obtained are the rose and the dandelion.
+In the Pi edition, the only flowers that can be obtained are the dandelion and the cyan flower.
+All flowers can be used as decoration; all can be planted in grass or dirt, and one-block flowers can be planted in a flower pot.
+Sunflowers always face east, so they can be used as a direction guide.
+Dandelions can be used to breed and lead rabbits.
+Non-dandelion flowers use data values to differentiate between flower types. They also have block states which will replace data values in the future.
+minecraft:red_flower.
+minecraft:yellow_flower.
+minecraft:double_plant.
+Due to the nature of the flowers' spawning algorithm, it is possible (but relatively rare) to find naturally-spawned flowers and grass in lava, caverns or abandoned mine shafts. Also, it is possible to find a flower dropped as an item on the ground naturally, because it didn't generate on dirt or grass blocks, thus dropping itself.
+Like other non-solid transparent blocks, flowers can break falling objects, like sand.
+Jeb noted that peonies were the flowers that were used for his wedding.
+Neither roses nor rose bushes apply damage when walked through, despite roses having thorns.
+Two-block tall flowers can hide you from mobs since the flowers are as tall as a player is and mobs cannot see through transparent blocks like plants.
+Avoid using give commands to get two tall flowers, as the wrong number can corrupt your map beyond recovery.
+Flower spawns from bone meal in a flower forest biome depend only on the horizontal position; the world seed has no effect. The flowers spawned with the chunk do depend on the world seed. The flowers spawn along a gradient: poppy, allium, azure bluet, red tulip, orange tulip, white tulip, pink tulip, oxeye daisy.
+Patches of flowers in a plains biome.
+A rose found growing near lava.
+A flower generated in mid-air, with a few flowers on sand close by.
+First image of the peony by Jeb, which depicts the original single-block design never publicly released in game. It can, however, be found in the textures folder as "flower_paeonia.png".
+Flowers in a Flower Forest biome.
+Sunflower naturally generated in Sunflower Plains biome.
+The texture of the unimplemented paeonia flower (flower_paeonia.png).
+A double sunflower naturally generated.

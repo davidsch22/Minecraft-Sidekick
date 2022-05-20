@@ -1,0 +1,8 @@
+Vines are plant blocks that were added in the Adventure Update and can be placed on walls and ceilings. Vines can commonly be found in swamp biomes and jungle biomes hanging on leaves and the sides of trees and the ground. Vines are used primarily as a substitute for ladders, as they can be climbed. Since Beta 1.8.1, they take as long to break as leaves and drop nothing; However, they are collectable by using shears. Vines grow at a somewhat fast paced rate, which enables them to be farmed. Covering the side of a wall with just one vine will produce a full wall of vines in about three days, Minecraft time. They are usually found in jungles.
+Vines are non-solid, meaning that the player is able to walk through them.
+Vines, when held, and viewed through third-person view or held by another player, have a gray texture.
+Vines make the same noise as grass when stepped on.
+Like most plant blocks, vines are flammable.
+In 1.2, vines became climbable, as long as they are touching another block. Despite this, the player can still climb down vines that are not connected to a block. If the player is sneaking, they are able to climb up vines that are not connected to blocks.
+Interestingly, Mobs cannot see the player through vines, allowing the player to sneak up on mobs or quicky hide when they need to get a horde of mobs off their back.
+It's also worth noting that the player can fire Arrows through vines, while skeletons cannot. This is a good strategy to use when fighting multiple skeletons.

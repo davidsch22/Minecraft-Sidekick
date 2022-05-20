@@ -1,0 +1,7 @@
+Dec value: 31 and 32.
+Hex value: 20.
+Minimum tool requirement to harvest: Shears.
+Blast resistance: 0.
+ Maximum stack 64.
+Transparency: Yes.
+Dead bushes are found in desert biomes and sometimes in swamp biomes. They have no use, other than their aesthetics. They can be harvested by using shears, making them available to players who want to use it as decoration, but they can only be placed on sand blocks. Water will destroy these completely. Dead bushes are often used by players who try to make buildings look old and weathered, or by trying to make land look dry and infertile.

@@ -1,0 +1,57 @@
+This article is about the solid block, Grass. For tall grass, see Tall Grass.
+ Grass, named Grass Block in the inventory, is a block that was introduced very early in the game. When covered by snow, the side texture is white. On natural maps, grass appears on the topmost blocks of dirt with no fluids or opaque solid blocks above them. Grass blocks can be obtained by mining it with a tool enchanted with Silk Touch.
+In mining, grass behaves just like dirt as it drops dirt resources and is best dug with a shovel; however, it makes a different sound when harvested and takes slightly longer to dig up.
+Grass is one of the first block seen when a player enters a Minecraft World or Minecraft Server. Grass grows spontaneously only during map generation. Afterward, it can only spread from a nearby block. Grass can spread to any immediate adjacent dirt blocks at the same height, including diagonally.
+Sometimes a dirt block will turn into a grass block if there is enough light.
+Dirt can grow into a grass block as quickly as seconds or as long as a few minutes. For a dirt block to grow into a grass block, a grass block must be next to the dirt block.
+Passive Mobs (Pigs, Cows, Chickens, and Sheep) spawn only on grass blocks, with light level 9 or brighter in the space directly above. One can create a farm that will spawn fauna using grass, or exclude passive Mobs from an area by ensuring there is no Grass before 1.8 update.
+Passive Mobs tend to wander towards grass blocks. They also wander towards light, but they ignore light over Grass blocks and prefer them to any light levels below 10.
+Using Bonemeal on a grass block will grow Tall grass and Flowers.
+Despite common misconception, grass will grow onto a block with a torch placed upon it.
+In Survival Test mode, sheep would eat grass to regrow wool on their bodies, reverting it to dirt. Often, the grass would regrow just as quickly as sheep would eat it.
+It is impossible to mine a grass block (when mined it comes out a dirt block) without the Silk Touch enchantment.
+ Grass is one of the first to blocks designed, the other being Cobblestone.
+Grass (commonly named Tall Grass or Long Grass) is a non-solid plant used to obtain seeds. The color of grass is biome dependent and is usually the same color as leaves.
+When broken normally, all variants will drop either nothing or seeds. They can be obtained as an item using shears.
+The double tallgrass and large ferns will drop two of the respective single block tall grass when mined using shears.
+Water will destroy any tall grass in its way.
+Grass and double tall grass generate on grass blocks in most biomes that generate grass.
+Ferns and large ferns occur naturally only in jungle, taiga, and mega taiga biomes.
+Shrubs, though identical in appearance to the dead bushes found in deserts and mesas, do not naturally generate.
+Bone meal can be used on a grass block to grow grass and occasionally flowers on it and in its vicinity.
+Bone meal can also be used on either tall grass or a fern to create a double tall grass or large fern.
+A shrub looks identical to the dead bush, except that it will occasionally drop seeds, and is randomly offset from the center of its block like grass. It can be obtained using /give @p minecraft:tallgrass 1 0 <dataTag>.
+Grass requires a block light of 8 or higher to survive.
+All variants of grass have a 1/24 chance of dropping seeds. In addition, using shears to harvest the block itself will have a 1/24 chance to drop seeds as well.
+Ferns can be placed in flower pots.
+Grass is defined by its ID and block data. Grass also has a block state which is expected to replace the functionality of block data in a future version.
+minecraft:tallgrass.
+minecraft:double_plant.
+Grass cannot be directly set on fire from lightning. However, fire from nearby blocks can spread to it. Oddly enough, the top of grass can be lit but it will not burn this way. When any kind of tall grass is set on fire, the fire seems to hover just over the grass, as if it were a full block.
+Even though ferns do not produce seeds in real life, as ferns use spores instead, they can drop seeds if broken.
+Grass is slightly offset from the block it is sitting on (as seen in the second screenshot). This causes fields of grass appear more contiguous and not like dotted patches of hair atop blocks.
+Grass can appear in caves on dirt near lava, and rarely, within a few blocks of bedrock or in a village house.
+Using bone meal on grass in a spawn-protected area will still produce tall grass and flowers.
+Ferns in real life usually grow multiple stems from one plant unlike the Minecraft fern where it is just one stem. It sort of resembles a small sapling.
+If you're standing in double tall grass you will be hidden from mobs. This also works with flowers, vines and sugar cane that are at least two blocks tall.
+The dead shrub variant of tall grass is available in the creative menu.
+Grass is called "Grass Block".
+Grass and ferns.
+Grass appears slightly offset from a grass block.
+Grass and ferns in Pocket Edition have a randomly selected height.
+Grass growing in an abandoned mine shaft.
+Tall grass that was set on fire using flint and steel.
+Dec value: 02.
+Hex value: 2.
+Minimum tool requirement to break: None.
+Blast resistance: 3.
+Maximum stack 64.
+Transparency: No.
+Grass blocks cover almost all the land in all land biomes, with the exception of deserts. The colour of the grass block will depend on the biome it’s placed in and cannot be changed. When grass is covered with snow, the grass texture on this block will be white.
+Digging up grass will result in a dirt block, unless the player has the silk touch enchantment, which will drop the grass block itself. A shovel is the best tool for the job, but due to the high digging speed of even stone and iron shovels, using a diamond shovel is often considered a waste, especially when the player doesn’t have many diamonds to spare.
+Grass can be found all over the Overworld and will spread to any dirt block close enough. Grass can be grown in the Nether and the End, but it doesn’t naturally occur here and it requires additional light sources to stay alive.
+Grass will spread to any adjacent dirt block on the same height, including diagonally. It will also spread to any dirt block that’s either 3 blocks lower or 1 block higher than the grass block. This spreading requires a light level of 9 on the grass block and the dirt block must have a light level of at least 4 and can therefore not be covered by other solid blocks, only transparent blocks can be placed on it, while still allowing grass to grow.
+Grass blocks will die when light levels fall below level 4, which means the grass block will change into a dirt block. Note that at night the level of light is 4. Grass will die when solid blocks are placed on it, as they block out any light. Transparent blocks will block out the light in the same way as air does, so stacking enough transparent blocks on top of each other will block enough light for grass to die.
+Other ways for grass to die are when sheep eat the grass, which will turn it into dirt, and by using a hoe on the block, which will turn it into farmland. The death and regrowth of grass can be used to create light detectors, which are often used in automated mob farms and various other processes. Using bone meal on grass will instantly grow tall grass and flowers on many blocks on and around it, making it a perfect way to farm large amounts of these flowers and tall grass.
+Grass is a requirement for many passive mobs to spawn, including a light level of 9 or more. This also includes the using of monster spawner.
+Passive mobs prefer grass blocks over any other block and will wander to grass if they can. Only high light levels (10+) will cause them to abandon the grass and search for the safety of that light. Sheep will occasionally eat grass, turning it to dirt. They eat the grass randomly with no effect, but if the sheep has been sheared, eating grass will instantly regrow their wool.

@@ -1,0 +1,12 @@
+ The Pufferfish is a Fish in Minecraft, added in Update 1.7. It is usually easier to be caught with a Fishing Rod in larger bodies of water and can also be obtained in Creative mode; and in 1.8, as a drop from the Guardian and Elder Guardian .
+When eaten, it replenishes half a hunger point. However, it will give the player nausea and hunger for 15 seconds, as well as poison IV for 1 full minute. As consuming pufferfish evidently brings more harm than good, it is not an optimal source of food. It may instead be used for taming cats, or for brewing purposes.
+Pufferfish can be used to make the Water Breathing Potion, which grants the player the ability to breathe underwater for a limited time.
+Pufferfish is an edible brewing ingredient caught by fishing.
+Pufferfish can be obtained by fishing. The chance of one being caught can be increased with the Lure enchantment.
+Another method of obtaining them is through killing guardians and elder guardians. This method is very inefficient, as the drop rate is roughly 0.325% (2.5% probability of a rare drop times 13% probability that rare drop will be a pufferfish).
+Eating a pufferfish restores 1 () (2 () in Pocket Edition) and 0.2 saturation points. It also gives the player Hunger III for 15 seconds (total loss 3 ()), Nausea II for 15 seconds, and Poison IV for a minute, forcing the player down to 1 () for 48 seconds (30 seconds on peaceful).
+Pufferfish can be used to tame and breed ocelots. Unlike players, ocelots will not get poisoned.
+Brewing a pufferfish into an awkward potion gives a potion of Water Breathing, which allows players to breathe underwater.
+The consumption of pufferfish inflicting the player with nausea and poison is actually based on reality, as real pufferfish contain the extremely dangerous toxin Tetrodotoxin within their organs, especially their liver. Muscle tissue and blood only contain trace amounts. In East Asia, pufferfish are considered a delicacy known as fugu, as small parts of the fish are actually edible. If this dish is prepared incorrectly, it can be lethal through respiratory paralysis.
+Cooked Fish.
+Cooked Salmon.

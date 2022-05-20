@@ -1,0 +1,30 @@
+Redstone is a flat transparent block which can transmit power.
+Redstone can be obtained by mining or smelting redstone ore, looting jungle temples, crafting blocks of redstone, killing witches, trading with villagers, or by breaking previously-placed redstone dust.
+Redstone dust can be broken instantly using any tool, or without a tool, and drops itself as an item.
+Redstone dust will also be removed and drop redstone as an item if its attachment block is moved, removed, or destroyed.
+Redstone dust will also be removed and drop redstone as an item if water flows into its space.
+Redstone dust will also be removed and drop redstone as an item if a piston tries to push it or moves a block into its space.
+If lava flows into redstone dust's space, the redstone dust will be destroyed without dropping redstone as an item.
+Redstone can be crafted from blocks of redstone.
+A single witch will drop 0 to 6 redstone when they die, even when not killed by the player.
+A single redstone ore will yield 4–5 redstone when mined with an iron or diamond pickaxe. With the Fortune enchantment, additional redstone up to the enchantment level may be dropped (e.g. 0–3 extra will be dropped with Fortune III).
+15 pieces of redstone dust are naturally generated in each jungle temple during world generation.
+Clerics can offer to trade 1 to 4 redstone for an emerald as one of their second-tier trades.
+Redstone is used for brewing, crafting, and in redstone circuits by placing it on the ground to create redstone dust.
+In the Pocket Edition, redstone can only be used for crafting.
+When placed in the Minecraft world, redstone becomes a block of "redstone dust", which can transmit redstone power.
+Redstone dust can only be placed on opaque blocks as well as glowstone, upside-down slabs and upside-down stairs, and hoppers.
+Redstone dust will configure itself to point towards adjacent redstone power components and transmission component connection points. Redstone dust will also configure itself to point towards adjacent redstone dust one block higher or lower – unless there is a solid opaque block above the lower redstone dust, or if the higher redstone dust is on a transparent block such as glowstone, an upside-down slab or stair, or a hopper.
+If there is only one such adjacent redstone component, redstone dust will configure itself into a line pointing both at the neighbor and away from it. If there are two or more such adjacent redstone components, redstone dust will point at them, forming a line, an "elbow", a "T", or a cross. If there are no such adjacent redstone components, redstone dust will configure itself into a directionless "dot", which can provide power in all four directions.
+Redstone dust will not automatically configure itself to point towards adjacent blocks or mechanism components. If such a configuration is desired, the other neighbors of the redstone dust must be arranged to create it.
+When redstone dust is reconfigured after placement, it will not update other redstone components around it of the change unless that reconfiguration also includes a change in power level or another component provides an update. This can create situations where a mechanism component remains activated when it shouldn't, or vice versa, until it receives an update from something else – a "feature" of redstone dust that can be exploited to create a kind of block update detector.
+Redstone dust can transmit power, which can be used to operate mechanism components (doors, pistons, redstone lamps, etc.).
+Redstone dust can be "powered" by a number of methods from an adjacent power component or a strongly-powered block.
+Redstone dust can be "powered" by a number of methods from the output of a redstone repeater or redstone comparator.
+Redstone dust can be "powered" by a number of methods from adjacent redstone dust. The powering dust can be a level higher or lower, but with restrictions Redstone can be powered by redstone which is one level lower, or on an opaque block one level higher. A transparent block cannot pass power downward.
+The powering dust can be a level higher or lower, but with restrictions The block "between" the two dust blocks must be air or transparent. A solid block there "cuts" the connection between the higher and lower dust.
+The "power level" of redstone dust can vary from 0 to 15. Most power components power-up adjacent redstone dust to power level 15, but a few (daylight sensors, trapped chests, and weighted pressure plates) may create a lower power level. Redstone repeaters output power level 15 (when turned on), but redstone comparators may output a lower power level.
+Power level drops by 1 for every block of redstone dust it crosses. Thus, redstone dust can transmit power for no more than 15 blocks. To go further, the power level must be re-strengthened – typically with a redstone repeater.
+Powered redstone dust on top of, or pointing at, an opaque block will "weakly"-power the block. A weakly-powered block will not power other adjacent redstone dust, but will still power redstone repeaters and comparators and activate adjacent mechanism components. Transparent blocks cannot be powered.
+When redstone dust is unpowered, it will appear dark red. When powered, it will turn bright red at power level 15, fading to darker shades the lower the power gets. Powered redstone dust also produces "reddust" particles of the same color.
+Redstone dust is defined by its ID and block data. Redstone dust also has a block state which is expected to replace the functionality of block data in a future version.

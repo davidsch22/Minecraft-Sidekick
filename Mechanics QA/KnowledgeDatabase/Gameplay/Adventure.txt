@@ -1,0 +1,12 @@
+Adventure mode is a game mode intended for player-created maps by limiting some of the gameplay in Minecraft, in which the player cannot directly destroy most blocks to avoid spoiling adventure maps or griefing servers. Most blocks cannot be destroyed without the proper items. However, players can still craft items and interact with mobs, item frames, and paintings.
+Command blocks are intended for use in adventure mode gameplay.
+A player can switch to Adventure mode by using the command /gamemode adventure, /gamemode a, or /gamemode 2.
+Blocks cannot be destroyed by hand, and require an item with the CanDestroy tag.
+Blocks require the CanPlaceOn tag to be placed.
+Interaction with mechanisms as well as trading is allowed.
+Compatible in multiplayer.
+Players spawn on the world spawn. Exactly on it, including the y axis even if inside buildings.
+You can use it as a useful way to protect your server from griefers (people who destroy things in Minecraft worlds). Since blocks, clocks, and other placable items cannot be broken in Adventure mode.
+Because of these breakables, you may want to keep tools out of the hands of griefers until you install a protection plugin.
+Adventure Mode can be used for adventure maps, and the breakables can add an interesting feeling to the map. If you only want your players to have a tool at a certain point of time, you can connect a pressure plate with /clear @p (or @a for all players) [itemID].
+Players will spawn on the world spawn exact to the block. Including the y coordinate if there is space for the player there, if not it searches upward.

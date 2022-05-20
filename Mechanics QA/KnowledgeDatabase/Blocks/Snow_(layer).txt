@@ -1,0 +1,16 @@
+Snow is a cover block that is commonly caused by snowfall.
+Destroying snow with a shovel yields two snowballs. If it is destroyed with anything other than a shovel, nothing is dropped.
+Snow will melt if there is a block light level of 12 or more. It will not melt from sunlight.
+Snow naturally generates in ice plains and cold taiga biomes, and in the extreme hills biome above layer 95.
+In snowy biomes or in cold biomes at varying layers, it will randomly snow instead of rain. While it is snowing, snow will generate on random non-transparent blocks with a block light level of 10 or less, with the exception of packed ice.
+Snow golems generate a trail of snow in snowy, cold, and some medium biomes.
+If the snow is on a grass block or on mycelium, the grass will turn white. Snow will not damage tilled and hydrated field areas, nor will it protect those plowed fields from being trampled on. Gravity-affected blocks like sand and gravel will not fall if the block below them has snow on it, and will break if they fall onto snow.
+When broken with a shovel, snow drops snowballs.
+A snow layer has the ID name minecraft:snow_layer and is further defined by its block data. A snow layer also has a block state which is expected to replace the functionality of block data in a future version.
+Snow can be stacked to a full block beside a cactus without destroying the cactus.
+Attempting to place torches on snow will replace the snow with a torch.
+Snow on a block of soulsand makes the soulsand act like a normal block.
+Snow layers of 2 to 7 thickness prevent hostile mobs from spawning.
+Snow without a block below it.
+Various thicknesses of snow.
+An unusual patch of rain in snowy weather, because of the river being its own biome.

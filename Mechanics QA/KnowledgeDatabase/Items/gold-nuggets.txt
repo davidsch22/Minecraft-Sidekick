@@ -1,0 +1,6 @@
+Dec value: 371.
+Hex value: 173.
+Maximum stack 64.
+Gold nuggets are obtained by killing zombie pigman, though it’s not a guaranteed drop, and by turning a gold ingot into 9 nuggets. They are used to create gold ingots, golden apples and glistering melons, an ingredient for brewing.
+Gold nuggets are fairly easy to farm. Gold ore can be found in the bottom 32 layers of the world, so finding it can take a while. They’re usually found while looking for diamonds, but the same techniques used in diamond farming can be used to farm gold. Once you’ve aquired gold ore, the gold can be smelted into gold ingots, which can be turned into gold nuggets.
+Another way is to kill zombie pigmen. They can drop 1 gold nugget and sometimes drop a gold ingot. That gold ingot can then be turned into gold nuggets.

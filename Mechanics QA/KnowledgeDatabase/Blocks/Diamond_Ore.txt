@@ -1,0 +1,29 @@
+This article is/was a featured article!
+ Diamond Ore is one of the most valuable resources for tools and armor found in Minecraft. Immediately after mining the block, you acquire a diamond, rather than the ore itself. Diamond can be used to make very strong tools and durable armor. However, diamonds are quite hard to find, and are usually located from 0 to 16 layers above the bedrock level. To mine diamond ore, the player will need an iron pickaxe or better. To obtain the diamond ore block, it must be mined with the Silk Touch enchantment. There are many popular and efficient ways to find diamond. One such way is to randomly dig Layer 10, and depending on your luck you'll get 16-34 diamonds with 8-10 Iron Pickaxes being used and destroyed. It will also be a good idea to enchant the Pickaxe with Unbreaking or Efficiency before you start to dig (more infomation look under Trivia Section.) Often, you will encounter underground dungeons while digging and can loot the dungeon to find diamonds and other ores. If you have few torches left and you would not want to waste them, you set the brightness level of Minecraft to the maximum and try to use Lava as a source of light. Even with the maximum brightness setting, it is still quite dark and try to limit torch usage to very low. In conclusion this method takes a lot of patience and about 128-192 torches, 8-10 Enchanted/Non-Enchanted/Mixed Iron Pickaxes and 1 hour plus of digging. Diamond is very rare.
+Diamond ores appear at layers 7-13, and sometimes being found at bedrock layer. Mining a diamond ore itself requires silk touch enchantment, but this is considered as wasteful, as the only real value of diamond ore itself is its rarity.
+When diamond was first introduced, it was called Emerald.
+Diamond, like other ores, is easier to find in caves and empty lava pools, as this gives more surface area.
+Like other ores, diamond was about 50% more common in the quadrant south-west of the point (0,0) compared to the north-east quadrant. However, this was fixed in Beta 1.6.
+In some vein formations, ores connect diagonally. Therefore it is recommended to mine around diamond ore. This also permits checking for lava.
+Diamond Ore, along with other ores, appears in the background on the achievement page.
+Diamonds are the second rarest item in the game, the first being emerald ore, as of 1.3.2, which comes in smaller veins than diamond, usually only 1 or 2 ore blocks.
+Diamond ore could not be found or placed in Classic as of version 0.30.
+Diamond ore is the most praised and used ore both on the PC and on the Xbox 360 edition since the ore provides stronger armor, tools and weapons.
+Like coal ore, Diamond ore doesn't need to be smelted.
+Diamond Ore is technically not an ore as it is a precious stone rather than a malleable material/metal.
+Diamond Ore can have as many as 10 ores congruent, whereas gold ore only goes up to 9. This however is a rarity and is not always found.
+Diamond Ore is most popular at layer 11 around lava or ravines.
+If you are having trouble finding diamond, make a strip mine at level 10, and it will cover layers, 9, 10, 11, and 12.
+Notch has many times considered changing the diamond ore to look the same as Emerald ore, only Blue.
+One efficent way is to hunt for Diamonds at Layer 10, just hunt and waste some iron pickaxes in exchange for diamonds, however, you must have quite a lot of patience. Just be careful of the onflowing Lava present underground, while digging, you will definitely see lava. To counter this bring water buckets before you start the dig, or stop the lava from flowing to you by blocking the lower block when it happens. Using this way, you will get quite a considerable amount of diamonds. (While trying this method, remember that you don't know where the lava is present, and you may dig straight down to your death, somemore, Minecraft does not have the function to load a previously saved game, so be careful).
+See here.
+Diamond ore is a mineral block that is one of the most valuable and elusive blocks in the game.
+The diamond ore block itself (rather than its diamond drops) can be obtained by mining it with an iron or diamond pickaxe with the Silk Touch enchantment.
+Diamond ore only appears at Y level 16 and below, and can be found in veins of 3–8. One diamond ore vein generates per chunk; this vein or part of it may be overwritten by generated structures such as caves, leaving you without any diamonds in said chunk. Also, because of the way chunks are populated the vein "belonging" to a chunk can actually be generated in a neighboring chunk leading to some chunks with two or more veins and others with none. There is an average of 3.097 diamond ore per chunk-sized area. The highest concentration of diamonds occurs between levels 5–12. Because of the lava lakes, there is slightly less diamond ore in the middle of that range (around layer 9).
+There are many strategies for finding diamonds. Ensure that you dig around the ore before mining to ensure that the diamonds do not fall in lava.
+Diamond ore drops 1 diamond and 3 to 7 experience when mined with an iron or diamond pickaxe . Mining with a Fortune enchanted pickaxe will increase possible yields by 1 per level, up to 4 diamonds per ore with level 3.
+In some vein formations, ores connect diagonally. Therefore it is recommended to mine around diamond ore. This also permits checking for lava.
+Diamond ore, along with other ores, appear in the background on the achievement page.
+An exposed 2x2x2 diamond ore vein.
+Diamond distribution in a 416,342 chunk area.
+Block of Diamond.

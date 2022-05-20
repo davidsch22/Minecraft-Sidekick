@@ -1,0 +1,101 @@
+Horses are tamable mobs that have three in-game variants: Horses, Donkeys, and Mules. The variants can appear in one of several different coat colors that exhibit different markings.
+Horses and donkeys only spawn in plains and savannas. They spawn in herds, ranging from a minimum of 2 to a maximum of 6. All members of any given herd will have the same base coat color, although individual markings can vary. All skin pattern variations of horses, including donkeys, have an equal chance of spawning, although donkeys are less common. Mules do not spawn naturally, and can only be spawned in survival mode by cross-breeding a horse with a donkey. Mules themselves cannot breed.
+If a spawn egg is used, the pattern of the spawned horse is completely random and cannot be controlled. This variation includes donkeys, who do not have their own unique spawn egg. Mules cannot be spawned via spawn eggs at all.
+Zombie and skeleton horses do not spawn naturally and cannot be spawned via gameplay, but can be spawned using commands when cheats are enabled, or by operators in multiplayer games.
+Zombie and skeleton horses each have two spawnable versions, a tamed and an untamed version. The untamed version cannot be tamed. The tamed versions can be saddled and ridden, but not armored. Leads also cannot be attached to any version, and they cannot be fed or bred. They all spawn with 52 ( × 26) health, which is much higher than other horse variants.
+Tamed Zombie Horse: /summon EntityHorse ~ ~ ~ {Type:3,Tame:1}.
+Untamed Zombie Horse: /summon EntityHorse ~ ~ ~ {Type:3}.
+Tamed Skeleton Horse: /summon EntityHorse ~ ~ ~ {Type:4,Tame:1}.
+Untamed Skeleton Horse: /summon EntityHorse ~ ~ ~ {Type:4}.
+Horses drop 0-2 leather. They drop 3 experience when killed by a player or tamed wolf. If armored, chested, or saddled, they will drop anything equipped.
+Using a weapon enchanted with Looting increases the maximum amount of leather by 1 per level of Looting, up to a maximum of 5 leather at Looting III.
+Zombie horses drop 0-2 rotten flesh, and skeleton horses drop 0-2 bones. Both drop 3 experience when killed by a player or tamed wolf.
+Using a weapon enchanted with Looting increases the maximum amount of the bone or rotten flesh drop by 1 per level of Looting up to a maximum of 5 at Looting III.
+Tamed and saddled horses can be used as one of the fastest means of transportation in the game, though they are unable to fit through single block-wide openings. They can also be used to climb hills, as some horses can jump high enough to clear up to five block heights, versus the player's maximum of one (without potion). Donkeys and mules can be equipped with chests and used as pack animals.
+All horses will roam idly, occasionally stopping to rear, swish their tails, or lower their heads as though eating the grass. Unlike sheep, the eating animation does not actually cause any grass to be consumed. If a player comes near, the horses may turn to look at them. Any horse, even a wild one, will allow itself to be attached to a lead without protest. However, if the player attempts to saddle an untamed horse, it will rear and flail its front hooves. Horses remain passive, even when hit.
+Horses will also open their mouths and make noises that depend on the particular horse’s variation. Normal horses make neighs and whinnies, while donkeys and mules, which use the same audio, emit brays.
+Horses will throw the rider off if swimming in water deeper than 2 blocks, and then will be difficult to coax back onto land or water shallow enough to remount. They can, however, be pushed toward land before remounting.
+In some respects, horses, even tamed and equipped ones, can be oblivious to certain dangers in the environment. If not restrained by a lead fastened to a fence post or under the control of a rider it is possible for a horse to enter a surface pool of lava and kill itself.
+Horses may naturally wander through fence or wall openings that are 2 or more blocks wide. This behavior can be used to build a simple horse-door by using half-wide material such as fence posts.
+Each horse variant has unique features and markings, and a foal (baby) version. Unlike wolves and ocelots, the appearances of horses do not change once they have been tamed, though tame horses may be differentiated by giving them equipment.
+Horse creation was assisted by DrZhark (John Olarte), creator of the Mo' Creatures mod, whose horses were a baseline for Minecraft's Horse models. Horses feature a stocky build. They can have 1 of 7 base colors: white, buckskin, dark bay, bay, black, dapple gray, and flaxen chestnut; and 1 of 5 marking patterns: no markings, stockings and blaze, snowflake appaloosa, paint and sooty. In total, there are 35 possible horse coat combinations.
+Donkeys are smaller all around than the normal horses and sport long, erect ears. Their manes do not protrude, but rather are drawn directly on the back of their heads and necks. All donkeys have gray-brown coats with darker ankles, ears, manes, and tails. Donkeys cannot be equipped with horse armor, but can be equipped with chests to store up to 15 items.
+Mules are the offspring of interbred horses and donkeys, and are closer to (but not quite) the size of a normal Horse. Their ears, coats, and manes are like those of a donkey, though mules’ coats are darker and reddish-brown. Like donkeys, mules cannot be equipped with armor, but can be equipped with chests. Mules cannot breed, just like in real life.
+Undead Horses, or Zombie Horses, appear to be the counterpart of zombies. Like zombies, undead horses are green-skinned, and their eyes are completely black. Undead horses make a low-pitched screaming noise when killed.
+Skeleton Horses are comprised of white bones, reminiscent of skeletons, but in the shape of a horse. Skeleton horses make the same noise as a normal horse when killed, but lower-pitched.
+Horse.
+Donkey.
+Mule.
+Undead Horse.
+Skeleton Horse.
+Adult horses, donkeys, and mules can be tamed. With an empty hand mount the horse repeatedly; when it no longer bucks the player and shows hearts, it is tamed. It is necessary to tame a horse in order to breed it, give it equipment, or ride it for any length of time.
+The chance of successful taming on the first try is less than 1%, yet it is possible. After the first attempt without taming the horse, the chances increase by about 5%, and usually one can then tame a horse after about 5-6 attempts. Taming can be sped up by feeding the horse any of the approved foods when you are standing next to it - see column “Taming prob." in the table below.
+Feeding tamed horses golden apples or a golden carrot will activate love mode. Depending on the variations of the parent horses, the offspring can be one of several types. The offspring will be more spindly than their adult versions and will grow progressively larger with time until they reach their full size.
+The offspring will not automatically belong to the player who owns its parents. Rather, it will be born as an untamed horse and will need to be tamed. It will not be tamable until it has grown into an adult, a process which takes approximately 20 minutes. The foal can be fed to make it mature faster (Golden apples mature the offspring faster than golden carrots). See table below.
+A foal has an attachment to one of its parents, unless this parent is killed (in which case it will move to another available adult horse). Horse: Breeding two horses produces a horse foal. Usually the new foal has the color of either of its parents. One out of nine times it will take on an uncorrelated color (this color could still be the same as the parents', slightly reducing the probability of the new color being different). Markings work likewise.
+Donkey: Breeding two donkeys creates a donkey foal. Since all donkeys have the same texture, the offspring will look exactly like its parents when it is fully grown.
+Mules: Cannot be found in the wild, and cannot breed. Mules can only be spawned by breeding a horse with a donkey.
+Feeding a horse food can alter its behavior, cause it to grow (if it is not yet an adult; foals normally take 20 minutes to fully mature if not fed), and/or restore its health. The table below lists the effects of the various foods horses will take. The two undead horses cannot be fed, even if spawned tame with commands or an editor. Horses can only be fed when their health is low or are untamed by holding the food and right clicking (similar to other animals). If a horse does not need feeding or if the food is invalid, the player will simply mount the horse.
+Tamed horses can be equipped with saddles, horse armor (normal horses only), or chests (donkeys or mules only). Foals cannot be equipped with anything. Skeleton horses and zombie horses cannot be equipped without the use of third-party programs.
+Equipment can be placed on a horse by holding it and then right clicking on the horse, or by accessing its inventory. A horse’s inventory can be accessed by mounting the horse and opening the player inventory or by holding down shift and then right-clicking on the horse. A normal horse’s inventory will only have 2 slots, 1 for a saddle and 1 for horse armor. A donkey or mule will only have a saddle slot originally, but if it is given a chest, it will acquire 15 more inventory slots that can hold anything the player wishes.
+Chests can only be given to a donkey or a mule by right-clicking on the donkey or mule with the chest in hand, and afterwards the chest cannot be removed, except by killing the donkey or mule. Upon death, the donkey or mule will drop the attached chest and its contents.
+Once you have tamed a horse and put a saddle on it, you can control it with standard directional controls and the mouse.
+Horses can be made to jump, and holding the jump key allows you to charge your jump. Horses are not affected by Jump Boost beacons. Sneaking causes you to dismount, as does going in water deeper than two blocks.
+Horse jump bar.
+Empty: .
+Full: .
+When you mount a horse, the hunger bar and oxygen bar are replaced by the horse's health in survival or adventure mode. It uses a slightly different heart texture than the player's health bar. The experience bar is replaced by the horse jump bar, which gauges how high you jump. The maximum jumping height, which is reached when the bar is fully charged as you release the spacebar, depends on the horse you ride. It seems to range from about 1.2 to 5.5 blocks high. As each horse has different statistics, it is difficult to gauge the maximum distance, but testing has revealed that certain horses can jump distances of 12 blocks.
+You can use any item while riding a horse, including drinking or throwing potions, activating doors or redstone devices, or using chests, crafting tables, and furnaces. You can also break and place blocks, use a sword, and fire arrows.
+When running forward, you will start at a slow walk and build to a speed faster than sprinting. You will automatically run up any one block high slope. You are three blocks tall while on a horse, but you can ride under 2 block tall areas, causing your head to pass through blocks. This causes suffocation damage, except when passing through non-solid blocks. You are slightly wider than one block, and are unable to walk through one block wide gaps. However, due to the horse's length, you can run over any one block gap. It also appears you can run across a two block gap at high speeds, but this does not seem to work all of the time.
+The maximum speed of horses vary between 4.8375 blocks/second and 14.5125 blocks/second (compared to the player's walking speed, which is about 4.3 blocks/second). About 68% of horses are able to go faster than a minecart. A fast horse can be combined with speed potions and the Nether to make the horse easily the fastest practical way to travel in Minecraft (around 130 m/s Overworld-equivalent in the Nether). The speed of a horse is irrespective of its outward appearance. In order to find a fast horse, you have to tame multiple individuals and compare them.
+Horses are very slow moving backwards, and about as fast as the player when moving sideways. Therefore, turning around is quite preferable to moving backwards or sideways.
+When dismounting underground, for example in a two-wide, three high tunnel, one must be careful because it is possible to appear in a dark cave if the cave is separated from the tunnel by a one block thick wall. If there are any blocks in the tunnel, either on the floor or ceiling the horse can climb onto, or pass under them suffocating the riding player.
+All horses have three "equine stats" which vary from horse to horse: health, jump height and (maximum) speed. The stats are created once the horse is born and are not affected by food. The different horse types use different formulas for each Health runs from 15 to 30, with most around the average of 22.5.
+The different horse types use different formulas for each Jump strength is from 1.5 to 5.5 blocks (but tending toward the average of 3.5 blocks). 0.4 to 1.0 in internal units (but tending toward the average of 0.7).
+The different horse types use different formulas for each Compared to the player's walking speed, the maximum speed ranges from merely 25% faster to 337.5% times faster. 0.1125 to 0.3375 in internal units (but tending toward the average of 0.225).
+ The speed in blocks/second is a bit over 4.3 times, but can be affected by various conditions.
+The different horse types use different formulas for each Donkeys are spawned with 15 to 30 health, 75% faster (than the player) movement speed and 0.5 jump strength.
+The above applies to naturally spawned horses. When breeding two horses, the foal's stats are determined by averaging both parent's stats with a third set, randomly determined as above. (That is, add both parents' stats with the random value, and divide by 3).
+On multiplayer, it is possible to easily figure out which of two horses (owned and ridden by different players) is faster. Each rider needs to apply a lead to the other horse, then play 'tug of war'. The stronger horse will be faster. This can be seen in this video.
+Horse entities have Type and Variant fields that determine the type and look of the horse. All normal horses are of Type 0, donkeys are of Type 1, mules are of Type 2, zombie horses are of Type 3, and skeletal horses are of Type 4. Below is a list of Variant values that determine the variant of Type 0 horses (horse entities of other types seem to ignore the Variant field).
+Variant names taken from the names of the texture file they correspond to.
+Giving a Type 0 horse entity a Variant value not in this chart will result in a white horse.
+Using a value that is not a true ID (all true IDs are displayed on the chart above) will result in an invisible horse.
+Just like other baby mobs, you can spawn foals with the spawn egg by right-clicking on a horse. The foal will be the same breed as the horse. Every foal spawned this way follows the horse you spawned it from like a normal baby mob.
+If you ride a horse right beside a tree causing your head to be within a block of leaves, it will cause certain parts of textures of some blocks to disappear. This can be used to have “X-Ray vision" as you can essentially see through nearby trees.
+It is possible to jump over wooden fences and stone walls while riding a horse.
+It is possible to “double jump" by falling off of a block above the ground, and then jumping before landing.
+Even though the skeleton and zombie horses look like undead versions of their counterparts, they are not treated as undead. For example, they can be poisoned even though normal undead mobs are immune to poison, the Smite enchantment will not affect them, hitting them with splash potions of Harming and Healing will have the same effects as on living mobs, and withers will attack them as if they were any other living mob.
+Running over a TNT minecart landmine will result in the horse dying, but the player being undamaged until they land on the ground.
+Horses are quite possibly the best method of traveling long distances overland: the fastest horses have the speed of over 15 m/s (54km/h); they navigate hilly terrain very easily, jump ravines with near-100% consistency, and require no infrastructure except at the end (they are not good in jungles or some forests, however).
+A horse, like most mobs, can ride in a minecart. You can get full grown horses out. A horse can be released by riding the horse and punching the cart.
+It is impossible to enter a Nether portal while on a horse. It is possible however, to sometimes enter the portal on the horse and then press shift to escape, sending the horse to the Nether on its own, like dogs. Additionally, you can dismount, walk the horse into the portal with a lead, and remount, or you can just push the horse into the Nether. Note that horses, like all other mobs, have a cooldown of about a minute after going through a portal before they can come back. They must be clear of the portal during that time in order to go through again.
+In the Minecraft credits it gives credit to Dr. Zhark for the horse.
+If you open the horse's panel while it is leashed, the leash will overflow outside of the horse model.
+Foals can be spawned from foals using spawn eggs. The resulting foals will not follow an adult horse, except occasionally it will choose a random adult horse.
+Foals can sometimes walk into vertical blocks and suffocate, making raising foals in hilly terrain very difficult.
+Spawning a horse on a vertical surface causes the horse's back half to protrude into it, dealing the horse damage. This is probably because of its size.
+If a player picks up leather dropped by an adult horse, the player receives the “Cow Tipper" achievement.
+Horses are the only passive mob that can naturally regenerate health.
+If you summon a horse with an age lower than -24000, the horse will invert itself, its body parts will separate, at -50000, they will suffocate, and at very highly negative levels it will grow huge and disappear.
+If you summon a horse with unused variant, it will be invisible.
+If holding a horse in a lead and then entering a boat, the horse will run after the boat in the water at the same speed as the boat.
+It seems that the player takes less fall damage when riding a horse.
+The image Jeb released on Twitter which hinted the release of horses.
+Image posted by Jeb on Instagram. Note the saddle usage.
+Horses can wear armor and can be bound to fence posts.
+A herd of various horses.
+A spotted foal.
+A donkey with an attached chest.
+A donkey with an attached chest and saddle.
+The First image of the donkey chest inventory.
+A donkey and a mule.
+The original horses from Dr. Zhark's Mod.
+Showing the result of right clicking a spawn egg on a horse while mounted.
+Jeb and Dinnerbone riding horses, as seen on the 1.6 prerelease banner.
+Showing the very faint markings on a white tobiano (view at full size to see in more detail). A bay tobiano is in the background for comparison.
+A zombie horse spawned in.
+A skeleton horse spawned in.
+A herd of donkeys and horses spawned next to each other.
+A horse with armor on.
+Minecraft 2.0.

@@ -1,0 +1,21 @@
+Dec value: 329.
+Hex value: 149.
+Maximum stack 1.
+Saddles can be placed on pigs which allows you to ride the pig, much like a minecart. However, the movement of pigs cannot be controlled which makes them rather useless as a means of transportation.
+Saddles can only be found in dungeons chests, there’s no recipe for them. It is possible to direct the pig a little by giving it only 2 ways to go, straight ahead or back. Flowing water will push the pig, though the pig will still try to float to the top of any water. Pigs will not jump off of cliffs, but they do walk into fires.
+Pigs can still be hit by the player while it’s being ridden, this could give you some control over the pig as it will run after being hit. Though a pig only has 5 hearts of health, so hitting it 9 times with your fists is the maximum amount of hits it can take before it dies. Splash potions of regeneration and healing can heal the pig again though, allowing for more hits and a little more control.
+A saddles pig can be pushed in a minecart, the pig can then be ridden and controlled when the minecart is no longer on rails. This is the closest thing to cars in minecraft as you can go anywhere you want, however, the speed at which you travel is extremely slow.
+Saddled pigs, whether in minecarts or not, are often used in mini games, usually refered to as pig racing. The aim of these minig games is to get your pig to the end of the track as fast as possible. It’s usually played with 2 players who take the same or a similar track.
+Saddles are items that can be placed on ridable mobs.
+Saddles can be found in chests inside dungeons, abandoned mine shafts, Nether fortresses, desert temples, jungle temples, and in blacksmith chests in villages.
+Saddles can be obtained as a "treasure" item from fishing.
+Villager leatherworkers will sell saddles for 8-10 emeralds as a third tier trade.
+Saddles may be used to ride horses, donkeys, mules, and pigs.
+Using a saddle on a pig will equip the saddle, allowing the player to ride the pig, though controlling the pig requires usage of a carrot on a stick. The saddle can only be retrieved by killing the pig.
+Tamed horses, donkeys, and mules can be ridden without them wearing a saddle, but a saddle is required to control them. Once tamed, they can be equipped with a saddle by placing it in their inventory which can be opened by pressing use while holding a saddle or sneaking. The saddle can be unequipped by removing it from the steed's inventory.
+A saddle is considered "armor" by the game, but the value of protection to the pig is equal to null, making no additional protection to the pig. A saddle can still be seen if the pig is invisible.
+Punching a pig or horse while holding a saddle causes the mob to wear the saddle, and it will be taken out of your inventory, even in creative mode.
+A player riding a pig (before Beta 1.8).
+A player riding a horse.
+The horse interface implemented in 13w21a that allows for the removal of saddles, but only on horses, donkeys or mules.
+Transportation.

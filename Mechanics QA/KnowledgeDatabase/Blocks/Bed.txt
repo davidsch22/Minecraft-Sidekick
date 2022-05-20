@@ -1,0 +1,67 @@
+ Beds are crafted 2 long blocks that can be slept in by right clicking on them, which will change the world time to morning if everyone in the world is sleeping, and it will also automatically set your spawn point to right next to the Bed. There are 4 occasions when Beds cannot be slept in: if it is daytime, if there are neutral or hostile mobs nearby, if there is somebody else already sleeping in the bed, or if the Bed is in the Nether or End, and the first 3 will result in a chat message popping up that will tell you why you cannot sleep, while trying to sleep in a Bed in the Nether or End will result in the Bed exploding.
+It is possible to destroy a bed while you are on it by simply aiming slightly downward. After you do, though, touching a 2x1 wall or ceiling will cause damage, and walking into a corner will show suffocation. This will continue until you go back to sleep for the night.
+The exploding bed is a reference to one of the lyrics in Notorious B.I.G's song "Suicidal Thoughts".
+During the Beta version, if you place your bed near a wall, a Zombie or a Skeleton will spawn beside you, though it couldn't attack you. This glitch was removed in Beta 1.9 pre-1.
+Sleeping in a bed with an opaque block directly above it will result in suffocation.
+In the Minecraft: PE code, there is a block which is half a Bed. It can only be obtained through mods in creative.
+Some the Technical Blocks can be obtained this way.
+If you destroy the blocks beneath the bed, the bed will float in the air.
+You can use any type of wood and wool and you will still get the normal bed.
+The Sky Dimension was a planned dimension in Minecraft, intended to be the opposite of the Nether. To get there, you would sleep and there would a chance you would go. You can see the name Sky in the End.
+What happens if you try to sleep in a Bed in the Nether.
+A bed in a cobblestone house.
+A bed.
+A bed with a glitched texture.
+Add a photo to this gallery.
+A bed is a block that allows the player to sleep and to reset its spawn point to within a few blocks of the bed.
+Beds can be mined with any tool, or without a tool.
+A bed will also drop itself as an item when pushed by a piston.
+Neither the color of the wool, nor the type of wood used has any effect on the bed's appearance.
+Beds are 9/16th of a block high, one more pixel than half a block, so you do not need to jump to walk onto the bed from one level below the bed. It also allows you to walk up onto other blocks while on top of the bed.
+Beds take up two blocks of space. Placement requires at least 2 blocks from the player's facing direction. When placed, the foot will be placed on the block selected and will face toward the user. Like certain other blocks, beds can not be placed on snow, ice, glowstone, glass, carpet or leaves. If you remove the blocks underneath the bed, the bed will not be removed, but will remain floating.
+Beds are used by pressing the use item button looking at the bed during the night. At daytime, they can also be used during thunderstorms. Attempting to use a bed at any other time will result in a "You can only sleep at night" message. The exact tick time span during which a bed may be used at night is between 12541 and 23458, inclusive.
+In order for the bed to work the player must be able to stand next to the bed at the same level as it, on a type of block that a bed could be placed on. In other words: Obstruction will not occur if there's a solid block (the same restrictions apply as the bed itself) at the 'floor level' with 2 air, or transparent blocks above it, in one of the ten blocks that surround the bed. It doesn't matter if the bed itself has blocks above it.
+If all sleeping requirements are met and the player enters a bed, the player will be positioned in the bed, in multiplayer you will be seen above the sheets, and the screen will slowly fade to black. During this time, the player can leave the bed by clicking the Leave Bed button. Once the player has entered the bed, the spawn point is set near the bed.
+Sleeping only changes the time of day to sunrise; it does not speed up processes which take place over time such as smelting. However, if it were raining or snowing, the weather will end when the player wakes up.
+The bed is in no way tied to a player's spawn point - the game only checks for the presence of a bed at a player's spawn point when the respawn button is clicked from the death screen. The bed may be destroyed, replaced, reoriented, etc. and will still serve as a spawn point for players so long as it exists when the player tries to respawn. If a player's bed is destroyed or the bed is surrounded by solid blocks and the player dies when the player had set his spawnpoint there, a message is displayed saying Your home bed was missing or obstructed, and the player will respawn at the original spawn point.
+Beds placed in the Nether or the End will explode when the player tries to sleep, and set fire to surrounding blocks.
+The player cannot sleep if a hostile mob is within 8 blocks of the bed horizontally (along each axis) and 5 blocks vertically. If a monster is nearby, even through a wall, the message You may not rest now, there are monsters nearby will be displayed and the player will not be able to sleep until the monsters leave or are killed.
+To skip the night, all players in the Overworld must be in bed at the same time.
+Players can also chat while in bed, and can leave the bed before the timeskip (thus blocking it for everyone).
+Destroying a bed while another player is sleeping would cause the player to wake up, even when it was not caused by a player (for example: an explosion).
+If you try to sleep in a bed occupied by another player, you will get the message This bed is occupied.
+If the player falls from high enough to take damage, but uses a bed before they hit the ground, they won't take fall damage.
+If there is a solid block above a bed, the surface of the bed will become black, much as with slabs.
+If the world is quit while sleeping, upon return the player will be awake beside the bed.
+The player's avatar clips just slightly into the bed if they have something in their hand and their feet protrude off the edge.
+Using the /tp command while another player is sleeping will still teleport the sleeping player.
+If you place a bed on ice, running over the bed acts like running over ice, similar to slabs.
+If a player sleeps when a jukebox is playing, the sound's direction will not adjust to the player's change in orientation until they wake up.
+In Pocket Edition, sleeping in a floating bed will cause you to clip through when you wake.
+If you sleep when the /gamerule doDaylightCycle is turned off, you will fall asleep, but wake up at night.
+Originally, crying obsidian was intended to act as a respawn block until Beta 1.3 when Beds were introduced. The texture for it was removed in Beta 1.5.
+Using all the different wood and wool combinations, there are there are 884,736 different ways to craft a bed.
+Sleeping player in multiplayer.
+The message that can be seen when you try to sleep during daytime.
+Player being awakened by a zombie.
+A glitch that can occur in multiplayer.
+The message that can be seen after a failed attempt to respawn at the spawn point set by a bed.
+A crater created by attempting to sleep in the Nether.
+A crater created by attempting to sleep in the End.
+The way sleeping looks in your inventory (noticeable shadow over inventory slots).
+When the player model intersects enchanted items, the enchantment glow is applied to the player model too.
+The bottom of a bed.
+Dec value: 07.
+Hex value: 7.
+Minimum tool requirement to break: Unbreakable.
+Blast resistance: 18,000,000.
+Maximum stack 64 Transparency: No.
+Bedrock is the bottom layer in the Overworld dimension and the top and bottom layer in the Nether. The bedrock layers form the height boundaries of the world, as it’s indestructible, unless you’re in creative mode or if you’re using mods.
+The bedrock layer in the Overworld is 5 blocks thick, though the first 4 layers aren’t completely filled with bedrock, other blocks like stone, dirt or the occasional ore.
+In the Nether both the layers are 4 blocks thick.
+The only bedrock blocks created naturally in minecraft after the creation of the world are in the End. After destroying an Ender crystal, it’ll explode and leave 1 piece of bedrock. After killing the Ender dragon, a bedrock portal will appear on the ground directly under where it was killed, allowing players to get back to the Overworld.
+Void fog can be found on top of the bedrock layer in the Overworld. Void fog is a thick, black fog which lowers the players visibility the lower the player gets, starting from layer 16.
+The only bedrock blocks created naturally in minecraft after the creation of the world are in the End. After destroying an Ender crystal, it’ll explode and leave 1 piece of bedrock. After killing the Ender dragon, a bedrock portal will appear on the ground directly under where it was killed, allowing players to get back to the Overworld.
+Due to its indestructibility, bedrock is often used on multiplayer servers to protect buildings. Strangely, this happens a lot on servers which already have plugins installed to prevent players from destroying any block in specified zones.
+Breaking bedrock will reveal the void, which is nothing more than blue emptiness. Falling into the void will result in death and nothing can be done about it.
+Due to the top layer of bedrock in the Nether is was often thought the Overworld and Nether were connected passed these layers, this isn’t true. The Overworld and the Nether are 2 seperate dimensions, as proven by destroying the bedrock.

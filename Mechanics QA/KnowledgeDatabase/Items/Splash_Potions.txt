@@ -1,0 +1,16 @@
+Splash Potions are a special sort of potion that, rather than being consumed, are thrown. They have a small radius of effect around the point of impact.
+To create a Splash Potion.
+Brew the potion to give it the desired effect. For example, brew a Nether Wart and Spider Eye into a Water Bottle in order to create a Potion of Poison.
+Brew gunpowder into the potion.
+You should see that the handle of the potion is now curved, indicating that it is a Splash Potion.
+Note that simply brewing Gunpowder into a water bottle does not create an effective Splash Potion - you must add reagents first. Also note that adding Gunpowder to a helpful potion will bestow the helpful effects on the mobs and players you splash the potion on.
+Splash Potions are thrown rather than consumed. Therefore, when you right-click while holding a Splash Potion, you will throw it, causing it to hit and affect all nearby mobs and/or players. Splash Potions can also be loaded into a dispenser for redstone-controlled attacks.
+Note also that when a Splash Potion is used, the bottle is destroyed, as opposed to simply being emptied when you drink from it. And, as with all potions, do not stack. Therefore, you must keep a large reserve of bottles if you wish to use many Potions.
+The further away from the center of the explosion, using taxicab geometry with a range of 5 blocks. This was tested with a 60 second splash potion of weakness and the tables below list the effect in both seconds and percent. There is variance within each block, so this is a gradient scale. Damage potions are assumed to follow a similar decrease in potency.
+Seconds.
+Percentage (00 = 100%).
+They are more effective when thrown at the head of something rather than the feet.
+They reduce the length of the effect by 25% of the original effect.
+Splash potions of harming will heal undead mobs, such as zombies, skeletons, and zombie pigmen, and splash potions of healing will harm them like their negative counterparts.
+Splash potions of regeneration and poison have no effect on undead mobs.
+The bottle o'enchanting has the looks of a consumable potion but is a special type of splash potion.

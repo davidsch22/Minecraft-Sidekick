@@ -1,0 +1,45 @@
+Crafting is the method by which many blocks, tools, and materials are made in Minecraft. In order to craft something, players must move items from their inventory to a crafting grid. A 2×2 crafting grid can be accessed from the player's inventory. A 3×3 grid can be accessed by using (default: right-clicking) a Crafting Table.
+For some items, the arrangement of their ingredients on the crafting grid is unimportant. These are commonly known as shapeless recipes. For example, a Fermented spider eye can have its ingredients placed anywhere within the grid.
+On the other hand, many of the more important or useful game objects must have their ingredients placed in the correct relative positions on the crafting grid. Even then, provided the resources are arranged correctly, the item can be made in any way that fits in the grid. For example, a 3×1 recipe, such as bread, can be made using the top, middle, or bottom row of the 3×3 grid, but it cannot be made using the 2×2 grid because it needs to be three items wide. Ingredients in ‘shaped’ recipes can be ‘slid’ up, down, left, or right. They can also be flipped horizontally. For instance, players can make a bow with the strings placed on the right instead of on the left. There are recipes which may not be moved or mirrored in this way. These are commonly known as fixed recipes.
+Players always have access to the 2×2 crafting grid from their Inventory screen, and this can be used whenever the screen is brought up. Crafting recipes that are at most 2×2 can always be made there. These include wood planks, sticks, crafting tables, and most shapeless recipes. To craft items using a 3×3 grid, create a crafting table, place it in any convenient spot, and right-click it. This brings up a pop-up screen with a 3×3 grid on which the player can assemble any crafting recipe in the game.
+In "Minecraft" Pocket Edition, crafting is somewhat different and uses the Minecraft Advanced Touch Technology Interface System, also known as "MATTIS" crafting system. Although it displays the 2×2 and 3×3 grids, the items already appear in the correct slots. In the middle of the screen, there is a list that shows items that can be crafted with the items in the player's inventory. Items that can be crafted are prioritized and shown first. If the player has some but not all ingredients to craft an item, those show up after those that can be crafted and are shaded. In each slot, there is a number denoting how many times the player can craft that item with the current materials.
+The right side of the screen shows the grid with the items already placed for the selected item. Below the grid is the name of the item currently selected and a button used to craft, showing the quantity of the item given when crafted. If there isn't a sufficient amount of ingredients to craft an item, the missing ingredients appear shaded on the grid. When one taps on an ingredient within the grid, the name of that ingredient appears above the hotbar.
+The player has the option to use a crafting table to give him/her many more choices. When the player taps the crafting table, the MATTIS pops up with crafting options. To craft stone-type blocks, the player must use a Stonecutter which is only featured in "Minecraft Pocket Edition" (the version that uses MATTIS).
+The Console Edition uses a simplified crafting system. It does not make use of the standard crafting interface, but still has similarities to the PC version's 2×2 and 3×3 crafting grids, making it a cross between the PC grid-based system and the Pocket Edition's MATTIS system. The interface does not require the player to place items in the correct place in a crafting menu, but instead simply displays the ingredients required to craft the selected item and allows the player to craft that item so long as the player has the required crafting ingredients. The crafting table orders all craftable items into seven categories:Tools & Weapons, Food, Armor, Mechanisms, Transportation, and Decoration.
+Pressing X or Square opens the 2×2 crafting menu, and the 3×3 crafting menu when using a Crafting Table. The Armor tab is missing in the 2×2 as crafting any armor requires the use of a 3×3 crafting grid.
+The interface for crafting fireworks is the same as normal PC crafting.
+Certain crafted items, like weapons, tools, and armor, have an item durability. Such items have a limited number of uses; after using up such an item's full durability the item will break. Items made of harder materials such as iron or diamond will last longer, while those made of softer materials such as wood or gold will wear out more quickly. A small durability bar below each item shows roughly how much longer it will last before breaking. (Pressing F3+H will make exact durabilities appear in the player's inventory tooltips.) Partially worn-out items can be repaired using an anvil. The item repair process works by combining two partially damaged items to create a less-damaged one, and usually gives a small durability bonus compared to simply using items until they break. To fix diamond tools or armor pieces, use a diamond in an anvil, for iron, use iron ingots, for gold, use gold ingots, etc. This not known by many people, but chain mail armor can be repaired in an anvil as well. To do this, you must use iron ingots, or another piece of chain mail armor even though you need fire from a /give (username) fire or from a rare glitch to craft the original set of armor.
+A use counts only if a player completely breaks apart one block or hits a mob. If a block is only partially broken, this does not count as a use. four uses Getting hit with a piece of armor with thorns on it, when damage is dealt to the hitter.
+ three uses Hooking a mob with a fishing rod.
+ two uses Using a shovel, pickaxe, or axe on any mob.
+two uses Using a sword to break a block.
+two uses Reeling in a fishing rod hooked to a block.
+two uses Using flint and steel to light or hit a mob.
+two uses Getting hit with a piece of armor with thorns on it, when damage isn't dealt to the hitter.
+ one use Using a shovel, pickaxe, or axe to break a block.
+one use Using a bow to fire an arrow.
+one use Taking damage while wearing a piece of armor.
+one use Successfully catching an item with a fishing rod.
+one use Using a sword on a mob.
+one use Using flint and steel to set fire to a block.
+one use Using a hoe on dirt, grass, mycelium, or podzol to create farmland or on coarse dirt to create dirt.
+one use Using shears to shear sheep or mooshrooms.
+one use Using shears to break cobwebs, dead bushes, ferns, tall grass, leaves, tripwire, vines, or wool.
+ zero uses Using a bow on a mob.
+zero uses Using a bow to break blocks.
+zero uses Using a hoe on a mob.
+zero uses Using a hoe to break blocks.
+zero uses Using shears to break blocks other than cobwebs, dead bushes, ferns, tall grass, leaves, tripwire, vines, or wool.
+Proper use of tools will maximize their durability. Assuming a player uses a tool appropriately, the following list shows the maximum durability for tools of each material type Wood - 60 uses.
+Assuming a player uses a tool appropriately, the following list shows the maximum durability for tools of each material type Stone - 132 uses.
+Assuming a player uses a tool appropriately, the following list shows the maximum durability for tools of each material type Iron - 251 uses.
+Assuming a player uses a tool appropriately, the following list shows the maximum durability for tools of each material type Gold - 33 uses.
+Assuming a player uses a tool appropriately, the following list shows the maximum durability for tools of each material type Diamond - 1,562 uses.
+Note: that even though gold tools have very low durability, they are the fastest among all the tools with no enchantments. However even with gold tools high efficiency, gold swords only have the same attack strength as wood swords (5 ()). Also, gold may have the lowest durability, but it will give the best enchantments.
+The amount of protection given by a piece of armor depends only on the material it is made of, and is not affected by the armor's remaining durability.
+To save space, some recipes are animated (requires JavaScript). Shapeless recipes are marked with a pair of intertwined arrows on the crafting table graphic, and fixed recipes with an exclamation mark.
+Pocket Edition old MATTIS crafting system.
+Console Edition crafting interface.
+Brewing.
+Enchanting.
+Smelting.

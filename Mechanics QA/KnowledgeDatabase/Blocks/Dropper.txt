@@ -1,0 +1,28 @@
+This article is about redstone block. For the map by Bigre, see The Dropper (map).
+A Dropper is an unique redstone device that is a near-combination of the Hopper and the Dispenser. Droppers can transfer items from it to a chest or another container when activated by a redstone signal.
+Droppers is similar to the dispenser, with the key difference being that a dropper produces items from all objects when activated instead of summoning projectiles from applicable objects. The Dropper is fully function when it comes to transporting items. They are very economic to make, being less costly than creating a hopper. The dropper also functions similar to the hopper, transferring items into containers with a redstone signal.
+Unlike a Dispenser, entities will not be ejected in an entity form (being fired straight out in the case of arrows, placing a minecart, or creating an active TNT block), they will just be ejected as an item.
+The dropper is a block that can be used to eject items, or push items into another container.
+Droppers can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+A dropper can be used as a container or as a redstone component to move items.
+To place a dropper, use the Place Block control. A dropper can be placed so that its output faces in any direction, including up or down. When placed, the dropper's output will face in the direction it was placed from.
+A dropper cannot be moved by pistons, and water and lava will flow around a dropper.
+A dropper has 9 slots of inventory space.
+To open the dropper GUI, use the Use Item control. To move items between the dropper inventory and the player inventory or hotbar while the dropper GUI is open, drag or shift-click the items. To exit the dropper GUI, use the Esc control.
+By default, the GUI of a dropper is labeled "Dropper". A dropper's GUI label can be changed by naming the dropper in an anvil before placing it, or by using the blockdata command (for example, to label a dropper at (0,64,0) "Alice's Dropper", use blockdata 0 64 0 {CustomName:"Alice's Dropper"}).
+A dropper can be "locked" (or subsequently unlocked) by setting the dropper's Lock tag with the blockdata command. If a dropper's Lock tag is not blank, the dropper cannot be accessed except by players holding an item with the same name as the Lock tag's text. For example, to lock a dropper at (0,64,0) so that only players holding an item named "Alice's Key" can access the dropper, use blockdata 0 64 0 {Lock:"Alice's Key"}.
+A dropper can be used to eject items, or push items into another container.
+A dropper can be activated by an adjacent active power component (Exceptions: a redstone torch will not turn ON a dropper it is attached to).
+A dropper can be activated by an adjacent powered opaque block (strongly-powered or weakly-powered).
+A dropper can be activated by a powered redstone repeater or redstone comparator facing the dropper.
+A dropper can be activated by powered redstone dust configured to point at the dropper, or on top of it, or a directionless "dot" next to it; a dropper is not activated by adjacent powered redstone dust which is configured to point in another direction.
+In addition to the methods above, droppers can also be activated by quasi-connectivity. A dropper will be activated if one of the methods above would activate a mechanism component in the block above the dropper, even if there is no mechanism component there (even if the block above the dropper is air or a transparent block), but only when the dropper receives a block update (including a redstone update within two blocks of the dropper).
+A dropper will not activate if it has been less than 1 redstone tick (2 game ticks, or 0.1 seconds barring lag) since its last activation ended.
+When activated, a dropper waits 2 redstone ticks (4 game ticks, or 0.2 seconds barring lag) and then ejects one item from its inventory. If multiple slots are occupied by items, a random occupied slot will be chosen for ejection. The slot is chosen when an item is ejected, not when the dropper is initially activated, thus it is possible to move items into or out of a dropper between its activation and item dispensing.
+If the dropper is facing a container, the ejected item will be transferred into the container. Otherwise, the item is ejected in the direction the dropper is facing, as if a player had used the Drop control.
+A dropper makes a clicking noise (the random.click sound event) when activated empty or when ejecting items into air, but is silent when it successfully transfers an item into another container.
+A dropper is an opaque block, so powering it directly can cause adjacent mechanism components (including other droppers) to activate as well.
+A line of droppers, each pushing items into the next dropper, is known as a dropper pipe. A dropper pipe must be clocked to move items, but can be clocked to move items faster than a hopper pipe's transfer rate. When a dropper pipe pushes items upwards, it is known as a droppervator (short for "dropper elevator").
+A dropper has an ID name of minecraft:dropper, and is further defined by its block data and block entity. A dropper also has a block state which is expected to replace the functionality of block data in a future version.
+A dropper's block data specifies its orientation and activation status.
+Every dropper has a block entity associated with it that holds additional data about the dropper.

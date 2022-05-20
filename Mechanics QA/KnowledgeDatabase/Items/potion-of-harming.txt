@@ -1,0 +1,4 @@
+Dec value: 373:8204.
+Hex value: 175.
+Maximum stack 1.
+A potion of harming will instantly damage the player. Unlike potions of poison, a potion of harming can kill the player. There are 2 types of potions of harming: potion of harming and potion of harming II. Potion of harming will cause 1.5 hearts of damage and potion of harming II will cause 3 hearts of damage.

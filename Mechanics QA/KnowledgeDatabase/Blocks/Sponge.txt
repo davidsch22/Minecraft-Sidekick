@@ -1,0 +1,39 @@
+Sponge is a block notable for being able to remove water in a 5x5x5 area around itself, turning into a wet sponge in the process.
+With the introduction of Ocean Monuments, Sponge blocks can now be harvested while exploring. Sponge can be mined with or without a tool.
+In the 0.0.19a, after they were added they were removed again. .
+As of 1.8 sponges can absorb water within a 5×5×5 area and then becoming a wet sponge.
+Heating a wet sponge in a furnace will return it to a dry sponge.
+Sponges absorb water source blocks around themselves. The .
+sponge must be directly touching a water source to absorb water, and will only absorb water connected to an adjacent water block touching the sponge.
+When a sponge absorbs water, it will convert to a wet sponge, which is darker, drips water, and is unable to soak up any more water. To get back the normal sponge, you need to smelt it in a Furnace. Elder Guardians also drop 1 Wet Sponge when defeated.
+Placing an empty bucket in the Fuel Slot of the furnace while smelting the wet sponge will fill the bucket with the "evaporated" water. (1 bucket for each wet sponge). .
+ A wet sponge will "drip" water if placed in world. .
+ Sponges first appeared in the 0.0.19A update, where they were changed slightly 50 minutes later, until being removed from survival in Beta 1.8. .
+Wet Sponges are available as a drop from the Elder Guardian or can be found in a room in the Ocean Monument structure.
+They share the same sound as Grass.
+Sponges don't absorb water in Minecraft: Pocket Edition.
+In Minecraft Xbox 360 Edition, the old texture for the sponge is still used.
+The old texture of Sponge, before update 1.8.
+If a Sponge sucks up the Water, it will turn into a Wet Sponge.
+Add a photo to this gallery.
+A Sponge is a block that can be used to remove water around itself when placed, turning into a Wet Sponge in the process.
+Either type of sponge can be mined by hand, or with any tool, dropping itself as an item. Mining time is not affected by the tool used.
+An elder guardian drops one wet sponge when killed by the player. Since elder guardians do not respawn, this does not make sponges renewable.
+Ocean monuments have a chance of spawning with a room containing wet sponges, usually having 15-30. More than one sponge room can be generated per monument.
+A wet sponge can be dried in a furnace, making the sponge reusable.
+A sponge can be used to turn water into air (it "absorbs" the water). To place a sponge, use a sponge item while pointing at a surface facing the space the sponge should occupy.
+A sponge instantly absorbs nearby water when it is placed next to water or when water comes into contact with it (by being placed next to the sponge, or by flowing towards it). A sponge absorbs water around itself (water source blocks or flowing water) out to a taxicab distance of 7 in all directions (including up and down), but won't absorb more than 65 blocks of water (water closest to the sponge will be absorbed first). The absorption only propagates from water to water and won't "jump over" non-water blocks (including air).
+When a sponge absorbs water, it turns into a wet sponge.
+A sponge has the ID name minecraft:sponge and is further defined by its block data. A sponge also has a block state which is expected to replace the functionality of block data in a future version.
+An example of sponges keeping an area dry in Minecraft Classic.
+Hidden sponge in the corner of a wood-paneled room, in Minecraft Classic.
+Sponges in the creative inventory in the Adventure Update.
+Dec value: 19.
+Hex value: 13.
+Minimum tool requirement to break: None.
+Blast resistance: 3.
+Maximum stack 64.
+Transparency: No.
+Sponges were once part of the game and had the ability to absorb water within 5 blocks from it, in all directions. They were implemented to stop the flow of water, which didn’t have the limited flow properties it has today. The sponges ability to absorb water were often used to clear large parts of a lake, which made it very easy to build an underwater base. Removing the sponges would let the water flow again.
+Sponges were also perfect to prevent griefers from flooding your house, though in those days most servers didn’t have the anti griefing plugins they have today, so most griefers could simply destroy the sponges and flood your house anyway. Hiding the sponges would delay them, but was often just delaying the inevitable.
+Today, sponges are available in creative mode and by using mods, but they no longer absorb water. They’re purely decorative, often used as a floor in themed rooms, like a child’s bedroom. They’re also used in underwater landscaping, though this is less common.

@@ -1,0 +1,45 @@
+Squid are eight-limbed, aquatic mobs that are always passive towards the player. They can be found in water in any depth of any biome, spawning on any difficulty. Squid are the first water-dwelling mob to appear in Minecraft, the others being the guardian and the elder guardian.
+When moving about, any squid's tentacles will open and close, giving them the appearance of pushing themselves through the water, which they will do slowly. Squid do not take an exact path of travel and will make no attempt to interact with the player. Squid become immobile when they become beached, also taking damage over time as they are out of water. They can take fall damage and burn like any land mob, but they cannot drown. Squid behave like other mobs and can de-spawn over time. If a Squid is killed, it will drop one to three Ink Sacs. Squid will occasionally find their way up to the surface of the water. This can kill them, however, if they do not find their way back to the lower depths.
+Squid are one of the only passive mobs unable to be mated to another.
+Boats can be damaged by any squid on the surface of the water.
+Hitting a squid (with anything) will not make it jolt or run around like other animals.
+As of 1.4 updates, squid now start getting hurt when brought up to land and getting beached. Therefore, Ink Sacs may be found on river shorelines or beaches.
+Squids don't have a death animation.
+Squids and Witches are the only mobs that don't have a sound.
+A squid's mouth can be seen, but not their beaks.
+As of update 1.8, Guardian and Elder Guardian attack squids.
+The Squids were added in the Pocket Edition, version 0.11.0 Build 1.
+Squids can glitch through glass, giving a bit of a surprise to any player walking through underwater tunnels.
+There used to be a bug before 1.4.5 that made squids fly. This was most commonly found in servers, but it could happen in singleplayer. You were able to do this if you packed a bunch of squid together.
+Squid/Gallery.
+Squids are 8-armed mobs that spawn in water.
+Squids spawn in water between layers 46 and sea level, and can be found in any biome.
+In Pocket Edition, squid spawn only in ocean biomes. They also have a chance to spawn as babies.
+When killed, each squid will drop 1-3 ink sacs. They drop 1-3 experience when killed by a player or tamed wolf.
+Squids are always passive towards the player, akin to the other passive mobs found on land.
+When moving about, the squid's tentacles open and close, giving them an appearance of pushing themselves forward. Squids hover in place when first spawned into the world and wander around aimlessly, swimming up and down through each layer. They are not attracted to light, and do not deliberately interact with the player. However, if attacked, squid will attempt to swim away from the player.
+Squids suffocate if they are beached on land for too long. While on land, they do not move, and stay stationary until they suffocate. They can take fall damage and burn like any land mob, but, due to being aquatic they cannot drown.
+Squids cannot swim in lava, even if given a Fire Resistance potion. They simply pass through the lava and behave as if on land.
+Squids (unlike land-based mobs) can swim against a current and not get pushed by it.
+Guardians will attack squids in the same manner as they would a player, regardless of the squid having the Invisibility potion effect.
+In Pocket Edition, squids produce a cloud of black ink particles and rapidly swim away in the opposite direction from the player when attacked.
+Hitting a squid underwater causes them to rise approximately 1/3 to 1/2 a block.
+Squids cannot be damaged by attacking their tentacles.
+When out of water, squid are extremely resistant to knockback.
+Squids behave like some land mobs and attempt to ride a minecart, but this is not always useful as rails and water cannot occupy the same block.
+Squids are the first passive mob that spawn at any light level, in water, and without grass.
+When the world is loaded, all squids are aligned with the tentacles facing east.
+A squid.
+Squid and baby squid in Pocket Edition, along with an 'ink cloud'.
+The teeth on a squid.
+A Squid riding a Minecart.
+Squids that have spawned from the side of a hill.
+A squid beached on the land. After a few seconds it will die.
+A squid that has spawned in an NPC farm.
+Tutorials/Squid farming.
+Ink Sac.
+Squid are the only water dwelling mob in minecraft and can spawn in any large enough body of water, in any biome, in any light level and on any game difficulty level. However, only between height levels 45 and 62. It’s not uncommon to find a squid in your pool or pond.
+Squid drop 1-3 ink sacks and experience orbs worth a total of 1-3 experience points. Ink sacks are used to dye sheep and to create a book and quill.
+Squid usually spawn in groups of 3-5. They can often be found in the deeper parts of rivers, lakes and almost anywhere in the ocean. This makes it a little tricky to find and kill them.
+Squid are one of the only mobs that don’t make a sound. Funnily enough, squid won’t die when they happen to get on land (through punching, mod spawning or using a monster egg) and they can even ride a minecart.
+It’s impossible to breed squid, which further adds to the difficulty of farming ink sacs.

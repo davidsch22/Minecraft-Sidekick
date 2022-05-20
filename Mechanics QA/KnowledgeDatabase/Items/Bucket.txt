@@ -1,0 +1,7 @@
+Buckets are tools used to carry water, lava, or milk.
+A Bucket has an approximately 53% chance of spawning in a dungeon chest, where it will appear in stacks of 1.
+Empty buckets can be used to capture water or lava springs. To fill a bucket with water or lava, the player must press use when looking at a source block. To fill a bucket with milk, the player must press use when looking at a mooshroom or a cow.
+In the Pocket Edition, buckets can hold any block, with the data value corresponding with what will be placed. Since the Bucket of Air doesn't place anything, this slot is used for the milk bucket. Keep in mind all of the special buckets can only be obtained with an external editor. They have the normal bucket sprite.
+Cauldron.
+Bowl.
+Glass Bottle.

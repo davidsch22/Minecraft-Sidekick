@@ -1,0 +1,9 @@
+Dec value: 69 Hex value: 45.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Levers are a type of switch that will either turn something on or off and will continue to do so untill toggled again. Pulling a lever will cause it to send a constant pulse through the block it’s attached to. Levers are created using a stick and cobblestone.
+Levers can be placed on the sides and on top of blocks, but not on the bottom. They cannot be placed on all blocks however, nothing can be placed on transparent blocks like leaves, glass and ice. It is possible to place levers on snow, pumpkins, jack-o-lanterns and melons.
+Levers are the most commonly used switch as they’re easy to use and activate. While pulling a lever down will activate it, this can be used to deactivate circuits by using an inverter (NOT gate). Besides using levers to toggle mechanisms, levers are also used as decoration. Many players attach 2 levers to the side of pumpkins to create a fake person or training dummy.
+Levers also make great taps, especially when it’s placed above a couldron. Levers can also be used to look like supports when blocks are placed above it.

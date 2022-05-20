@@ -1,0 +1,31 @@
+The Dragon egg was added in the Beta 1.9 pre-Release 6. It is an egg that is found and obtainable after defeating the Ender Dragon. Clicking on the egg can cause it to teleport to a nearby area (up to five blocks vertically and fifteen blocks horizontally), creating the teleport particles seen around endermen, nether portal and ender chests. Dragon eggs are like sand and gravel; falling when unsupported. Since they aren't opaque blocks, they cannot suffocate the player. To collect it you can: move the dragon egg with a piston; trap the egg with bedrock then mine it; or trap with bedrock, place a non-solid block (a torch works) under the block under the egg then mine the block under the egg, the egg should fall onto the torch and switch to item form. Or hit another block first then hit the dragon egg.You can have from 100 to 200 xp levels.
+It has been said by Jeb that if red dragons were to ever be implemented, that the dragon egg may be a possible way of obtaining one.
+Dragon eggs have no purpose in the game other than being a trophy and decoration.
+ You should be able to spawn the Ender Dragon again by the 1.9 Combat Update, it is possible you can breed and ride it once you spawn it. .
+The dragon egg is the rarest block in survival Minecraft.
+A single dragon egg spawns on top of the exit End Portal left by the ender dragon. Dragon eggs cannot be mined directly, as when trying to mine it will cause the egg to teleport. However, the egg does not teleport if there aren't any air blocks available for it to teleport to, allowing to mine it. It drops as an item when falls into a non-solid transparent block, or when pushed by a piston.
+To cause the egg to teleport, press attack while in survival or adventure mode (use in creative). It teleports to a place nearby (up to seven blocks vertically and fifteen blocks horizontally), creating the same particles as endermen. It may teleport into the air and subsequently fall to the ground.
+The dragon egg, if there is no block below it, will fall until it lands on the next available block. When it is being affected by gravity and falling, it exhibits a smooth falling animation.
+It does not suffocate mobs or players when it falls and covers them.
+The dragon egg can be placed on a non-solid block without falling.
+Dragon eggs emit a light level of 1.
+ Dynamic block entity data  Tile (deprecated): The Block ID. Not limited to only sand, gravel, dragon eggs, or anvils. Although deprecated, this value is always present.
+ Dynamic block entity data  TileID: The Block ID, as above, but now supporting the 1-4095 range. Only prior to 1.8.
+ Dynamic block entity data  Block: The Block ID using the alphabetical ID format: minecraft:stone. Only in and after 1.8.
+ Dynamic block entity data  TileEntityData: Optional. The tags of the block entity for this block.
+ Dynamic block entity data  Data: The data value for the block.
+ Dynamic block entity data  Time: The number of ticks the entity has existed. If set to 0, the moment it ticks to 1, it will vanish if the block at its location has a different ID than the entity's TileID. If the block at its location has the same ID as its TileID when Time ticks from 0 to 1, the block will instead be deleted, and the entity will continue to fall, having overwritten it. (This was the result of Mojang's failed attempt to "fix" infinite sand/gravel/dragon egg/anvil/etc. generators by trying to have the falling sand entity delete the duplicated block the next tick) When Time goes above 600, or above 100 while the block is below Y=0, the entity is deleted.
+ Dynamic block entity data  DropItem: 1 or 0 (true/false) - true if the block should drop as an item when it breaks. A technical block (meaning any block that doesn't have an item form with the same ID as the block) won't drop even if this is set.
+ Dynamic block entity data  HurtEntities: 1 or 0 (true/false) - true if the block should hurt entities it falls on.
+ Dynamic block entity data  FallHurtMax: The maximum number of hitpoints of damage to inflict on entities that intersect this FallingSand. For vanilla FallingSand, always 40 ( × 20).
+ Dynamic block entity data  FallHurtAmount: Multiplied by the FallDistance to calculate the amount of damage to inflict. For vanilla FallingSand, always 2.
+The writer of the Minecraft comic WonderCraft, Samcube, was requested by Mojang to create official Minecraft posters. In part of these works, one can see an area with an ender dragon and a chicken on top of a huge mushroom. In the same scene the dragon egg is visible near the chicken.
+The dragon egg can be considered the rarest block obtainable in survival due to the fact that it only spawns once per world.
+Samcube's Minecraft poster showing the dragon egg.
+The dragon egg.
+The teleporting distance of a dragon egg.
+An example of using a piston and a lever to obtain the dragon egg.
+A dragon egg that landed on top of another dragon egg after teleporting.
+A dragon egg stuck atop a snow layer.
+The End.
+Endermite.

@@ -1,0 +1,8 @@
+Dec value: 321.
+Hex value: 141.
+Maximum stack 64.
+Paintings are decorational items which can be placed on the sides of most blocks. There are currently 26 paintings in various sizes, most of these are based on original paintings by Kristoffer Zetterstrand. However, the minecraft versions have been lowered in resolution to fit in minecraft.
+Paintings are created using a piece of wool and 8 wooden planks. The colours of the planks and wool does not matter, you can use any combination of planks and wool. The combination you use will not affect the result, as every painting comes from the same item.
+When you place a painting on the wall, one of the 26 items will be chosen at random, as long as there’s enough space for them to be placed. This is useful for when you want a painting of a particular size, by simply limiting the amount of space the painting can be placed in. It will usually take a few tries to get the desired painting, though it’s not uncommon to have to try over 30 times to get the right painting.
+Hitting a painting will cause it pop off the wall and drop as item. They will also drop if they’re hit by projectiles like arrows, bobbers of a fishing rod and lightning. This is often used in custom adventure maps, as the fallen painting can activate a wooden pressure plate.
+Larger paintings can be placed over holes in the wall. This allows for secret entrances and hidden storages in which you can hide chests, furnaces and other useable blocks and items. You don’t have to knock down the painting to use whatever is behind it. Placing a minecart on the other side allows for a quick escape route or secret entrance to a hidden room, though most players will know what’s up when they see you disapear.

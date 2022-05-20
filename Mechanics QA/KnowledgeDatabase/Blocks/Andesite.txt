@@ -1,0 +1,11 @@
+Andesite was added in the 1.8 update, alongside with Granite and Diorite. Andesite is usually exposed on the surface in the Extreme Hills biome, but generates in other biomes as well. It was added to Pocket Edition in 0.9.0 and generates mainly in caves in large veins.
+ Andesite is a type of igneous rock.
+ Polished Andesite is the polished version of andesite.
+Andesite can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Regular andesite generates anywhere underground in rich seams, in an identical way to the other two stone types, as well as gravel and underground dirt. It is most commonly exposed to the surface in extreme hills biomes but can also be found regularly in other biomes.
+Andesite is currently only used for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+Andesite has the ID name minecraft:stone, which it shares with stone, diorite, and granite, differentiated by its block data. Andesite also has a block state which is expected to replace the functionality of block data in a future version.
+In real life, andesite is extrusive igneous rock of intermediate composition. Its intrusive counterpart is diorite.
+A photo of granite, andesite, and diorite and their polished counterparts.
+Granite, diorite and andesite in one place in a cave.
+Andesite found in an extreme hills biome.

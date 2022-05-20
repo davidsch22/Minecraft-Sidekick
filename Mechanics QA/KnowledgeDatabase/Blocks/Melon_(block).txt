@@ -1,0 +1,16 @@
+Melons are blocks that grow from fully grown melon seeds.
+Melons can be mined with any tool, but axes (and swords) are the quickest. Melons can only be obtained using a tool with silk touch, or it will drop 3–7 melon slices.
+When a melon block is pushed by a piston, it will break into 3–7 melon slices.
+Melons naturally generate in jungle biomes.
+Melon seeds can be planted, placing a small stem that will grow over time. Once the stem reaches maturity, it will attempt to spawn a melon block in one of the four immediately adjacent blocks; however, this attempt may fail if the chosen adjacent block is not empty or the block beneath is not dirt, grass, or farmland. Once a stem has connected to a melon, that stem will not produce any further melons until the existing melon is harvested.
+Farmers will buy 7-12 melons for an emerald.
+Melons were first revealed in an IGN interview with Notch.
+Any stem adjacent to a melon block will appear to be connected to it, even if the melon was not grown from that stem. Due to this, if a melon block spawns between two stems, it will connect to both of them. Pumpkins also do this, although they will not connect to plants of different species.
+On the Getsatisfaction.com complete ideas for the Ideas section, it was stated that Watermelons were to be implemented. Despite the fact that the block and the items are called "Melon" and "Glistering Melon", they have the appearance of Watermelons and Watermelon Slices, like they were originally supposed to be named.
+A melon.
+A picture of the growth stages of a melon stem.
+A view of two equally efficient melon farms.
+A picture of 49% efficient melon farm (2nd version).
+A simple way to farm melons with sticky pistons.
+A completely automatic melon farm.
+Pumpkin.

@@ -1,0 +1,6 @@
+A stick is an item used for crafting many tools and items.
+A bonus chest may contain stacks of 1–3 sticks.
+Sticks can be obtained as a "junk" item while fishing.
+Witches may drop 0-6 sticks when killed.
+Crashed boats drop 2 sticks.
+When used as a furnace fuel, a stick will last for half an operation.

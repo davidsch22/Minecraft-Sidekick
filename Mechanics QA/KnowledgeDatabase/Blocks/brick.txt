@@ -1,0 +1,10 @@
+Dec value: 45.
+Hex value: 2D.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Brick is one of the lesser used blocks in minecraft and doesn’t occur naturally anywhere. It’s made with 4 clay bricks, which makes it a little harder to find than most blocks. Brick can be used to create brick slabs and stairs. A pickaxe has to be used to recover this block, using anything else will destroy it, along with the 4 clay bricks used to create it.
+Like other stone blocks, brick has a blast resistance of 30, making it quite resistant, but not indestructible. Usually the block will only be destroyed if the explosion happens within a block of the brick block. Due to the time needed to find the clay, cook it and turn it into brick, most players use it in small quantities, if they use it at all.
+It’s most commonly used as fireplaces and exterior chimneys due to its resemblance to real life chimneys. In creative mode, brick is used a lot more often. It’s often considered one of the better looking blocks to use for mansions.
+Brick is an item used to craft brick blocks and flower pots.

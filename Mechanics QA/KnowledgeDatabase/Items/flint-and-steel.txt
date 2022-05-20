@@ -1,0 +1,11 @@
+Dec value: 259.
+Hex value: 103.
+Maximum stack 1.
+Flint and Steel is used to set fire to blocks, which is required to activate a Nether portal. It also allows you to activate TNT without the use of redstone power.
+Flint and steel is crafted using flint and an iron ingot, which are often available quite early in game. A flint and steel can be used 65 times.
+Flint and steel will set fire to blocks if you right click them. Flammable blocks will burn untill they’re destroyed. Inflammable blocks will stay on fire for a short time before extinguishing itself. Fire will spread to any block next to it, under it or up to 4 blocks above it, which makes flint and steel a dangerous but powerful tool.
+Netherrack will stay on fire forever, which is why many players use netherrack in fireplaces or as decoration for destroyed houses. Burning netherrack is also a great way to dispose of unwanted items, as any item dropped in fire will be destroyed.
+Burning netherrack will attract passive mobs when it’s dark. If the netherrack is placed on the same level as the surrounding blocks, passive mobs will simply walk into the fire and die. This is a great way to collect food and other items without having to do anything.
+Right clicking TNT while holding a flint and steel will activate it. This is a great way to activate TNT without having to place a redstone or other redstone power items.
+Flint and steel makes a great weapon. Simply lighting fire to the ground below a player or mob will cause to catch fire, while most players will usually survive the duration of the fire, most mobs will die. Chickens, cows and pigs will drop cooked meat if they die by fire, which is a great way to save time and resources. Spiders, Enderman and wolves can be set on fire without causing them to attack you. Zombie pigmen can also be set on fire without causing them to attack, but they’re immunte to fire damage so there’s no point in doing it.
+Flint and steel is a great tool for when you need to clear a large forest or house made out of mostly flammable items. Simply setting a small part on fire will cause the fire the spread and burn everything to the ground. This is often attempted on multiplayer servers on other people’s houses, but most multiplayer servers have fire damage and/or fire spread disabled by plugins.

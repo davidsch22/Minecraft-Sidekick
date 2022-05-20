@@ -1,0 +1,11 @@
+Dec value: 122 Hex value: 7A.
+Minimum tool requirement to break: None.
+Blast resistance: 45.
+Maximum stack 64.
+Transparency: Yes.
+The dragon egg is an item dropped by the Ender dragon.This means there’s only 1 egg per map, unless you use mods or codes. Once the Ender dragon is defeated, it slowly starts to disolve in the air after which it explodes into 20.000 xp worth of orbs. On the ground beneath it, a portal is created with the Egg on top of a pilar in the middle. Like most other blocks, dragon eggs will be destroyed if an Ender dragon flies through it, though this could only happen if you spawn in more dragons.
+It’s a bit tricky to pick up the egg as clicking it will cause it to teleport away to a nearby spot. There are several ways that make it easy to harvest it, though the first thing you should do is click it once to get it away from the portal. If you harvest it while it’s on the portal you risk letting it fall into the portal, this doesn’t mean it’s gone, but it will make it close to impossible to pick it up as it’s under the portal block.
+Once the egg is somewhere on the floor, the trick is to start mining the block next to it, preferably with your hands as it’s slower. Once you start mining the block, hover your mouse over the egg. You will now harvest the egg without causing it to teleport. Another method to get the egg is to use a piston to push it. The piston will break it and drop it as an item.
+Dragon eggs, like gravel and sand, are affected by gravity. This means you can place a transparent block under the block that’s suporting the egg. By then destroying that block, the egg will fall on the transparent block and break into an item. Even though the dragon egg is affected by gravity, it will not suffocate a player when it drops on the player.
+Dragon eggs are not available in the creative mode inventory, but you can aquire them by clicking an egg with your scroll button, which replaces the current selected hotbar item. This takes quite a bit of time however, so it’s easier to just use a mod.
+On multiplayer servers, dragon eggs are often either placed in a special building, like a museum or temple, or they’re simply given to a player. Admins on multiplayer servers sometimes spawn Ender dragons once in a while as a fun event, so multiple eggs can often be found on a single server.

@@ -1,0 +1,5 @@
+Bowls are containers which are used to hold certain meals.
+Bowls can be obtained as a "junk" item while fishing.
+Rabbit stew and mushroom stew will turn into an empty bowl when eaten.
+In Pocket Edition, is one of the items that the activated Nether Reactor spawns.
+Mushrooms.

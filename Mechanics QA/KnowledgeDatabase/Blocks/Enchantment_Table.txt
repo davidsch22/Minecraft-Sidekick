@@ -1,0 +1,41 @@
+The Enchantment Table is used to enchant certain items using Experience Points. Items that can be enchanted include: Swords, Pickaxes, Shovels, Axes, Bows, Books, and Armor. Enchantment tables alone typically have upgrades ranging from two to seven experience levels. If within a certain range, the book on the table will open and flip through a several pages. If you move while within this proximity, the book will turn to face you directly.
+You can increase the chance of getting a better enchantment by placing bookshelves around the table. Only Bookshelves that are two blocks away will add enchantments. When placed correctly, an animation of floating symbols moving into the book entity will occur. The text is written in the Standard Galactic Alphabet. The ideal position of Bookshelves is a square of 15 placed in a 5x5-block outline, with the Enchantment Table.
+Protection.
+Fire Protection.
+Blast Protection.
+Projectile Protection.
+Aqua Affinity(Helmet).
+Respiration (Helmet).
+Thorns.
+Feather Falling(Boots).
+Depth Strider(Boots).
+According to the first image that Notch posted of the Enchantment Table, they were originally crafted with Cobblestone instead of Obsidian.
+When crouching on the Enchantment Table, you can still walk off its edge, due to its height not being a full block.
+Enchantment Tables have the same blast resistance as obsidian.
+The bottom of the table is an obsidian slab.
+The highest level of enchantment possible is 30 (previously 50).
+In 1.8 Enchantment Tables got a big update: now you can see what enchantment(s) you get, but you'll have to pay one, two, or three lapis lazuli to get the enchantment. This change has not been carried over to the PS3 edition yet.
+You will need 5 diamonds to craft this table without the help of villagers or looting.
+An enchantment table is a block that allows players to spend their experience point levels to enchant tools, books and armor.
+Enchantment tables can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+The enchantment table is ⁄4 blocks high. Players can walk off its edge when sneaking on it.
+They cannot be moved by pistons. If an enchantment table is placed on ice, the player will slide on it as though it is an ice block, just like slabs.
+The enchanting table's main purpose is to enchant items. Bookshelves surrounding the table, with a block of air in between, will increase the maximum enchantment level. The table will enchant all tools and armor except the hoe, shears, flint and steel, lead and horse armor. The hoe and shears cannot be enchanted by the enchantment table and require an anvil and an appropriate enchanted book.
+The arcane glyphs that float from bookshelves to the enchanting table and the cryptic runes in the enchantment table's interface are written in the Standard Galactic Alphabet, which is a simple alphabet substitution cipher used in the Commander Keen series of computer games.
+The runes are randomly constructed from the following list of words.
+the elder scrolls klaatu berata niktu xyzzy bless curse light darkness fire air earth water hot dry cold wet ignite snuff embiggen twist shorten stretch fiddle destroy imbue galvanize enchant free limited range of towards inside sphere cube self other ball mental physical grow shrink demon elemental spirit animal creature beast humanoid undead fresh stale.
+Three to five words are chosen from the list and appended to each other, then displayed in the Standard Galactic Alphabet. The words chosen are random and are purely cosmetic: they have no relation to the enchantments that will be applied to the item and are not saved on the enchanted item (meaning they will tell you nothing about what the resulting spell will be), and they are only displayed in the enchantment table. They are just decoration for a choice among random enchantments, for each of which only the cost and one of the enchantments is known.
+Enchantment tables have the ID name minecraft:enchanting_table, and a data value of 116.
+The enchantment table actually produces the particles emitted from the bookshelves. These particles originate inside the Enchantment table and are relocated to the bookshelf almost immediately, but travel slow enough to be briefly visible. The particle that enters and leaves the bookshelf is always the same "letter", but the ones traveling into the bookshelves are black.
+Enchantment tables are mostly made of obsidian, and thus have a blast resistance of 6,000 and cannot be destroyed by TNT.
+Enchanting tables are midway between slabs and full blocks height-wise, so they could be potentially used as a TNT cannon's range-amplifier instead of slabs or trapdoors.
+When you place a light block (such as glowstone or a lit redstone lamp) and place an enchantment table on it, the light stays.
+When the player is invisible, the enchantment table can still "see" the player and open up.
+The phrase "klaatu berata niktu" is a reference to the 1951 movie The Day The Earth Stood Still.
+The phrase "The Elder Scrolls" is a reference to the ongoing series of games with the same name developed by Bethesda Game Studios.
+The old enchantment table enchanting grid.
+The enchantment table receiving knowledge from nearby bookshelves.
+The enchantment table with the book closed and spinning.
+Some enchantments, as posted by Jeb.
+Color coded texture for the book entity.
+Color code legend for book entity texture guide.

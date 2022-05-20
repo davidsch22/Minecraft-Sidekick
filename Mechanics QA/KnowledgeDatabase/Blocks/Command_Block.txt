@@ -1,0 +1,60 @@
+The Command Block is a redstone-powered block that was made available in the 1.4 patch for Minecraft. The Command Block will perform server commands when attached to a redstone circuit. This block cannot be crafted and only server administrators are allowed to place them. Command blocks can only be obtained when cheats are activated, and can still only be used in creative mode, preventing survival players in a server from accessing "staff" abilities. Command blocks are invincible outside of creative mode. With Command blocks you can preform commands that players can not preform.
+To get a command block using cheats, type /give @p minecraft:command_block <amount>.
+When attached to a redstone circuit, the Command Block can perform a variety of server commands, such as changing the difficulty or giving players items. There are also gamerules, which are unique commands.
+This table shows the list of gamerules.
+Gamerules are case sensitive.
+You must type in /gamerule before the name of the actual gamerule. true/false tells whether you want to disable the gamerule (false), or enable it (true).
+An example of a gamerule command is /gamerule mobGriefing true.
+This table shows that commands can be restricted to players on the server.
+An example of a command is.
+This command will give the nearest player a stack of Cobblestone.
+Command Blocks can also be used on other entities as of release 1.8, not 1.7. Watch the snapshot videos. They are the 1.8 ones that talk about the @e selector. using the shorthand @e. This can be used to create custom spawners, and therefore is a very useful tool for mapmakers. Here is an example.
+This command  will teleport all entities to the coordinates X=10, Y=64, Z=255.
+You may also check for a specific quality of a Player or Entity.
+This command will teleport the nearest Player in a radius of 10 up 10 blocks.
+You can spawn in a command block with cheats enabled by typing "/give (player name) 137" or /give (player name) "minecraft:command_block".
+ You can spawn mobs that are in the game but cannot be spawned naturally. For Example, /summon Giant ~2 ~ ~ will summon a Giant Zombie 2 blocks away from the command block.
+ If you set the command to /testforblock x y z a open, where x,y,and z are the coordinates of the bottom half of a door, and a is the blockid for the door, by placing a comparator facing away from the command block, you can test if a door is open or shut.
+ Command blocks can hold an unlimited amount of text.
+A Command Block attached to a redstone circuit.
+Items given to a player from a Command Block.
+The interface for a Command Block where the server command can be tested.
+Add a photo to this gallery.
+A command block is a block that can execute commands. Because it cannot be obtained in survival mode without cheats, it is primarily used on multiplayer servers and in custom maps.
+Command blocks can be obtained by using the pick block control or with various commands, such as /give <player> minecraft:command_block <amount>.
+Command blocks are not available in the creative inventory, cannot be broken in survival mode, are not flammable, and have the same blast resistance as bedrock. Command blocks cannot be moved by a piston.
+A command block can execute commands when activated by redstone power. It always has all permissions, so it can be used to allow a specific use of a command by players who can't use that command in general (for example, allowing anyone to obtain a specific item with /give, without allowing everyone to /give themselves whatever they want).
+To enter or modify the command in a command block, use the Use Item control on the command block to open the command block GUI (graphical user interface). The GUI will only open if the player is in creative mode, and has the proper permissions. In singleplayer, cheats must be enabled to edit command blocks. In multiplayer, command blocks can only be edited successfully by operators in creative mode, and for command blocks to work at all the following values must be set in the server.properties file enable-command-block must be set to true.
+properties file op-permission-level must be set to 2 or above (default is 4).
+Commands can be entered in the top text pane. The text limit for commands in a command block is 32,767 characters, but the text pane can only show a small portion of this amount at a time.
+Commands in a command block do not need to be prefixed with the forward slash (/) as they do in the chat window, but using it will still work.
+Below the console command text pane are some reminder tips about how to use target selectors.
+The bottom text pane doesn't appear until the command block has been activated at least once. Its text is not editable and shows the output message of the last executed command (success or failure). The command block GUI allows the player to choose whether the last output should be stored and displayed in the Previous Output text pane. A button to the right of the Previous Output text pane shows O when the output should be stored and X when the output should not be stored. For worlds with many command blocks, especially command blocks running on fast clocks, not storing the output text can reduce memory and storage requirements.
+Click the "Done" button or ↵ Enter to save the command and leave the command block GUI.
+Click the "Cancel" button or Esc to leave the command block GUI without saving any changes.
+Command blocks are redstone mechanisms and can be activated by An adjacent active power component: for example, a redstone torch (except that a redstone torch will not activate a command block it is attached to), a block of redstone, a daylight sensor, a button etc.
+Command blocks are redstone mechanisms and can be activated by An adjacent powered block (for example, an opaque block with an active redstone torch under it).
+Command blocks are redstone mechanisms and can be activated by A powered redstone comparator or redstone repeater facing the mechanism component.
+Command blocks are redstone mechanisms and can be activated by Powered redstone dust configured to point at the command block (or on top of it) or directionless; a command block is not activated by adjacent powered redstone dust which is configured to point away from it.
+In addition, when a command block is cloned by a command to a powered location, the new command block will only execute its command if the original has never been activated (visible in the F3 debug screen as "triggered").
+Unlike all other redstone components except the note block, a command block can be activated every game tick (i.e. every 50 milliseconds). However, activating it two game ticks in a row requires that it transition from powered to unpowered and back during the same tick; see Clock circuit#Setblock clock for the technical details one must know to accomplish this.
+When activated, a command block will try to execute its command.
+When activated, a command block can produce two types of output.
+A command block can power a redstone comparator facing away from it (possibly separated by a block) with a signal strength specific to the last executed command (for example, the number of players affected by the command).
+The signal strength always reflects the last command executed, even after the command block is deactivated.
+The output message describes the success or failure of the executed command, and may be written to multiple destinations.
+Previous Output: The output message is always written to the "Previous Output" text pane of the command block GUI.
+Chat: The output message is written to the chat text in singleplayer mode, or broadcast to all other ops in multiplayer mode, unless it has been suppressed with /gamerule commandBlockOutput false. Some commands may write additional text to the chat as their normal function which won't be suppressed (for example, the /say command will write a message to the chat of all players), separate from the output message. Chat messages which would usually be prefaced by a player's name (such as from the /me, /say and /tell commands) use @ as the player name. If the command block had been named in an anvil before placement, that name will be used instead.
+Logs: The output message is written to multiplayer server logs unless it has been suppressed with /gamerule logAdminCommands false.
+Command blocks can post various success results to scoreboard objectives, including SuccessCount: the number of successes (previously also available by redstone comparator output, but not limited to 15).
+Command blocks can post various success results to scoreboard objectives, including AffectedBlocks: the number of blocks that were altered.
+Command blocks can post various success results to scoreboard objectives, including AffectedEntities: the number of entities that were altered (including players).
+Command blocks can post various success results to scoreboard objectives, including AffectedItems: the number of items that were altered.
+Command blocks can post various success results to scoreboard objectives, including QueryResult: value returned by command.
+The objectives to be used can be specified by running the /stats command or by modifying the command block's NBT data directly with the /blockdata command.
+The following commands cannot be used in a command block: /ban, /banlist, /ban-ip, /debug, /deop, /kick, /op, /pardon, /pardon-ip, /publish, /save-all, /save-off, /save-on, /stop, and /whitelist (i.e., /debug, /publish, and all of the multiplayer-only commands except /list).
+The following commands are usable but with limited functionality (their output only displays in the command block's Previous Output pane rather than being displayed in the chat): /help, /seed, /list, /scoreboard objectives, /scoreboard players, and /scoreboard teams list.
+The following commands use the command block's name (defaults to @) in their output: /me, /say, and /tell.
+A command block has an ID name of minecraft:command_block and is further defined by its block data and block entity. A command block also has a block state which is expected to replace the functionality of block data in a future version.
+A command block's block data specifies whether the command block is currently activated.
+Note: This video is made before 1.7. Since 1.7, you get a command block with '/give <username> minecraft:command_block'. Since 1.8 you can type without 'minecraft:'.

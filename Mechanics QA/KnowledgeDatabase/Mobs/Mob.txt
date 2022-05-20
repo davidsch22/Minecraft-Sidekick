@@ -1,0 +1,22 @@
+Mobs are living game entities that are affected by physics. Mobs are divided into five different types: Neutral, Passive, Utility, Boss, and Hostile (all but utility mobs spawn naturally, except for Iron Golems in villages). Most mobs are useful in some way to the player: Hostile and Boss Mobs often drop useful items, along with Experience Points when killed; Utility Mobs can protect players and villagers from Hostile Mobs, with the exception of Creepers (The downside being that they will sometimes attack Passive or Neutral Mobs too); Neutral and Passive Mobs can sometimes be tamed, and other Passive Mobs can give beneficial items to players, given that they have the right tool (For example Wool or Milk).
+Utility Mobs are Mobs that are created by players and will attack Mobs, sometimes including Neutral Mobs, Passive Mobs, or the player.
+Passive Mobs are Mobs that are harmless to players, and, with the exception of Dogs and Ocelots, other Mobs, even if attacked.
+Neutral Mobs are any type of Mob that is sometimes Passive, but will retaliate against anything that attacks them.
+[[1]].
+Hostile Mobs are any type of Mob that is not a Boss Mob, but will attack players on sight.
+Boss Mobs are special types of Hostile Mobs that are spawned in a special way, and show their Health Bar and name at the top of any nearby player's screen.
+Unused Mobs are Mobs that exist in the Minecraft source code, but cannot be spawned in default survival.
+Unimplemented Mobs are Mobs that do not exist within Minecraft, but may have been planned for a past update.
+See here.
+Out of all mobs in the game, there are only three water mobs: the squid, the Guardian, and the Elder Guardian.
+Mobs can be spawned using spawn eggs, except for Iron Golems, Snow Golems and Withers, which are spawned by the player building them in-game from specific blocks. Also unspawnable by spawn eggs are the enderdragon, wither skeleton (unless a skeleton spawn egg is used in the Nether, where it has a 75% chance to spawn a wither skeleton instead), elder guardians and tamed animals.
+Hostile mobs can sense you from 16 blocks away, this being the Agro radius. (ghasts 100) Boss level hostile mobs have a greater Agro radius.
+Most mob sounds can be heard from 16 blocks away, however the Enderdragon sounds travels for 50 blocks and the Ghast can be heard from up to 100 blocks away.
+Due to a bug, the Guardian's laser attack can also be heard from 100 blocks away.
+If you put any mob on a single block that is 6 blocks high it wont move at all (unless if its a ghast or blaze).
+If you rename a spawn egg "Dinnerbone" or "Grumm" on an anvil, the mob with the name will flip upside down.
+The mob Zombie Horse is not added yet to the game, but according to Notch, it will be either rideable, neutral or hostile. It will also survive daylight.
+The bat is the only passive flying mob in the game which has wings.
+If you name a sheep "jeb_" it will randomly alternate wool colors. Shearing the sheep will still drop the sheep's true wool color.
+If you name a Rabbit "Toast" it will have a special fur texture.
+If lightning hits a Pig, it will turn into a Zombie Pigman; if it hits a Creeper, it will turn into a Charged Creeper; and if it hits a Villager, it will turn into a Witch.

@@ -1,0 +1,8 @@
+Dec value: 367.
+Hex value: 16F.
+Hunger restoration: 2 hunger bar slots, but 80% chance of food poisoning.
+Hunger saturation: 0.8 Maximum stack 64.
+Rotten flesh is obtained by killing zombies and zombie pigmen. It can be eaten and will restore 2 hunger bar slots and 0.8 hunger satisfaction. There’s an 80% chance you’ll get food poisoning, which will deplete your hunger bar (by 2 bars) and hunger satisfaction. However, food poisoning doesn’t stack, so you can eat several pieces of rotten meat to compensate for the loss of food poisoning.
+Drinking milk will cure you from food poisoning.
+Rotten flesh is usually considered a last resort food, for whenever nothing else is at hand and you’re starving and/or dieing. While it is possible to survive off of just rotten flesh, the very low hunger satisfaction restoration means you have to eat very frequently to keep your hunger bar topped up.
+Rotten flesh can be used to feed dogs, without any danger of poisoning them. This makes rotten flesh a perfect substitute for other meats which you can often use yourself.

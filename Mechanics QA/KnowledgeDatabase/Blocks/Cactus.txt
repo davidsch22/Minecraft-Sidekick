@@ -1,0 +1,56 @@
+A Cactus, (plural Cacti), is a block that spawns naturally in Desert biomes. Cacti can rarely be found on clay that is found outside a body of water. When any entity - including the Player - touches a cactus, half a heart will be lost. Cacti are not flammable, so they do not catch on fire when over or touching lava or fire. Cacti can be placed on sand as long as there are no blocks directly adjacent to it (The cactus). Cactus growth and spawning is not dependent on water, however, they can be placed beside a source of Water.
+Here are two good options for farming: automatic farms, and manual farms. Automatic farms can involve pistons and redstone to push the blocks, forcing their gravity-affected nature to come into play. The other option for cactus farming is to simply place a block above and beside the single block of cactus, whenever the cactus attempts to grow, the block will be destroyed because of the cactus's inability to be adjacent to other blocks. One good way to make a farm is putting water around a cactus and a room under the cactus to catch items. You will be damaged if you go near a cactus. You can only place them on sand.
+Cacti will destroy any item that come into contact with them, including harvested cacti blocks. If a player dies by cacti, it is likely that many of their dropped items will be destroyed. Therefore, making traps with cacti in order to farm resources can be less efficient. Cactus can be cooked in a furnace to make cactus green dye. Cacti can be used to protect your house from monsters by using two to three-block-high cactus, and then putting a netherrack block in the ground next to the cactus, then lighting it on fire. This is a common and simple wall which is good against all mobs. Another form of cactus defense is to surround your home with cacti in a wall, with each cactus diagonal from the next one. This is also very efficient, and is easier to make since it does not require traveling to The Nether or anything that might be difficult to obtain. You can also place cacti in flower pots; this way they will not hurt you and you do not need to worry about them being next to a wall.
+When a minecart hits a cactus block, the minecart is destroyed and dropped.
+Cacti can be placed next to saplings. However, the cactus will break when the tree grows.
+In the beta version of Minecraft, cacti were slightly larger when dropped.
+Spiders can climb over cacti, but are hurt in the process.
+The tops of cacti also deal damage despite the lack of spikes.
+In Pocket Edition, there is a "glitch" where cacti planted on sand in water and placed from the bottom to the top of the water will light up the sand like a torch.
+What ever item or block you drop on the cacti it will disappear. This makes it a good trash disposal instead of dangerous, burning lava.
+Cactus/Gallery.
+A Cactus (plural Cacti or Cactus) is a plant that occurs naturally in dry areas.
+Cacti can be mined by hand without taking damage. The tool used to mine the cactus does not affect the speed in which it is mined.
+When the spot a cactus is placed in becomes unsuitable, such as when a solid block is placed next to them or their own sand block underneath is harvested or falls, the cactus block will uproot and will drop as an item.
+A cactus will also be removed and drop itself as an item if a piston tries to push it (trying to pull it does nothing) or moves a block into its space.
+Cacti naturally occur in desert and mesa biomes. They mainly generate as one, two, or three blocks tall.
+Cacti grow only on sand at a rate of one cactus block every 2–4 minutes, and to a maximum height of three blocks; though, higher stacks can be placed by the player. Cacti can only be placed either on sand, red sand, or on other cactus blocks, with no horizontally adjacent solid blocks. Bone meal does not work on cacti to speed its growth. Cacti do not need light to grow and are non-flammable.
+When any entity, including players and mobs, touches a cactus, 1 () damage is taken every 0.5 second. Damage from touching a cactus is reduced by armor, but touching it also damages the armor.
+Cacti will also destroy any items that come into contact with them, including cacti blocks harvested above them.
+When a minecart hits a cactus block, the minecart is dropped as an item - this item is often destroyed as a result, although a hopper will pick it up faster.
+A cactus can also be placed in a flower pot, where it is rendered harmless. Cacti are ⁄8 of a block, similar to chests.
+The bottom of a cactus block does not damage the player.
+Cacti can be placed underwater, provided they are placed on sand, and will grow if they break the surface.
+Cacti can be placed next to saplings, but the cactus will break when the tree grows.
+Endermen can move and place cacti. Thus, they can increase the cactus population in deserts by moving cactus blocks as they grow.
+Signs can be placed on the top of cacti.
+It is possible for cacti to generate on blocks other than sand due to generated structures; refer to the gallery for examples.
+Cacti can be used in the desert to see if you are in a newly generated area. If most of the cacti around you is only one block high, then it is most likely new land.
+Death to a cactus will display "[playername] was pricked to death" in the chat messages.
+It is possible to sneak off cacti.
+It is possible to place blocks on top of a cactus.
+Naturally occurring cacti.
+A cactus surviving in lava.
+Cactus placed by an enderman. This is outdated, as they can now only place on sand.
+Cactus found in a mesa biome.
+A small sized automatic cactus farm.
+A natural nine block tall cactus, extremely rare.
+The bottom of a cactus seen with the "floating cactus" bug.
+The bottom of a cactus seen on a falling item.
+The bottom of a cactus seen on a held item.
+Natural cactus generated against a village structure.
+Naturally floating "ghost cactus.".
+A cactus generated on wooden planks in a village.
+Yet another village cactus.
+Dec value: 81.
+Hex value: 51.
+Minimum tool requirement to break: None.
+Blast resistance: 2.
+Maximum stack 64.
+Transparency: Yes.
+Cacti can be found in abundance in desert biomes, but they sometimes spawn on beaches. They grow up to 3 blocks high, though their size can be increased by placing more cactus blocks on top of it. Cactus blocks will harm players and mobs that come into contact with it, dealing half a heart of damage, every half a second. This makes it very useful for traps, however, cacti can destroy any dropped item that touches it, so careful planning is key when you’re after resources.
+Cactus blocks are non-flammable, allowing them to be used in more complicated traps that include lava or fire. This also means it’s easy to grow them in the Nether, serving great as a border against hostile mobs. Despite harming any mob that comes into contact with it, Endermen can pick up the cactus block and place it somewhere else. This could result in gaps in your line of defence, should you chose to use cacti as such.
+Cactus blocks can only be placed on sand and on other cactus blocks, but they cannot be blaced directly next to other blocks, including other cactus blocks. They can also be placed underwater, but will only grow if the top block is reaching the surface and will not grow passed 3 blocks.
+Removing any block supporting a cactus block will cause the cactus blocks, and all the cactus blocks above it, to fall on the ground as an item. This can speed up harvesting large amounts of cacti by a lot. Cacti grow under any light condition and don’t require water, but using bonemeal on it will not cause it to grow instantly.
+Cactus blocks can be cooked in a furnace, which turns it into cactus green, a dye used to colour wool and sheep, and used to create other dyes.
+Farming cacti is very easy, though takes a bit of time. This process can be made even easier by making a fully automatic cactus farming system, which is fairly easy to make. However, most players have no need for huge quantities of cacti and will often either make a very small, manual farm, or simply harvest the cactus blocks themselves. Both types of farms can be found in our guides, right here.

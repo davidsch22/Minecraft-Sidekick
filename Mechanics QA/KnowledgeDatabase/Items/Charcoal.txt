@@ -1,0 +1,6 @@
+Dec value: 263:1.
+Hex value: 107.
+Maximum stack 64.
+Charcoal is obtained by burning wood in a furnace, each piece of wood will yield only 1 lump of charcoal. Charcoal can be used for everything coal can be used for, which makes it a great alternative for coal in the early parts of the game. Despite having the same properties as coal and looking exactly the same, charcoal and coal cannot be stacked.
+Charcoal is often only used to create torches early in game. As a fuel, charcoal isn’t very efficient, at least when compared to planks. If you compare coal and charcoal, charcoal could be more efficient, but only if you can farm wood faster than you can harvest coal.
+Lava buckets are almost always more efficient than charcoal, but only if the player has already acquired large amounts of iron (for buckets) and has no other use for it. Blaze rods are often less efficient as it takes longer to acquire them in larger quantities and they’re only found (much) later in game.

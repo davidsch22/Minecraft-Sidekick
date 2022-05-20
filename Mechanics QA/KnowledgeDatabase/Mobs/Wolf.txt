@@ -1,0 +1,68 @@
+Wolves, commonly known as dogs when tamed, are a type of tamable animal mob that will most often spawn naturally in Taiga Biomes. If attacked, all nearby wolves will turn into aggressive wolves, meaning their eyes will turn red and they will attack you. If all players leave the game, when they come back all aggressive wolves will have turned back into regular wolves.
+Tamed wolves will only attack mobs that are attacking or were attacked by its owner, while wild wolves will naturally attack Sheep, Rabbits and Skeletons. Tamed wolves can be right clicked to change them between sitting mode and standing mode: In sitting mode, they will stay in the same place unless their owner is attacked, in which case they will teleport to them. In standing mode, they will wander around within a certain range of their owner.
+You can tame a wolf by right clicking it with bones, and it could take anywhere from 1 to 6 bones. Black particles will appear each time you feed the wolf a bone, except for the last one, when you have tamed it, in which case there will be heart particles. You can breed them by feeding 2 adult wolves a piece of any type of raw meat (Including Rotten Flesh). If you hold the meat within a certain range of a wolf, it will rotate it's head and beg for it, and it is then that you can feed it the meat to engage Love Mode, when heart particles will appear. Tamed wolves can be fed any type of meat to heal them, and while untamed wolves can be fed, only tamed wolves can be bred.
+Wolves were introduced in the Beta 1.4 patch, but it was not until 1.1.0 that the breeding mechanic was added, or 1.4 that their collars could be dyed. Wolves existed in TU1 in Console editions and were added to Pocket Edition in 0.9.0.
+If a tamed wolf attacks a wild wolf, it will growl at its owner.
+If you shoot an arrow straight up and hit yourself in a previous version of Minecraft, your own tamed wolves will attack you.
+Wolves do not attack Creepers.
+Tamed wolves will keep their tails up high if they have full health, and down low if they are low on health, because the angle between their back legs and tail is how much health they have.
+A lighting glitch may sometimes cause a wolf to turn all black when it is wet.
+Puppies cannot swim and will likely drown in deep water if not pulled out in time.
+Unused wolf sounds, such as howling can be found in the Minecraft source code.
+Untamed Puppies actually exist. They can be made if you right click on an untamed wolf with a Wolf Spawn Egg in your hand.
+See here.
+Wolves are neutral mobs that can be allied with the player.
+Wolves only spawn naturally in forest, taiga, mega taiga, cold taiga, and cold taiga M biomes.
+Naturally-spawned wolves are untamed, and will become hostile if attacked by the player.
+Wolves drop 3 experience when killed by a player or tamed wolf.
+Wolves can exhibit three different states depending on how the user interacts with them Wild wolves have gray fur, a drooping tail, and their eyes consist of two white pixels and two black pupils. They are neutral towards the player and spawn in packs of 4. They will attack rabbits, skeletons, and sheep without provocation.
+Hostile wolves can be distinguished by their constant growling and appearance. Their tail becomes straight, their eyes become red and the contrast level of the fur increases, revealing dark patches of bristling hair and a mouth line raised in a slight snarl.
+Tamed wolves, or dogs, can be distinguished from wild or hostile wolves from their eyes since they change to look less aggressive. They have an orange collar around their neck, which can be dyed using any color of dye on the wolf. Pressing use on the wolf makes it sit and remain in place while the player is free to move around. Tamed wolves will attack players or mobs that injure their owner. Standing wolves will attack players or mobs that are attacked by their owner, unless the target has the same owner or is on the same team. They will also not attack creepers, ghasts, or tamed horses regardless of owner. Standing tamed wolves will attack skeletons without provocation, but not sheep or rabbits.
+Untamed wolves will despawn like hostile mobs (randomly if more than 32 blocks from all players, instantly if more than 128 blocks from all players), but only after they have been loaded for at least 2 minutes.
+A wolf will become hostile towards a player or other mob that attacks it, unless the attacker is the wolf's owner or is otherwise on the same team, and will also cause nearby wild wolves and standing tamed wolves (in a 33×33×21 cuboid centered on the attacked wolf) to become hostile towards the attacker.
+Skeletons and passive rabbits will actively avoid wolves, killer rabbits will attack them, and sheep will ignore them beyond their normal running after being damaged.
+Standing tamed wolves will wander randomly when near their owner, but will follow if more than 10 blocks away and will teleport to a nearby free block (if any) if more than 12 blocks away. Besides making travel easier, teleporting can be used to rescue them from lava, water, or pits. Wolves can be told to "sit" by pressing use on them, and made to stand again with another press of use. When originally tamed, they will start off sitting.
+ While sitting, they will not follow the player. However, if their owner fights a mob near them, they are still likely to join the fight. When the fight is over, they will go back to sitting (if in water, they won't sit until they are on dry land). They will sit at their new location instead of returning to wherever they were previously.
+ Wolves will stand up and follow the player if pushed into water or injured while sitting.
+ Wolves can find paths to their targets if attacking, even in craters. They will also navigate along the edges of cliffs, but will occasionally take drops long enough to damage them.
+ Wolves attack their targets by leaping at them in exactly the same manner as spiders, but cause no damage while in midair. Tamed wolves will attack an animal the player starts to attack.
+ Wolves can navigate and turn around in 1 × 1 horizontal tunnels.
+Tamed wolves will teleport to their owner if they are more than 12 blocks away, with a few exceptions. Teleporting resets the focus of a tamed wolf, so if a wolf is attacking a mob and teleports beside a player, it will resume following the player.
+ It is possible for tamed wolves to teleport to an inaccessible location and be injured or die of suffocation as a result.
+A wolf will not teleport If the wolf has been ordered to sit. Exception: The wolf is likely to teleport if it is injured while sitting (it will no longer be sitting after it teleports). A dramatic example is if a wolf sitting outside is struck by lightning, in which case it will be on fire when it appears.
+A wolf will not teleport If the wolf is in a minecart.
+A wolf will not teleport If the wolf has been attached to a fence post with a lead.
+A wolf will not teleport If the wolf is in an unloaded chunk.
+A wolf will not teleport If none of the blocks on the edge of a 5×5×1 region centered on the player are transparent blocks with a solid block below and another transparent block above.
+A wolf will not teleport If the player is in another dimension; a wolf will remain in its current dimension until the player returns. However, wolves can be transported to another dimension by pushing them into the portal first.
+A wolf can be tamed by feeding it bones. Once tamed, a wolf will not accept any more bones. Note that the number of bones required is random – each bone has a 1 in 3 chance of taming the wolf. If the wolf is tamed, it will get an orange collar and (if not swimming) the wolf will sit down. Currently, there is no limit to the number of wolves the player can tame.
+A wolf's tail will rise and lower depending on its health. The exact health of an individual wolf can be determined by measuring the angle between its hind legs and tail. The angle indicates the percentage of health that the wolf has. Wild wolves have a maximum health of 8 (), so their tails will always remain significantly lower than those of tamed wolves. Tamed wolves can be healed by feeding them any sort of meat other than fish; this will restore as much of the wolf's health as the same food would restore hunger points when eaten by the player.
+Puppies have only 8 () health when born, but their maximum health is the same as an adult's, and they can be raised to full health by feeding them or using splash potions of healing. Note that wolves do not get food poisoning, so they can freely eat rotten flesh or raw chicken. Feeding a tamed wolf which is already at full health will usually start the "love mode" animation.
+A tamed wolf's collar color can be changed by using a dye on the wolf. The collars are a different layer, so the collar will still be visible when affected by the Invisibility potion effect.
+Wolves can be bred, if tamed and at full health, through the use of any type of meat.
+The growth of baby wolves can be slowly accelerated using any type of meat. Each use takes 10% off the remaining time to grow up.
+The behavior of puppies is the same as tamed wolves. The appearance of the pups also varies. They have large heads, similar to the offspring of pigs, cows, sheep and so on.
+Breeding two wolves that recognize someone else as an owner will cause the puppy to also be owned by the owner of the original two wolves. If two tamed wolves with different owners are bred, the puppy will usually be owned by the parent of the wolf fed first.
+Wolves do not trample crops (but they can destroy them by jumping on them.).
+Wolves can teleport into transparent blocks.
+If you attack a wolf and then give the aggressive wolf food that it can eat (like rotten flesh), hearts will appear as animals do when entering breeding mode. The wolf will not breed and continue attacking the player.
+Aggressive wolves can see you even if you are invisible.
+In Pocket Edition, wolves will attack creepers if you attack one.
+In singleplayer, if you punch a wild wolf and leave its field of vision, it will stare at you and not move at all. Going back into its range will make it continue pursuing you.
+Aggressive wolves have the path-finding of most mobs, such as going around pits, but may sometimes try to jump to get a player that's separated by a 1-2 block gap. In two block gaps, they won't make the jump and fall, but may manage to damage the player.
+Killing your own tamed wolves will still make them drop experience.
+In Xbox 360 and PS3 edition you can only have 1-8 wolves at a time and in the PS4 and Xbox One edition you can only have 1-16 at a time.
+Untamed wolves use their hostile appearance when they are attacking sheep, skeletons, or rabbits. They will change back once the targeted mob dies or gets out of their range.
+Attacking a wild wolf on peaceful won't damage you, but they assume the hostile appearance and try to push you, similar to a baby slime.
+A wild baby wolf's head grows significantly when attacked.
+The first screenshot of wolves.
+The second screenshot of wolves. Here, Jeb implemented sitting.
+A wolf shaking off water droplets after a swim.
+A pack of wolves hunting a cow on command.
+A wolf stuck inside a tree after teleporting.
+Even aggressive wolves will shake off water droplets after a swim.
+Wolves have a darker texture when they are swimming or when it's raining.
+A pack of wolves locking a sheep under a tree (bug).
+Wolves with dyed collars.
+A wild baby wolf that can only be spawned by a wolf spawn egg. Since wild wolves cannot breed, wild baby wolves are considered rare. However, they are still tameable and can become tamed baby wolves.
+A wild baby wolf will become angry if attacked, like their adult variant.

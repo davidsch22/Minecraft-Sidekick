@@ -1,0 +1,22 @@
+Ocean monuments are naturally generated underwater structures that appear in deep oceans. They are inhabited by guardians and elder guardians.
+Ocean monuments only generate in areas with a deep ocean biome at its center point, and an aquatic biome (regular/deep/frozen ocean, regular/frozen river) everywhere within a 29 block square radius around the center point. In order to prevent air pockets, water will generate around the monument as a part of the structure.
+Ocean monuments can spawn in existing chunks from older versions of Minecraft, as long as players have not spent more than 3 minutes total near those chunks.
+The monument is constructed entirely from variants of prismarine and lit by sea lanterns. It includes a large central section flanked by two wings. Under the monument are 23 giant pillars that stretch to the ocean floor. The main entrance is located at the front of the central section.
+The area of the ocean monument will only spawn guardians after generating, also being the only location they spawn.
+The central section consists of various types of chambers. The chambers are randomly generated; each monument has a different number of rooms (at least six) arranged in a unique manner. The chambers connect vertically and horizontally to the different parts of the monument, including the left and right wings. At the topmost room resides an elder guardian. Around the center of the central section lies the treasure chamber, a tall room with eight gold blocks encased in dark prismarine.
+Occasionally, monuments contain a room with several wet sponges on the ceiling. Rarely, these rooms can come in multitudes.
+One of the wings contains a large room with a small pillar at the center. The room contains a second elder. The other wing is made up of a huge open space with a large, square-shaped platform, containing another elder guardian. A long hallway that arcs around the wings and the back portion of the monument connects the two wings together.
+Ocean monuments will always contain three elder guardians - one at the top and one in each wing.
+Ocean monuments generate normally in customized worlds with lava oceans set to yes, and some water patches will appear in the lava which will shield themself with obsidian if updated.
+Guardians are the only hostile mobs able to spawn within the 58×58×23 area containing the monument; normal Overworld hostile mobs will not spawn inside.
+A comparison between a desert temple, jungle temple and an ocean monument.
+A view of the monument from above.
+The first released image of the ocean monument in development (note that ocean monuments do not have a room that resembles the one in the picture).
+An elder guardian spreading its spikes.
+The treasure (8 gold blocks) uncovered.
+The monument generates with water around it, separate from the world generation.
+An ocean monument that spawned in a lava ocean. Note the glitched water.
+An elder guardian found somewhere in the monument.
+Map of an Ocean monument.
+Defeating an ocean monument.
+Guardian farming.

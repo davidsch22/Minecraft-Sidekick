@@ -1,0 +1,20 @@
+An ender pearl is an item which is used to teleport.
+Endermen may drop 0-1 ender pearl when killed.
+Stronghold slab altar chests may contain ender pearls in stacks of 1.
+To throw an ender pearl, press use, and the player character will teleport to its impact location, consuming the ender pearl, and dealing 5 () damage to the user. Wearing armor enchanted with Protection and/or Feather Falling reduces the damage taken from the ender pearl. With enough protection and enough pearls, one could travel a long distance very quickly. Ender pearls do not function in Creative mode.
+Ender pearls can travel about 30 meters when thrown straight up and about 50 meters forward when thrown in a 45° angle.
+Ender pearls collide with vines, grass, dead bushes, ferns, flowers, all sapling types, all mushrooms types, all minecart types, boats, and nether portals.
+Ender pearls have a 5% chance to spawn endermites when used.
+Ender pearls can be used to teleport/move through non-solid blocks by pressing against the blocks and using the ender pearl at the player's feet until the player goes through.
+It is possible to spawn a thrown ender pearl with the ID 14, but it does not teleport. This will only display the ender pearl sprite and disappear instantly.
+If the player throws an ender pearl and then dies before impact, the player does not teleport after respawning, nor take fall damage from the pearl.
+If the player throws an ender pearl in survival mode and changes to creative mode before the pearl lands, the player is still teleported.
+The player is teleported if they throw an ender pearl and enter the Nether before it lands. The pearl is not lost if an Ender Pearl is thrown into a nether portal and the player travels through the portal, the pearl will appear and land and teleport the player as if you had just thrown it.
+If multiple ender pearls are thrown in succession, the player can only be hurt once from fall damage within about a one second span.
+If a player dies from ender pearl teleportation, the death message will say: "<player> hit the ground too hard".
+Ender pearls have a small cone of fire; if you throw them straight up, they will not all follow the same path.
+Ender pearls were formerly found in water, however endermen now teleport out to prevent damage.
+Graph about throwing angle relative to Ender Pearl horizontal velocity.
+The End.
+Ender Dragon.
+End Portal.

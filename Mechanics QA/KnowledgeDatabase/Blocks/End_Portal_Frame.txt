@@ -1,0 +1,12 @@
+ End Portal Frame is a block found in Strongholds which are arranged in a 12 block ring pattern over a pool of Lava. Some of the frame blocks will already have an Eye of Ender inserted into it, with others empty. Once each of the 12 End Portal Frame blocks contain an Eye of Ender, an end portal will open and engage. Eyes of Ender can be obtained by crafting them from Ender Pearls and Blaze Powder. Entering The End is a one way trip and a player can only return to The Nether or the Overworld via death in The End or by defeating an Ender Dragon.
+The End Portal Frame can only be destroyed via creative mode.The only way to obtain an End Portal Frame is through the use of hacking or modding. Ever since 1.4, End Portal Frames have been added to the creative menu.
+Strangely, breaking an End Portal Frame makes the same sound of a Glass block breaking.
+End Portal Frame are slightly larger than Slabs.
+End Portals have End Stone on the bottom.
+Building your own End Portal ring and filling it with Eyes of Ender will not activate. .
+(NOTE: This will work of the portal is built on top of wool).
+An End Portal Frame block without an Eye of Ender in it.
+An active End Portal. Note the End Portal Frame blocks with an Eye of Ender in each of them.
+The stairs leading up to an End Portal.
+Another view of an active End Portal.
+Add a photo to this gallery.

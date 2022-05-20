@@ -1,0 +1,8 @@
+Dec value: 98:2.
+Hex value: 62.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30 M.
+Maximum stack 64.
+Transparency: No.
+These blocks are a variant of the normal stone brick, but cannot be crafted. They’re only found in strongholds, making them one of the rarest blocks in minecraft. Cracked stone bricks are often used in combination with normal stone bricks and mossy stone bricks to create beautiful looking ruins and tombs. Cracked stone bricks can be used to craft stone brick slabs and stone brick stairs, these will not have a cracked texture.
+Silverfish are capable of entering and hiding in these stones, but this will change the block to look like normal stone brick, with different properties than regular stone brick. Breaking this new type of stone will set the silverfish free, which will attack you and it’ll call other silverfish who might be hiding in other stones. Luckily, Silverfish only appear naturally in strongholds.

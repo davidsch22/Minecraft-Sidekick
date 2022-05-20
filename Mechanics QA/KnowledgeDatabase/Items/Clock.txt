@@ -1,0 +1,19 @@
+Clocks (sometimes called watches), are items that display the current in-game time by displaying the sun and the moon's position relative to the horizon.
+A single clock can be bought from a librarian villager for 10 to 12 emeralds as part of their tier 3 trades.
+The clock consists of two halves, a day side and a night side. These spin slowly to indicate the time of day, corresponding to the sun or moon's actual position in the sky. The player is able to sleep a few seconds after the clock shows exactly dusk.
+Clocks will still show the proper time when viewed in any way, including as a dropped item, in a player's hand, in any inventory or the crafting table, or in an item frame.
+Clocks do not work in the Nether or the End, the dial will instead rewind rapidly showing random times of the day, making it useless for determining the time.
+A clock can be viewed under the item statistics page, as long as one has made a clock at some point in the past.
+If sleeping with a clock in your hand, upon waking, or the time is changed through the commands, the clock dial will spin rapidly to catch up.
+After completing 100 day-and-night cycles in the Xbox 360 release of Minecraft you are awarded a miniature clock wristwatch for your Xbox Live avatar to wear.
+Dec value: 347.
+Hex value: 15B.
+Maximum stack 1.
+Clocks are round objects that tell the time by showing the position of the sun and the moon. The sun and moon are displayed in the inner section of the clock and half of it is hidden to represent the horizon.
+Clocks are created using 4 gold ingots and a lump of redstone dust, which mean they’re usually only obtained later in game. The clock will even tell the time while it’s being crafted. By placing the required items in the crafting table, the clock in the result slot will tell you the time.
+Telling time on the clocks is very easy. When the sun is up in the middle it’s midday. If the moon is the middle it’s midnight. If the sun is partially hidden on the right side, it’s dusk. If the moon is partially hidden on the right side it’s dawn.
+Clocks are very useful to get a more accurate time of the day, especially when people have set the view distance to low or tiny, as it will block out the sun. It will also tell you whether it’s safe to come out of your mine or whether it’s possible to sleep. Clocks don’t work in the End or the Nether, as neither dimension has a day and night cycle. The clock will spin around randomly instead.
+If you don’t have a clock it’s still possible to tell time by using a few tricks. The easiest way is to simply keep track of real time. Day and night cycles last 20 minutes, so by simply remembering at what time the sun came up you can always tell almost exactly what time it is in minecraft.
+Depending on how deep you are, building a sky light could be a perfect solution. As long as you’re not near void fog levels (bottom 16), telling the color of the sky should be easy to do. However, if you’re going really deep, the chance of digging into lava or deep falls increases, so digging a safe skylight can take a while. The easiest method would be to dig a staircase system around a 1 block pillar and removing that pillar as you go down.
+You could also change the view distance quickly as it will reload all the blocks around you. This allows you to see through the world for a brief moment and you’ll be able to see the sun or moon, or at least the color of the sky. This trick works better on slower computers.
+When you’re mining a long tunnel, you may have noticed the fogginess behind you. The color of this foggy light will be white to light blue during the day and dark blue at night.

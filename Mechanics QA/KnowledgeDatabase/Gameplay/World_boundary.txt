@@ -1,0 +1,84 @@
+The world boundary (previously known as the "Far Lands") is the area at the edge of the playable map, around X/Z 29,999,999. As of 1.7.9 and before, there are some strange effects that happen at the world boundary and when approaching it.
+The game no longer kicks the player for attempting to teleport beyond the world border, neither does the game freeze nor show any significant change in performance in comparison to within the border. However, the generated world does appear to become increasingly barren towards X/Z: ±30,000,000, and dropped items begin to 'clump' together in certain places as they fall to the ground.
+In 1.8, the fake chunks beyond X/Z ±29,999,999 no longer exist, instead giving way to an empty void, much like the Far Lands beyond X/Z: ±32,000,000 before the Halloween Update. Also, the invisible wall preventing the player from entering the Far Lands has been removed. A customisable world border was added at X/Z: ±29,999,984 that cannot be bypassed except in spectator mode.
+At X/Z: ±30,000,000, an invisible wall blocks access to the Void.
+If you stand at X/Z: ±29,999,999, and type "/tp @p ~3 ~ ~", you will teleport past the invisible wall. The game will instantly kick you out, saying "Illegal Position". The only way to fix this is to use NBTEdit to change your position.
+The game will not kick you out at X/Z: ±30,000,000. At X/Z: ±30,000,001, the game will freeze. If you attempt to reload the world, it will say "Illegal Position".
+An invisible wall has been added at X/Z ±30,000,000 that goes up to Y = 2,147,483,647. Walking on this wall far enough will cause the game to crash. This acts like the Barrier block that was added in 1.8.
+A torch can be placed on the invisible wall by placing Glowstone next to the invisible wall then placing a torch on top.
+Making a nether portal at X/Z: ±29,999,999 and going through it will take you to around X/Z: ±3,700,000.
+In 13w36b, Minecraft crashes after X/Z: ±29,999,840 on Default, Large Biomes, and AMPLIFIED worlds.
+In 13w37a, there is an invisible wall at X/Z: ±30,000,000 that goes up to Y: 2,147,483,647. Walking on this wall far enough will cause the game to crash.
+Sand, gravel, red sand, anvils, or anything else that can fall, will only fall when placed on certain blocks, will stay in the air on most others, and will immediately drop as an item on other sides. there is no particular pattern, though.
+Fall particles do not appear under the users feet when they land.
+It is possible to teleport into the invisible wall by utilizing the command /tp <username> ±29999999.9 100 0 and it will be as if the player is trapped in a block on all sides, except the side that is facing away from the invisible wall. However, if the player is teleported to a corner where two invisible walls meet, they will be unable to escape while standing. Any items dropped while facing the wall will glitchingly fly about as if trapped in blocks, sometimes flying further into the Far Lands and sometimes being propelled with great force back. The items will be saved and reappear in the invisible wall when the world is saved and reloaded, however, they will be propelled back when flying close enough to where the invisible wall meets the normal world.
+At 12,550,821 and past all falling sand entities drop as dropped items when landing rather than becoming placed blocks no matter what they land on. Just before that point all falling sand entities refuse to fall at all when blocks below them are removed.
+The Far Lands also take effect on the Y-Axis. At about 200,000, snow appears distorted. At about Y= 2,000,000, the snow appears stretched at the Y-Axis. And at about Y= 30,000,000, the snow appears to be stretched a very lot at the Y axis. At Y=2,147,483,647, snow doesn't go any higher.
+If the player uses NBTEdit to teleport past the invisible wall, they will be unable to move, but can still escape by using "/tp".
+Beyond the invisible wall, if blocks are thrown, the falling animation will be very jittery. The thrown block will disappear upon contact of any block other than air.
+The "stuck" position is not present above Y: 2,147,483,647. Above this, the player can walk on an invisible floor.
+Beyond X/Z: ±32,000,000, the game will kick you out with an "Illegal Position" message.
+The maximum Y distance is at Y = 1.797x10, the limit where arithmetics break down in the game's code. If the player attempts to teleport beyond this limit, the game will disconnect the player with a Invalid move packet received client error. The only way to fix this is by using NBTEdit to move the player's location to a coordinate within the limit.
+Some mobs (e.g. slimes) try to go past the world border.
+Spawn eggs fail to spawn monsters.
+Sometimes, it is impossible to attack monsters.
+Unloaded chunks/chunk errors will appear.
+Vehicles are placed incorrectly.
+After X/Z ±29,999,999, fake clientside mobs will render and they cannot move and cannot be killed or despawned. However, they still have the small movement.
+After X/Z ±20,000,650, the item frame looks extremely distorted. It will be very close to you and it moves every time you move. It also disappears when you are near a wall.
+Prior to 1.3 Torch flames stop centering on torches after block X/Z of ± 8,388,607. In the ± X Directions, it will render on the center of the X edge. On the -X side for odd blocks.
+ On the +X side for even blocks.
+ In the ± Z Directions, it will render on the center of the Z edge. On the -Z side for odd blocks.
+ On the +Z side for even blocks.
+ In the corner past X/Z of ± 8,388,607 it will render in the corner of the block. On the +X/Z corner for odd X/Z blocks.
+ On the -X +Z corner for even X odd Z blocks.
+ On the -X -Z corner for even X even Z blocks.
+ On the +X -Z corner for odd X even Z blocks.
+3 Piston Shafts Stop Rendering correctly after X/Z of ± 2,097,151. They render 2 dimensionally in non-corners between X/Z of ± 2,097,151 and X/Z of ± 8,388,607.
+ They do not render at all in corners between X/Z of ± 2,097,151 and X/Z of ± 8,388,607.
+ They render as 3 dimensional rectangles in non-corners after X/Z of ± 8,388,607.
+ When facing up or down, they render as 3 dimensional squares (full block size) in corners after X/Z of ± 8,388,607.
+3 Redstone stops rendering and connecting correctly after block X/Z of ± 4,194,303. After X/Z of ± 1,048,576, redstone starts to stretch and distort. After X/Z of ± 4,194,303 it gets as big as one block, and at X/Z of ± 8,388,607 it stretches even more until you get to X/Z of ± 16,777,216, where the redstone stretches outside the block boundary, could only render in certain places, and when placed, is sometimes offset with the block. The hitbox is still the same.
+3 Rain stops falling in random patterns after X/Z of ± 8,388,607. In non-corners it falls in rows on the side of the blocks.
+ In corners it falls on just the corner of every block.
+3 End Portal Blocks don't render correctly.
+As of 12w18a, the phantom chunks will start generating chunks as of the regular world and you could go over the 32 block limit.
+As of 12w25a, the game lets you travel past 30,000,032 until it says "Illegal Position" at 32,000,000.
+In some cases, a player will not be able to place or destroy any blocks and most of the generation becomes clear. If this is the case the giant wall will seem to despawn. In these cases there is usually a corresponding effect of a lot more caves being generated.
+The fire of torches will appear in/on a block next to the torch, instead of on the torch itself.
+At and past X/Z of ± 8,388,607 lit TNT will jump to the corner of the cell it was lit in. This means Cannons are impossible.
+Piston heads will disappear when the block is activated, and will have the same effect as sand does when falling (then disappears).
+Paintings can be placed over other paintings near the far lands.
+The floating book in the enchantment table seems to behave abnormally when a player is moving near it.
+Redstone occasionally appears extremely distorted, with stretched graphics. It can also appear misplaced, or completely invisible, but the highlight box still appears indicating where redstone is placed.
+Flower pots, cauldrons and hoppers, when looked from the inside, one of the sides is translucent, and the graphics for that side appear one block away on the opposite side of where the texture is missing from.
+Highlight box for cake fails to appear correctly.
+Lily pads fail to appear.
+Flames from a monster spawner only appear on one side of the block.
+Many lighting glitches and strange air pockets form on multiplayer, although untested in singleplayer.
+The graphic for the End portal block fails to appear correctly, and redstone ore particles are only in the corners.
+In Beta 1.8, instead of the Far Lands starting to generate at 12,550,820 meters from the center of the map, the playable area abruptly ends at 30,000,000 meters, or 1,875,000 chunks in a single direction, and fake chunks start generating. From here on, lighting does not work.
+As of Beta 1.8, some of the strange terrain may be gone, but some of the effects aren't. After X/Z ±30,000,000, the world will start generating fake chunks, where lighting doesn't work and blocks stop clipping. Fake chunks are composed of grass, dirt, mycelium, bedrock, stone, (ice on rare occasions, but only spawning 1 block at a time) (or Netherrack if you're in the Nether Far Lands), water, and lava only. No foliage such as trees or grass will generate, nor will mobs. If trees happen to generate next to the edge between the normal overworld and the Far Lands, then the trees will appear to "cut off" on the Far Lands side. There is a dark line of dirt separating the 2 types of chunks. It is possible to walk on them if on the edge. Fake chunks are non-solid; entering them will cause you to fall into the Void.
+ Flying about 32 blocks past the edge of a fake chunk will trap you in the air, immobilizing you. This happens with all entities. This seems no longer be the case as of 1.3.1 and further versions. Also, the clouds will act strangely, moving at abnormally high speeds. Reloading the save should fix the clouds, but the position glitch will still be present; it will be impossible to escape. If you use the /kill command to escape, then you will escape, but after 2 minutes, Minecraft crashes with a black screen, then you cannot play Minecraft anymore.
+ Chunks stop rendering after X/Z of about ± 30,000,064 This seems to no longer be the case as of 12w27a.
+ Water and lava's visual overlays do not render at all considering the nature of blocks in the far lands.
+ At excessive X/Z positions, particles (rain, water, snow, etc.) fail to appear staggered, instead forming rows of flat "panes". This reappears in the "1.8.1" new beta release.
+ The Far Lands do not lag in Beta 1.8.
+ After a player goes past the 20,000 mark on any coordinate the insides of water change into void particles.
+ Past the point of 12,550,868 X/Z, Villager NPC arms will fail to render. However the rest of the body loads perfectly.
+ Ladders do not have hitboxes.
+ Naturally generated structures like caves and ravines form as they would in real chunks, but they are devoid of all ores, and are in fact not solid. The top "solid" layer is dirt, with the "ocean" above it, and "lava" below it.
+ Lighting does not function in fake chunks, appearing at level 15, during the day, and 4 during the night and most block types don't generate, only basic blocks.
+ Blocks will not function as they should; gravel will not fall, torches will produce strange torch flames in random places.
+ Structures will not generate, and structure parts that generate at X/Z= >30,000,000 will get blocked off.
+From Infdev to Beta 1.7.3, a giant distortion wall was generated starting from 12,550,821 onwards. This was known as the "Far Lands". This phenomena was removed in Beta 1.8, as the result of an unintended side effect of the large changes in terrain generation changes.
+Traveling from one edge of the world to the opposite edge by powered rail (the fastest possible method) would take 35 days and 10 hours. Building the rails for such a trip would require enough iron and/or gold to fill over 723 double chests even when packed into blocks, as well as sticks made from enough wood to fill over 135 double chests (as log blocks, not as wood planks, and excluding the redstone torches). ( 53 stacks of logs would be required just to make enough chests to hold all the building materials for this rail track.) If already crafted, the rails required would fill 17,361 double chests. If you had to gather the materials to make all those rails, you'd wear out 14,404 diamond pickaxes and 300 diamond axes (on average, about 3,601 diamond pickaxes and 75 diamond axes, both enchanted with Unbreaking 3).
+A view under the fake chunks (1.6.2).
+As of version 1.7, an invisible wall begins 30,000,000 meters from the world's spawn point. Notice that vegetation is cut off at this point.
+A redstone torch hanging on the invisible wall in Release 1.7. This can be achieved by placing the torch on a non-solid block (such as glass).
+In Release 1.7, slimes try to go to Z:30,000,000.
+20 blocks short of the 30 million mark. Not only are the torches and their flames not lined up, but the flames each picked a different direction to bend.
+The Corner Far Lands in 1.2.5, normal terrain is at the bottom of the image. Note there is neither sand nor clay on the seafloor.
+What the Fake Chunks are like (Left) compared to real chunks (Right) in an ocean biome.
+Void particles in the Far Lands appear in very specific patterns.
+A fake swamp biome past X: 30,000,000. There is only dirt on the seafloor. It also does not generate trees and tall grass.

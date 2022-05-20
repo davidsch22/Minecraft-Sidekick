@@ -1,0 +1,7 @@
+Dec value: 120 Hex value: 78.
+Minimum tool requirement to break: Unbreakable.
+Blast resistance: 18,000,000.
+Maximum stack 64.
+Transparency: Yes.
+End portal frames make up the End portal and only occur naturally in the last room of Strongholds. They cannot be obtained in survival mode. In creative mode they can only be obtained by clicking on a portal frame with the scroll button of your mouse, which replaces the current selected item on your hotbar. This is a terribly slow method of getting it, as you first have to find it. Using mods provides a much faster method to get them.
+End portal frames require activation by placing an Eye of Ender in the empty holes. Once all holes have been filled, the portal will activate and allow you to travel to the End. There is no way back untill either you or the Ender dragon dies, so plan your trip accordingly.

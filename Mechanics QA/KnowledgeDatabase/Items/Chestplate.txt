@@ -1,0 +1,15 @@
+Chestplates are a type of armor that covers the upper body of the player. There are five types of chestplates - Leather Tunic, Chain Chestplate, Iron Chestplate, Diamond Chestplate and Gold Chestplate.
+Zombies, zombie pigmen and skeleton have and small chance to spawn wearing any armor. There is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) that the mob will drop a chestplate upon death. It will usually be badly damaged, and may be enchanted.
+You may find Iron Chestplates in randomly generated chests in villages, abandoned mine shafts, dungeons and the stronghold.
+Blacksmith villagers can sell iron chestplates for 10–14 emeralds as one of their second tier trades, enchanted diamond chestplates for 16–19 emeralds as one of their third tier trades, and chainmail chestplates for 11–15 emeralds as one of their fourth tier trades. Leatherworker villagers sell enchanted leather tunics for 7–12 emeralds as their second tier trade. The enchantments will be the same as might be obtained from an enchantment table at levels 5–19.
+Chestplates can be placed in the 2nd armor slot of a player's inventory for activation.
+Defense points are each signified by half of a shirt of mail in the armor bar above the health bar. Each defense point will reduce any damage dealt to the player which is absorbed by armor by 4%, increasing additively with the number of defense points. Different materials and combinations of armor provide different levels of defense.
+The following table shows the amount of defense points added by chestplates.
+The following table shows the amount of damage each piece of armor can absorb before being destroyed.
+Any "hit" from a damage source that can be blocked by armor will remove one point of durability from each piece of armor worn. Damage taken that armor doesn't protect (such as falling or drowning) will not damage the armor, even if it is enchanted to protect against that type of damage. The following chart displays how many hits chest plates can endure.
+A chestplate can receive the following enchantments Fire Protection.
+A chestplate can receive the following enchantments Projectile Protection.
+A chestplate can receive the following enchantments Blast Protection.
+A chestplate can receive the following enchantments Protection.
+A chestplate can receive the following enchantments Unbreaking.
+A chestplate can receive the following enchantments Thorns.

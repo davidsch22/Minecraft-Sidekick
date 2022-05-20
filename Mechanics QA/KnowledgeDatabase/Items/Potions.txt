@@ -1,0 +1,84 @@
+A Potion is a unique item in the game that can give you special abilities. You can make a potion out of a variety of things. Potions can be brewed in a Brewing Stand which is crafted with 3 cobblestone and a blaze rod, which you can obtain by killing a Blaze. The main starter ingredient to potions are Nether Warts, potions can be started with other ingredients but it is easiest to start with Nether Warts.
+You will require a brewing stand, Glass Bottle (can be crafted using 3 glass), and a Water Source to fill the bottles. .
+Start by filling the Glass bottles with water by right clicking on a water source, or a Cauldron. Once you have finished filling the bottles, you can begin Brewing.
+Slot your Water Bottles inside the Brewing Stand and put your first ingredient (Usually Nether Warts) in the top slot.When it finishes brewing, you should have an Awkward Potion if you used a nether wart.
+Once you have an Awkward Potion, you can put other ingredients in the top slot to create several different effects.
+TIP: If you're not sure what ingredients do what, read on to Potion Recipes.
+Ingredients have a wide range of effects, most of which develop the type of potion, with a few ingredients that specify the potion.
+Bases are key ingredients that typically start of the brewing process. Bases are the first ingredient added. The most commonly used base is the Nether Wart as it trails-off to the largest range of possible potions.
+ Nether Wart.
+ Redstone Dust.
+ Glowstone Dust.
+ Fermented Spider Eye.
+Secondary ingredients are the ingredients that determine the type of potion (in other words, the effect).
+ Rabbit's foot.
+  Magma Cream.
+ Sugar.
+ Glistering Melon.
+ Spider Eye.
+ Ghast Tear.
+ Blaze Powder.
+ Fermented Spider Eye.
+ Golden Carrot.
+Converters describe the aspects of the current potion. It can alter length-of-effect, positivity, or use.
+ Redstone Dust.
+ Glowstone Dust.
+ Gunpowder.
+ Fermented Spider Eye.
+Fermented Spider Eye.
+Fermented Spider Eye → Redstone Dust.
+Nether Wart → Blaze Powder.
+Nether Wart → Blaze Powder → Redstone Dust.
+Nether Wart →  Blaze Powder →  Glowstone Dust.
+Nether Wart →  Ghast Tear.
+Nether Wart →  Ghast Tear →  Redstone Dust.
+Nether Wart →  Ghast Tear →  Glowstone Dust.
+Nether Wart →  Sugar.
+Nether wart →  Sugar →  Redstone Dust.
+Nether Wart →  Sugar →  Glowstone Dust.
+Nether Wart →  Sugar →  Fermented Spider Eye.
+Nether Wart →  Magma Cream →  Fermented Spider Eye.
+Nether Wart →  Sugar →  Fermented Spider Eye ↔  Redstone Dust.
+Nether Wart →  Magma Cream →  Fermented Spider Eye ↔  Redstone Dust.
+Nether Wart →  Glistering Melon.
+Nether Wart →  Glistering Melon →  Glowstone Dust.
+Nether Wart →  Glistering Melon →  Fermented Spider Eye.
+Nether Wart →  Spider Eye →  Fermented Spider Eye.
+Nether Wart →  Glistering Melon →  Fermented Spider Eye ↔  Glowstone Dust.
+Nether Wart →  Spider Eye →  Fermented Spider Eye ↔  Glowstone Dust.
+Nether Wart →  Spider Eye.
+Nether Wart →  Spider Eye →  Redstone Dust.
+Nether Wart →  Spider Eye →  Glowstone Dust.
+Nether Wart →  Magma Cream.
+Nether Wart →  Magma Cream →  Redstone Dust.
+Nether Wart →  Golden Carrot.
+Nether Wart →  Golden Carrot →  Redstone Dust.
+Nether Wart →  Golden Carrot →  Fermented Spider Eye.
+Nether Wart →  Golden Carrot →  Fermented Spider Eye ↔  Redstone Dust.
+Nether Wart → Pufferfish.
+Nether Wart → Pufferfish ↔  Redstone Dust.
+Nether Wart → Rabbit's Foot.
+Nether Wart → Rabbit's Foot → Glowstone Dust.
+When reading the potion recipes, you probably ask what's the difference is between Poison, Poison II, and Poison ext? The regular poison potion has its normal affects that come naturally when first crafted. If you add Redstone Dust to it, it makes the potion last longer, thereby creating Poison ext (Adds ext. at the end of the potion name). If you add Glowstone Dust to it then it makes the potion more potent, meaning the effects are stronger, thereby creating Poison II (Adds a roman numeral equivalent to n+1 where n is how many time you have brewed that potion with another glowstone). This applies to most potions, save for potions with an instant effect (ie. Harming or Healing.) which do not have the option of becoming ext. This is also true for potions with an effect that cannot have its potency increased (ie. Invisibility since you cannot become even more invisible than you already are.) which do not have the option of gaining a roman numeral to its name.
+Glowstone Dust- Increases the potency of any potion.
+Redstone Dust- Extends the duration of any potion.
+The following effects only apply to the regular potion without any duration or potency extents.
+ Weakness - Reduces all melee attacks by 1 heart damage. This will also make it so a player cannot cause damage without a weapon.
+ Strength - Adds 1 and 1/2 heart damage to all melee attacks with or without a weapon.
+ Regeneration - Restores health over time by approximately 1 heart every 2.4 seconds.
+ Swiftness - Increases player's walking speed, sprinting speed, and jumping length by 20%.
+ Slowness - Player's movement is slowed to a crouch for 1 minute 30 seconds.
+ Healing - Restores 3 hearts instantly.
+ Harming - Inflicts 3 hearts of damage.
+ Fire Resistence - Gives immunity to damage from fire, lava, and ranged Blaze attacks.
+ Night Vision - Makes everything appear to be at max light level, including underwater areas.
+ Invisibility - Renders the player invisible. Equipped/wielded items and armor are still visible.
+ Water Breathing - Enables the player to breath underwater.
+ Levitation- Makes the player float in the air (It will appear in 1.9).
+Potion of night vision (left) and a water bottle (right).
+Potion of Regeneration.
+Potion effects all potions will give you (note this is wither).
+Add a photo to this gallery.
+The Leaping potion has not been implemented in the Minecraft: Pocket Edition and the console editions yet.
+The potion of healing harms undead mobs (this includes mobs like Zombies, Skeletons, and the Wither) and the potion of harming heals those mobs.
+The fact of sugar being used to make potions of swiftness is probably based on the common misconception of some sugar making people hyper.

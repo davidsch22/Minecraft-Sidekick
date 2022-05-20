@@ -1,0 +1,17 @@
+The Hardened Clay Block (also called stained clay) is a block that was added in 1.6.1 for PC, 0.9.0 in Pocket Edition, and TU19 in consoles. It is a baked version of a Clay Block. It can be stained many different colors like wool and can be found in the Mesa Biome. When you break hardened clay it does not drop clay, but instead, it drops the hardened clay block itself.
+Hardened Clay Blocks are useful for creating pixel art or creating houses. Like bricks, they aren't useful for anything other than building.
+Hardened clay can be mined using any pickaxe. If mined without a pickaxe, it will be destroyed.
+Hardened clay can be found naturally in mesa biomes. This yields a large quantity of hardened clay.
+Hardened clay blocks can be obtained by smelting a clay block in a furnace.
+Hardened Clay can be dyed similar to wool and leather using 8 block surrounding any dye. .
+Hardened clay has the same explosion resistance as most other stone blocks, which is significantly higher than a regular block of clay before being smelted. A block of hardened clay when one meter away from an explosion will protect any blocks behind it, though it will be destroyed in the process.
+Stained clay retains a darkened hue after being dyed from the original red/brown.
+ As of 1.8 Stained Clay replaced wool in Desert Temples.
+They have a smoother look compared to wool blocks.
+Hardened Clay is a block with a blast resistance comparable to that of stone-based blocks.
+Hardened clay can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Hardened clay can be found naturally in mesa biomes. This yields a large quantity of hardened clay.
+Hardened clay has the same blast resistance as most other stone blocks, which is significantly higher than the block of clay before being smelted. A block of hardened clay when one meter away from an explosion will protect any blocks behind it, though it will be destroyed in the process.
+The first picture of hardened clay tweeted by Dinnerbone.
+The 13w17a banner, featuring hardened clay.
+The 13w37a Banner showing hardened and stained clay in a Mesa Biome.

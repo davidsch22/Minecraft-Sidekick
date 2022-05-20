@@ -1,0 +1,78 @@
+Creepers are one of the most unique and iconic hostile mobs found in Minecraft. A Creeper can easily be recognized by its tall vertical structure (roughly the size of a player), green, pixelated skin, and four legs. It is possibly the most dangerous enemy in the game, as it is not affected by sunlight (but it can despawn after a while), which makes it a constant threat as it silently roams the map, searching for a player to explode upon. It should be noted, however that most Creepers do despawn during the day, along with Spiders. It is often used as the game's mascot by Mojang since Creepers are not "monsters" in real life. Creepers do not deal environmental damage in water.
+The Creeper was created by accident by Notch, creator of Minecraft. Meaning to create the first ever passive mob, the pig, the code went wrong. Instead of a pig he got a tall, slim being with the face and torso the shape of a player. With no arms and 4 stubby legs, this creature became known as the Creeper, a mob that when provoked or within distance of player blows up. It has earned Minecraft billions in marketing, and is the most recognizable Minecraft mob and character, including Steve.
+A Creeper who has found a player will chase down that player until the distance between them is only a few blocks. It should be noted that Creepers tend to walk to the right of a player. The Creeper makes use of a suicide-bomb attack involving getting within close proximity of the player (usually 2-3 blocks) before exploding. The player's only warning to when they are about to explode is a very distinctive hiss and the swelling and flashing of the Creeper itself, which starts about 1–2 seconds prior to the explosion. It takes three full seconds to detonate. After it explodes, it leaves a large crater in the ground. The size of this crater is solely dependent on what the terrain is made from. Typically a hole in the topsoil is created, however, they can be powerful enough to destroy stone. When killed by an arrow shot by a Skeleton, it will drop random Music Discs, which can be played in a Jukebox. It doesn't matter who dealt most of the damage, as long as the last blow was the arrow of a Skeleton. This mob can not use doors but can climb ladders, unlike other hostile mobs.
+Creepers can be somewhat formidable foes when encountered, as their stealth gives them the upper hand. Creepers are slow however, and will also reverse their detonation time if the player leaves their range; this can be used to the player's advantage in melee combat. The player can simply use their Sword and quickly back away before detonation, getting at least two hits in before having to retreat. If this process is repeated, a Creeper can easily be defeated.
+The most effective way to eliminate a Creeper is to simply use a bow, as ranged combat will surmount the creeper's slow speed. Although with a regular bow the player would need at least three arrows, this can be minimized with enchantments. Another effective way is to light the ground on fire with a Flint and Steel and lead the Creeper up to it.
+Whenever possible, try to minimize contact with Creepers until you have a ranged weapon such as a bow to fight them with. If you only have a sword and a Creeper does attack you, move backwards, going either left or right while slashing to maximize the distance between the creeper. If you have a sword enchanted with Knockback, the sword will knock the Creeper several blocks backward depending on the level of enchantment, thus retreating and attacking again will no longer be needed (This can also be done by sprint-hitting the Creeper). It is possible to prevent a Creeper from exploding, by moving away from the Creeper fast enough. The range of a Creeper is determined by your difficulty mode.
+It should be noted that Creepers do spawn unexpectedly and prowl silently, so it is not recommended to go out at night without protection. Look for an area where Creepers cannot reach you before quitting to ensure one doesn't sneak up on you when you return.
+Fighting creepers in water also gives you an advantage, since you can swim faster than the Creeper and easily knock it out of detonation range. You can have a similar advantage if you get the higher ground while fighting on land.
+If a Creeper is hit by lightning it will become a Charged Creeper. These are more dangerous because they have a larger explosion radius. They will also have a blue, glowing "aura" around them.
+If killed by an arrow of a Skeleton, it will drop a record instead of gunpowder. However, if it is not killed by the Skeleton's arrow, the Creeper may attack the skeleton instead of the player.
+Like Spiders and Endermen, the Creeper can survive sunlight, but unlike Spiders, Creepers stay hostile even during the day.
+A Creeper's explosion is less powerful than TNT, unless the Creeper is charged, which makes it far more powerful.
+The Creeper was accidentally created by Notch when he attempted to make the pig. He mixed the height and length, making the shape of the now iconic Creeper. Mojang refers to the incident as a programming bug. The Creeper gets its name because it creeps up behind people, to then explode.
+Iron Golems don't attack Creepers (in versions 1.7.10 and earlier) because of the explosion damaging the village, but if a Creeper got in an Iron Golem's way, the Iron Golem could attack the Creeper, making it blow up. In 1.8, however, Iron Golems will attack creepers anyway.
+Creepers will try to jump on top of the player if they are above them. They explode when they land on top of the player.
+Creepers are scared of ocelots and cats, and when a Creeper spots one, it will deliberately flee from wherever the ocelot or cat is, ignoring the player completely,so it is highly recommended that if exploring at night you take a tamed ocelot with you.
+Charged Creepers will do up to 49 (x 28.5) damage on easy, 97 (x 48.5) damage on normal, and roughly 145 (x 72.5) damage on hard.
+When people asked what the texture of a creeper would be like, Notch said:"crunchy, like dry leaves". This leads to the assumption that they are part plant. This is actually viable because in the plant world there is a plant called Peat Moss which grows spores that explode violently. This might also explain how creepers spawn from nothingness, since that's what mosses seem to do.
+If a creeper explodes in water, no damage will be done to the surrounding blocks. But damage can still be done to The Player and other mobs if they are close enough. If a creeper stands on a slab, only that slab would explode.
+A creeper used to explode when attacked in Creative Mode, back in version "1.2.5".
+There is a glitch where sometimes the creeper will suddenly stop chasing the player, and start walking around in circles, oblivious to the player. The only way of getting the creeper to stop "spinning", is to hit it.
+As of version 1.6 you can "ignite" a creeper with flint and steel.
+Wolves will not attack Creepers. Instead, they will flee until the Creeper has been dealt with.
+ On some shirts in the Jinx store featuring Creepers, a block of TNT is shown inside the head or torso of the Creeper. It is unknown if this is actually how Creepers work, but would explain why they drop gunpowder.
+ A boat with a sail made of green and black wool blocks, arranged to look like the face of a Creeper, can be found in both the PS3 and PS4 tutorial worlds. .
+See here.
+A slow motion video of a Creeper exploding.
+Creepers are common hostile mobs that explode when close to the player.
+Creepers naturally spawn in the Overworld on top of solid blocks with a light level of 7 or less.
+Creepers drop 0-2 gunpowder, and a music disc if killed by a skeleton arrow. They also drop a creeper head if killed by a charged creeper's explosion. They drop 5 experience when killed by a player or tamed wolf.
+Creepers will chase after any player, as long as he/she is within a 16 block (±5%) radius and ±4 blocks vertically. Creepers can climb up ladders and vines like any other mob, but do not do so intentionally.
+When within one block of a player, a creeper will hiss loudly, start flashing and inflating, and violently explode after 1.5 seconds. A creeper's detonation can be halted if the player gets out of the blast radius (about 3 - 5 blocks, depending on the difficulty setting; including by knocking back a creeper) or kills it. However, the creeper's fuse countdown lasts a little longer if it encounters a cobweb. Creepers do not explode in creative mode unless flint and steel is used on it.
+Creepers will flee from ocelots and cats if one is too close, until they are approximately 25-30 blocks away from the feline.
+A creeper's explosion has a power of 3 (but see an exception below).
+Creepers are never targeted by any mobs, other than the wither. If they are hit by a stray projectile, they will only retaliate if they are not already chasing a player.
+A charged creeper is created only when lightning strikes within 3–4 blocks of a normal creeper, which significantly increases its explosive power. Charged creepers are distinguished from normal creepers by the blue aura surrounding them.
+Their countdown timers are the same as normal creepers, both in terms of range and time. With a power of 6, an explosion caused by a charged creeper is twice as powerful as the explosion caused by a regular creeper (see image).
+Charged creepers have the same entity ID as normal creepers. The only difference is that the value of the boolean "powered" tag is set to "1" (true).
+Charged creeper explosions will cause a zombie, skeleton, wither skeleton, or other creeper to drop the corresponding mob head, one per explosion.
+Notch stated on Twitter that "I imagine [Creepers] as being made out of leaves or similar. I'm not sure why they explode.".
+In SMP, if a creeper is attacked by another player, and the other player runs out of sight, it will not attack any other players.
+When about to detonate, creepers will cease movement and its head will face directly forward. (Tested in the PC edition).
+When asked how creepers trigger their explosive nature, Dinnerbone said "They're so nervous that they shake a lot, and then this sets them off the same way as how rubbing two sticks makes fire".
+When attacking, creepers walk straight, and then once they reach detonation zone, they always strafe to the left of the target entity.
+Creepers have a formidable reputation in the community because of their potential to hurt players and destroy structures. Their distinct appearance and destructive abilities have made them a widely-recognizable Minecraft icon. Creepers are referenced in several of the items available at the Minecraft merchandise depot, and have become an internet meme complete with fan art, web comic references, and demotivational posters. A central part of the meme is the creeper's unofficial catchphrase derived from the mob's tendency to sneak up on the player and hiss before detonating.
+"That'sssss a very nice <random valuable object> you've got there... It'd be a ssssshame if anything were to happen to it...".
+Creepers have been portrayed in many Minecraft products including but not limited to Stuffed toys.
+Creepers have been portrayed in many Minecraft products including but not limited to Action figures.
+Creepers have been portrayed in many Minecraft products including but not limited to Bracelets.
+Creepers have been portrayed in many Minecraft products including but not limited to T-shirts The creeper anatomy T-shirt reveals the insides of a creeper, and also reveals its scientific name: Creepus Explodus.
+Creepers have been portrayed in many Minecraft products including but not limited to LEGO Minecraft.
+Creepers have been portrayed in many Minecraft products including but not limited to Papercraft.
+Creepers have been portrayed in many Minecraft products including but not limited to Minecraft Facebook profile image.
+Creepers have been portrayed in many Minecraft products including but not limited to In the goodie-bags given out at Minecon 2011, creepers were given as a fold-able and tapable decoration for ones room or collection, along with diamond and grass.
+Minecraft Maps The Custom Map OXM Land made by Oxm Magazine on the Xbox 360 version of Minecraft has a giant creeper head on it, known as the land's god Creepthulhu.
+TV Series Several creepers have appeared on TV during episodes of the TV show Mad (Criminal Minecraft and ThunderLolcats ) In ThunderLolcats they use the catchphrase, saying "That'ssss.. a nice wall you've got there.".
+Youtube Videos YouTube hosts many videos that feature creepers, including review videos, "Let's Play"'s, cartoons, and cameos in many other videos. When searching for the query "Minecraft Creeper", YouTube returns over 1,500,000 videos.
+Console/PC Games In Borderlands 2, creepers appear in a mineshaft in the most north-west part of Caustic Caverns, including dirt, coal ore, stone, gold ore, and a "Badass creeper" that is twice the strength and size of a regular Creeper.
+Console/PC Games In Airmech, creepers appear as a unit "skin" for the suicide bomber unit the boomer. Creepers can be either green, blue, or red, depending on the color of the team that makes them.
+Console/PC Games In Octodad: Dadliest Catch, a creeper head is seen on a shelf in the grocery store along with 2 Pickaxes and some grass blocks. It is part of a collection known as "Mintcraft".
+Console/PC Games In Awesomenauts, one of the playable characters (Clunk) has a "skin" referencing the creeper, complete with hissing and explode sound effects.
+Console/PC Games Seen as a Halloween costume in a game called Terraria.
+Flash Games In Stealing the Diamond, when Henry Stickmin sneaks up to the museum's outer wall with a pickaxe, a Creeper comes up behind him and explodes, destroying part of the wall instead.
+Flash Games At the far end of the map in Stick RPG2, a smiling creeper can be seen in a hole at ground level.
+Flash Games One of the things you can hit in Katawa Crash is a creeper.
+Flash Games In the game Transformice, there is a creeper head that you may purchase as a hat for your mouse.
+Other Games In a game called Quube Twodee made by Universal Chicken in Adelaide, Australia, one of the levels has a creeper face.
+Other Games PixelJunk Shooter 2 for the PS3 shows a small creeper in the title screen hidden among other enemies native to Shooter 2.
+Other Games In a Notch-designed custom level for VVVVVV, "Pyramid Escape", a creeper's face can be seen carved into the background to the far left of the pyramid.
+Other Games In Torchlight 2 the creeper plays an important role in an "Easter egg" mission in the cave named "Notch's cave" where the player walks in and sees a group of creeper charging the player then exploding. Near the end of the cave you can find a minecraft skinned sword.
+Other Games In a game called Strollin, there is a purchasable creeper item, which makes bombs throw you farther.
+Other Games In the mobile game Geometry Dash, beating level 16 "Hexagon Force" on normal mode rewards the player a creeper face cube. This can also be colored to make it look like a normal one.
+Other Games When asked to describe the physical texture of a creeper, Notch said they would feel "crunchy, like dry leaves".
+Other On Monday, June 18, 2012, a creeper was sent above the clouds into space.
+A charged creeper next to a normal Creeper.
+A charged creeper created via spawn eggs and the /weather thunder command.
+Comparison of explosions, from Wither Skull (top left), wither (far left), creeper (left), charged creeper (right), and TNT (far right).
+Tutorials/Charged creeper farming.

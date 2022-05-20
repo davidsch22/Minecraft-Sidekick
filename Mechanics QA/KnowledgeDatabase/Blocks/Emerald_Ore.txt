@@ -1,0 +1,27 @@
+Emerald Ore is the rarest block in Minecraft. It first appeared in 12w21a and was finally added in the 1.3.1 update. It can be found in large veins, but usually appears as small single ores. Emerald Ore is 25 times rarer than Diamonds. It drops one Emerald when mined, and is affected by fortune enchantments. They can only be found in Extreme Hill and Roofed Forest biomes. It can only be found rarely in caves in Layer 10. Otherwise, it can be found in layers 4 through 31.
+One cavern-network underground in a world will probably hold 5 Emerald Ore blocks each, but separately; rarely in veins.
+Emerald Ore is rarer than Emeralds because you can trade with Villagers to get Emeralds.
+The ruby ore was replaced by the emerald ore, and was red in 12w21a. This is different as of snapshot 12w21b.
+Besides trading with Villagers, Emeralds have no use in making things except Emerald Blocks which are mainly decorational as well, although they are used in activating and fueling Beacons, respectively. Due to these two uses, Emeralds in Minecraft: Pocket Edition are only for decoration until villager trading is released.
+It is possible that the possibility (once requirement) of finding Emerald Ore in the Extreme Hills Biome is a reference to the area Emerald Hills in Sonic the Hedgehog 2.
+Emeralds were in early versions of Pocket Edition but were removed for having no use. They were implemented again in 0.9.0.
+The "output" of Emerald Ore: Emeralds.
+Add a photo to this gallery.
+Emerald ore is the rarest mineral block in the game, which drops emerald when mined.
+The emerald ore block itself (rather than its emerald drops) can be obtained by mining it with an iron or diamond pickaxe with the Silk Touch enchantment.
+Emerald ore is only generated in extreme hills biomes (which actually contain more emerald ore chunks than diamond ore chunks). Due to the nature of the generation algorithm, it may be found a short distance into adjacent biomes, but always within the same chunk as an extreme hills biome. It attempts to generate 3-8 times per each chunk, generating anywhere between layers 4 and 32, meaning it can occur as high up as gold can.
+In a world there are about 0.2 emerald ores per chunk. It will only generate in locations which would have otherwise been stone - it is thus possible for as few as 0 to 2 emeralds to generate in a chunk. Found as individual blocks, rather than veins, it can be encountered more commonly than gold, which has a similar range.
+Emerald ore drops 1 emerald and 3-7 experience when mined with an iron pickaxe or better. Mining with a Fortune enchanted pickaxe will increase possible yields by 1 per level ( 1-4 emeralds per ore with level III). If mined with any other tool, it drops 5-7 experience.
+Emeralds are used as the core currency within villages. They can also be obtained by trading a specified item for an emerald.
+Even though emerald ore is rarer than diamond ore, emerald ore is found more often in the extreme hills than diamond. This is because it is scattered.
+In Pocket Edition emerald ore can be mined with a stone pickaxe.
+The first image of the trading system released by Jeb. The emerald ore can be seen in the top right-hand corner with the original texture.
+An enhanced version of Jeb's screenshot showing the original ore texture more clearly.
+The new texture of emerald ore.
+Emerald ore found at layer 18 in an extreme hills biome.
+Naturally occurring emerald ore.
+Emerald blocks, emerald ores, and emeralds.
+A comparison of the occurrence of emerald ore to the occurrence of diamond ore.
+Two emerald ores that generated together, each one in a different chunk.
+An emerald ore block found naturally in a cave.
+An emerald ore block found outside of an extreme hills biome - this case in a desert biome.

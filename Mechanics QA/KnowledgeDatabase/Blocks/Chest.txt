@@ -1,0 +1,65 @@
+ Chests are blocks used to store items and other materials. In very rare instances, chests can also occur inside walls and under floors in dungeons. The contents of these chests are similar to those of normal un-hidden chests. When chests occur in strongholds they are surrounded by stone slabs and stone bricks.
+In multiplayer, chests, as well as doors, can be locked so only certain people can open them by a plugin called Lockette. This allows you to keep diamonds and other expensive items safe. You can also put a sign on a chest to mark the chest as your property. In some multiplayer servers, the chest can be locked with a sign, a plugin or with a magical spell.
+It is very much possible to make triple chests by using the command /setblock. However, performing that action will cause a little bug which the chest inventory will cause the normal inventory (where you carry your items when you don't have space for the 9-slot inventory) become glitched, making the selection buggy.
+To perform these actions, stand beside the double chests and use the command: /setblock ~ ~ ~ chest.
+To access the triple chest, you must select the middle part of the chest. Opening the chests on the left or right chests will cause the chest inventory to look normal double chest inventory.
+It may be possible for Survival Games for some servers, whenever a player dies, they dropped the chest beside the double chest, making the triple chest.
+For some reason, the triple chests you have does not look like a real triple chest, they look like that they normal double chests. Even though you can still select it but you cannot select the 3rd chest that you've placed.
+As of 1.8 they have an open-close animation.
+As of the 1.8.2 update to the Xbox 360 Edition, chests now have an open-close animation.
+If a block is placed on top of a chest and the player tries to retrieve their items, the chest will deny the player access until the block is removed. However, if the block on top of the chest is a slab, stair or another Chest, this won't apply.
+In 1.3.1, Bonus Chests were added as an option, to give the Player a better start in new Survival Mode worlds.
+In Beta Stages, Mojang implemented a practical joke by placing chests that glow and that when clicked, would say you needed a Steve Key, and you wouldn't be able to buy it and you kept buying until you got a certain amount of money, it showed a windows sign saying "If you are prone to seizures, press cancel!".
+As of snapshot 13w19a you can shift right-click and put a chest on donkeys/ mules. Therefore you can have a mule carrying things without getting tired, you can access the mule inventory by looking at one of the chests with you cursor and shift right-clicking.
+During the Christmas season, single chest look like small red presents, and double chests look like large green presents.
+1-2 chests usually appear in a dungeon, however rarely they can spawn with no chests/.
+Some plugins use the chest.
+A Bonus Chest not far from the Player's spawn point.
+Chest texture during Indev 0.31 - Beta 1.7.3.
+A mule equipped with a saddle bag.
+A double chest in Minecraft.
+Add a photo to this gallery.
+A chest is a block that stores items.
+Chests can be obtained by crafting or breaking previously-placed chests, generated chests, and minecarts with chests.
+A chest can be broken using anything, but an axe is the fastest.
+If the chest contains items, the items will also be dropped when it is broken. If one half of a large chest is destroyed, the corresponding items from the destroyed chest will be dropped and the remaining chest will continue to function as a small chest.
+To make a large chest, place two chests next to each other on the floor.
+Chests are naturally generated in dungeons, strongholds, jungle temples, desert temples, nether fortresses, and villages. Minecarts with chests, which when broken will drop a chest, a minecart, and any contents of the chest, are naturally generated in abandoned mine shafts.
+A bonus chest will generate in the player's spawn if the "Bonus Chest" option is enabled in the World Options menu. The bonus chest can't be enabled in hardcore mode.
+The bonus chest acts as a starter kit. It generates once in newly created worlds in which it was enabled and is filled with basic items that may help the player survive early on, getting them started gathering resources, and making the objective of building a shelter a lot easier.
+Up to four torches will spawn around the chest in adjacent horizontal and vertical squares.
+Each seed's Bonus Chest will always contain the same items, except in the console edition, where the loot is generated separately.
+Bonus chests contain up to ten item stacks, chosen from the following list.
+The bonus chest in the console edition may contain any of the above items, except acacia wood. It also may contain the following items Pumpkin Seeds.
+It also may contain the following items Melon Seeds.
+It also may contain the following items Seeds.
+It also may contain the following items Potato.
+It also may contain the following items Carrot.
+It also may contain the following items Cactus.
+It also may contain the following items Red Mushroom.
+It also may contain the following items Brown Mushroom.
+It also may contain the following items Oak Sapling.
+It also may contain the following items Birch Sapling.
+It also may contain the following items Spruce Sapling.
+It also may contain the following items Jungle Sapling.
+Chests can be used as containers and as crafting ingredients.
+To place a chest, use the Place Block control on the face of a block adjacent to the space the chest should occupy.
+Two adjacent chests will join to create a "large chest" (aka "double chest"). Chests cannot be placed in a way that causes a large chest to be next to another chest horizontally (for example, placing a chest next to a large chest and placing a chest in between two chests), but chests can be placed above or below a large chest. A trapped chest or large trapped chest can be placed next to a large chest without restriction, allowing close-packing of alternating single or large chests and trapped chests.
+Chests cannot be moved by pistons, and water and lava will flow around chests without affecting them. Lava can create fire in air blocks next to chests as if the chests were flammable, but the chests will not burn up (and can't be burned by other methods either).
+A single chest has 27 slots of inventory space, and a large chest has 54 slots of inventory space. In a large chest, the top three rows in the interface correspond to the western or northern chest block and the bottom three to the southern or eastern chest block.
+To open the chest GUI, use the Use Item control. To move items between the chest inventory and the player inventory or hotbar while the chest GUI is open, drag or shift-click the items. By holding ⇧ Shift and double-clicking while holding an item, all items of a type clicked on will be moved into or out of the chest. To exit the chest GUI, use the Esc control.
+A chest will not open if there is an opaque block or ocelot above it. Since chests are transparent, they can be stacked on top of one another while still allowing the chests to open.
+By default, the GUI of a chest is labeled "Chest" and the GUI of a large chest is labeled "Large Chest". A chest's GUI label can be changed by naming the chest in an anvil before placing it, or by using the blockdata command (for example, to label a chest at (0,64,0) "Loot!", use blockdata 0 64 0 {CustomName:Loot!}). If only half of a large chest is renamed, that name will be used to label the GUI of the entire large chest, but if the named half is destroyed the other half will revert to the default label. If both halves of a large chest have different names, the GUI will be labeled with the name of the northernmost or westernmost half of the large chest depending on its orientation (the half with the lowest coordinate in the appropriate axis).
+A chest can be "locked" by setting the chest's Lock tag. If a chest's Lock tag is not blank, the chest cannot be opened except by players holding an item with the same name as the Lock tag's text. A chest's Lock tag can be set or unset with the blockdata command. For example, to lock a chest at (0,64,0) so that only players holding an item named "Player's Key" can open the chest, use blockdata 0 64 0 {Lock:"Player's Key"}.
+A chest can be added to a donkey or a mule by pressing use on a donkey or mule.
+A chest attached to a donkey or mule has only 15 slots, and cannot be removed except by killing the carrier. The chest can be opened by holding sneak and pressing use, or by riding the carrier and pressing inventory.
+On December 24, 25, and 26, chests and large chests have their textures changed to Christmas chests. .
+Every chest has an ID name of chest and is further defined by its block data and block entity. A chest also has a block state which is expected to replace the functionality of block data in a future version.
+A chest's block data stores its facing.
+Every chest has a Chest block entity associated with it that holds additional data about the chest.
+First picture released of the new chest animation, also displaying the ability to have chests facing directions other than west.
+A screenshot of a chest opening.
+The chests in the Pocket edition before 0.7.3, it is slighly smaller than chests in older versions of PC.
+Chests can be placed next to each other in Pocket edition 0.7.3 and later, unlike the Xbox and PC versions.
+Custom chest name obtained by using Anvil naming.
+Locked chest (an April Fools joke no longer in the game).

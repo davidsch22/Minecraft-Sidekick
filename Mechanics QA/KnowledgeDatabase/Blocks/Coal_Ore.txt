@@ -1,0 +1,20 @@
+ Coal Ore is the most common ore, with the largest vein, in Minecraft and can be found in surface caves and cliffs, and their veins can be found anywhere underground from the dirt layer to the bedrock. On the surface, they are usually found in veins of 3 or 4, but underground they can have as many as 24 per vein and are extremely common. Coal looks just like stone (as seen below), but with black marks in it, making it easy to distinguish from the surrounding stone blocks.
+Coal is one of the most important resources in Minecraft (despite being extremely common, being able to spawn in veins of 40 or more) and is essential for the player's first days in a World, as coal can be placed on top of a stick in a crafting table to make torches, which will prevent monsters from spawning in the player's house and help them see.
+Coal Ore/Gallery.
+Coal, similar to Redstone, cannot be compressed into an ore block without the help of the Silk Touch enchantment on a pickaxe. Coal is also the fourth longest lasting fuel for furnaces after lava buckets, Blocks of Coal, and Blaze Rods, respectively, with each piece of coal one able to smelt 8 items and lasting for 80 seconds before burning out. Since lava buckets are hard to obtain and require 3 iron, and acquiring Blaze Rods requires you to kill Blazes, coal is the most efficient fuel to use to smelt items.    .
+In an early version of the game, when destroyed without any items coal ore drops a single coal, and three when mined with a pickaxe. Now, destroying coal ore without a pickaxe yields nothing, while destroying it with a pickaxe yields 1 coal.
+If obtained in the inventory, Coal Ore can not be smelted in a furnace.
+Coal can come in veins of over 20 and with fortune can yield up to 2-3 stacks.
+When mined, Coal Ore has a chance to give Experience to the player.
+Coal Ore is a mineral block that drops coal when mined.
+The coal ore block itself (rather than its coal drops) can be obtained by mining it with a pickaxe with the Silk Touch enchantment.
+Coal ore is generated naturally in veins between stone blocks, much like other ores. It is a common sight on almost all maps, and can be found at almost any elevation, from cliff faces, through underground caves and sea bottoms, down to bedrock. On average, there are about 142.6 coal ores per chunk. It is the only ore to appear well above sea level; coal ore comprises about 1% of all stone, regardless of altitude. Coal veins can vary greatly in size — mountaintop deposits are usually five blocks at most, but underground ones are generally at least ten blocks, and can range up to 64.
+Coal ore drops 1 piece of coal and 0 to 2 experience when mined with any pickaxe. Mining with a Fortune enchanted pickaxe will increase yields by 1 per level (up to 4 with level 3).
+Note: Smelting the ore instead of mining it is highly inefficient, as it would require fuel to acquire the coal, which is the main purpose of obtaining coal ore.
+Coal ore on a small cliff.
+A vein of coal that was exposed to show its size.
+A vein of coal naturally occurring in desert.
+A coal vein underwater.
+A coal vein in a Mushroom Biome.
+A very big coal vein.
+A coal vein found in an Extreme Hills Biome.

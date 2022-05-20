@@ -1,0 +1,9 @@
+Dec value: 73.
+Hex value: 49.
+Minimum tool requirement to break: Iron pickaxe.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: No Luminance: 9, if activated.
+Redstone ore is quite rare, found only in the bottom 16 layers of the map, with the exception of the bottom 2 bedrock layers. When anything falls or moves on Redstone ore, with the exception of dropped items, or when a player clicks on it, the Redstone ore will emit a dim light for a short time. Players sometimes use this in adventure maps, in which players have to find their way through a dark room, with their only light source being these blocks.
+Redstone ore can only be mined with an iron or diamond pickaxe and will yield 4-5 lumps of Redstone Dust. Using a pickaxe with a fortune enchantment can increase the amount of Redstone dust that drop from a single ore block, depending on the level of the enchantment. Using a pickaxe with the silk touch enchantment allows the player to harvest the Redstone ore block itself, which can be used for decorational purposes. The block can also be smelted, which will result in just 1 lump of Redstone Dust and is therefore a waste, as mining it will yield far more.
+Redstone dust is used to create various items, which are listed in the article about Redstone Dust. Redstone dust can be placed on the ground and will transfer any power input it received from adjecent blocks, like levers and buttons. This has been used in many simple and some incredibily difficult redstone circuits, performing many tasks from activating a door, to automated farms.

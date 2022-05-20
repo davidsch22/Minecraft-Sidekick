@@ -1,0 +1,31 @@
+The Moon is a sprite that appears during night time.
+The moon illuminates topmost blocks during the night in the same way that the sun illuminates them in the day, but only illuminates them to a Light level of four, rather than the sun's fifteen. You can track the moon's and sun's progress using a Clock.
+Grass blocks or Saplings do not grow in moonlight, however they won't decay in moonlight either.
+The Moon goes through eight lunar phases, and changes phase every night. The phases are (in chronological order) New Moon.
+The phases are (in chronological order) Waxing Crescent.
+The phases are (in chronological order) First Quarter.
+The phases are (in chronological order) Waxing Gibbous.
+The phases are (in chronological order) Full Moon.
+The phases are (in chronological order) Waning Gibbous.
+The phases are (in chronological order) Last Quarter.
+The phases are (in chronological order) Waning Crescent.
+This allows the player to keep rough track of the passage of time, even after spending a few game days underground.
+In the real world, the lunar cycle is 29½ days, which is the basis for our months. However, most real-world calendars are dominated by the longer solar cycle, which produces our year. In Minecraft, the "lunar month" is only eight game days (closer to a week), and there is no trace of a solar cycle. One could certainly build larger calendars by grouping lunar "monthweeks", but any such system is necessarily arbitrary. Then too, animal and crop growth (which drove the development of real-world calendars) take place in game days, while their real-world equivalents require months or years.
+One Minecraft lunar cycle takes 2 hours 40 minutes of play time and three lunar cycles take 8 hours of playtime. This means there are 9 lunar cycles in one real-world day (24 hours) of play. (Beds notwithstanding)!
+The moon and its different phases have two subtle effects on mob spawning, introduced in recent versions.
+As of version 1.4.2, Slimes can spawn on the surface in swamp biomes at night, and the numbers of slimes spawning are proportional to the moon's fullness; most numerous at the full moon, but none at the new moon. This does not influence the old-style spawning of slimes, in designated chunks below 40th level.
+As of version 1.6.1, the moon's phase will affect the chances of certain monster buffs taking effect. All of these effects combine with the new "inhabited chunk" mechanic; for an early game, the moon phase will dominate, but over time it will be overshadowed by the effects of long-term residence in a chunk. On a fuller moon (or more time spent in a chunk), skeletons and zombies have a higher chance to be able to pick up items, and to spawn with weapons and armor. Furthermore, there is a higher chance for their equipment to be enchanted, and if it is, the enchantment levels will be higher. On Hard mode, a fuller moon phase (or longer residence in a chunk) also give spiders a higher chance to spawn with random status effects.
+Together with the moon, the night sky also consists of stars. In current versions, the stars appear as bright points, and the starfield rotates as the night progresses. Because the stars ascent in the east and descend in the west like all celestial bodies, you may navigate by looking at them even when the moon should be invisible. Furthermore the movement of the stars relative to the horizon may be observed more easily and quickly than the movement of the moon in the middle of the sky.
+Night time lasts 7 minutes, excluding 1.5 minutes each for sunrise and sunset.
+The Moon and Sun are not visible while using a render distance of less than four chunks.
+If a player is viewing themselves from the front in third person, during moonrise, the moon will appear red.
+Whereas Earth's Sun and Moon move slowly against the stars (the Moon moves more quickly than the sun), the Minecraft Moon and Sun are fixed in the Sky relative to each other and the stars. Thus, Minecraft cannot have eclipses, nor can the moon show in a daytime sky... at least from surface level.
+ However, if you are some distance above the surface, you can often see both moon and sun at the same time, as the "hidden" of the pair is visible past the edge of the furthest loaded chunks. At level 80 or 90, this is prominent around dawn and dusk, but above cloud level, both moon and sun may be visible for much of the day.
+The (default) appearance of the moon is not consistent with it being an actual body in the Minecraft sky. The Minecraft Moon appears to be lit from a source in the north or south, whereas it "should" be lit from the east or west (by the sun). (For that matter, being fixed opposite to the sun, it "should" be constantly full).
+ The shadow on the moon appears to be a pixelated circle. This suggests that the moon is round, despite its square outline.
+There is no explicit command to change the Moon's phase, but using time add 24000 will advance it to the next phase. Using time add 168000 will advance it to the previous phase (of the next cycle).
+The Moon can be used to tell time in Minecraft; in real life there is roughly one full moon in a month. Therefor a case can be made that there are actually forty-five months in a Minecraft year. This also shows that moon-phase time is better suited for weeks in Minecraft, because forty-five is a lot closer to 52, the number of weeks in a real year, than to twelve, the number of months in a real year.
+The old, larger stars.
+The current look of stars, much smaller than before, beside the moon.
+The separate moon phases in Minecraft Beta 1.9 Pre-release 5.
+The separate moon phases in Minecraft.

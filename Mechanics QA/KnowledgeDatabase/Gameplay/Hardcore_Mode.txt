@@ -1,0 +1,18 @@
+While playing hardcore mode, the game is set to "hardcore" difficulty, which only differs from "hard" difficulty in the fact that it cannot be changed to another difficulty while playing the world. You can't have a bonus chest or cheats. When the player dies, the game over screen only offers a button to delete the world save instead of survival mode’s respawn or title menu buttons. (Not to be confused with the well known minigame ultra hardcore mode, were you don't natrually regenerate health) The world save still exists until the button is pressed, leaving the opportunity for one to keep the world by using 3rd party tools. Exiting the client and loading the world again only reloads the game at the game over screen. Hardcore is available in multiplayer, but if the player dies, the player can't connect to the server again, Instead, it'll say: "You're banned from this server" and you can't spawn anymore. So be careful.
+Play easier difficulties first, It is recommended a beginner should not play on hard or hardcore.
+Don't enter caves unless prepared with at least iron armor, sword and pickaxe.
+Don't go to the Nether or end unless totally prepared.
+Don't be afraid of losing your inventory, be afriad of losing your life.
+Remember if you die it's game over for you, so it isn't wise to leave behind good gear "in case you die".
+While playing hardcore mode, the heart icon of the life gauge are different. The heart is like a normal heart but has 2 black lines on the sides.
+In the world selection screen, Hardcore mode is written in red.
+When a world in hardcore mode is created with the Beta 1.9 pre-release, then played with the Beta 1.8 version, the world is permanently converted into a standard survival world.
+In hardcore mode, you actually get a score once you die, as shown in the first gallery picture.
+When Notch announced Hardcore mode on Twitter, he also posted an image of an "Ultra Hardcore" mode where the premium status of the player's user account is revoked on death. Obviously, this turned out to be a joke.
+You can enable cheats on singleplayer by opening the world to LAN and enabling cheats.
+In the joke update 2.0, hardcore mode had a super-hostile mode instead of hard, where huge "waves" of monsters suddenly appear and lightning randomly strikes the ground.
+Hardcore Mode Heart.
+Survival Mode Heart.
+Message on death.
+What is the difference?
+Add a photo to this gallery.

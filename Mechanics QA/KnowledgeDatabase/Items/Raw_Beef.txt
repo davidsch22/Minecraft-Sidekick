@@ -1,0 +1,10 @@
+Raw Beef is a food item. Steak can be obtained by cooking the Raw Beef in a Furnace with some fuel.
+Raw beef is dropped by Cows and Mooshrooms when killed. Each animal could drop 1 to 3 raw beef.  The Looting enchantment do will increase the maximum number of possible raw beef drops by 1 per level. Each piece of Raw Beef restores 1.5 units of the Food Bar and grants 1.8 points of Hunger Saturation. Raw beef can also be used to heal or breed tamed wolves.
+The player can use a Flint and Steel,  Fire Charge, a Sword with Fire Aspect, or a Bow with Flame to set Cows/Mooshrooms on fire, to obtain Steak as their drops. .
+Raw beef is a food item which can be eaten by the player, or cooked in a furnace to make steak.
+Raw beef is dropped by cows and mooshrooms when they die. Each animal drops 1 to 3 raw beef. The Looting enchantment will increase the maximum number of possible raw beef drops by 1 per level.
+Cows and mooshrooms that die while on fire will drop steak instead.
+To eat raw beef, press and hold use while it is selected in the hotbar. Eating one restores 3 () hunger and 1.8 hunger saturation.
+Raw beef can also be used to heal or breed tamed wolves.
+In the Xbox 360 edition, the in-game description states that eating raw beef "can make you ill. Cook in a furnace." Despite this, eating raw beef has no effects on the player whatsoever.
+Raw Beef and Steak in a preview screenshot.

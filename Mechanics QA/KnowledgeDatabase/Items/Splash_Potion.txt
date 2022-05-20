@@ -1,0 +1,14 @@
+Splash Potions are a variant of potions that can be thrown.
+Splash potions are brewed by adding gunpowder to a normal potion.
+Splash potions are thrown by using them. On impact they explode, applying status effects to nearby entities. The bottle is lost, unlike drinkable potions. Entities within an 8.25×8.25×4.25 cubiod centered on the thrown potion at impact and within 4 blocks euclidean distance of the thrown potion at impact are affected.
+The farther away the entity is from the center of the explosion, the lesser the imbued effect. For effects without duration such as Healing or Harming, the potency of the effect reduces linearly from 100% on a direct hit to 0% at 4 blocks' distance. For effects with duration, the effect has full potency but the duration decreases linearly on the same scale (rounded to the nearest ⁄20 second), with no effect being applied if the duration would be 1 second or less.
+Here is a full list of the names, effects, and damage values of splash potions. Note that the base duration of splash potion is always ⁄4 the duration of corresponding drinkable potion.
+Base splash potions have no effect when you throw them.
+Jeb has commented that while water splash bottles should logically harm endermen and blazes, its coding would be more difficult to implement than is worth while.
+If endermen are targeted directly by a splash potion, they will teleport away before the potion can take effect. However, if they are caught in the splash radius of a potion not aimed at them, they will be affected.
+If killed by a splash potion of harming, the death message would be: [player] was killed by magic.
+A splash potion hovered over in a brewing stand.
+Splash potions’ area of effect.
+Glass Bottle.
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide.
+Minecraft Potions - A Visual Guide.

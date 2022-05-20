@@ -1,0 +1,14 @@
+Dec value: 48.
+Hex value: 30.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Mossy cobblestone is a variety of cobblestone. As the name implies, mossy cobblestone is cobblestone with moss growing on it. This stone can only be found in dungeons, making it quite rare and difficult to find.
+Moss stone serves no purpose other than their aesthetics, as it’s impossible to craft anything with it. It is often used to make buildings look older and weathered. Many players love this look, which makes mossy cobblestone often one of the more expensive blocks on economy servers. Ruins and dungeons are among the favourite structures build with these blocks, usually in combination with stone and cobblestone.
+Dec value: 97:1.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Silverfish are capable of entering and hiding in these stones, but this will change the block to look like normal cobblestone, with different proporties than regular mossy cobblestone. Breaking this new type of stone will set the silverfish free, which will attack you and call upon other silverfish who might be hiding in the surrounding stones. Luckily, Silverfish only appear naturally in strongholds.

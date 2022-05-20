@@ -1,0 +1,41 @@
+Iron Golems are tough Utility Mobs built with four Blocks of Iron and one Pumpkin or Jack o' Lantern that are immune to drowning and fall damage. Iron Golems will naturally spawn in Villages with at least 21 Doors and 15 Villagers. Iron Golems are better known for being created by players, and can be created by building a structure of 4 Iron Blocks, and then placing a Pumpkin on top.
+Iron Golems will become aggressive against anything that attacks them or a Villager, except for the player who built them, and will only become unaggressive if they defeat the player or mob that attacked them, or if all players leave the game. Iron Golems will always stay near Villagers, and will attack any hostile mob that will not blow up on sight, but disadvantegely, will sometimes attack neutral or passive mobs as well.
+Note: You must build this structure vertically to create an Iron Golem.
+Note: Iron Golems cannot be created in single player mode version 1.8.4.
+When created, Iron Golems will always face south.
+Iron Golems holding Roses will turn Villager children into adult Villagers.
+Iron Golems sink in water.
+Iron Golems may be based on the robots from Hayao Miyazaki's movie Castle in the Sky.
+Iron Golems would attack Creepers in 1.8 only.
+Iron Golems are a reference to The Iron Giant.
+Enderman can create Iron Golems, but this is extremely rare.
+Iron Golem/Gallery.
+Iron golems are large, strong utility mobs that defend villagers.
+Golems will spawn in a 16×16×6 area, centered between the 21 or more valid doors in a village if it has at least 10 villagers. The chance of spawning is 1 in 7000 per game tick, which averages around one every six minutes. Iron golems can spawn provided the blocks it spawns in are transparent and the block it spawns on top of has a solid surface.
+The golem can also be built using blocks in a similar fashion to snow golems and withers. The pumpkin must be placed last by the player or a dispenser. Iron golems always face south when spawned, so they may take suffocation damage from nearby solid blocks. The air blocks are not optional.
+Iron golems drop 3-5 iron ingots and 0-2 poppies upon death.
+The Looting enchantment is ineffective against iron golems as it does not give any extra iron ingots or poppies when killed.
+Iron golems are 2.9 blocks high and 1.4 blocks wide.
+Iron golems will wander around a village in a patrol-like fashion, staying close to the edges of buildings and such. Like villagers, iron golems will not wander away from a village, regardless of how they were spawned. Iron golems will sometimes face a villager, as if they are speaking to each other. Iron golems are able to hold poppies and give them to villagers, symbolizing the friendly relationship between the villagers and golems. However, they won't give poppies to other iron golems.
+If not within a village, iron golems will slowly wander aimlessly.
+Iron golems can walk up a full block height without jumping and walk over a 1 block wide hole without falling in. They will avoid water and lava at all times, but not fire or cacti. Iron golems are immune to both drowning and fall damage. When in water, they will sink, immobilize, and become passive, but will still be pushed by flowing water.
+Like passive mobs, iron golems can be leashed.
+When provoked, an iron golem will move quickly toward its target and once in range will swing its arms up violently to attack, dealing 7 () to 21 ( × 10.5) damage and flinging the target into the air. This attack is the 2nd strongest Overworld attack in the game, beaten only by a creeper's explosion. Iron golems have a comparatively large attack range, allowing them to attack through a solid 1 block thick wall, even without line of sight to the target.
+Iron golems will attack any hostile or neutral mob within 16 blocks of them, except wolves and creepers. Iron golems will rarely attack ghasts.
+Naturally spawned iron golems will attack the player if the player attacks them first, but will give up if the player moves out of their search radius. The iron golem will also attack the player if he/she attacks a nearby villager, and does not have to directly see the player to become hostile. Any iron golems built by the player will never attack players under any circumstances, but will still protect villagers from zombies.
+Iron golems have a chance of accidentally hitting another mob while attacking a hostile mob. Additionally, it is possible for multiple golems to simultaneously hit the same target. The height to which the victim is sent flying is relative to the number of golems that attack it.
+Iron golems may also target snow golems if hit by a snowball, usually killing it in one hit.
+Zombies, skeletons, spiders, cave spiders, slimes, magma cubes and blazes will naturally attack iron golems, and may cause major damage, especially if the mobs attack in groups. If an iron golem is attacked by multiple mobs, it will retaliate in the order it was attacked.
+This video states the iron golem as having the second highest health. This was before the introduction of the Wither, meaning they now have the third highest health.
+The iron golem's holding out flowers to villager children is a reference to the ancient robots in Hayao Miyazaki's animated film Laputa: Castle in the Sky, as is the fact that the Golems are covered in vines. When villager children notice the poppy in its hand, they will slowly approach, and take the flower eventually. Iron golems do not actually pick up poppies; they spawn them in their hands.
+Tamed wolves will continue to attack iron golems even after the iron golems have turned passive towards the player.
+If a player throws an ender pearl at an iron golem, it will become hostile.
+Two iron golems may fight each other. The golems will stand face to face and slowly back up, until one or both charge in quickly.
+Even with a poppy in its hands, an iron golem can still hit a hostile mob.
+The iron golem is a purchasable avatar item on the Xbox 360 Marketplace.
+An iron golem offers a villager a rose.
+An iron golem offers a rose to several villager children.
+An iron golem attacking a spider by throwing it into the air.
+An iron golem attacking the player.
+Spawning conditions of the iron golem.
+Spawn boundaries of the village, in case of a single house. If an iron golem exits these boundaries, it will detach from the village and a new one can spawn.

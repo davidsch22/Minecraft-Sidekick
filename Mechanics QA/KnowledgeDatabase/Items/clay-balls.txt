@@ -1,0 +1,5 @@
+Dec value: 337.
+Hex value: 151.
+Maximum stack 64.
+Clay balls can be obtained by digging a clay block, which is most commonly found underwater near the edges if land or in rivers and swamp biomes. A shovel is the best tool to harvest clay and each clay block will drop 4 clay balls. Clay balls are most commonly used to create bricks, but they can also be turned back into a clay block.
+Finding large quantities of clay can be a little tricky, but the best places to look are swamp biomes and shore lines. Especially swamp biomes are good, as the water is often shallow, which makes harvesting the clay a lot faster.

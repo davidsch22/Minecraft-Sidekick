@@ -1,0 +1,9 @@
+Dec value: block: 117; item: 379;.
+Hex value: block: 75; item: 17B;.
+Minimum tool requirement to break: Wooden axe.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Brewing stands are obviously used in brewing and allow up to 3 potions to be made or altered at once. Brewing stands are created using 3 cobblestone blocks and a blaze rod, making it one of the harder to obtain blocks in game. To break the brewing stand without destroying it, a pickaxe has to be used.
+Right clicking the brewing stand will open the brewing interface. In this interface, you can place either 3 bottles of water or 3 potions, as well as 1 ingredient. The ingredient placed in the brewing stand will always by applied to all bottles. This means it’s always best to make sure you put 3 bottle of water or potions in the brewing stand to make sure you get the most out of a single ingredient. More on this can be found in the brewing guide.
+The brewing stand’s main purpose is, of course, brewing potions. Though some players also use it as decoration, as a drink stand in a kitchen for example. The smoke particles emitted from the brewing stand will go through blocks, this can create some fun effects, though torches and fire have the same effect and are easier to obtain.

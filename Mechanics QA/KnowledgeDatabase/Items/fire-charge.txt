@@ -1,0 +1,7 @@
+Dec value: 385.
+Hex value: 181.
+Maximum stack 64.
+Fire charges are used as ammunition for dispensers, though they can also be used to set fire to blocks in the same way as flint and steel. They are created using gunpowder, blaze powder and coal or charcoal. This means fire charges are not usually obtained early in game as blaze powder requires access to the Nether.
+Fire charges in dispensers are shot similar to how arrows are fired by dispensers. An activated dispenser will fire a single fire charge straight out and will continue flying untill it hits something. Unlike arrows, fire charges are not affected by gravity, so they could potentially fly forever. But dispensers fire out their ammunition in different angles, so aiming it can be a bit tricky.
+Fire charges can also be used to set fire to blocks, though a flint and steel does the same job and is both much easier to get and has a lot more uses. Like a flint of steel, fire charges can be used to activate portals. It’s even possible to activate a Nether portal by shooting a fire charge at it with a dispenser.
+Fire charges are widely used in traps due to their long range. A player can be caught off guard by a long range fire charge. Using redstone repeaters or other mechanisms, it’s even possible to delay the firing of the dispenser untill the player moved on and thinks it’s safe.

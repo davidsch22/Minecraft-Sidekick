@@ -1,0 +1,7 @@
+Mushroom Stew is a food item that is made by crafting a bowl and brown and red mushrooms. Eating it recovers 3 hunger points. You can also right-click a Mooshroom with a bowl in your hand and your bowl will be filled with stew, in the same manner as obtaining milk from a cow with a bucket. When the stew is eaten the empty bowl will be put into another stack or dropped if inventory is full.
+Mushroom stew (or mushroom soup) is a food item.
+Mushroom stew can be obtained by “milking” a mooshroom with an empty bowl. This is accomplished by using a bowl on a mooshroom. The bowl will be replaced with the mushroom stew item.
+If a stack of more than one bowl is used on a mooshroom, only one bowl is consumed, and the mushroom stew will go into an empty inventory slot, or be dropped if the player's inventory is full.
+A bowl of mushroom stew restores 6 () and 7.2 saturation points.
+The bowl is returned to the player empty after the stew has been eaten, and can be re-used to craft more.
+Note: Mushroom stew no longer restores 8 () hunger points, but 6 ().

@@ -1,0 +1,52 @@
+Liquids are blocks that, as the name suggests, can flow and spread. There are currently only two liquids in Minecraft, Lava and Water.
+An air block below a liquid block is converted into a liquid block of that type. This happens faster for water than for lava.
+As of Beta version 1.9 pre-release, liquid that is suspended above an open area by one block thick of material will seep through the material and drip to the floor. Lava particles that are seeping do not cause damage or start fires. This makes digging upwards slightly safer, since you can tell if you are near a pool of water/lava.
+Each liquid block has a level value. Source blocks have a level of 0, and the maximum level depends on liquid type.
+  Overworld Water: 7.
+  Nether Water: ?
+  End Water: 7.
+  Overworld Lava: 3.
+  Nether Lava: 7.
+  End Lava: ?
+Note: The "level" value increases as the water is further from the source. A high level value means that the water is actually physically downhill.
+To keep track of which blocks are actively flowing, Water and Lava each have a pair of block IDs. For water, there is Water (8) and Still Water (9). Still Water never updates. Water updates periodically and will change itself to Still Water when it cannot spread any further. When liquids have air to the left and right of it, it will appear to be still, since it can't flow in two directions.
+Changing a block next to Still Water will turn it back to Water so it can spread some more.
+If you edit either type of liquid block into your inventory, they will spread when placed, since placing a block causes updates.
+The state of a liquid block only updates at certain times.
+  On creation.
+The state of a liquid block only updates at certain times.
+  If one of the 6 neighbouring blocks' state changes.
+The state of a liquid block only updates at certain times.
+  If its own level changes.
+State changes that cause an update include.
+  Adding or removing a block.
+State changes that cause an update include.
+  A neighbouring block's level changes.
+State changes that cause an update include.
+  A redstone wire switches on or off.
+When a liquid block updates, it performs the following checks.
+  Check inward flow.
+ If there is a liquid block of the same type above, set level to 1.
+ Otherwise, reduce or increase level in steps of 1 so that it is 1 higher than the one of its 4 neighbouring block with the lowest level*.
+ If level is increased past the max level, replace liquid block with air block.
+ Level cannot be decreased below 1.
+* This does not affect source blocks (level = 0).
+  Check outward flow.
+ This only happens for liquid blocks of less than the max level value.
+ Determine the shortest distance to a fall, but only scan 5 blocks distance*.
+ If any of the directions tied for shortest have an air block, convert that air block to a liquid block with a level of 1 more than the current block)*.
+* This means that lava will flow towards a drop that it cannot reach.
+A water block is converted into a source block if all three of these conditions hold true.
+  it is bordered by 2 water sources.
+A water block is converted into a source block if all three of these conditions hold true.
+  the 2 sources are on the same horizontal level as it.
+A water block is converted into a source block if all three of these conditions hold true.
+  there is a solid, opaque block underneath it.
+During 1.9 Pre-realease 5, a lava block can be converted into a source block if the following conditions hold true.
+ it is bordered by 4 lava sources in a cross-like arrangement.
+9 Pre-realease 5, a lava block can be converted into a source block if the following conditions hold true.
+ the 4 sources are on the same horizontal level as it.
+9 Pre-realease 5, a lava block can be converted into a source block if the following conditions hold true.
+ there is a solid, opaque block underneath it.
+Mixing of liquids cause cobblestone to be produced, except that if water flows into a lava source block, then obsidian is produced. As of Beta 1.9 pre-release, lava that falls onto water will produce stone. Prior to 1.9 pre-release, the water would be replaced with falling lava.
+When determining the shortest distance to a drop, other liquid blocks are assumed to be equal to air.

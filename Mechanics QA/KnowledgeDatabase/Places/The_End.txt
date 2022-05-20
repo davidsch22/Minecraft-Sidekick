@@ -1,0 +1,44 @@
+The End is a dimension with a stark, empty plane containing a single floating planet-like island made of a unique material known as end stone, dotted with obsidian pillars. These islands float in the Void.
+This dimension is populated by a vast number of endermen, who spawn considerably more often than in the Overworld, and a lone Ender Dragon, the boss of the End.
+The starless sky and the Void of the End are both composed of a blank, static pattern (though the Void retains a particle effect). The day-night cycle is absent in the End, similar to the Nether, being replaced by a constant dim light. Most items and blocks (including fluids) function in the End exactly as they do in the Overworld, with a few notable exceptions. Fluids may function as normal in the End, and plant growth is unaffected. Compasses will be unable to find the original spawn point, as it cannot be set to a place within the End, and clocks cannot determine the position of the sun and moon, because it is in another dimension (as in the Nether, compasses and clocks will instead flail randomly in the End). Maps don't seem to map correctly, only mapping static; as in the Nether, beds will explode and cause fire when used, and Nether portals will not activate in the End.
+The player must go through the process of finding, repairing and activating the end portal found within a stronghold in order to enter the End.
+Once one enters the End, there is no way out without dying, except to defeat the Ender Dragon, whose health is displayed in a meter at the top of the screen. The Ender Dragon will spawn naturally and float around above a number of obsidian pillars, each of which has an ender crystal on top of them. These crystals regenerate the Ender Dragon's health, and as such it is much more difficult to kill the Ender Dragon with any of them active. To destroy these crystals, you need to hit them somehow; they explode on destruction, so it is advisable to shoot them with a bow and arrow. Once all of the Crystals are destroyed, the Ender Dragon will be vulnerable. However, defeating it is still very difficult, even with a number of players working together. Once defeated, the Ender Dragon will dissolve, and create an exit portal. On top of it there is a dragon egg, which is a unique prize, but useless and moderately tricky to collect unless you cover the exit portal with something to prevent the egg from falling in. When the player goes through the exit portal, the "End Poem" and the credits will roll shortly afterwards, thus completing Minecraft and earning the player the "The End." achievement.
+The player then re-spawns in the Overworld and may return to the End through the same portal. The End remains in the state as the player left after the Ender Dragon is slain, devoid of the Ender Dragon and featuring the portal back to the Overworld.
+The player must collect up to 12 ender pearls by killing Endermen, and craft them into eyes of ender. Blaze powder is required to craft them, although an alternate method that the player can use is to trade with villagers for the eyes of ender.
+Then the player needs to return to the Overworld and locate a stronghold. They can use an Eye of Ender to locate one by tossing it into the air and following the direction the eye flies towards until it lands on the ground to be recollected. The player is advised to craft a few extra eyes, as they will occasionally disappear or shatter to pieces (1/5 probability). The eyes of ender will take you straight to the end portal frame blocks or the starting staircase of the stronghold. If a ravine or an abandoned mine shaft intersects with the room, some portal frame blocks may be missing and the end portal will not be usable. For the End Portal to activate, the player must insert an eye of ender on each of the empty frame blocks. Up to 12 Eyes may be needed, but some portals will require fewer than 12, because each portal frame block has a 10% chance of containing an eye of ender.
+An activated End Portal allows the player to enter the End immediately, appearing on top of a five by five Obsidian platform in the End. The center of this platform is always at the co-ordinates 100,50,0. Note that different End Portals in the Overworld will all travel to the same version of the End. Anything the player builds on the five by five platform will be destroyed if the player re-enters the zone, so if you want to place an ender chest or a protected fort nearby, make sure it is off the platform.
+A player in creative mode can create an End Portal using End Portal Frames and Eyes of Ender.
+Often, you will spawn on a platform off the island.
+You may spawn inside the island.
+Just like the Nether, compasses and clocks will spin randomly. Beds will explode when the player tries to sleep. Maps created in the Overworld will not show the player's position in any other dimension. For Maps to display the End, they must be created there. Unlike maps in the Nether, the indicator will not spin wildly and point in random directions. Unfortunately, maps in The End are just as in the Nether Maps (they show a kind of gray-brown static).
+Fire burns indefinitely on bedrock in the End, but will not naturally spread to bedrock. This was added to make the bedrock base of Ender Crystals stay lit without the game having to relight them every x number of seconds (ender crystals DO relight themselves when the fire is put out manually, such as dumping water on them).
+Naturally Generated includes blocks that are created through the world seed.
+Naturally Created means a combination of events that cause a new block to be placed by natural causes, not the player.
+The End is saved in the same way normal worlds are, but instead of mixing the world files inside the save folder, the files for the End are stored in *Minecraft Folder*/saves/*world name*/DIM1, whereas normal world files are in *Minecraft Folder*/saves/*world name*. Note that DIM1 does not contain its own level.dat, as the same level.dat in the upper folder is used for the Overworld, the Nether, and the End. Also, note that the Nether's folder is "DIM-1".'.
+The End—an endless noised sky with a central mass of end stone—appears to be an inversion of the Nether, an endless cave filled with masses of air.
+Mob behavior, plant growth, potion brewing, and enchanting are not visibly affected by being in the End.
+Unlike the other dimensions, the End's landmass isn't "infinite". Only the central end stone landmass is generated and finite. The rest is just infinite empty space. Occasionally, smaller islands generate along with the main island. These small islands can even include an Obsidian Pillar.
+Lava flows faster in the End like it does in the Nether, but only to a distance of 3 like in the Overworld. Water flows at the same speed as in the Overworld.
+With the introduction of the End, this is the first time since the 2010 Halloween update that a player can kill himself by falling in the Void outside Creative mode without cheating, exploiting glitches or taking advantage of chunk generation errors.
+Nether Portal frames cannot be activated in the End.
+Deleting the DIM1 folder will reset the end. All of the buildings there will be deleted and the Ender Dragon will respawn.
+You can fight the Ender Dragon on peaceful difficulty.
+The End has its own soundtrack that you can only hear in the End.
+Although it would be extremely tedious, you could mine the whole End and be left with the exit portal and the entry platform. You can then build a whole base there, with an extremely effective enderman farm.
+The first released screenshot of the End, with an Ender Dragon visible.
+Brightened version of the first screenshot of the End.
+A still photo of the End from a video uploaded by Notch, clearly showing the end stone.
+Brighter version of the still shot with an Ender Dragon.
+Edge of the End island.
+A narrow white stone island with a lone Enderman.
+A screenshot from above a group of hostile Endermen.
+A rare place to spawn in the End, on land instead of floating.
+What happens when you attempt to use a bed in the End.
+An ender crystal.
+The exit portal, with the dragon egg, created directly below the Ender Dragon on its death.
+A strange figure appears in the sky after killing the Ender Dragon. This is a glitch caused by the way the exit portal is rendered.
+Title at the beginning of the credits.
+Quote at the end of the credits.
+A part of the end poem.
+Spawning the platform in the Ground.
+Two exit portals in The End, which resulted from the killing of two Ender Dragons that spawned via a glitch.

@@ -1,0 +1,9 @@
+Dec value: Wood: 269 Stone: 273 Gold: 284 Iron: 256 Diamond: 277.
+Hex value: Wood: 10D Stone: 111 Gold: 11C Iron: 100 Diamond: 115.
+Durability: Wood: 60 Stone: 132 Gold: 33 Iron: 251 Diamond: 1562.
+Maximum stack: 1.
+Shovels are used to increase the speed at which you can dig up blocks like grass, sand and snow. They are created using 2 sticks and either 1 wooden plank, cobblestone, iron ingot, gold ingot or diamond. Zombies will also sometimes drop iron shovels.
+Diamond shovels are the strongest shovels in terms of durability. Gold shovels are the fastest, but they can only be used to dig up 33 blocks. However, even stone shovels dig very fast, so using gold and diamond shovels are often a waste of materials, especially if you’re low on diamonds.
+Spades can be used as weapons though they’re not very effective. They do 1.5 hearts less damage than swords of the same type, which means wooden and golden shovels do half a heart of damage, just like fists.
+Like most tools, shovel can be enchanted. Some enchantments will increase the speed, while others will increase your yield.
+It’s possible to combine two damaged shovels of the same type in any crafting interface, which will create a new shovel of the same type with the durability of the old ones added together, plus 10%. Note that any enchantment on the old shovels will be lost.

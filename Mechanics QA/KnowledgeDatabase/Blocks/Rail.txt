@@ -1,0 +1,41 @@
+ A normal Rail is a non-solid block on which any type of Minecarts ride on. Mobs cannot walk across rails of any type, meanwhile the player can. Note that in versions before 1.5 that all mobs could stand on rails.
+Rails (also known as Minecart Tracks) are non-solid blocks first seen in the First "Secret Friday Update" to Infdev.
+The block has several sprites depending on their orientation when laid. They appear as a 2D image of straight track in the player's hand. Tracks do not appear anywhere on a natural map, except for Abandoned Mine Shafts found in the Adventure Update. If there is no block below it, it will break.
+Two directly adjacent tracks will attach inline to each other automatically. If two perpendicular track pieces meet, the track connecting them will turn into a curve.
+If a track leads up to a one-block high ledge, the piece placed up against the ledge will turn into a ramp if another track is placed on top of the ledge.
+"T" intersections can be powered by Redstone circuits and their direction can change with Switches provided there is no confusion about the 2 directions to switch to. Separate tracks laid adjacent but at the next level lower or higher can sometimes cause issues. Since there are no formal rail junctions, switched T intersections are the only method by which the player can have a track system that leads in more directions than back and forth.
+Different variations of the rail are the detector and powered rails. A powered rail can be powered by redstone torches and move minecarts. Detector rails act like pressure plates and can also power powered rails.
+Players may only place rails on a block. However, it is possible to find floating rails in an Abandoned Mine Shaft.
+There is a glitch where in a track sloping downwards with a curved intersection, when approached from the side, will teleport the player under the block, trapping him until he destroys the track and block.
+If traveling a distance of 50 blocks it takes an average of 12 seconds to walk, 9.3 seconds to sprint (as much as possible) and 10.6 seconds by Minecart. But if traveling the route over and over (e.g. mining) it is worth while investing in a railway system for ease of use.
+ There is a glitch that when a rail is placed on a block that an Iron Bar is connecting to will cause the top texture of the Iron Bars to disappear.
+If you need to travel very long distances in the Overworld, it is best to build a railway system in the Nether. Not only will you use many fewer rails, you will travel much faster relatively to the Overworld (up to 64 m/s or 230 km/h in a straight line, or up to 325 km/h diagonally). This will often result in Zombie Pigmen spawning on the tracks and stopping(or bouncing) your cart, however. This is less effective in the PS3 edition, as the Nether has a closer size to that of the Overworld.
+ In a intersection of rails, the middle rail will always connect to the SouthEast coordinate (check by clicking F5).
+Rails (also known as minecart tracks) are non-solid blocks that provide a path along which minecarts can travel.
+Rails can be mined with anything, but pickaxes are the quickest.
+They also drop as items when the block beneath them falls, is moved, or removed.
+They also drop as items when a liquid flows over them.
+They also drop as items when a piston moves them into a space with no floor below them.
+Rails can be found naturally in abandoned mine shafts. They can also be found inside the minecart with chests there in stacks of 4 to 8.
+If a track is placed next to an existing track, the two tracks will join automatically. If a track is placed perpendicular to an existing length of track, then the track connecting them will turn into a curve. However, destroying track will not cause remaining track to re-orient itself.
+If a track leads up to a one-block high ledge, the piece placed up against the ledge will turn into a ramp if another track is placed on top of the ledge.
+Minecarts that encounter a series of curved tracks in an alternating, zig-zag pattern will travel in a straight line at 45 degrees until the track straightens out or curves in the same direction twice (u-turn), but it will still lose speed as though it were going through a series of bends.
+The curved section of a rail at T intersections can be powered by redstone circuits and their direction can change with switches provided there is no confusion about the 2 directions to switch to. Separate tracks laid adjacent but at the next level lower or higher can sometimes cause issues. Since there are no formal rail junctions, switched T intersections are the only method by which the player can have a track system that leads in more directions than back and forth. In rare cases, curved track sections will not change appearance when their direction is changed. If a track switching mechanism seems to be inexplicably broken, test it by running a cart on the track rather than by looking at how the track appears to be oriented. Redstone circuits will not affect normal track blocks or track ramps.
+When a cart is traveling on a curve, it will momentarily lose collision prior to exiting the curve. Therefore, if a block is placed directly after the curve instead of a track piece, the cart will phase through it.
+It should be noted that since minecarts travel diagonally on curves, it can miss the hole if it has enough speed, by skipping over it, if the hole is 1x1. This can be avoided by blocking the sides.
+It is not recommended to use this method in rapid succession, as the cart will slow down a lot. Anyone sitting in the cart will likely be subject to suffocation.
+At non-curve track intersections, minecarts will always travel south or east (as shown in the diagram to the left). This is commonly referred to as the south-east rule.
+This rule also applies to T-intersections, and determines which way the curve from the intersection will face when unpowered.
+At non-curve track intersections minecarts will always travel downhill if they can. This is known as the downhill rule and overrides the south-east rule.
+A block placed above the track at the downhill end of a ramp will prevent minecarts from traveling down the slope, but not up. In order for a minecart to move down a diagonal tunnel, there must be just as much clearance as a player needs to walk it.
+If a straight track piece leads to a curve block and isn't attached to the curve, a minecart will run over the gap and continue to go straight over the curve. This is not applicable with other types of rails.
+Notably, the minecart can exceed the normal 8 m/s speed limit while it jumps over the gap. For example, by placing intersections on every other block of a straight track, it is possible to travel at 10 m/s in a straight direction (but it will be a very uncomfortable ride).
+Every rail has an ID name of minecraft:rail and stores its orientation in its block data. A rail also has a block state which is expected to replace the functionality of block data in a future version.
+A rail's block data specifies the directions to which it connects.
+When walking on a block that has a rail on top, you will hear the sound of the block you're walking on, but if you jump (while still walking), you will hear the sound of iron.
+Rails are approximately 2-foot gauge (the gauge is the distance between the rails).
+An example of a track with curves and ramps.
+An example of how to use the tracks as a roller coaster.
+A randomly generated misplaced rail found in an abandoned mine shaft.
+Another floating rail in a mineshaft.
+Villagers riding minecarts with rails below them.

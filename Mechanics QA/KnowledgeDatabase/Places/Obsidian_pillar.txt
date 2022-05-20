@@ -1,0 +1,9 @@
+Obsidian pillars (also known as obsidian spikes or obsidian towers) are generated structures in the End that are made of obsidian.
+Obsidian pillars generate naturally in the End.
+Obsidian pillars are composed of obsidian, with a single bedrock block and an ender crystal on top of each pillar (although, due to MC-47526, the crystal will immediately destroy the bedrock block). They are approximately circular, with a diameter of 3 to 11 blocks and a height of 6 to 37 blocks. Each chunk has a 20% chance of generating an obsidian pillar, although generation will fail if the entire base of the pillar would not rest on end stone (e.g. the ground slopes downward from the chosen center point).
+In the Console Edition, the ender crystals on the two tallest obsidian pillars are surrounded by iron bars.
+Obsidian Pillars in The End before Ender Crystals were added. Endermen are also visible.
+A square obsidian pillar.
+Enderman.
+End Stone.
+Ender Dragon.

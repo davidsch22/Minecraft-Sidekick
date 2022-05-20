@@ -1,0 +1,48 @@
+Cake is a placeable food, standing 1/4 lower than a regular block. It has white icing and a red cherry-like topping. It is craftable, and is quite easy to craft for experienced players. It restores 1 hunger bar per use, and has a total amount of 6 uses. Cake does not drop when broken, it can only can be eaten by clicking on it whilst it is placed. As of 1.8, if you place a Redstone Comparator next to cake, you can get up to Redstone PL 14, 2 for each slice. This is used on 1.8 maps and minigames, and trolling on multiplayer with TNT.
+Cake is made with an Egg, three Buckets of milk, two Sugar, and three Wheat. If the player eats a cake once, it will appear to be cut into thirds or sixths. Crafting a cake will award you with the achievement "The Lie" (Needing to earn achievement "Time to Farm" first.) which is a reference to the game Portal. Various maps have the phrases "Your cake is waiting" and "The cake is a lie".
+The cake is featured in all Minecraft platforms.
+On the console versions, there is the Candy texture pack that allows different types of cake.
+Cake can be used as a form of decoration (i.e. flooring).
+Cake makes the same sound as wool being placed.
+Cake is the only food that can be eaten when placed.
+Cake cannot be retrieved by shears or a Silk Touch enchantment once it has been placed.
+The player can eat each slice almost instantly, and it recovers about 1 or 2 hunger bars.
+ The block with the ID 92 resembles a cake that has been placed.
+ The cake is the 3rd best food to the Golden Apple and Enchanted Golden Apple.
+ Cake Icon.
+ A pixel art cake.
+ The Different flavors of cake, including a creeper cake.
+ Another cake, in pocket edition.
+1 of 4.
+Add photo.
+Cake is a food block that can be eaten by the player.
+Once placed, cake cannot be recollected.
+Farmer villagers sell 1 cake for 1 emerald as a fourth tier trade.
+Unlike most foods, cake cannot be eaten as an item in the hotbar. Before being eaten, it must first be placed on top of a block.
+To eat from a placed cake, click on the cake with use button. Each cake has seven "slices", and each use will consume one slice. A single slice restores 2 () hunger and 0.4 hunger saturation. Eating all seven slices of a cake restores 14 () hunger and 2.8 hunger saturation.
+Unlike the eating of other foods, eating a slice of cake is instantaneous (an entire cake can be eaten as fast as it can be clicked) and makes no sound. Multiple players can eat from the same cake at the same time.
+As a redstone component, when connected to a comparator, a whole cake emits a signal strength of 14. The signal strength decreases two units with each bite of cake until it is gone.
+The name of the achievement is a reference to the internet meme "The Cake is a Lie", which originated from Valve's game, Portal.
+Since cake is only 7/8 blocks wide, it is possible to stand on the edge of a block beneath a cake.
+Cake will destroy falling blocks if placed under them, similar to a torch.
+It is possible to place cake on top of cake by placing a cake on the ground, then placing another cake on the side of a block above and to the side of the first cake, similar to placing torches on a chest. Eating the lower cake completely will cause the upper cake to disappear, same as mining out the block of cake it is sitting on.
+It is also possible to place cakes (or any other block) on top of cakes by sneaking and placing a cake on top of another cake.
+Mobs on top will rotate while attempting to move, a path finding oversight shared with fences.
+If cake is placed in a one deep hole you can get across the hole without jumping but if you are standing on the cake you will have to jump to get out of the hole unlike a slab.
+Placing a cake makes the same sound as placing wool.
+You can place cake on top of a bed, and while sleeping, the cake shows on your screen as if it were on top of your head.
+A cake placed on top of another.
+The sizes of cake when eaten.
+Dec value: block: 92; item: 354;.
+Hex value: block: 5C; item: 192;.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Cake is the only food type that can be placed as a block. It can only be eaten by right clicking it after placing it, it’s impossible to eat it while it’s in your hand, like other food. Cake can be eaten up to 6 times. Each time a small slice is removed which heals 1 food bar.
+After everything is eaten the cake will simply disappear completely. .
+Cake will also restore your hunger saturation by 0.4 per bite, which is very low compared to other foods. Cakes cannot be picked up again after placing it. Breaking it will completely destroy it. Oddly enough, cakes cannot be destroyed by water or lava.
+Cakes are made with 3 buckets of milk, 3 wheat, 2 lumps of sugar and 1 egg, making it one of the most complex blocks in minecraft. After creating your first cake you’ll get the “The lie” achievement. The high ingredient requirement also makes it one of the least used food items. Simply killing and cooking a cow or chicken is way faster and heals almost as much as the entire cake.
+However, cake can be eaten instantly without switching your selected item, making it a decent choice to refill your hunger bar during a fight, which could be useful to prevent extra damage from starvation.
+Cakes are most commonly used as decoration, usually as part of a kitchen counter or a party buffet. Cakes have commonly been used as part of adventure maps, usually as the final reward or as part of a joke, which almost always leads to the same punchline “The cake is a lie.”.
+Like slabs and other half blocks, placing cakes on ice will transfer the gliding effect through the cake. This can be used to create a large ice cake skating ring. The speed boost you get by sprinting and jumping on ice is also transferred through the cakes, so cake can be used to create an edible escape path.

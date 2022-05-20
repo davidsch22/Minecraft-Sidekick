@@ -1,0 +1,21 @@
+Dec value: 289.
+Hex value: 121.
+Maximum stack 64.
+Gunpowder is obtained by killing creepers and ghasts, but it can also be found in chests in dungeons. It is used to create TNT, fire charges and splash potions, by simply adding them to potions in a brewing stand.
+Farming gunpowder can be a bit tricky. Both ghasts and creepers can be a hassle to kill without destroying the gunpodwer. Both monsters drop the same amount of gunpowder, up to 2, but one could be easier to defeat for you than the other.
+Killing ghasts is quite easy. The easiest method is to stand in a safe spot, away from lava and cliffs, and to shoot back their own fireballs. Make sure the ghast is not floating above lava or deep, hard to get to areas, you don’t want to spent more time retrieving the gunpowder than you spent on killing them. It only takes a single fireball to kill a ghast.
+Note that the ghast’s fireball can set fire to all blocks and destroy weaker blocks. It’s advised to build a small stone platform to stand on in order to avoid ever lasting fires on netherrack and the destruction of the ground you’re standing on.
+Killing creepers could be a bit tricky, though the easiest method is by simply walking backwards while constantly knocking back the creeper with your sword. It takes 3 hits with a diamond sword to kill a creeper. Pay attention to your surroundings though, walking backwards into another creeper or a group of skeletons could be deadly.
+Dec value: 289.
+Hex value: 121.
+Maximum stack 64.
+Gunpowder is obtained by killing creepers and ghasts, but it can also be found in chests in dungeons. It is used to create TNT, fire charges and splash potions, by simply adding them to potions in a brewing stand.
+Farming gunpowder can be a bit tricky. Both ghasts and creepers can be a hassle to kill without destroying the gunpodwer. Both monsters drop the same amount of gunpowder, up to 2, but one could be easier to defeat for you than the other.
+Killing ghasts is quite easy. The easiest method is to stand in a safe spot, away from lava and cliffs, and to shoot back their own fireballs. Make sure the ghast is not floating above lava or deep, hard to get to areas, you don’t want to spent more time retrieving the gunpowder than you spent on killing them. It only takes a single fireball to kill a ghast.
+Note that the ghast’s fireball can set fire to all blocks and destroy weaker blocks. It’s advised to build a small stone platform to stand on in order to avoid ever lasting fires on netherrack and the destruction of the ground you’re standing on.
+Killing creepers could be a bit tricky, though the easiest method is by simply walking backwards while constantly knocking back the creeper with your sword. It takes 3 hits with a diamond sword to kill a creeper. Pay attention to your surroundings though, walking backwards into another creeper or a group of skeletons could be deadly.
+Gunpowder, formerly known as sulphur, is an item that is used for explosive-related actions.
+Creepers have a chance of dropping up to 2 pieces of gunpowder upon death.
+Ghasts have a chance of dropping up to 2 pieces of gunpowder upon death.
+Witches have a chance of dropping up to 6 pieces of gunpowder upon death.
+Gunpowder has a 1 in 12 chance of spawning in a dungeon chest, where it will appear in stacks of 1 to 4.

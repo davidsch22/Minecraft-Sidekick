@@ -1,0 +1,15 @@
+Dec value: 353.
+Hex value: 161.
+Maximum stack 64.
+Sugar is created from sugar cane and is used to create cakes, cookies and fermented spider eyes. They’re also used as a brewing ingredient, which creates a potion of swiftness or a potion of weakness. Despite being an ingredient in some edible item recipes, sugar itself cannot be eaten.
+Sugar cane is quite easy to farm as you only need to plant a single sugar cane and wait for it to grow. Note that it can only be placed on dirt, grass and sand directly next to water. Sugar cane growth cannot be sped up with bone meal, but it requires no light.
+Dec value: 353.
+Hex value: 161.
+Maximum stack 64.
+Sugar is created from sugar cane and is used to create cakes, cookies and fermented spider eyes. They’re also used as a brewing ingredient, which creates a potion of swiftness or a potion of weakness. Despite being an ingredient in some edible item recipes, sugar itself cannot be eaten.
+Sugar cane is quite easy to farm as you only need to plant a single sugar cane and wait for it to grow. Note that it can only be placed on dirt, grass and sand directly next to water. Sugar cane growth cannot be sped up with bone meal, but it requires no light.
+Sugar is obtained by crafting Sugar Cane. Sugar is needed in the Cake recipe, along with Milk, Egg, and Wheat, and can be used in brewing to create a Potion of Swiftness when brewed into an Awkward Potion. Since Sugar Cane is harder to find in some places, it can be difficult to make Cake. It can also be combined with a Pumpkin and an Egg to make a Pumpkin Pie.
+Sugar is a food item derived from sugar canes.
+Witches may drop from 0 to 6 units of sugar when killed.
+Sugar can be fed to horses to heal 1 (), speed growth rate by 30 seconds, and increase taming probability by 3%.
+One of the splash texts on the title screen is "0% sugar!".

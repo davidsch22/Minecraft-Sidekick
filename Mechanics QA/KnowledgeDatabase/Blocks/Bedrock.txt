@@ -1,0 +1,46 @@
+ Bedrock, also known as Hard Rock or Adminium, is a block that is impossible to collect or break when in Survival Mode. Its purpose is to prevent passage into The Void. Bedrock is the barrier to and is right above The Void, and its layer can be 1 to 6 blocks high on the Y-Plane. .
+Bedrock is a block with a gray and charcoal pattern found at the bottom of all Minecraft Maps and at the top, bottom, and a few sides of the Nether as well (Xbox and PS3 Edition only). It exists in randomly generated layers, creating a usually-impassable barrier that prevents players from falling past the bottom of the map. If the player is able to wriggle past this layer, or destroy it using Creative mode / hacking tools, the player will fall into The Void and die after falling past Y=-63, although it is possible to find a way out if the player quickly turns on Fly-mode or noclip and flies straight up. If they are too slow, the square of land they had fallen through will turn as black as the rest of The Void. In a Superflat world, bedrock can be found after digging down three layers of Dirt. (According to updates after 1.4 when Superflat worlds were editable, it now varies of what map you seed up).
+Bedrock is effectively, but not completely, indestructible. In Creative Mode, the player can create and destroy it as easily as any other block. In addition, game hacks can also remove Bedrock, as can server administrators. As far as Explosions are concerned, Bedrock has the maximum possible blast resistance value of 18,000,000, which means that it would take the explosive force of 4,500,000 blocks of TNT to destroy Bedrock. Such an explosion would also destroy a large section of the map and crash the game, stating that Java has run out of memory.
+Bedrock can also be found in The End. On top of some of the Obsidian towers in The End, there is a block of Bedrock with an Ender Crystal floating above it, which is used to heal the Enderdragon.
+Furthermore, Bedrock cannot be broken by any means in Survival Mode. This is due to the hardness being -1, causing the block to take no damage regardless of the level of efficiency on a Pickaxe or the time taken to mine the block.
+Bedrock first found it's way into the game in Classic v0.0.12a.
+The Pirate Speak language setting calls Bedrock "The Har'est Rock.".
+The particles that appear to be emitted from Bedrock are actually emitted from The Void, since the particles go through the bottom Bedrock layer. Bedrock created at a level much higher than the Void does not emit particles.
+Bedrock is often used as a spawn jail, since it's nearly impossible to break. It's used as punishment for griefers after removing the creative powers from them.
+In Minecraft Classic, Bedrock can always be found at the end of a map.
+TNT Minecarts will explode if they hit Bedrock.
+If the player uses the bottomless pit preset on a Superflat world, it is possible to bypass this material.
+Bedrock is one of the two types of blocks found in all three Minecraft dimensions, the other being Obsidian.
+A trick with Dark Oak trees used to allow players in Survival to break through Bedrock. This was later changed in the 1.8.2 update.
+Bedrock spawned on the surface.
+A hole in the bedrock.
+Under the bedrock surface.
+Add a photo to this gallery.
+Bedrock is both an indestructible and unmineable block.
+Bedrock cannot be broken using any tools. It also cannot be moved by pistons or destroyed by explosions that are present in normal gameplay. Bedrock can only be obtained by the creative inventory and commands.
+Bedrock comprises the bottom-most 5 layers of the Overworld in a rough pattern, although to the 4th layer is predominately flat bedrock with no gaps, which makes the very bottom 5th layer inaccessible.
+In the Nether, bedrock comprises both the top and bottom 4 layers in a rough pattern. At the top of the Nether, bedrock prevents you from going past layer 127. It can also be found at the sides of the Nether in the console edition.
+Bedrock in the Overworld and the Nether always generates in the same pattern no matter what seed is used.
+In the End, defeating the Ender Dragon spawns a portal with a Bedrock frame. A single piece of flaming bedrock also appears underneath ender crystals.
+Bedrock's primary usage is as a solid unbreakable block. It also prevents mob spawns and is the only solid block that beacons beams can shine through.
+In the console editions, only the lowest layer (and highest in the Nether) of naturally spawned bedrock is unbreakable.
+In maps generated before the Halloween Update, there were occasional gaps in the bottom layer of Bedrock that the player could fall through.
+It is possible, but rare, for ore to be found encased in Bedrock.
+In Minecraft 4k, there is bedrock on the bottom of the map with no texture.
+Strongholds can cause a bedrock not to form within its bounds.
+Three of the five bedrock barriers of a Classic map visible, with a stone block for comparison.
+A lake that spawned at bedrock level. It's possible, albeit rare, for one to make a hole into the void.
+Dec value: 07.
+Hex value: 7.
+Minimum tool requirement to break: Unbreakable.
+Blast resistance: 18,000,000.
+Maximum stack 64 Transparency: No.
+Bedrock is the bottom layer in the Overworld dimension and the top and bottom layer in the Nether. The bedrock layers form the height boundaries of the world, as it’s indestructible, unless you’re in creative mode or if you’re using mods.
+The bedrock layer in the Overworld is 5 blocks thick, though the first 4 layers aren’t completely filled with bedrock, other blocks like stone, dirt or the occasional ore.
+In the Nether both the layers are 4 blocks thick.
+The only bedrock blocks created naturally in minecraft after the creation of the world are in the End. After destroying an Ender crystal, it’ll explode and leave 1 piece of bedrock. After killing the Ender dragon, a bedrock portal will appear on the ground directly under where it was killed, allowing players to get back to the Overworld.
+Void fog can be found on top of the bedrock layer in the Overworld. Void fog is a thick, black fog which lowers the players visibility the lower the player gets, starting from layer 16.
+The only bedrock blocks created naturally in minecraft after the creation of the world are in the End. After destroying an Ender crystal, it’ll explode and leave 1 piece of bedrock. After killing the Ender dragon, a bedrock portal will appear on the ground directly under where it was killed, allowing players to get back to the Overworld.
+Due to its indestructibility, bedrock is often used on multiplayer servers to protect buildings. Strangely, this happens a lot on servers which already have plugins installed to prevent players from destroying any block in specified zones.
+Breaking bedrock will reveal the void, which is nothing more than blue emptiness. Falling into the void will result in death and nothing can be done about it.
+Due to the top layer of bedrock in the Nether is was often thought the Overworld and Nether were connected passed these layers, this isn’t true. The Overworld and the Nether are 2 seperate dimensions, as proven by destroying the bedrock.

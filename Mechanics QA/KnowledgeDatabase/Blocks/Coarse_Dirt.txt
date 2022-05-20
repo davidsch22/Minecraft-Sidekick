@@ -1,0 +1,4 @@
+ Coarse Dirt is a variation of dirt that replaces the grassless dirt in Mega Taiga, Mesa and Savanna biomes. As the coarse dirt block uses the same block ID and data value as the original grassless dirt block, even old worlds with the grassless dirt blocks should have them seamlessly change over to coarse dirt.
+Coarse Dirt is nearly the exact same thing as normal dirt, sharing the same block ID and data value as the original.
+The Silk Touch enchantment is not required to obtain Coarse Dirt, unlike Podzol or Mycelium.
+If a Coarse Dirt block is hoed , it will turn into normal dirt (before it would turn into farmland).

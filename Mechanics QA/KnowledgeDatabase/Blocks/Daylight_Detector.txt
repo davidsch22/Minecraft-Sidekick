@@ -1,0 +1,3 @@
+A Daylight Sensor is a solar powered slab-like block that is activated only by sunlight. It is similar to a solar panel.  It detects daylight in the sky and outputs a redstone signal that corresponds to the sunlight of which the sun is positioned. When the sun reaches its maximum daylight (at noon), it can activate up to 15 redstone activated blocks. Daylight sensors only activate when in sunlight, and will turn off during the night. From 1.8 you can turn them into "nighttime sensors" with a simple right click, making them giving out a current when turned to night. This makes for much easier lampposts. You cannot push Daylight Sensors with a Piston.
+Added in 13w01a.
+Officially implemented in 1.5.

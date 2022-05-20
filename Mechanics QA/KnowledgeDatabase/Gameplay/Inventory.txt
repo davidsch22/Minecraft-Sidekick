@@ -1,0 +1,47 @@
+The inventory is the pop-up menu that the player uses to manage items they carry. From this screen a player can equip armor, craft items on a 2×2 grid, and equip tools, blocks and items. The player's skin is also displayed here.
+The inventory is opened and closed by pressing the E key ( on the Xbox 360,  in PS3, and ••• in Pocket Edition). This key can be changed from the in-game options menu. The inventory can also be closed with the Esc key.
+Inventory is saved upon exiting a world or server, so the player will have exactly the same items upon entering the world or server as they did when they last left.
+The inventory consists of 4 armor slots, 27 storage slots, and 9 hotbar slots. Items in the hotkey slots can be selected during play using the keyboard (keys 1–9) or mousewheel, and placed or wielded with the mouse buttons. Most items can stack up to a maximum of 64 in one slot. Some items cannot stack, notably tools (with the exception of clocks and compasses), armor, and weapons. Certain items, such as snowballs, empty buckets, eggs, signs and Ender Pearls can only stack up to 16.
+In Survival or Adventure mode, there is also a 2×2 crafting grid, which allows any recipe which fits to be crafted, but does not offer item storage.
+Armor is only considered equipped when it is in an armor slot; when in any of the regular inventory slots, it is not considered "worn" and does not offer protection. Held armor can be equipped by right-clicking.
+Items have tooltips if the cursor is hovered over them, displaying their name, enchantments, lore, and some item specific information such as the version of a written book. Press F3+H will cause items to display additional information, such as their ID name, data values, and some item specific information.
+Pressing use on a block with an inventory, such as a chest, crafting table or a furnace will open up its GUI and allow items to be transferred between the 27 main slots, the 9 hotbar slots, and the blocks GUI.
+Stacks can be grabbed by pressing left click on the stack, and split by pressing right click. If the stack is an odd quantity, then it will leave the smaller half (for example, a stack of 7 will leave 3 items in the slot and grab 4). Conversely, while holding a stack in the inventory, left click will place the full stack in the slot, and right click will place just one item. Double clicking an item will grab up to a full stack from all the items within the inventory.
+Holding ⇧ Shift and clicking on the item will send and item from your hotbar to the main 27 slots, or vice versa. Doing so while a block's inventory is open will send the item stack will immediately go from your inventory into the block that you have open or vice versa. Holding ⇧ Shift and double clicking a stack will move all items of that kind between your inventory and the block, or your inventory and your hotbar, however the player's cursor must already be holding an item for this to work. The item held is irrelevant.
+Pressing 1–9 will switch the item hovered over with the cursor with the item in that slot of the hotbar, or move the item from one to the other if either slot is empty.
+Dragging items around with the left mouse button will equally divide the stack over the dragged-over slots, while dragging item stacks around with the right mouse button will place one of that stack in each dragged-over slot, in both cases only if the slot is empty or contains the same item being dragged.
+In Creative mode, middle clicking an item will grab a full stack of the item while leaving the item in the slot, and dragging items with the middle mouse button will place a full stack of the item in each dragged-over slot.
+Pressing drop while the mouse is hovering over an item in the inventory or a container will drop one item. Holding control and pressing drop while hovering over a slot in the inventory or container that has one or more items, will consequently drop the entire stack of items. While venturing without the full inventory open, the same can be applied for the selected item(s) from the hotbar. Items can also be dropped into the world by clicking outside the inventory window while holding item with your cursor.
+In Creative mode, the inventory contains all blocks and items from Survival (with some exceptions, like dragon eggs or command blocks). The player can pick up blocks from here to use endlessly or drop things right in the menu to remove them.
+A single item can be grabbed using left click, and will increase with continued left clicks on that item. Left or right clicking with an item or stack of items while hovering over any item other that the one held will get rid of the held item. Right clicking and item will also pick up one item, but the second click will then put it back down as opposed to picking up more. Shift-clicking an item will grab a full stack. Pressing a number key while hovering over an item will instantly place one full stack of that item into the hotbar slot that corresponds with the number.
+The Creative inventory screen is sorted into 10 sections: Building Blocks, Decoration Blocks, Redstone, Transportation, Miscellaneous, Foodstuffs, Tools, Combat, Brewing and Materials. There is also a search box (compass icon) and survival inventory tab (chest icon).
+Many blocks and some non-player entities have their own inventory-like windows that pop up to allow manipulation of items. Survival/Adventure inventory and crafting.
+ Creative armor and survival inventory.
+ Creative item search.
+ Small Chest.
+ Large Chest.
+ Crafting Table.
+ Furnace.
+ Dispenser/Dropper.
+ Enchantment Table.
+ Brewing Stand.
+ Villager.
+ Beacon.
+ Anvil.
+ Horse.
+ Donkey/Mule.
+ Hopper.
+The inventory in Creative Classic.
+The previous Creative inventory screen before 12w21b.
+If the inventory is open when the player dies, the avatar will fall over and have a red tinge.
+When sleeping or riding a pig, horse, boat or minecart and the inventory screen is accessed, the avatar will be shown in the respective position. However, only the player will be displayed.
+In the Item Selection screen, some items and blocks are missing, such as huge mushroom blocks, dragon eggs and mob spawners.
+The avatar will always look at the mouse cursor while in inventory.
+The Search Items tab's compass icon acts just like a normal compass, and spins wildly in the Nether and End dimensions.
+Crafting.
+Smelting.
+Item repair.
+Items.
+Item durability.
+Blocks.
+Entity.

@@ -1,0 +1,49 @@
+Ocelots are tameable passive mobs.
+Ocelots drop 1-3 experience when killed by a player or tamed wolf.
+Ocelots try to spawn on grass blocks or leaves at sea level or higher in jungle biomes. There is a ⁄3 chance that a spawn attempt will fail.
+Ocelot kittens can also be found randomly - two occasionally spawn with an adult ocelot. They obey the same behavior as adult ocelots, albeit being much faster and therefore harder to catch.
+When tamed cats are fed an uncooked fish of any kind, they will enter love mode. Breeding will create a kitten, and the parents cannot be bred again for a five-minute delay. The kitten will have the breed and owner of one of the parents. Sitting cats cannot breed themselves, but a mobile cat can breed with a sitting cat, in which case the kitten's breed will always match that of the mobile cat's breed, and the mobile cat will be the owner of the kitten.
+The growth of baby cats can be slowly accelerated using raw fish. Each fish takes 10% off the remaining time to grow up.
+Ocelots will occasionally slowly attack chickens. They assume a "sneaking" stance and will stalk a chicken before chasing it down. They can even kill through a fence if the chicken is against it.
+Creepers will actively avoid ocelots and cats. However, this will not deter them from chasing a player, only keeping the creeper a distance away.
+Ocelots are immune to fall damage, but will still avoid falling off cliffs high enough to normally cause fall damage.
+The Ocelot is a passive, "shy" mob which will not attack the player. Ocelots are one of the few mobs with the ability to sprint, and should the player approach too near one it will sprint away. If enclosed and unable to escape, they will stand still until an exit is made, after which they will quickly sprint through.
+An ocelot can be tamed by attracting it to the player with an uncooked fish of any kind, then feed it the fish, which can turn it into one of three breeds of cat that will then follow the player.
+The player can only tame ocelots under the following conditions The ocelot must be in "begging for food" mode, characterized by it looking at the player and slowly walking near to the player. Entering "begging" mode requires that the player is within 10 blocks (Euclidean distance).
+ If the player is within 6 blocks, the ocelot will exit "begging" mode if the player turns too quickly or moves more than a tiny distance. If the player is within 6 blocks when the ocelot starts begging, it is likely to decide the player turned too quickly and stop begging on the next game tick.
+ If the ocelot exits "begging" mode, it won't enter it again for about 15 seconds.
+The player can only tame ocelots under the following conditions The ocelot must be within 3 blocks of the player.
+The player can only tame ocelots under the following conditions When all of the above are met, there is still a ⁄3 chance the ocelot will take the fish without becoming tame. It's possible to tell the difference between the ⁄3 failure chance and not meeting the other conditions by whether the ocelot emits smoke particles when fed and by whether it can be fed again immediately.
+The newly tamed cat will change to one of three breeds: tabby, tuxedo or Siamese.
+Once tamed, cats will follow the player who tamed them. They will no longer be afraid of players, will purr or meow frequently, and will no longer attack chickens. Like wolves, and with the same limits, they can teleport to a player who moves too far away. Players can make cats sit by pressing use button on them, and will also sit on certain things of their own accord (see below).
+Unless commanded to sit, cats do not remain still for long, and would rather explore around the player.
+Mobile cats (not already sitting) will attempt to get on top of chests, beds, or active furnaces at the cat's current Y level within an 8-block square horizontally, and once on top will often assume a sitting position without a command from the player, making the block below it unusable. Cats that sit on their own will not get up on command, but will get up if the player holds a fish nearby. The cat can also be brought down by removing the block or pushing it off. A cat will not attempt to sit on these blocks if they are at ground level (part of the floor), or if there is a block above them.
+A cat sitting in proximity to the player will, if the player is harmed by a hostile mob (or by careless use of a damaging potion, but not by environmental damage), stand and move from its sitting location a few blocks and then resume sitting, such that the player will need to place the cat again.
+Cats will teleport to the player if they are more than 12 blocks from the player, with a few exceptions. It is possible for a tamed cat to teleport to an inaccessible location (e.g. under ice) and be injured or suffocate of various causes as a result.
+ If the player dies, a cat will teleport to the player's bed or spawn with them, unless the cat dies as well.
+A cat will not teleport If the cat has been ordered to sit. Exception: The cat is likely to teleport if it is injured while sitting (it will no longer be sitting after it teleports). A dramatic example is if a cat sitting outside is struck by lightning, in which case it will be on fire when they appear.
+A cat will not teleport If the cat is in a minecart.
+A cat will not teleport If the cat has been attached to a fence post with a lead.
+A cat will not teleport If the cat is in an unloaded chunk.
+A cat will not teleport If none of the blocks on the edge of a 5×5×1 region centered on the player are transparent blocks with an opaque block below and another transparent block above.
+A cat will not teleport If the player is in another dimension; a cat will remain in its current dimension until the player returns.
+They are the first mob created by Jon Kågström, an AI specialist working with Jens Bergensten on Minecraft. Jens created the texture for the Ocelot, as Jon had trouble doing so himself.
+While ocelots are passive mobs, natural spawning considers the hostile mob cap rather than the much-lower passive mob cap.
+The entity ID and debug messages use the Swedish word "ozelot," instead of its English equivalent, "ocelot.".
+The tuxedo cat is based on Jeb's pet cat, Newton, who has unfortunately passed away. .
+In real life, cats are known for their ability to flip upright during a fall, particularly larger ones; though they still might be injured by landing. This fact is reflected in Minecraft because they take absolutely no fall damage.
+Ocelots react to players in Creative Mode and will flee when one gets too close.
+If you fail to tame an ocelot, it will still show heart particles. Dinnerbone states that it was because they like you for giving them fish, but still want more. Studying the game shows that they are actually going into breeding mode, and if there are two such ocelots in the area they will spawn a baby. If you tame 2 ocelots and they are still in love mode as cats, they can be bred instantly. This makes it so that you can save fish if you wanted to breed them after.
+Ocelots can still see players even with Invisibility.
+If a player spawns an ocelot within 10 blocks of them in creative mode, the player must leave the range then re-enter if they wish to tame the ocelot.
+Screenshot demonstrating the size difference between a cat and a kitten.
+Teaser image of the ocelot released by Jeb. The ocelot can be barely seen though the tall grass on the right side of the picture.
+Two cats and a kitten teleported onto the same block.
+One ocelot and several cats with a kitten. Other ocelots dot the background in the jungle biome.
+An image tweeted by Dinnerbone of his attempt at making a cat laying down animation.
+A screenshot showing an untamed ocelot, all three cat patterns, and a small tuxedo kitten.
+Cats trying to sit on one chest while ignoring others close by.
+All 3 types of cats, two of each.
+Comparison between an adult dog and a kitten.
+Minecraft tuxedo cat next to Jeb's cat.
+Ocelots spawning.

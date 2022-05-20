@@ -1,0 +1,7 @@
+ The Sticky Piston is a block nearly identical to the piston, except that it has slime smeared on the end of it and it can pull blocks, hence the name "sticky" piston. Like regular pistons, sticky pistons can be used in all six directions.
+When extending, sticky pistons act exactly as regular pistons, pushing up to 12 blocks. When retracting, sticky pistons will pull along the block immediately in front of them. obsidian, bedrock, note blocks, tile entities, furnaces and extended pistons cannot be pulled, just as they cannot be pushed.  .
+It is possible for the block stuck to a sticky piston to be pushed aside by another piston, and sticky pistons do not protect sand and gravel against gravity. Stickiness only affects the retraction of the piston. As of 1.5, the piston's retraction is more stable than previous updates.
+As of the 1.7.3 Beta update, it is impossible to place a jack-o-lantern onto a sticky piston.
+Sticky piston transparency for redstone wire is affected by the extension of the pusher.
+Sticky pistons can push and pull rails.
+They naturally spawn in Jungle Temples.

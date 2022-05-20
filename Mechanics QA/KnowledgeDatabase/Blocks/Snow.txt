@@ -1,0 +1,17 @@
+ Snow is generally found in Taiga and Snowy Plains Biomes, where it covers the ground. It can also be found at the tops of large mountains, paticularly the Extreme Hills biome.
+Snowballs are obtained whenever snow is destroyed with Shovel. Four Snowballs can then be crafted into a Snow Block or can be thrown. If it is destroyed with anything other than a shovel, nothing is dropped. As of 1.5, snow is able to be stacked in layers above the ground, causing snow-banks that the player may walk through. This gives the world a more realistic feel to it, but can cause clutter when the player does not frequently visit a snowy area. These snow layers can be stacked up to 8, which than will look like a normal snow block. Note, that the layered snow will be destroyed if Water is poured on it, but snow blocks won't (making it good for secret messages). 3 snow blocks can be used to create snow slabs in survival, but you will still get snowballs after you lay them down.
+Once Snow has been destroyed, the ground will remain clear, until such time as it snows again. This makes Snow a Renewable Resource.
+On multiplayer servers, many snow ball fights are held in forts containing mazes of snow banks that slow players down. Usually the objective is to keep the players from breaking a block in their fort they build, which is done by hitting them with snowballs to keep them out. The first team to break the block (usually dirt or for more difficulty wood) win.
+Prior to the Halloween Update (2010), snow could only be found on maps that were in Winter Mode. When creating a new save, a map had a 1/5 chance of having worldwide snowfall. Since Alpha 1.2.0 however, Snow can occur in arctic Biomes.
+Sometimes snow can spawn on air blocks, usually over cave entrances or water pools. Walking on these blocks will make you fall through the snow. If you place a block near the floating snow, it will update itself, and disappear.
+Snow is a common block to be used as the flooring in a game of Spleef as it breaks almost instantly with a diamond shovel.
+Snow layers do not accumulate naturally during Snowfall.
+Snow/Gallery.
+Snow is a full-sized block version of the snow layer.
+When broken with a shovel, snow drops snowballs. If mined with a Silk Touch enchanted shovel, it drops a snow block.
+Unlike snow layers, snow blocks will not melt from higher levels of light, nor get destroyed by water.
+Snow generates naturally in ice plains spikes biomes.
+Snow is crafted from 4 snowballs, allowing the player to create it through their inventory crafting window.
+Snow is also used to make snow golems by putting 2 snow blocks on top of another and a pumpkin on the top as the head. Note that the pumpkin has to be placed last for this to work. This can be done sideways and upside-down, as well.
+Snow may still fall on top of snow blocks, making them look taller than they actually are.
+When a snow block is on grass, the grass block changes to a different "snowy" texture as if a snow layer is on it. However, since snow is a solid block, the grass will change to dirt shortly after.

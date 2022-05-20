@@ -1,0 +1,7 @@
+For other types of seeds, see Seeds (disambiguation).
+Wheat Seeds are an item used in farming. They will be found by destroying Tall Grass, or by harvesting fully-grown Wheat. Harvesting wheat yields from 0-3 seeds per tile harvested (about 1.5 seeds/tile harvested in average). Seeds can be placed in Farmland by right-clicking, where they can grow. .
+As of Beta 1.6, Wheat Seeds can not be tilled from grass. They can be found by destroying Tall Grass, or by harvesting Wheat.
+Wheat Seeds can also sometimes be found in NPC villages, where the villagers are growing them as crops. The player can still harvest them as if they had grown the Wheat themself. They can be destroyed by Mobs. If you step on them, they die and will only drop the seeds.
+When left alone, wheat seeds planted in Farmland will grow to become Wheat, which then can be harvested. Planted seeds need at least light level 9 in the block above them to grow.
+Crops will grow faster if the farmland they are planted in is hydrated. Any Farmland in the surrounding eight Block will also help the crops grow, and more so if that Farmland is also hydrated. Growth will be slowed if crops are planted diagonally from each other, or in an capital "L" shape.
+When fully grown, wheat crops will drop 1 Wheat as well as 0-3 Seeds. If they are harvested too early, they will drop seeds upon being destroyed, but no Wheat.

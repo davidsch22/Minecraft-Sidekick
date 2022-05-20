@@ -1,0 +1,7 @@
+Dec value: 378.
+Hex value: 17A.
+Maximum stack 64.
+Magma cream is created by combining a slimeball and blaze powder in any crafting interface. It is also dropped by magma cubes.
+Magma cream is used to created potions of fire resistance, which allows you to walk through fire and swim through lava without taking any damage. Potions of weakness can also be created with magma cream, though this potion can be created with several other, more easiliy available ingredients.
+Magma cream is one of the hardest obtainable ingredients due to the slimeball requirement. Farming blaze powder is quite easy. Blazes can spawn from blaze spawners found in the Nether fortresses, which makes it easy to build a safe room around the spawner to make killing them that much easier.
+Farming slimeballs is a time intensive job, as slimes only occur in 10% of the chunks in the lowest 40 layers of the world. Tiny slimes are the only slimes that drop slimeballs (0-2 of them), so larger slimes first have to be killed in order to form smaller slimes.

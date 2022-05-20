@@ -1,0 +1,31 @@
+String is used for the crafting recipes of many tools and utilities. When placed as a block, string is called tripwire.
+String can be obtained from drops and fishing, and can be looted from jungle temples and dungeons.
+Tripwire can be mined instantly with any tool, dropping string.
+Tripwire will also be removed and drop string as an item if a full solid opaque block (but not a transparent block) beneath it is moved, removed, or destroyed.
+Tripwire will also be removed and drop string as an item if water flows into its space.
+Tripwire will also be removed and drop string as an item if a piston tries to push it or moves a block into its space.
+Tripwire will be destroyed without dropping string if lava flows into its space.
+Spiders and cave spiders drop up to two pieces of string upon death. Cobwebs drop one string when destroyed.
+String can be obtained by fishing.
+Five pieces of tripwire generate naturally in every jungle temple.
+String has an approximately 53% chance of spawning in a dungeon chest, where it will appear in stacks of 1 to 4 units.
+String can be used as a crafting ingredient and tripwire can be used as a redstone component.
+Fisherman and fletcher villagers will buy 15-20 string for an emerald.
+Tripwire can be used to detect entities as part of a tripwire circuit.
+To place tripwire, use string while pointing at a surface facing the space the tripwire should occupy.
+When tripwire is placed on a full solid opaque block, it will lie flat "on the ground" (0.09375 or ⁄32 blocks high). When placed above a transparent block (including air), tripwire will float "in the air" (0.21875 or ⁄32 blocks high, but with a half-block-tall collision mask). Tripwire will connect to any adjacent tripwire or tripwire hooks facing the tripwire if they are also "in the air" or "on the ground", and can also be placed above or below other tripwire.
+In order to activate tripwire hooks, tripwire must be part of a "tripwire circuit": a straight line of blocks consisting of a block with a tripwire hook attached to it, a "tripwire line" (1 to 40 blocks of tripwire), and a second tripwire hook attached to another block. All tripwire hooks and tripwire must either have solid blocks beneath them (producing a tripwire circuit on the ground) or above transparent blocks (producing a tripwire circuit in the air).
+A tripwire activates if almost any entity (players, mobs, minecarts, boats, items, arrows, etc.) intersects its collision mask. The tripwire remains active until there are no entities intersecting its collision mask. Thrown potions, some arrows, thrown Ender pearls, and thrown eyes of ender will not activate tripwire.
+An active tripwire that is part of a valid tripwire circuit will cause the attached tripwire hooks to activate (producing redstone power). Active tripwires do not themselves produce redstone power.
+When tripwire is broken (including by breaking a block beneath ground tripwire) after being part of a valid tripwire circuit, it will activate the attached tripwire hooks for 5 redstone ticks (10 game ticks, or 0.5 seconds barring lag). It will not produce the signal if it is broken using shears.
+A tripwire does not need to be part of a valid tripwire circuit to activate, but without valid attached tripwire hooks the activation or deactivation can only update adjacent blocks (for example, activating a BUD circuit).
+String has the ID name minecraft:string. Tripwire has the ID name minecraft:tripwire and is further defined by its block data. Tripwire also has a block state which is expected to replace the functionality of block data in a future version.
+The first image of tripwires released by Mojang.
+An image released by Mojang testing visibility of tripwires from a distance at night.
+Ditto, in daytime.
+Dec value: 287.
+Hex value: 11F.
+Maximum stack 64.
+String is obtained by killing spiders and destroying cobwebs, but can also be found in dungeon chests. Cobwebs can be found in abandoned mineshafts and strongholds.
+String is used to create bows, fishing rods and wool. As most players only need a few bows and hardly ever use a fishing rod, large quantities of left over string can make a nice supply of extra wool. However, wool cannot be turned back into string.
+Farming string is quite easy as spiders can be found everywhere in the overworld, both at night and during the day. Dungeons occasionally have spider spawners, which makes it easy to set up an automated spider farm. Cave spider spawners are also a common sight in abandoned mineshafts, sometimes close together, which makes abandoned mineshafts the perfect place to either kill lots of spiders or to build a farm.

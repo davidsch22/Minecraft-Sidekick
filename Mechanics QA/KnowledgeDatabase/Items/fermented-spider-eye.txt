@@ -1,0 +1,6 @@
+Dec value: 376.
+Hex value: 178.
+Maximum stack 64.
+Fermented spider eyes are created by combining sugar, a brown mushroom and a spider eye in any crafting interface. The positions of the items don’t matter, so you can create them in your inventory’s crafting interface.
+Fermented spider eyes are used as an ingredient in brewing recipes. They will always corrupt the potion’s effect, which could result in a potion of weakness, potion of harming and potion of slowness. These potions are, of course, best turned into splash potions by adding gunpowder.
+Spider eyes can easily be farmed as spiders can be found everywhere. Dungeons occasionally have spider spawners, and abandoned mineshafts have plenty of cave spider spawners. This makes creating a spider farm very easy.

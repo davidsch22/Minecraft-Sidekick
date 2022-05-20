@@ -1,0 +1,27 @@
+Survival mode is the game mode of Minecraft in which players must collect resources, build structures, battle mobs, manage hunger, and explore the land in an effort to survive.
+In Survival, players have an inventory in which they may gather items. These items may be combined using certain recipes to create tools and other items. This process is known as crafting. Most crafting recipes need a crafting table. Players are also able to create potions by brewing.
+A player can switch to Survival mode by using the command /gamemode survival, /gamemode s, or /gamemode 0.
+Survival single player is the original game mode of Minecraft. Until mid-Alpha, SSP was the only available mode besides Classic creative mode. SSP may be played online or offline, as long as the user has initially played it while connected to the Internet (which allows game files to download to their computer).
+Despite being marketed as a game with no pre-determined goals, Minecraft does have a basic structure, that of a scavenger hunt. Collecting various items and resources adds to the player's capabilities, attacks, and defenses, with many items enabling access to others. The player can reach a "proper ending" in Survival mode by defeating the Ender Dragon, but this does not actually terminate play; it provides a trophy item, a huge amount of experience, and leaves the End dimension open for exploitation. There is also an optional boss, the wither, which becomes accessible in the mid- to late game.
+To summarize the course of a typical game.
+The player starts in The Overworld where they must survive various dangers and gather materials (resources) by first punching a tree for wood, and then crafting wooden tools.
+The player must search their immediate surroundings to collect additional items/resources to survive their first night and build a simple shelter.
+Then the player will need to acquire stone tools.
+The player builds a home with a bed, chests with spare materials, a crafting table, and a furnace.
+Over time, they will generally add farms for crops and pens for animals, build more structures for various purposes, and explore large sections of the world in search of new resources.
+The player either finds a cave, a ravine or mines their own passage to deep underground, in search of various ores.
+The player finds and smelts iron ore into iron ingots and uses it for tools, and armor.
+The player delves deeper to collect other ores, culminating in diamonds.
+Using a diamond pickaxe, the player mines some obsidian. With additional diamonds, this also allows construction of an Enchantment Table to enchant weapons and tools.
+The player builds a portal to the Nether with the obsidian.
+The player enters the Nether dimension; a new world with new resources to collect, and an assortment of new monsters and other threats.
+The player finds a nether fortress and attacks some Blazes, killing them and collecting their blaze rods. This allows potion brewing, and is also part of the key for reaching the endgame.
+(The nether fortress can possibly be skipped if the player can trade for eyes of ender).
+The player returns to the Overworld, to find endermen and kill them for their ender pearls.
+The player uses ender pearls and blaze powder to craft eyes of ender, which when thrown, will lead the player to the stronghold.
+Using more eyes of ender, the player locates and repairs the end portal, which gives access to the End dimension and the endgame.
+Once their most worthy adversary, the legendary Ender Dragon has been defeated, a story will scroll and credits will roll and then, and only then, the player will be teleported to their spawn location. (You can press ESC if you want to skip the story and credits).
+The player can continue to explore and modify all three dimensions to your heart's content and the limits of your imagination.
+An optional thing to do is to slay the wither to craft a beacon, which can be used to give player(s) special boosts.
+The player can also take up any purposes of their own design; one common goal is to fulfill all of the predefined achievements.
+Survival multiplayer is played by users who connect to a central Minecraft server. This enables them to interact with other users.

@@ -1,0 +1,55 @@
+A Grass Block is a basic Block that was introduced very early in the game. It uses 3 textures: first is a gray one for the top, which is then tinted to the correct color according to what Biome the block is in, next is one borrowed from the Dirt block for the bottom, and last is an edited dirt texture with grass on the top edge on all of the sides. When covered by Snow, the side texture is white. On natural maps, Grass appears on the topmost blocks of Dirt with no fluids or opaque solid blocks above them.
+In terms of mining, Grass Blocks behave just like Dirt - they drop Dirt resources and are best dug up with a Shovel. However, they make a different sound when harvested and take slightly longer to dig up. This can be used to tell when the player is about to break the surface when tunneling upwards. When Grass Blocks are tilled with a Hoe, it changes into Farmland, and has a chance of dropping 1-2 Seeds. With enough foot traffic or time left unplanted, it will change back into a Dirt Block, and can regrow Grass after that.
+Grass Blocks grow spontaneously only during map generation. Afterward, they can only spread from a nearby block. Grass can spread to any immediately adjacent Dirt blocks at the same height, including diagonally. It can also spread one level above and as many as three levels below. The Grass spreads directly from one block to another and is not affected by gaps or other blocks obstructing it.
+In order for Grass to spread, it must have a Light level of 9 or brighter directly above it. Additionally, the Dirt Block receiving Grass must have a light level of at least 4 above it and must not be covered by a Block that reduces light by 2 levels or more. This includes any opaque block, as well as Lava, Water, Ice, and some non-opaque blocks that light can't pass through, like Slabs and Stairs. Grass can grow under all other transparent blocks, like Glass, Fences, Torches, or Pistons.
+In direct sunlight, which is light level 15, grass will die with 4 or more water or ice blocks directly on top of it (assuming it isn't getting any extra light from the sides). In moonlight, which has a light level of 4, grass will die when covered by a single water or ice block.
+Grass spreads at random intervals and have an equal chance of spreading to any suitable Dirt Blocks that are in range. Because grass can spread as much as 3 levels downward, it tends to spread down hills much faster that it spreads up them.
+ Animals will occasionally spawn on Grass Blocks that have light level 9 or brighter in the space directly above. This is quite rare and requires that there be few other animals nearby. Most animals are instead created along with the terrain.
+ Passive Mobs tend to wander towards Grass Blocks. They also wander towards light, but they'll ignore light over Grass Blocks, and prefer them to any light levels below 10.
+ Bonemeal used on Grass Blocks will grow Tall Grass and Flowers.
+ Grass blocks can be used to make lawns, gardens or as a shade of green in pixel art that is on the ground.
+ A growing or dying grass block can be detected by a BUD (Block Update Detector). Therefore, growth and death conditions can be used to create a Redstone light sensor.
+Grass Blocks were the second Block introduced in Minecraft, after Cobblestone. When first introduced, the Grass Block had its top side texture on all sides. Later on, the side textures showed a signature 'tuft' of grass overlaying Dirt. When Biomes were added in the Halloween Update, the color of the top of the grass block corresponded to whatever Biome it was in.   .
+Attempting to place Grass Blocks by means of hacking one's inventory in Classic Creative Multiplayer will cause the server to automatically kick out the player. Due to Creative mode's lack of dynamic lighting, Grass that is in shadow will eventually die and change to Dirt. Grass in one's inventory used to have a green colour on all sides of the block.
+Before the Beta 1.6 update, seeds could be harvested from Grass Blocks with a Hoe. Seeds can now be harvested by destroying tall grass. In Beta 1.9pre5, the top of the Grass Block's texture was slightly changed.
+Grass Blocks and Dirt Blocks changing between each other is a very common trigger for chunk updates.
+Grass Blocks were one of the first seen Blocks in Minecraft, seen here. It had the top-most face on all sides, resulting in "Grass cubes".
+A Grass Block has become the favicon for Minecraft.net, as well as the icon for Minecraft.exe and the Minecraft: Pocket Edition app artwork.
+In Indev, placeable Grass Blocks were stored in Chests for a short time, and when placed, no matter where, the grass would never die. The only way to kill the grass was to mine the Block.
+In Survival Test mode, Sheep would eat Grass to regrow Wool on their bodies, reverting it to Dirt. Often, the grass would regrow just as quickly as sheep would eat it.
+Between Alpha 1.2.0 Beta 1.8, Grass Blocks had a different texture when obtained in the inventory (via an Inventory Editor or the /give command, or held by Enderman (in the 1.8 Pre-release). The strange inventory texture appeared to have the side face on the top and sides.
+A Grass Block can be obtained in the inventory by using a shovel with Silk Touch.
+As of Beta 1.5, the Grass Block textures on the top of the sides are the same hue as the grass on top on Fancy mode.
+Before the Halloween Update, Grass Blocks had a bright green top texture, since Biomes didn't exist at that time.
+If a Shovel had the Silk Touch Enchantment when it was first introduced, Grass placed in The Nether was grey, like Mycelium.
+If a building was constructed with Grass Blocks, and the world went unused for a long time (presumably 4 months), the Grass Blocks will grow vines. This has so far only been observed in the Pocket Edition.
+In Minecon's goodie-bags, Grass Blocks, along with creepers, diamonds, and the player model, were all given as foldable decorations.
+Grass blocks are available in the player's inventory in Creative Mode, allowing for a more intresting ground patch.
+Grass can spread to nearby Dirt as long as Mycelium or Podzol does not get there first. Podzol or Mycelium cannot spread over Grass and vice-versa.
+Since Grass Blocks do not submit to gravity, floating Grass Blocks can be generated in a new world.
+Two floating grass blocks in a generated world.
+Steve holding a Grass block.
+Add a photo to this gallery.
+Grass.
+A Grass Block is a block that generates naturally in the Overworld.
+Grass blocks can only be obtained by mining them using a tool enchanted with silk touch, otherwise they will drop dirt.
+Grass blocks generate naturally in most biomes in the Overworld.
+Grass grows spontaneously only during map generation. Afterward, it can only spread to a nearby dirt block. Grass spreading without player intervention depends heavily on the time of day. In order for a dirt block to accept grass from a nearby grass block, the following requirements must be met.
+The dirt block receiving grass must be within a 3×3×5 range of the source block where the source block is in the center of the second topmost layer of that range,.
+The source block must have a light level of 9 or brighter directly above it,.
+The dirt block must have a light level of at least 4 above it,.
+Any block above the dirt block must not reduce light by 2 levels or more.
+Light-reducing blocks include any opaque block, as well as lava, water, ice, and partially transparent blocks like stairs and single slabs. Grass blocks can grow under all other transparent blocks like glass, fences, torches, or pistons. Grass jumps directly from one block to a neighbor and is not affected by gaps or other blocks being "in the way". Grass blocks spread at random intervals and have an equal chance of spreading to any suitable dirt blocks that are in range. Because grass can spread as much as 3 levels downward, it tends to spread down slopes much faster than it spreads up them.
+The coloration of grass blocks is dependent on the biome they are in. A grass block will always use the hue set to it's location, regardless of how it was placed or of it's source.
+Grass will die and change to dirt after a random time if covered by any block that reduces the light level above the grass block to 4 or below, including any opaque blocks, or the surrounding area is brought to sufficient darkness. Transparent blocks directly over grass can't kill the grass directly, if the surrounding area provides sufficient darkness, the grass will die.
+Tilling a grass block with a hoe will convert it to a farmland block.
+Grass blocks also change to dirt when sheep "eat" them.
+Using bone meal on grass blocks will grow tall grass and flowers.
+Passive mobs tend to wander towards grass blocks. They also wander towards light, but they ignore light over grass blocks and prefer them to any light levels below 10.
+Sheep will eat grass blocks, turning it into dirt and regrowing their wool.
+Animals will occasionally spawn on grass blocks that have light level 9 or brighter in the space directly above. This is quite rare and requires that there be few other animals nearby or in the spawn chunks. Most animals are instead created along with the terrain.
+A grass block has the ID name minecraft:grass. A grass block also has a block state which is expected to replace the functionality of block data in a future version (though grass block doesn't currently use its block data).
+Grass blocks and dirt blocks changing between each other is a very common cause of chunk updates.
+A grass block has become the favicon for Minecraft.net, and is the icon for the Minecraft launcher and the Pocket Edition app.
+In MineCon's goodie-bags, grass, along with the creeper, diamond, and the player, were given as foldable decorations.
+Endermen can pick up and place grass blocks anywhere.

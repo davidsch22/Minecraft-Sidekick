@@ -1,0 +1,11 @@
+Dec value: 31:1 Hex value: 1F.
+Minimum tool requirement to harvest: Shears.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Tall grass can be found on grass blocks in every land biome, except in deserts and snow biomes. Tall grass can be placed on dirt and farmland. It’s widely available and serves as the main method to get wheat seeds, which are obtained by destroying the block with anything. It’s only other purpose is its aesthetics, though most players only use flowers as decorative gardens.
+Tall grass doesn’t grow on its own, but has to be grown by the player by using bonemeal on grass blocks. This will grow tall grass and flowers on and around the clicked grass block.
+Tall grass can be harvested with shears, which happens almost instantly. This allows for large amounts of tall grass blocks in a short time.
+If you want to clear a large area of grass, using water is often the most effective way. It will destroy all the tall grass, vines and flowers it touches and carry the flowers, and any seeds that may have poppet out of the grass, with it.
+Fire will spread on tall grass, which could lead to a potential fire hazard, especially if it’s close to a wooden house or forest.
+However, the tall grass block itself cannot be set on fire. The direction tall grass is facing depends on the block it’s placed on (the coordinates), this cannot be changed, no matter how often you replace it.

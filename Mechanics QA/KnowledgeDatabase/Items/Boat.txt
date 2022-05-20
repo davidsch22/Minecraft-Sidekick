@@ -1,0 +1,35 @@
+A boat is both an item and a vehicle entity.
+Boats can be retrieved by attacking them.
+Press the use item button on the boat to mount it. A boat can be exited by pressing the sneak key.
+Boats move according to the player's control or water currents. Boats move significantly faster than a player can walk on land or water, but are slower than minecarts. If on land, a boat may still be controlled but extremely slowly.
+Boats are controlled by using the forward key to turn it in the direction the player is facing. Boats also respond to the back key, to which the boat moves quickly in the opposite direction the player is facing. When moving fast enough, there will be "water spray" visual effect representing the bow wake.
+Boats are entities. They can be pushed around slowly on solid blocks, are easily pushed around by water currents, and always face the direction they last moved. Boats act like solid blocks in that they can sit on top of mobs, items and players, and entities can stay on top of them. Boats effectively have just over 4 () (exactly 4 damage isn't quite enough to destroy it), and regenerate ⁄10 per tick.
+Downward flowing water causes boats to be stuck at the bottom. Boats will rise to and bob on the surface of water that is not flowing downward.
+If a boat runs into a lily pad or snow layer, the block will be broken. If the boat is traveling at high speed, it may crash.
+If a boat runs slowly into another entity, it will bounce off and change direction. Running into a block will merely stop movement.
+If the boat is moving quickly enough that splashes are appearing behind it, running into an entity or block will crash the boat. The boat will also crash if it falls to the ground from a height of more than 3 blocks; falling a shorter distance will not crash the boat regardless of speed. A crashed boat is destroyed and drops wood planks and sticks instead of a boat item.
+In Pocket Edition, boats are larger and more resistant to damage. They will not break when colliding with a block.
+When the player is in a boat, two buttons for steering appear. The right button steers to the left, the left button steers to the right. Pressing both buttons move forward, while tapping both buttons rapidly accelerates the boat.
+Boats can support two riders, including mobs. Mobs are 'picked up' by riding a boat near them, and can drive the boat without the aid of the player.
+A boat drops its item form when attacked (which covers most damage types that most mobs have). When crashed, however, it drops 3 oak wood planks (regardless of the type of wood that made it) and 2 sticks.
+Crashing into soul sand at water level will often (but not always) slow the boat enough that it won't crash.
+A chest is short enough that a boat will fall onto it rather than crashing into it.
+Sand, gravel, anvils and dragon eggs drop when they fall onto a boat that is in water.
+If a mob is stacked on top of a boat in water (such as with the /summon command), the boat can be controlled by that mob.
+A boat floating.
+A harbor with doors.
+A horizontally flowing canal for easy boat travel with double door series as water locks on canal.
+A bunch of boats stacked up.
+A harbor equipped with dispensers.
+Transportation.
+Dec value: 333.
+Hex value: 14D.
+Maximum stack 1.
+Boats are the fastest way to travel across water. They float and glide easily with the currents, though a player is also able to control it. By right clicking a boat the player will enter or exit the boat. Once the player is in the boat, the boat can be controlled by using the same movement controls as you use to walk.
+Boats are extremely fragile, any block in its way will almost always destroy the boat when it travels at higher speeds. This is both an advantage and disadvantage. It’s extremely annoying when you’re trying to explore the world, but it offers a great way to keep players away from your islands.
+Boats are crafted using 5 wooden planks, though when they break they’ll turn into 3 planks and 2 sticks. Boats can be placed both in water and on land. They can also be controlled while on land, though they go extremely slow, even too slow to be used in mini games. When boats are placed on fallen snow, moving them across the snow will cause the snow to disappear.
+Boats are controlled using the normal movement keys, but they will always face to where the player is looking. This can be frustrating at times when you want to simply look around, as the boat will turn and so will your view. Boats can go at a maximum speed of about 6 blocks per second through normal acceleration, though this speed can be faster when they fall or go down water currents.
+It’s possible to go through 1 block holes, though the player will take suffocation damage. This can be a useful way to hide the entrance to your base however. Boats can also go through the openings of doors and fence gates, which are often used as a type of flood gate.
+If a boat runs into a block, player or mob at low speeds, the boat will simply bounce of and change direction. If it runs into anything at higher speeds the boat will break. This is very frustrating in swamp biomes due to the high amount of lily pads which are often hard to see. To avoid this, sneaking while in a boat will limit your speed to a safe pace which will not break your boat when you run into anything.
+Boats are a cheap alternative to minecart systems, as a boat only requires 5 planks and a minimum of 3 iron ingots to make a bucket, which allows you to make water ways.
+It’s fairly easy to create a large water system in your town. Simply digging canals and other water ways will give anybody quick or alternative access paths to buildings, harbors and other structures. Pistons are a great way to limit access to certain areas and to act as flood gates. Limiting the flow of water where roads and water meet will allow you to temporarily prevent either people walking or people in boats from continuing on this crossroad. By attaching a redstone clock to this system you’ll have a fully functioning, automatic infrastructure in your town.

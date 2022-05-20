@@ -1,0 +1,32 @@
+Monster spawners are blocks that can spawn mobs.
+Spawners cannot be obtained in survival mode. The proper tool to mine them with is the pickaxe.
+It is also not in the creative inventory, except in Pocket Edition, and as such must be obtained with commands.
+Spawners can generate naturally in these places, spawning mobs chosen randomly when generated.
+It may be a zombie spawner (50% chance), skeleton spawner (25%), or spider spawner (25%).Cave spider spawner heavily surrounded by cobwebs.Silverfish spawner. Located in the end portal room. One per stronghold.Blaze spawner. Located on nether fortress balconies with stairs leading up to them.
+The monster spawner spawns mobs in an 8*8*3 area around it when the player is within 16 blocks of the spawner, provided suitable spawning locations for the block's mob type can be found in the area. The block will attempt to spawn 4 mobs around it, then wait from 10 to 39.95 seconds before spawning again.
+The spawned mob can be changed by using a spawn egg on the spawner. A spawner is also triggered this way in the Pocket Edition, however monster spawners can be found in the player's inventory in Creative mode, and when placed will appear empty.
+In Peaceful difficulty, monster spawner blocks will still appear and work, but any spawned hostile mobs will disappear the instant they spawn. Zombie pigmen, magma cubes, and ghasts will not spawn at all.
+Monster spawners are transparent in their rendering only - unlike all other transparent blocks, they can have torches and redstone placed on them, conduct a redstone current, will suffocate mobs, and more.
+Spawners cannot be moved by pistons.
+A monster spawner is only active when a player is within a radius of 16 blocks from the spawner. While the block is active, it will spawn mobs within an 8×3×8 block volume (8 wide, 8 long, and 3 high) centered on the center of the block, effectively meaning mobs can spawn in a 9×9 area, or 3.5 blocks from the spawner. Mobs can spawn anywhere in this range that is suitable, with mobs more likely to spawn closer to the spawner than farther away.
+While mobs are spawned at fractional x and z-coordinates (i.e. not aligned to blocks), they are spawned at an integer y-coordinate. Horizontally, a mob can spawn with its center point anywhere within the 8×8 range, but vertically, mobs will spawn with their legs at either the same layer as the spawner block, one block above it, or one block below it.
+For some types of mobs to spawn in the outer planes of the spawning volume, some planes outside the volume may also need to be free of opaque blocks to conform with the mobs' height, width, or other rules governing their individual spawn volumes. For mobs that are two or more blocks tall such as zombies, skeletons, or blazes to spawn in the top y-layer, the layer above that must contain only air.
+For all of the volumes listed in the table, the horizontal plane is centered on the center of the spawner block. While the spawning volume for pigs is 8.9×8.9×2.9, the requirement of grass blocks that are necessary for pigs to spawn will reduce the actual volume in which they successfully spawn, however other mobs can spawn in mid-air, ignoring general rules about spawning on solid ground.
+The spawner does not have to be within 4 blocks of the correct biome for it to spawn mobs. As such, spawners can place mobs where they normally wouldn't generate. For example, a mooshroom spawner will operate in a plains biome as long as there are any mycelium blocks within the spawn area.
+The block will attempt to spawn 4 mobs at randomly chosen points within the spawning area, then wait anywhere from 200 to 799 ticks (10 to 39.95 seconds) before spawning again. As it waits, the mob inside the block will spin faster and faster. Except for spawning on a solid block, all of the usual requirements for spawning must be met (not in a solid block, correct light level, etc.), so the spawner will often produce fewer than 4 mobs. When it does spawn, it will "poof", and more lightless flames will temporarily appear around the Spawn block. If the block fails to spawn any mobs because it did not pick any suitable locations, it will repeat this process every tick until it succeeds. Only when it manages to spawn at least one mob will it start waiting for the next cycle. If, at the time of spawning, 6 or more mobs of the spawner's type are present within a 9×9×9 area, centered on the spawner block, the spawner "poofs" without creating any mobs and then waits for the next cycle.
+When mining near a monster spawner that has no valid places to spawn, sometimes a monster will spawn immediately after a block is mined.
+Monster spawners are capable of much more than they are used for in survival Minecraft. Using commands, they can be customized in many ways They can be made to spawn any kind of entity.
+Using commands, they can be customized in many ways A single spawner can spawn multiple different entities, chosen at random from a list.
+Using commands, they can be customized in many ways Properties can be set on the spawned entities.
+Using commands, they can be customized in many ways Various range and timing properties of the spawner can be changed.
+Detailed technical information about custom spawners can be found below.
+If a spawner is made to spawn a giant, ghast, or iron golem; the mob inside will be larger than the spawner and will appear to physically extend beyond the confines of the spawner block's sides. If a spawner is made to spawn endermen, the head will poke through the block. This does not happen in Pocket Edition, as mob figures inside spawners are scaled to the size of the block.
+The miniature mob inside the monster spawner is an actual mob of that type. Thus, if a spawner is configured to spawn ender dragons or withers, their boss health bar is visible while looking at the spawner.
+A blaze spawner in a nether fortress.
+A dungeon, connected to another dungeon, with two spawners.
+A giant spawner.
+A ghast spawner.
+A spawner edited to spawn zombies wearing enchanted diamond armor.
+Light required to disable a blaze spawner.
+A monster spawner that spawns skeletons.
+Monster spawner traps.

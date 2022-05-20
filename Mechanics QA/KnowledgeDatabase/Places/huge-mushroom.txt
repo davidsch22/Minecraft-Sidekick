@@ -1,0 +1,25 @@
+Dec value: 99 Hex value: 64.
+Minimum tool requirement to break: None.
+Blast resistance: 1.
+Maximum stack 64.
+Transparency: No.
+Huge brown mushrooms are basically large, 7×7, platforms without corners, made out of huge brown mushroom blocks on top of a stalk, which varies between 5, 6 and 7 blocks in height. Huge brown mushrooms are often used to create platforms, sometimes on top of each other. They offer a safe hiding space, if you manage to get on top of it and they’re used to farm brown mushrooms.
+Dec value: 100.
+Hex value: 64.
+Minimum tool requirement to break.
+None Blast resistance: 1.
+Maximum stack 64.
+Transparency: No.
+Huge red mushrooms are dome shaped, with sides that are 3×3 in size, on top of stalks which are either 5, 6 or 7 blocks in height. These mushrooms are often used as shelter, as the inside of their dome can quickly be turned into a hiding space. These domes are sometimes used as permanent housing, sometimes for entire villages, as well as a great source of red mushrooms.
+Dec value: 100:10 and 99:10.
+Hex value: 64 and 65.
+Minimum tool requirement to break: None.
+Blast resistance: 1.
+Maximum stack 64.
+Transparency: No.
+Huge mushroom stalks form the base of both types of huge mushroom. They look the same on both, but when destroyed, they can drop small mushrooms of the same type as the huge mushroom. The stalks grow to 4, 5 or 6 blocks high and are topped off by a red or brown huge mushroom top.
+Huge mushrooms occur naturally in the mushroom biomes, but these are hard to find. But huge mushrooms can also be created by players, in any biome. Huge mushrooms are created by using bonemeal on a small mushroom. They will grow to 5, 6 or 7 blocks high, depending both on the available space and randomness. This allows players to restrict the growth of huge mushrooms to a specific size, which can be useful to make harvesting easier, or to create larger mushrooms for housing purposes. .
+Huge mushrooms will revert the myclium and grass they’re placed on, into dirt blocks. To do this, all you have to do is place a border of blocks, 2 blocks above the height you want your mushroom to be. So there will be 1 space between your border and the top of the mushroom. Setting a border doesn’t garantee the expected sized huge mushroom will grow, smaller mushrooms can also pop up.
+Note that both types of huge mushroom require a 7×7 wide area, plus their height requirement, to grow , anything obstructing them will prevent them from growing. Like trees, huge mushrooms cannot grow above the height limit, unless you use mods.
+All parts of a huge mushroom can be harvested using a silk touch enchantment, which can be useful to create larger, custom mushrooms. These parts can also act as fuel, but they only last as long as wooden planks, making them quite inefficient.
+Unfortunately, any type of huge mushroom block is unavailable in creative mode. They don’t appear in the inventory list and clicking them will always instantly destroy the block, even if you use a silk touch enchantment. If you click the mushroom with your scroll button, the current hotbar item will be replaced with the corresponding mushroom, instead of the huge mushroom block.

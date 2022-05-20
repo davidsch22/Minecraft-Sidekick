@@ -1,0 +1,10 @@
+Dec value: Block: 115; Item: 372.
+Hex value: Block: 73; Item: 174.
+Minimum tool requirement to break: None.
+Blast resistance: 5.
+Maximum stack 64.
+Transparency: Yes.
+Nether warts grow naturally inside Nether fortresses. They’re always found in 2 small patches on either side of stairs. They can only be placed on soul sand and will only grow in the Nether, though they can be planted in the Overworld and the End.
+Nether warts can be harvested by simply clicking on them, but they have 4 growth stages (only 3 visible changes) and will only drop more than 1 wart in the last stage. In the last stage planted nether warts can drop 2-5 nether warts. Unlike wheat, nether warts will not break when you jump on them.
+Farming nether warts is rather easy, all you have to do is plant them on soul sand and wait. They don’t require any special circumstances, like a specific light level, Like cacti and sugar cane, they cannot be grown instantly by using bonemeal. Due to their slow growing speed it’s recommended to make large farms, but note that the fire of a ghast’s fireball can destroy netherwarts, so make sure your farm is safe.
+It’s an important thing to realize that nether warts will only grow while the chunk they’re in is loaded, this means a player has to be in the Nether at all times. This can be particularly tedious on single player. Nether warts are only used as a brewing ingredient and are the first ingredient requires to make almost all potions.

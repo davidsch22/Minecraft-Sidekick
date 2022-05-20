@@ -1,0 +1,10 @@
+Air is an invisible, non-solid Block. It cannot be created, destroyed, or obtained, even with an inventory editor. Although it is technically a Block, it is usually not seen as such. Air is unique in the way that it automatically replaces any block that is removed even though it doesn't visually flow. Air is required in order to avoid drowning or suffocation, such as from Water or falling Sand and Gravel.
+In the Indev versions, Air affected fluid blocks that were horizontally adjacent to it. If air was touching a fluid block, there was a  chance the fluid block would disappear and make the pool recede and a  chance the fluid block fill the air, making the pool spread. .
+Air is the most common Block in Minecraft, as it spreads everywhere, provided there are no other blocks.
+Air is programmed to fill any adjacent blocks that are not already full. Sometimes, there is a glitch where the player takes suffocation damage when blocking Water, or emptying the Block of anything other than Air that s/he is standing in.
+Even though Air is nonexistent in The Void, the player does not suffocate. They are just unable to place blocks beneath the Bedrock level.
+In alpha/beta/release 1.3, players could have the Air Block in their inventory.
+Air is a block in Minecraft used to represent unoccupied spaces.
+Air cannot be kept in the inventory and can only be destroyed or created by the placement or removal of other blocks respectively.
+Most generated structures generate air. Air is also generated in any space not occupied by another block.
+Air and non-solid blocks are the only spaces the player and other mobs are allowed to move within without suffocating. The sole exception is the Ender Dragon which can move within all blocks, although it will destroy most blocks it moves within if the mobGriefing gamerule is on.

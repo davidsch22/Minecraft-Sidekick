@@ -1,0 +1,15 @@
+Leggings are a type of armor that covers the lower body of the player. There are five types of leggings - Leather Pants, Chain Leggings, Iron Leggings, Diamond Leggings and Gold Leggings.
+If a zombie, zombie pigman or skeleton is wearing armor, there is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) that the mob will drop leggings upon death. It will usually be badly damaged, and may be enchanted.
+Iron leggings can be found in village chests.
+Leather pants can be bought from leatherworker villagers 2-4 emeralds a piece. Chainmail leggings can be bought from armorer villagers 9-11 emeralds a piece.
+Leggings can be placed in the 3rd armor slot of a player's inventory for activation.
+Defense points are each signified by half of a shirt of mail in the armor bar above the health bar. Each defense point will reduce any damage dealt to the player which is absorbed by armor by 4%, increasing additively with the number of defense points. Different materials and combinations of armor provide different levels of defense.
+The following table shows the amount of defense points added by leggings.
+The following table shows the amount of damage each piece of armor can absorb before being destroyed.
+Any "hit" from a damage source that can be blocked by armor will remove one point of durability from each piece of armor worn. Damage taken that armor doesn't protect (such as falling or drowning) will not damage the armor, even if it is enchanted to protect against that type of damage. The following chart displays how many hits chest plates can endure.
+Leggings can receive the following enchantments Fire Protection.
+Leggings can receive the following enchantments Projectile Protection.
+Leggings can receive the following enchantments Blast Protection.
+Leggings can receive the following enchantments Protection.
+Leggings can receive the following enchantments Unbreaking.
+Leggings can receive the following enchantments Thorns.

@@ -1,0 +1,23 @@
+Coordinates numerically represent your location in a Minecraft world. They are based on a grid where three lines or axes intersect at the origin point. Players initially spawn within a couple hundred blocks of the origin point. the x-axis indicates the player's distance east (positive) or west (negative) of the origin point—i.e., the longitude,.
+ the z-axis indicates the player's distance south (positive) or north (negative) of the origin point—i.e., the latitude,.
+ the y-axis indicates how high or low (from 0 to 255, with 64 being sea level) the player is—i.e., the elevation,.
+thereby forming a right-handed coordinate system (thumb≡x, index≡y, middle≡z), making it easy to remember which axis is which.
+Additionally, the f number in the debug screen tells you which direction the player is currently facing. 0 equals due south. Thus 0 = South.
+Thus 1 = West.
+Thus 2 = North.
+Thus 3 = East.
+Pressing F3 (or Fn+F3 on Macs and some laptops) brings up a debug screen with various data—including your current coordinates, at the top left of the screen. On new macs, however, the FN+F3 keystroke does not display coordinates. Use ALT + FN + F3.
+On console edition the coordinates can be found on any map item.
+The origin point marks the zero point for the x and z coordinates. Hence, it may be thought of as the 0,0 coordinate x-axis = 0.
+Hence, it may be thought of as the 0,0 coordinate z-axis = 0.
+As you travel south, the z-axis number increases; travel north and it decreases. Similarly, the x-axis number increases as you travel east and decreases as you travel west.
+One coordinate number equals one block. And, in terms of real-world measurement, one block equals 1 cubic meter.
+As your elevation rises, the y-axis number increases, and as your elevation lowers, that number decreases.
+The y coordinate works a bit differently than the x and z coordinates in terms of spawning. Typically, you do not spawn at y-coordinate 0. Instead, y=63 is the overworld water sea level, y 31 is the Nether lava sea, and y 11 is the overworld lava flood sea. To clarify: When the display shows your Y=64.62, then your feet are at Y=63 (and your legs are approximately 63.5), and you are out of the water; when the display shows your Y=63.62, then your head is in the Y=63+ block, your feet are in the Y=62 block, your feet may be wet and your head is dry. The top of the water is Y=63 (actually, slightly higher than Y=62.9). For Lava, the top of the overworld lava is 11, and if your Y is 11.62 then your feet may be burning.
+With these numbers in mind, we can see that the player's debug screen above locates him or her at (ignoring the numbers after the decimal point for simplicity) x: 69 = 69 east.
+With these numbers in mind, we can see that the player's debug screen above locates him or her at (ignoring the numbers after the decimal point for simplicity) y: 153 = 153 above the bottom of the game environment.
+With these numbers in mind, we can see that the player's debug screen above locates him or her at (ignoring the numbers after the decimal point for simplicity) z: 45 = 45 south.
+With these numbers in mind, we can see that the player's debug screen above locates him or her at (ignoring the numbers after the decimal point for simplicity) f: 3 = facing east.
+Coordinates may be put to a variety of uses.
+Once players establish bases, they should note their coordinates before going exploring. If they get lost or respawn they can find their way back to their bases by walking to those coordinates. Also you can (on creative) get Command Blocks and put the coordinates in it. It will then take you to the place that match the coordinates you put in the command block.
+Coordinates are often used when sharing level seeds to give directions on where to go to find things.

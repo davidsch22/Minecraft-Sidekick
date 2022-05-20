@@ -1,0 +1,34 @@
+Wither Skeletons are rare mobs that can be found in The Nether, mainly in Nether Fortresses. They were released in the Pretty Scary Update (1.4.2).
+Upon death, a Wither Skeleton will drop Coal, Bones, a Stone Sword, and rarely (1 in 50 chance) their Head. Three Wither Skeleton Heads and four Soul Sand blocks are required in order to spawn the Wither.
+Wither Skeletons will only spawn within Nether Fortresses as of the 1.4 prerelease, Dinnerbone might have added changes to this though.  It is assumed however that they follow the same rules for spawning as blazes, which will only spawn naturally, and not from a spawn where the pack spawn is selected within a nether fortress.  From this pack spawn the mobs can be spawned in close to or even inside the fortress.
+Unlike regular Skeletons, wither skeletons carry swords instead of bows. In appearance they are black and slightly taller than the usual Skeletons.
+If the player is hit by a Wither Skeleton, the player will be infected with the Wither Effect, which will slowly drain their health. Unlike poison, however, it can kill the player. Using a Skeleton Spawn egg in Creative Mode in the Nether has a 75% chance of forming a Wither Skeleton instead of a regular Skeleton.
+The wither skeleton is taller than the regular Skeleton and is slightly shorter than the Enderman making it the third tallest hostile mob in the game. It almost looks charred, possibly because of fire and lava. It holds a Stone Sword instead of a bow.
+ When on Normal and Hard difficulty, the Wither Skeleton can put the Wither Effect on you when it attacks you.
+ When you spawn a spider in the nether, there is a 2% chance of it spawning as a wither skeleton spider jockey.
+ Wither Skeletons cannot spawn in the Overworld, but can travel there through a Portal.
+Using the /summon command, wither skeletons can be spawned with bows like skeletons. Unlike skeletons, if they shoot you, you will be on fire.
+On creative mode, a spider egg has a 1% chance of spawning a spider jockey with a wither skeleton.
+Wither skeleton appear to be bigger than a normal skeleton.
+Due to the Wither Skeleton sharing its entity ID with Skeletons they have a bug where they run away from sunlight even though they cannot burn.
+Because of the same bug, they can spawn in a two block high space, despite being three blocks tall, and will suffocate.
+Summoning a wither skeleton, every 10-15 seconds, it will be on fire for a split second.
+Wither skeletons are dangerous hostile mobs that spawn in Nether fortresses.
+Wither skeletons spawn in Nether fortresses at a light level of 7 or less. They spawn in place of a regular skeleton 80% of the time.
+Wither skeletons are just over 2.5 blocks high and require 3 vertical blocks of space to spawn.
+On Halloween, wither skeletons have a 22.5% chance of spawning wearing a pumpkin and a 2.5% chance of spawning wearing a jack o'lantern.
+Skeleton spawn eggs have an 80% chance of spawning a wither skeleton when used in the nether. Spider spawn eggs have a 0.8% chance of spawning a spider jockey with a wither skeleton.
+In the Console Edition, all skeleton spawn eggs spawn wither skeletons.
+Wither skeletons drop 0-1 coal and 0-2 bones. They have a 2.5% chance of dropping their skull when killed by the player (or tamed wolf), 3.5% with Looting I, 4.5% with Looting II, and 5.5% with Looting III. If the wither skeleton is killed by a charged creeper's explosion, they will always drop their skull (provided that the two mobs encounter each other). They may also rarely drop their stone sword, which will usually be badly damaged, and may be enchanted. They drop 5 experience when killed by a player or tamed wolf.
+If a wither skeleton wearing a pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance of a drop.
+Wither skeletons walk slowly when idle, but will sprint towards the player when they see one. They attack with a stone sword. When the player is attacked by a wither skeleton, they are inflicted with the Wither I effect for 10 seconds, which turns the health bar black and decreases the health gradually. Wither skeletons deal 4 () on Easy, 7 () on Normal and 10 () on Hard.
+Like other undead mobs, wither skeletons may spawn with the ability to pick up dropped melee weapons and armor.
+If hit by a wither's skull, wither skeletons can be afflicted with the Wither effect.
+When a spider is spawned in the Nether (by the player, monster spawner, etc.), it has a 0.8% chance of spawning with a wither skeleton or a Wither Jockey.
+Wither skeletons have the same ID as normal skeletons, and therefore attempt to hide under trees in daytime in the Overworld, regardless of the fact they cannot burn. They also set on fire in the daytime but immediately get put out.
+Although they may spawn with the ability to pick up items, wither skeletons will never pick up a bow under any circumstances. If a wither skeleton is wielding a bow (through the use of commands), it will use it like an ordinary skeleton, but the arrows it shoots will always be set on fire, regardless of enchantments.
+A wither skeleton.
+A wither skeleton wearing iron armor and wielding an iron sword.
+A wither skeleton in the Overworld, with a skeleton burning behind it.
+A wither jockey.
+A wither skeleton next to the wall of a Nether fortress.

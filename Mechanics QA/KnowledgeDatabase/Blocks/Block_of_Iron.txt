@@ -1,0 +1,14 @@
+ Blocks of Iron (also known as Iron Blocks) are blocks for storing Iron Ingots and are also sometimes used for decoration. They do not appear naturally. They are crafted from 9 Iron Ingots. Iron blocks have the same texture on each of its six sides.
+Iron blocks can be made by placing nine iron ingots in a Crafting Table. The nine ingots can be recovered by placing the block in a crafting grid. This makes iron blocks mre functional as "storage units" than as building units. Iron blocks can be mined with a stone, iron, or diamond pickaxe, taking about two seconds to destroy. If an iron block is broken without such a tool, it drops nothing, wasting all nine ingots. It has lines going across it making the iron look corrugated. Iron can not be burned down making it a smart choice when building a house although it may be more difficult.
+Iron blocks are also required to build an Iron Golem which requires 4 Iron blocks in a shape of a T and a pumpkin on top middle placed last. .
+In the Beta 1.9 pre-release, stripes were added to the blocks' texture.
+Prior to the Halloween Update, Block of Iron used a different textured skin.
+In 1.2, four Iron Blocks and one pumpkin are used to make an Iron Golem.
+As of Pre-release 12w41a, the crafting recipe for the Anvil requires three Blocks of Iron.
+Blocks of Iron in Minecraft: Pocket Edition.
+Add a photo to this gallery.
+Blocks of Iron (also known as Iron Blocks) are decorative mineral blocks made from iron ingots.
+Blocks of iron can only be mined using a stone pickaxe or better. If an iron block is mined without the use of a pickaxe, it drops nothing.
+Blocks of iron can be used to store iron ingots in a compact fashion.
+Blocks of iron can be used to "power" a beacon. The top layer must be at least 3×3 optional lower layers can be adding as 5×5, 7×7, and 9×9 from top to bottom. The layers do not have to be entirely iron blocks, as they may also contain blocks of gold, blocks of diamond, and blocks of emerald.
+Blocks of iron and pumpkins or jack o'lanterns are used to build iron golems. The pumpkin or jack o'lantern must be placed last, and the golem spawns immediately after placing it.

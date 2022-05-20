@@ -1,0 +1,22 @@
+Raw Fish is a food item that can be caught from a body of water with a Fishing rod. After the Player pulls the rod from water when it is being pulled into the water, the fish is flung towards the player in a ballistic course. It only heals one heart. If it is smelted in a Furnace, it becomes Cooked Fish. Raw Fish appears to be the only food for Ocelots (they don't eat cooked fish), but requires patience (if approaching too fast the Ocelot will run away).
+ It is very easy to gather.  This is especially worthy to note as you may lack a constant food source in a new survival game (a fishing rod is arguably easy to acquire).
+ Gathering fish can be initially faster than waiting for wheat to grow or finding animals to kill.
+ Since fish can be caught by any body of water, you can use a bucket of water to be able to catch fish anywhere.
+ Currently raw fish is the only way to tame an ocelot into a cat, which provide a safe zone from creepers around it as it follows you.
+ Farmer villagers sometimes require cooked fish as a trade. A stockpile of fish can help keep trading with farmers for longer, allowing for more trades.
+ Quardians may drop a fish on deaths, as well as the Elder version, but it could be any version.
+ A fishing rod requires string to make, which can be difficult to obtain early on. By the time it is easy to find, you tend to have other food sources already set up.
+ You must be present the whole time you are fishing, which can be tedious.
+ Once a wheat farm is fully established, it produces wheat far faster than you can obtain fish.
+ Fish require cooking for their full effect.
+A Clownfish is a variation of Raw Fish. Unlike raw fish, however, it is unable to be cooked in a furnace. There is currently no use for clownfish. They can be eaten raw, yielding only a meager replenishment of hunger.
+In 1.8 Raw Fish is renamed to Raw Cod.
+Raw fish is a food item which can be obtained by fishing.
+The most common way of obtaining raw fish, like any other fish, is fishing. The chance of one being caught can be increased with the 'Lure' enchantment.
+Another method of obtaining them is through defeating Guardians. This method can be very efficient if a Guardian farm is built.
+Raw fish restores 2 () and 0.4 saturation. Eating raw fish is not efficient though, as you can cook them into cooked fish, which restores 5 () and 6 saturation.
+Raw fish can be fed to ocelots to tame them.
+Fisherman villagers will sell cooked fish for 6 raw fish and 1 emerald.
+In the Halloween Update, Notch said he would add fish as a sea creature; however, he had limited time, and was thus only able to add them as an item.
+Raw fish most closely resembles white crappie or tilapia. However, the texture files and language text label them as cod.
+Cooked Salmon.

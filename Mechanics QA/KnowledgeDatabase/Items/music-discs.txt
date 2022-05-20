@@ -1,0 +1,30 @@
+Dec value.
+“11”: 2266.
+“13”: 2256.
+“cat”: 2257.
+“blocks”: 2258.
+“chirp”: 2259.
+“far”: 2260.
+“mall”: 2261.
+“mellohi”: 2262.
+“stal”: 2263.
+“strad”: 2264.
+“ward”: 2265.
+Hex value: “11”: 8DA.
+“13”: 8D0.
+“cat”: 8D1.
+“blocks”: 8D2.
+“chirp”: 8D3.
+“far”: 8D4.
+“mall”: 8D5.
+“mellohi”: 8D6.
+“stal”: 8D7.
+“strad”: 8D8.
+“ward”: 8D9.
+Music discs are rare items which will play a song when they’re used on jukeboxes. There are currently 10 discs which you can obtain in game and an 11th disc which can only be obtained in creative mode or by using mods.
+Music discs are dropped by creepers when they’re killed by a skeleton, the skeleton only has to deal the killing blow, so a player can easily weaken the creeper first. There are 2 music discs, called “11” and “Cat” which can be found in dungeon chests.
+Music can be heard up to 75 blocks away, though the sound will grow fainter when you move further away. The position of your character also affects how you hear the music, as the position of the characters ears determine through which channel the music is played. This is most noticeable when you use headphones.
+Getting a skeleton to kill a creeper is very easy. However, it’s important to know creepers will keep attacking the first player or mob that attacks it, which means a skeleton will pretty much die if it attacks the creeper first. To overcome this, you can simply lure a creeper into a closed area and lock it in. Make sure the skeleton can still fire at the creeper through holes.
+Now stand in between the creeper and the skeleton and wait for the skeleton to be killed. Note that a creeper will start to detonate when anything is within a block away, if a skeleton is pushing against a block seperating it and the creeper, the creeper can often detonate.
+If you’re feeling a little more adventerous, hit the creeper 3 times with an iron sword, or twice with a critical strike of an iron sword, to get it down to just 1 heart of health. A single arrow hit by a skeleton will finish it off and cause it to drop a music disc.
+All the minecraft music, including the normal in game music, have been created by Daniel Rosenfeld, otherwise known as C418. He has released an album with 24 songs, most of which are part of minecraft, though some songs are exclusive bonus tracks.

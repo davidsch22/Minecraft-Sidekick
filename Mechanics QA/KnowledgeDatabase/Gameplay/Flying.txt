@@ -1,0 +1,15 @@
+Flying is the most versatile form of transportation and is found in Creative and Spectator mode.
+Flying makes the player move at around 10.8 meters/second (38.88 km/h), which is approximately 250% of the normal walking speed, being 4.3 meters/second. This is increased further when holding the control button. When flying, friction will be reduced to a level equivalent to when on ice. If a player is flying in fluids they will neither sink nor slow down.
+Flying is not limited by any processes such as food depletion, which limits sprinting. Flying mode can be toggled by double-tapping the "jump" key and can be activated at any altitude. The player can gain or lose altitude while flying by pressing the "jump"(default space) or "sneak"(default shift keys) keys, respectively. Holding "control" allows you to move faster while flying. In Creative mode, flying is automatically disabled if the player lowers onto a surface while in the air. In Spectator mode, players will fly through all blocks, Flying increases the player's field of view by 10, increased further when holding control.
+A way to tell if you are flying or walking is to look at the sun or moon, which will zoom in or out during the mode change. Flying is useful in combat because the player can not only take its victim by surprise, but can also deal critical hits if the last time they changed altitude, they moved down.
+In the Pocket Edition, the player ascends or descends by sliding from the center button to the up or down button, respectively.
+If the Player gets into a minecart or bed while flying, they will still be flying when they get out of the minecart or bed.
+Players flying in the Void will only receive Void damage if they are below altitude -64, allowing them to fly a short distance beneath Void level.
+On some servers, if the player is in Survival mode and is in the air for an abnormally long time, they will be kicked.
+You can also sneak while flying by holding the space bar and left shift keys simultaneously during flight.
+If the player switches from Creative mode to Survival mode ingame while flying, the player will continue to fly, but the second the player hits the ground, the player will be hurt or killed due to the accumulated fall damage.
+If the player goes high enough while flying in Creative mode, the sun or the moon can be seen through the fog when looking down, depending on which is below the horizon at the time; the player can also see the clouds at this time.
+Sprinting.
+Sneaking.
+Blocking.
+Tutorials/Flying technologies - technologies to make a construction or entity fly.

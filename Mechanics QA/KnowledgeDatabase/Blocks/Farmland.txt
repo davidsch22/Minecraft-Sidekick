@@ -1,0 +1,47 @@
+ Farmland is a block that is created when you use a Hoe on a dirt block by right clicking. You will want to have the farmland block within at least a 4x4 radius from a Water supply so that when you plant seeds on it they will grow. When the farmland block is next to water, it turns to a dark brown indicating it is moist and plants will grow. When Water is not near, the block will stay a light brown color. When you break a farmland block, you get a Dirt block. You can put seeds on them.
+Jumping on farmland would result in it turning back to dirt. Also, before 1.1, walking on farmland would result in it being converted to dirt.
+Before 1.2.5, it was possible to obtain farmland through silk touch enchantment. This was removed in 1.2.5.
+When planting melon or pumpkin seeds, they don't need farmland to harvest blocks.
+You can avoid converting your farmland to dirt by sneaking. This can also be diverted by changing the Mobgriefing setting to false.
+Farmland that is near water can go one block away from the source whilst still being fertile for planting.
+Farmland can be made while under another block, though it will turn back into dirt as soon as you do.
+Farmland is a technical block on which seeds can be planted and grown.
+To make a block of farmland, use a hoe on dirt or grass block.
+Farmland can only be gathered in the inventory using commands. When mined (even with a Silk Touch tool), it drops dirt.
+Farmland occurs naturally in villages where wheat, potatoes and carrots are grown. Patches of farmland are surrounded by logs or sandstone.
+Farmland is required to grow five of the game's types of crops (6 in Pocket Edition).
+Plants such as saplings, ferns, tall grass and flowers may be planted on farmland. Mushrooms, sugar canes and cactus cannot be planted on farmland.
+A farmland block will be created dry. It will become hydrated if the following conditions are met.
+Water up to four blocks away horizontally, including diagonals.
+The water must be on the same level or 1 block above farmland block level.
+The blocks between the farmland block and the water make no difference.
+There is nothing the player can do to affect the rate at which farmland becomes hydrated. Each farmland block within a 9x9 grid of farmland with a single water block in the middle has exactly the same chance of becoming hydrated as a single farmland block in an ocean.
+Farmland can also be hydrated by rain.
+Different types of seeds grow faster on hydrated farmland than on dry farmland. Hydrated farmland will yield a fully developed wheat crop in a little over a single day/night cycle.
+Under certain conditions, a farmland block will "decay" becoming a dirt block, regardless of its state of hydration. This will happen if any of the following occur If the farmland block is dehydrated and nothing is planted on it for too long.
+This will happen if any of the following occur If the player or any mob jumps on the block too many times.
+This will happen if any of the following occur If a piston arm is extended over a farmland block.
+This will happen if any of the following occur If a piston pushes a farmland block down.
+This will happen if any of the following occur If a solid block covers the top surface of the farmland block such as when pumpkin or melon blocks appear.
+This will happen if any of the following occur If an Enderman teleports directly on top of a farmland block.
+When farmland decays, crops at the top are dropped as items, as if they were harvested.
+Tilling a dirt block which has a dirt block on top of it will change it to farmland even though it cannot be used. If a hoe is used on a block horizontally adjacent to such a block, the first block will revert to dirt and the selected block will not be tilled.
+Ladders and trapdoors cannot be attached to the side of a farmland block, but signs can.
+Farmland will not be trampled when walking off of a slab next to it.
+Farmland will not decay if the player 'jumps' onto it, with a block two blocks above the farmland being jumped on.
+Grass that has water flowing over it cannot be tilled; however, dirt that has water flowing over it can.
+The flowing water that comes off of a source block hydrates farmland just as source blocks do.
+In Pocket Edition, farmland lets light through, but in the PC version it blocks light.
+Farming.
+Dec value: 60.
+Hex value: 3C.
+Minimum tool requirement to break: None.
+Blast resistance: 3.
+Maximum stack 64.
+Transparency: Yes.
+Farmland is obviously used to plant seeds on. Currently there are only 3 types of seeds, normal (wheat), pumpkin and melon seeds.
+Farmland is created by using a hoe on either a grass or dirt block, but will revert to dirt if there is no water block within 4 blocks from the farmland block. Farmland will also revert to dirt when a player or mob jumps on it, making slimes (in flatlands) and spiders devastating. A player who does need to jump can use sneak to prevent the farmland from being trampled. .
+Farmland is available naturally in villages, though wheat is grown on them. Farmland will start out looking like a shorter dirt block with lines. Once hydrated, the block will be dark brown. Rain will hydrate farmland at a slow pace, but isn’t a reliable method to keep your farmland wet.
+Efficient land use farming is all about getting the highest yield out of the smallest possible amount of land. The general idea is to take advantage of the fact that water will hydrate land up to 4 blocks away in all directions. This allows a 9×9 field of farmland to be hydrated by a single block of water in the middle. This means up to 80 blocks can be used for planting crops, instead of perhaps 45 blocks using the method most people use, which is a line of farmland followed by a line of water.
+Farmland offers a few useful features for redstone circuits and other traps or tricks. Firstly, farmland doesn’t pass any power pulse, while dirt blocks do. This could act like a type of secret switch, as only the creator will know which dirt block need to be tilled. Because farmland reverts to dirt when jumped on, using the above mentioned feature, jumping or falling detectors can be made.
+Any dirt block can be tilled, this includes dirt blocks under other blocks. Though plants can’t be grown on these blocks, the small gap between the block can be used to click something on the other side, like a lever which opens a secret door.

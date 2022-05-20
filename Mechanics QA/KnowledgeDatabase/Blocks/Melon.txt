@@ -1,0 +1,22 @@
+ Melons were first introduced in Minecraft beta 1.8 Pre-Release Adventure Update. When a melon is destroyed, it will release several melon slices, which can be crafted in groups of nine into a Melon. as of 1.7, they can be found "wild" in Jungle Biomes.
+When destroyed, melons will drop (3-7 in 1.9 Pre-release 3, 1 in 1.9 Pre-release 4) melon slices. Melons will also be destroyed when a Piston of any kind pushes a melon block. If seeds and sticky pistons are placed in the correct formation, they can be used to auto harvest melons. One melon slice can be crafted into a melon seed.
+Melons can be somewhat difficult to farm. They will have a central stem that slowly grows until it reaches its maximum size at which point a melon will spawn on one of the adjacent blocks. The stem requires an Air block or a transparent block above it to produce melons, the resulting melon does not. Melon stems take around 10 to 30 minutes (0.5 to 1.5 Minecraft days) to fully develop. Melons can be grown on any surface, with a common misconception being that they will only grow on farmland. Another melon will grow in place of any other harvested melon. Any stem adjacent to a melon block will connect to it. Bonemeal can cause a melon stem to become fully-grown, but cannot produce a melon immediately. Melons are best grown in rows with one trench of water beside them, with two stems being on both sides. This will produce the maximum amount of melons and will keep them from being unable to produce melons.
+A melon, a melon slice, and melon seeds.
+Add a photo to this gallery.
+Melons were first revealed in an IGN interview with Notch.
+Two Melon Stems can sometimes be connected to one melon that grows beside them.
+As of 1.7.2, melons can spawn wild in jungles.
+Melon (named Melon Slice in the console editions) is a food item that can be eaten by the player.
+Melons can be obtained from melon blocks.
+Melons drop from melon blocks which generate naturally in jungles or can be grown from melon seeds found in chest minecarts in abandoned mine shafts.
+Each melon block normally drops 3 to 7 melons when broken or pushed by a piston. Breaking a melon block with a tool with the Fortune enchantment will increase the potential number of drops by 1 per level, to a maximum of 9 melons.
+In the Pocket Edition, melons are obtainable from a Nether Reactor, as well as spawning in the world.
+Eating a melon restores 2 points () of hunger and 1.2 points of hunger saturation.
+Making melon slices into a melon block is inefficient as you use 9 melon slices, and when you break the block you get a lower melon return rate.
+In the Pocket Edition, melon blocks cannot be destroyed by explosions, which is possibly a bug.
+Pumpkin.
+Dec value: 362.
+Hex value: 16A.
+Maximum stack 64.
+Melon seeds can only be obtained by crafting a melon slice into melon seeds, harvesting a melon stalk or by finding the melon seeds in chests in abandoned mineshafts.
+To farm melons you simply hoe either a dirt or grass block, which will turn it into farmland. You can then plant the seeds on farmland and the seeds will grow over time. The seeds will require light of level 9 to grow. By hydrating the farmland the seeds will grow faster. This requires water to be within 4 blocks of the farmland.

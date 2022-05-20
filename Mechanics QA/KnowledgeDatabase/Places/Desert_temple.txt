@@ -1,0 +1,24 @@
+Desert temples (also known as Pyramids) are generated structures.
+Desert temples naturally generate in desert biomes. Desert temples always spawn with their floor at y=64. This may cause the desert temple to be partially buried.
+Desert temples are constructed from sandstone (all 3 variants), orange and blue stained clay, sandstone slabs, and sandstone stairs.
+In the center of the temple's ground floor is a single block of blue stained clay. Underneath this stained clay is a 'booby-trapped' hidden chamber with four chests that can each contain very valuable loot. The trap consists of a stone pressure plate (located directly under the blue stained clay), connected to a 3x3x1 grid of TNT.
+Desert temples look gray on maps, similar to bare stone, but with a distinctive shape.
+Each chest contains 2–6 stacks of items, chosen from the following list. Chance listed is per stack, not for the chest as a whole.
+The desert temple's basement is 21 blocks by 21 blocks.
+The orange symbols on the outside resemble the Ancient Egyptian symbol for Life, an Ankh. .
+Desert temples have a rare chance of generating improperly causing some blocks to be lost or added.
+As there is no light in the lower chamber, mobs can spawn inside and trigger the TNT trap, destroying the chests and loot before any player can reach it. Also, rarely a lava lake might generate next to TNT, potentially setting the trap off as well.
+A desert temple will not spawn fully if spawned partially on water. When spawned on lakes, they are only half-generated.
+The top hole in the temple's ceiling is almost always generated above ground, so buried temples will be accessible, but fall damage is likely.
+When a desert temple spawns above a ravine, it will not have a deeper foundation the way village buildings do; rather, its shaft will be left hanging. There will always be a one-block floor under the TNT.
+A desert temple containing hardened clay.
+The treasure room inside the hidden lower chamber of the temple.
+The 9 TNT rigged under the stone pressure plate.
+A temple spawned in a desert village.
+A temple spawned in a normal village.
+A desert temple generated under the sand.
+What desert temples look like on maps.
+A reconstructed temple with the shaft extending below it.
+The previous temple viewed from a different angle.
+A temple spawned on a thin desert caused by a mesa biome being generated next to a plains resulting in the temple being in 3 biomes.
+Tutorial on defeating desert temples.

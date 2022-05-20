@@ -1,0 +1,10 @@
+ID: 57.
+Dec value: 57.
+Hex value: 39.
+Minimum tool requirement to break: Iron pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Blocks of diamond are created by placing 9 diamonds in a 3×3 square on a crafting table. They have no current crafting use, other than being able to be turned back into 9 diamonds. Blocks of diamond are often only used as decoration and to show off a player’s wealth on multiplayer servers.
+They’re sometimes used to store more diamonds in a single stack, as a full stack of diamond blocks equals 9 full stacks of diamonds. But because diamonds are very rare, few players even have more than 64 unused diamonds.
+An iron or diamond pickaxe is required to mine this block, using anything else will destroy this block and the 9 diamonds used to create it. Despite being solid diamond, blocks of diamond are easily destroyed by explosions. They have the same blast resistance as stone blocks.

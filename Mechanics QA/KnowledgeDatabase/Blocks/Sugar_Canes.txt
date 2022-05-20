@@ -1,0 +1,19 @@
+Sugar cane (formerly called reeds, and sometimes called papyrus or bamboo) is an item and an important crafting ingredient.
+Sugar cane can be mined instantly with anything. When a sugar cane is pushed by a piston, it breaks.
+Sugar cane can generate naturally near water, mostly three-blocks tall, but has a small chance to naturally spawn four-blocks tall.
+Sugar cane must be planted on a grass, dirt, sand, podzol, coarse dirt or red sand block that is directly adjacent to water (not merely above or diagonal to water). The adjacent water block can be covered with another block, whether opaque or transparent, and sugar cane will still be able to be placed and grow next to it. It can also be planted next to flowing water. It does not need light to grow. Sugar cane may grow to a maximum height of three blocks. The player can place sugar cane atop existing sugar cane blocks to make sugar cane of any height up to the build limit.
+Due to its water-displacing properties, sugar cane can interestingly be used to create underwater paths, allowing players to move at normal speed and breathe if it is two blocks in height. Water must be adjacent to the block the sugar cane is placed on.
+Sugar cane can appear as a different shade of green depending on the biome in which they are placed.
+Sugar cane blocks use block data to determine its age. They also have block states, intended to replace block data in the future.
+In the code, sugar cane is still referenced as "reeds," both the inventory edited block and the item. It is also called reed in the F3 screen.
+When a sugar cane is broken at the second level, the time resets. (For example, if a two-high sugar cane is broken but is just about to grow to the third stage, it would reset that time).
+In the Pocket Edition, you can use bone meal to help grow sugar cane. You cannot do this on PC.
+A large sugar cane farm using 2×2 water holes.
+Water flowing over sugar cane.
+Naturally generated sugar cane found underwater.
+A cactus and sugar cane stalk generated next to each other.
+A sugar cane spawning naturally in a cave underground.
+Four-block tall sugar cane.
+Sugar cane growing between biomes.
+Sugar cane growing on red sand in a mesa biome.
+Sugar cane generated without a water source.

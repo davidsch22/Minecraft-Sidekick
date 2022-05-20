@@ -1,0 +1,39 @@
+Tripwire Hooks are redstone-affiliated items in Minecraft. They were first released in the 1.3.1 Update. Tripwire hooks can be placed on the sides of blocks (not the top or bottom and excluding half slabs that are not stacked) and can be armed by placing string on the ground in a horizontal line between two tripwire hooks. If a player or another entity falls or steps on the tripwire when it is activated, it will power the Tripwire Hooks and be able to send a continuous redstone signal as long as an entity or player is over the tripwire. If the tripwire is broken, the Tripwire Hook will send a short current after being deactivated. However, you can safely disarm it by destroying the string with shears. Tripwire Hooks can be found in a jungle temple rigged to arrow dispensers.
+If the tripwire hook is armed, when you destroy it, it makes a sound similar to the sound it makes when you release a bow.
+A trip wire line can be activated by arrows, once the arrow is picked up the signal will stop. If you're using a dispenser the dispenser will shoot one more projectile when deactivated.
+A tripwire hook is a block that can be used to detect entities (players, mobs, items, etc.) when part of a tripwire circuit.
+Tripwire hooks can be obtained by crafting, by breaking a previously-placed tripwire hook, by looting jungle temples, or by fishing.
+To remove a tripwire hook, mine it. Tripwire hooks can be broken instantly using any tool, or without a tool.
+A tripwire hook will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.
+A tripwire hook will also be removed and drop itself as an item if water flows into its space.
+A tripwire hook will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+A tripwire hook will be destroyed without dropping itself as an item if lava flows into its space.
+Tripwire hooks can be obtained as a "junk" item from fishing.
+Four tripwire hooks are generated naturally in each jungle temple.
+Tripwire hooks can be used as crafting ingredients or as redstone components.
+Tripwire hooks can be used to craft trapped chests.
+A tripwire hook can be used to detect mobs, items, and other entities over a large area.
+To place a tripwire hook, use the Place Block control.
+A tripwire hook can be attached to the side of any full solid opaque block.
+In order to function correctly, a tripwire hook must be part of a "tripwire circuit": a straight line of blocks consisting of a block with a tripwire hook attached to it, a "tripwire line" (1 to 40 blocks of tripwire), and a second tripwire hook attached to another block.
+To place tripwire, right-click on an adjacent block with a string. Tripwire can be placed "on the ground" or "in the air", and will only form a valid tripwire line if all the tripwire is of the same type. Tripwire is considered on the ground if placed on any opaque block, or on a block of redstone, a hopper, an upside-down slab, or an upside-down stairs. Tripwire is considered in the air if placed on any other block, or above air. Valid tripwire lines will not form directly over flowing water.
+Tripwire on the ground has a short hitbox (0.125 blocks high), while tripwire in the air has a taller hitbox (0.5 blocks high).
+If the attachment block under ground tripwire is removed, the tripwire will be destroyed and drop itself as string.
+A tripwire circuit is placed correctly when the tripwire hooks are fully extended and the tripwire line runs continuously between the tripwire hooks. Tripwire lines from separate tripwire circuits can be placed next to each other (in parallel), above each other, and can even intersect each other.
+A tripwire hook in a valid tripwire circuit actives when certain entities (players, mobs, items, etc.) intersect the tripwire hook's tripwire line "hit box" (but not the tripwire hook itself), and deactivates when all entities leave or are removed from the tripwire line.
+Entities which will not activate a tripwire circuit include: thrown potions, some arrows, thrown ender pearls, and thrown eyes of ender.
+A tripwire hook also activates for 5 redstone ticks (0.5 seconds, barring lag) when any of its tripwires are destroyed, except when shears are used to destroy the tripwire.
+Breaking the tripwire hook, or the block it is attached to, does not generate a pulse.
+While active, a tripwire hook powers any adjacent redstone dust to power level 15, including beneath the tripwire hook.
+While active, a tripwire hook powers any adjacent redstone comparators or redstone repeaters facing away from the tripwire hook to power level 15.
+While active, a tripwire hook strongly powers its attachment block to power level 15.
+While active, a tripwire hook activates any adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+Tripwire produces no power itself.
+Although destroying tripwire with shears will not activate a tripwire hook, it will change the tripwire hook's block data (from "connected" to not "connected") which can be detected with a block update detector (BUD). In addition, every time a tripwire hook receives a block tick (a random update that occurs in up to three block in each chunk section every game tick, and on average affects any particular block every 47 seconds), the tripwire hook and its attachment block will produce a redstone update which can also be detected with a BUD.
+A tripwire hook has an ID name of tripwire_hook and is further defined by its block data. A tripwire hook also has a block state which is expected to replace the functionality of block data in a future version.
+A tripwire hook's block data stores its orientation, connection status, and activation status.
+On May 28, 2012, Dinnerbone began tweeting of a new idea he had. He began posting pictures and eventually released a video on tripwires. Before this, the player could not place string on the ground. Dinnerbone credited the idea to his fiancee MissMarzenia.
+The first image of tripwires released by Mojang.
+The second image of tripwires released by Mojang.
+The third image of tripwires released by Mojang.
+A comparison between a tripwire hook and a lever released by Mojang.

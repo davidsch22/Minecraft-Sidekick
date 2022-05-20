@@ -1,0 +1,9 @@
+Fire charges are items which light fires when used.
+Fire charges can be used as ammunition for dispensers, or as an inefficient substitute for flint and steel.
+When used, it instantly lights a fire, similar to flint and steel. The fire charge is consumed in the process. Unlike flint and steel, fire charges cannot be used to directly activate TNT, nor can they detonate Creepers.
+When a fire charge is fired from a dispenser, it acts like a blaze fireball, flying in a straight line (with random aim). When it hits a block, it will place fire. It produces no explosive effect. If it hits a player, it deals a total of 5 () damage (3 () hit damage, and 2 () from burning).
+Blaze and ghast fireballs share their texture with fire charges.
+When a dispenser with a fire charge is placed with a block directly in front of it, the dispenser shoots through it and lights a fire on the other side.
+A fire charge will fly infinitely far until it hits a block or an entity, even if it is outside the player's render distance.
+When shot from a dispenser, the fire charge starts out stationary and accelerates, as though it is falling rather than being launched. Fireballs shot by blazes, however, maintain the same speed all the way up to the target.
+Flint and Steel.

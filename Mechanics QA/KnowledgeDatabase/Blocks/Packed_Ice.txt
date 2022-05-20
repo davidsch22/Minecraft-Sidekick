@@ -1,0 +1,13 @@
+Packed ice is an opaque variant of ice. Packed ice is harder than regular ice and can not be seen through.
+Packed ice can be found naturally in rare Ice Plains (Ice Spike Biomes) using a tool enchanted with Silk Touch or through creative mode / cheats. Mining packed ice without Silk Touch will break the block.
+Packed Ice was added in the update to 1.7.2.
+Packed Ice is a solid block form of ice.
+Packed ice can be obtained using any tool with silk touch. When broken without using a silk touch tool it drops nothing.
+Packed ice is found in the rare Ice Plains Spikes biome.
+Packed ice is slightly slippery, causing most entities to slide, including items. This also allows for increased speed in water currents by placing the packed ice under the water current.
+When a non-full block is placed on top of packed ice, the block has the same 'slipperiness' as the ice below it; although, if packed ice is placed below soul sand, it just amplifies the slowing effect of the soul sand rather than making it slippery.
+Mobs can spawn on packed ice, unlike normal ice. This can allow for compact mob farms that rely on the tendency of pushed mobs to slide off the ice in some way.
+Packed ice is a completely solid block, and allows placement of any objects on top.
+Unlike normal ice, packed ice will not melt if placed near light sources.
+Natural spawning.
+Another picture showing the spikes of different heights.

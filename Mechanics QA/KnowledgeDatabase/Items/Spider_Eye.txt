@@ -1,0 +1,13 @@
+A Spider Eye is a food item added in Beta 1.9 Pre-Release 2. It is dropped by both spiders and cave spiders when killed by the player, but is not dropped when one has died from environmental damage (such as a mob grinder or trap). It can be eaten by the player, but it will poison the player for four seconds, causing   damage.
+Spider Eyes can also be made into potions when added to a water bottle (into a brewing stand). It will make a Mundane Potion, the other is a Potion of Poison creating when mixing it with an Awkward Potion.
+As a crafting item, a spider eye can be mixed with a brown mushroom and one sugar to make one Fermented Spider Eye.
+ Despite the fact that the Spider Eye is poisonous and can be consumed to slightly replenish hunger, it will only harm a player's health instead of just the player's hunger.
+ It could even be used when one's health bar is down to a few hearts, because poison cannot kill the player (it does not reduce health below ).
+ Although Spider Eyes can only produce negative effects for potions, they can be used as an attack when made into a Splash Potion (brewing Gunpowder into a potion will make it a Splash Potion).
+ Spider Eyes exist in the Xbox 360 edition of Minecraft.
+As of Minecraft 1.9 Prerelease 3, if a Spider Eye is mixed into a Awkward Potion it will create a Poison Potion. A Poison Potion hurts the player for a set amount of time, just like getting attacked by a Cave Spider.
+Add a photo to this gallery.
+A Spider Eye is a poisonous food and brewing item.
+A spider or cave spider may drop a spider eye when killed by the player, not upon death from environmental damage.
+A witch may drop up to 6 spider eyes upon death of any nature.
+When eaten, a spider eye restores 2 () hunger points and 3.2 saturation points, giving a nourishment value of 1.6. It also applies a poison effect lasting 4 seconds to the player, causing 4 () damage, which reduces hunger/saturation by 12 points.

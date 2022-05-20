@@ -1,0 +1,5 @@
+Dec value: 280.
+Hex value: 118.
+Maximum stack 64.
+Sticks are created from wooden planks and are used to create various items. The crafting recipes that require sticks range from tools and weapons to rails and ladders, which makes sticks one of the most used items in minecraft. A full list can be found below.
+Sticks can also be used as a fuel, but they burn only 5 seconds, which means it takes at least 2 sticks to cook a single item. Sticks are very inefficient as fuel.

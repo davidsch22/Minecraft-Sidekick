@@ -1,0 +1,6 @@
+Dec value: 374.
+Hex value: 176.
+Maximum stack 64.
+Glass bottles are used in brewing and serve as a first step to creating a potion. They have to be filled with water by right clicking either a water source block or a couldron with water. Note that glass bottles can stack, but water bottles can’t.
+Up to 3 bottles can be placed in a brewing stand and it’s advised you do so. A single ingredient will be spread over all 3 potions, so it’s a lot more economic to use 1 ingredient on 3 potions instead of just 1 or 2.
+Cauldrons only allow for up to 3 glass bottles to be filled, but a water source block will allow for an infinite number of glass bottles to be filled, so using a water source block is always faster and more efficient.

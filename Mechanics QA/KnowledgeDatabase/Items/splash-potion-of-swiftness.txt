@@ -1,0 +1,5 @@
+Dec value: 373:16386.
+Hex value: 175.
+Maximum stack 1.
+Splash potions of swiftness increase the movement of players and mobs caught in its blast radius for a short time. The time is dependant on how far away you stand from the potions blast radius.
+There are 3 types of potions of swiftness, a 2:15 minute version, a 6 minute version and a 1:07 minute version called splash potion of swiftness II. This last potion lasts shorter but gives you a faster speed boost than the other 2 versions. The further you stand from the potion’s blast radius the shorter this time will be.

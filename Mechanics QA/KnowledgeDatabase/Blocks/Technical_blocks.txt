@@ -1,0 +1,125 @@
+Technical blocks are blocks that cannot be acquired legitimately (some can with 'Silk Touch') and serve various purposes during events within the game.
+These blocks serve a purpose when a piston is used.
+Block 34 is a block used by the piston's extension arm.
+One of the data bits of this block defines if it is a normal piston or a sticky piston extension. If block 34 is destroyed in creative mode, the piston/sticky piston will be destroyed too, and will drop pistons/sticky pistons.
+Block 36 is a block used by pistons. It is a side effect of the method of storing moving blocks as tile entities instead of entities.
+This block's color, when located next to a block in the world, is black. When a block next to it is removed, it becomes invisible, can be walked through, and when light passes through it the light level decreases by 1.
+They are unbreakable by traditional methods, but can be removed by right-clicking.
+The game treats the block as stone when it comes to breaking animation and step sound.
+In the inventory it has the piston head texture, and it cannot be placed.
+A comparison between a normal stone block (left), and a stone block with a block 36 on it (right).
+A sphere made out of block 36.
+Add a photo to this gallery.
+This is a block used to make furnaces shed light when smelting. It has a different texture than the normal furnace and emits particles. If the burning furnace is activated and the fuel runs out, the block will not return to a normal Furnace As of 1.5.
+This is a block used to make Redstone Ore glow when stepped on, right-clicked, or left-clicked. While the redstone ore is lit, it will emit light but will wear off after a while.
+Main article: Redstone (Torch).
+Block 75 is a block representing an off-state Redstone Torch. When a normal Redstone Torch (standing on the top of a block) receives power from a layer below the block it's standing on, it turns off,  and stops giving power. When the torch stops getting power, it turns back to the normal on-state torch, and gives power again. For the game to know the torch stopped getting power, the game must update the block - this happens when a block near the torch changes, and when it's turned off because of the Redstone current, this is not a problem, but when spawned into the world it will be turned off, and because no block is updated, it will stay this way, until a block updates. When the block is removed it will turn to a normal on-state torch. .
+This is the on state of the Redstone Repeater.
+The flowing Water block tells the game to check for any Air blocks around it and put some Water into them if applicable. If you put enough Flowing water in a certain order, you can make an Infinite Water Source. If there is a hole six blocks or fewer from the point of origin, the water will tend to flow in that direction. .
+The flowing lava block tells the game to check for any air blocks around it and put some lava into them if applicable. Flowing Lava flows only 3 blocks from the point of origin in the Overworld while it flows infinitely in the Nether.
+Main article: Farmland.
+Farmland is a block on which seeds can be planted and grown. It is made by using a Hoe on Dirt or Grass. If Farmland is near water it becomes hydrated, and if not it turns dried again, and will eventually turn back to Dirt. As of Minecraft 1.1, walking on farmland will not un-till the land. However, jumping will. Turning Grass into Farmland will cause it to become Dirt, once reverted. .
+The block that is planted on farmland when pumpkin seeds are used on it. It starts off-set/under-ground, and rises up as the plant grows, as opposed to the method wheat seeds uses, where each growth stage is an individual texture. The stem is coloured green by the game, and then brown once fully grown.
+The stem will change to the second image once a pumpkin has grown off the stem. A single stem will connect to any Pumpkin in an adjacent square, thus there are 5 possible appearances to a stem. When the pumpkin is removed, the stem will return to its original image.
+A single pumpkin will grow off of a full grown stem at a time, but once that pumpkin is removed, another can grow in its place.
+Destroying a fully-grown stem yields 0-3 pumpkin seeds. This allows for melon/pumpkin seed farming.
+The block that is planted on farmland when melon seeds are used on it. The coloring and growth methods are the same as the Pumpkin Stem's.
+The stem will change to the second image once a melon has grown off the stem.  A single stem will connect to any Melon in an adjacent square, thus there are 4 possible appearances to a stem with a melon on it and 1 without. When the melon is removed, the stem will return to its original image. .
+A single melon will grow off a full grown stem at a time, but once that melon is removed, another can grow in its place.
+Destroying a fully-grown stem yields 0-3 melon seeds.
+Block 97 is a block that may look like a Stone block, a Cobblestone block, or a Stone Brick block, but is actually a block that when destroyed will spawn a Silverfish. The block is easily destroyed by hand, distinguishing it from regular blocks. If you attack a Silverfish directly with a sword or a bow (without killing it), nearby Block 97 will break, spawning other aggressive Silverfish. With the Silk Touch enchantment this block may be mined and placed elsewhere to create traps for players. In the Creative Mode inventory, Block 97 is called the Stone Monster Egg and also has a variant called the Cobblestone Monster Egg (alternatively the Silverfish Stone and Silverfish Cobblestone in the console versions).
+Nether Portal blocks are generated when a portal is formed, standing on them will teleport The Player from The Overworld to the Nether and vice versa. However, they become transparent when another "portal" block is placed next to it (the only way to do this is through inventory editing). When invisible they are still detectable and can still send you from the Overworld to the Nether and vice versa. In creative mode you can break this block and it will make the glass breaking sound. .
+End Portal Frame is a block that can be found in strongholds. It has a decorative bluish-green top, while the sides and bottom are an off-white color, like the white stone that The End is made out of, decorated in hollow rounded rectangles with the same color as the top. They are found in a 12 block ring shape within a room over a pool of lava and a staircase containing a Silverfish spawner. They have a high explosive resistance, so it is pointless putting TNT next to it.
+Some of the blocks have an Eye of Ender inserted into it, Using other Eyes of Ender on the rest of the blocks inserts them to the top of the blocks. Once an Eye of Ender has been inserted in all 12 Frame blocks, then the Ender Portal will activate and the player can pass through to access The End. It is now (in 1.3.1 not 1.3) in the creative inventory under the decorations tab.
+The Ender Portal Frame used to have a different texture, emitted a blue shaded light at level 15 and was non-solid block when cracked, becoming solid when repaired.  Although it couldn't be mined, an explosion caused them to drop as an item shaped like a Glass Pane. They had no tooltip, indicating that them dropping at all was a bug. The player had to repair a cracked Ender Portal Frame by right clicking it with an Eye of Ender.
+When destroyed in Beta 1.9 Prerelease for Creative Mode, you hear the sound of Glass breaking. Unlike Nether Portals this does not disable the portal. By destroying the End Portal Frame around the End Portal blocks, you can create a free floating 3x3 End Portal.
+The Ender Dragon can destroy these blocks even though there is no way to bring the Ender Dragon to the Overworld without using /summon.
+Note: End Portal Frame is not a technical block because technical blocks are the blocks obtained by the /give command.
+Ender Portal is a block that will teleport the player into The End dimension. It looks like a white-on-black two-dimensional star map, and emits light and black smoke particles. Only the top side of the block is visible, and the bottom side is invisible. In addition, the bottom and top cannot be passed through, although the sides can be. The collision box for this block takes up the lower 1/16th of the block, similar to Snow.
+Only found in the Pocket Edition. Invisible Bedrock is a special form of Bedrock found around maps to stop players from dropping into the Void. Invisible Bedrock can also be obtained by inventory editing.
+Trivia.
+ When placed (by inventory editing) It will make a small hole like image if you look through it. This can be helpful for finding underground caves or structures.
+Technical blocks are blocks that cannot be acquired without commands or mods, but have independent block IDs, and serve various purposes during events within the game. Farmland, monster spawners, and burning furnaces remain available.
+All technical blocks that appear in the Pocket Edition remain available too. (e.g. glowing redstone ore, melon stem, crops, etc).
+These blocks serve a purpose when a piston is used.
+Piston Head is a block used as the piston's extension. One of the data bits of this block defines if it is a normal piston or a sticky piston extension. Many players use this block as a table instead of the standard pressure plate on fence, and it can be obtained by using the pick block key on it in creative in 1.2, but not later. It cannot be placed even if the player has it. It can, however, be placed using the /setblock command.
+Mobs can spawn inside the block.
+ A piston head in the inventory.
+The Piston Extension (aka "Block Being Moved By Piston" or simply "block 36") is a block that contains part of a piston head, and/or part of one or two blocks that the piston is carrying into or out of the grid cell (including blocks carried indirectly via slime blocks). Since moving blocks vary in how much of each grid cell they occupy, they can't be stored as normal blocks and are instead stored as block entities.
+It is invisible, non-solid, and cannot be broken without the use of commands. It decreases the light level of light passing through by 1. Although it is non-solid, fluids cannot pass through it. It also prevents from building at its location. The game treats the block as a stone block when it comes to their breaking animation and the player's footstep sounds.
+Carpet can be placed on this block, and will remain if the block 36 is replaced with a solid block using /setblock.
+A comparison between a normal stone block, and a stone block with a block 36 on it.
+A "sphere" made out of block 36.
+These blocks are technical and can be found as items in the decoration section of the creative inventory.
+The flower pot is a technical block that is placed using the flower pot item. It uses damage values and a block entity to determine the plant it contains.
+The bed block can be placed using the bed item, but this block is still considered a technical block because it has separate block and item forms. When placed using the /setblock command, you will see only the half of the bed block.
+Even though there is a mob head item, this is still a technical block because it has separate block and item forms. The mob head items use damage values when placed to determine whether this block is on the wall or ground. Its rotational data is stored in its connected block entity. Data values for the item form determine which of the 5 default mob heads it is, even if the head is customized.
+This block has two forms: Wall (block 68) and standing sign (block 63). It has an item form that allows the block to have a custom message before you place it.
+These are technical blocks related to brewing.
+The brewing stand block is a technical block version of the brewing stand item.
+The cauldron block is a technical block that can be placed using its item form. The cauldron has a damage value which determines the water level.
+These blocks are parts of the door. Since the door is two blocks linked together, using /setblock gives you only half a door.
+When placed using the /setblock command you will only see a half wooden door, unlike its item form which makes both top and bottom during placement. A single half behaves like a wooden door, it can be opened and closed by hand or with redstone.
+When placed using the /setblock command you will only see a half iron door, unlike its item form which makes both top and bottom during placement. This is because the iron door is two blocks total.
+Iron door blocks can be placed using the iron door item. Iron door blocks are also opened when they receive a redstone signal, even if it is only half of the door.
+This is a block used to make furnaces shed light when smelting. It has a different texture than the normal furnace and emits particles. It will replace the normal furnace block while the furnace is burning fuel, but once the fuel runs out it will revert. Through /give or other means you can place this block and it will "burn" for as long as you don't use it.
+When placed using /setblock, it becomes a block of "Redstone Dust", acting the same as if you placed it by hand. Redstone dust can only be placed on opaque blocks (dirt, stone, grass blocks, etc.), as well as glowstone, upside-down slabs and upside-down stairs, and hoppers.
+This is a block used to make redstone ore glow when stepped on, when used, or left-clicked. Glowing redstone maintains its glow if pushed or pulled by a piston, but eventually stops glowing as if it had been touched by the player when placed.
+Block 75 is a block representing an off-state redstone torch. This block used to be available in the new creative inventory (12w21b) under the Redstone section, and the normal Redstone Torch was under Decoration.
+Block 94 is the "on" state of the redstone repeater.
+Block 124 is the "on" state of the redstone lamp. When hacked in to the inventory, placing it will immediately turn it off unless it's receiving a redstone signal.
+Block 150 is the "on" state of the redstone comparator. It will provide a one tick pulse and then will turn off, similar to block 94 (active repeater).
+Note: Block 149 (originally "off state Comparator") has been changed to include the off and on states in the same block, making this an unused technical block not just one with a missing item form.
+Block 178 is the inverted state of the daylight sensor.
+The flowing water block tells the game to check for any air blocks around it and put some water into them if applicable. This is distinct from whether or not the fluid appears to be moving, and whether or not it is a source block. When placed using a water bucket it will flow 8 blocks.
+Stationary water is just like flowing water, except it doesn't flow and doesn't move you. It generates in lakes, oceans, village wells and desert wells.
+The flowing lava block tells the game to check for any air blocks around it and put some lava into them if applicable. This is distinct from whether or not the fluid appears to be moving, and whether or not it is a source block. Lava flows for 4 blocks in overworld and 8 in the Nether.
+Stationary lava is just like flowing lava, except it doesn't flow. It generates in lava lakes, nether fortresses, in the nether and in customized worlds with lava oceans set to yes.
+Farmland is a block on which seeds (melon, pumpkin, wheat, carrot, potato, and the Pocket Edition exclusive item beetroot) can be planted and grown, and it is made by using a hoe on dirt or grass blocks.
+This block appears when wheat seeds are planted on farmland.
+This block behaves the same way as any other crops would, but they are the result of placing a potato on farmland.
+This block behaves the same way as any other crop would, but they are the result of placing a carrot on farmland.
+The block that is planted on farmland when pumpkin seeds are used on it. It starts off-set under-ground, and rises up as the plant grows, as opposed to the method wheat seeds uses, where each growth stage is an individual texture. The stem is colored green by the game, and then brown once fully grown.
+The stem will change to the second image once a pumpkin has grown off the stem. A single stem will connect to any pumpkin in an adjacent square, thus there are 5 possible appearances to a stem. When the pumpkin is removed, the stem will return to its original image.
+The stem is a red-orange color with a texture of the top of the pumpkin at the bottom part. This cannot be seen legitimately, as breaking the farmland will take out the stem.
+Using the /setblock command to get illegitimate stem textures will backfire as of 1.8. Data values 8 through 11 will be stems attached to a pumpkin, and data values 12 through 15 will crash Minecraft.
+The block that is planted on farmland when melon seeds are used on it. The coloring and growth method is the same as the Pumpkin Stem's.
+The stem will change to the second image once a melon has grown off the stem. A single stem will connect to any melon in an adjacent square, thus there are 4 possible appearances to a stem with a melon on it and 1 without. If there are multiple melons it can connect to, it will favor the east, then west, north, and south. When the melon is removed, the stem will return to its original image.
+The stem is an orange-yellow color with a texture of Netherrack at the bottom part. Again, this cannot be seen in the vanilla game, as breaking the farmland will delete the plant.
+Using the /setblock command to get illegitimate stem textures will backfire as of 1.8. Data values 8 through 11 will be stems attached to a melon, and data values 12 through 15 will crash Minecraft.
+When placed using /setblock, it acts the same, except you can use damage values to make it grow another piece faster. When broken with any tool, it drops sugar canes (the item).
+Nether wart block is the block version of the nether wart, it has 4 grow cycles. The nether wart can be found naturally in nether fortresses. It can be placed using /setblock using custom damage values it can start at any growth stage.
+These are technical blocks related to food.
+When you place a cake using /setblock, it will appear as a cake block or Block 92 unless placed using damage values. Block 92 has 7 data values to determine how much was eaten.
+A monster spawner can be obtained with /give <player> minecraft:mob_spawner <amount>, but will always spawn pigs when placed. Spawners that create other entities can be obtained using commands. The spawned mob can be changed by using a spawn egg on a spawner.
+Nether Portal blocks are generated when a portal is formed, standing in them will teleport the player from the Overworld to the Nether and vice versa.
+The inside of the Nether Portal block is hollow.
+Despite popular belief, you only need one portal block, without a frame, to warp to the Nether. This applies to both Nether and The End portals.
+While in your inventory, it appears as a full block unless it is rendered in the world. (That is, it looks like a normal full block, but when you place the hacked portal into the world it places as a normal (flat) portal and the version in your inventory will then render as a normal flat portal).
+Nether Portal blocks will function properly in the End and will take you to a place in the Nether that corresponds to the location in the Overworld from where you first entered The End.
+A piston cannot push a block into a nether portal. The piston will not activate.
+A water or lava source block placed directly into a portal block will break the portal block with a glass-shattering sound. Using dispensers, This can be used to automate the disabling of portals.
+The End Portal is a block that will teleport the player into or out of the End dimension.
+The block entity allows the game to render the block with its particular 3D look.
+The End Portal is technically the only block without a conventional texture, or entity texture; it uses the same image as the background of The End, with an additional effect added on top.
+Despite popular belief, if a player manages to obtain a Portal block, they only need one, without a frame, to be transported to the End.
+End Portal blocks can be destroyed in Creative Mode. This does not affect the effects of adjacent End Portal blocks.
+If the Portal is viewed from underneath, it will be invisible, allowing you to see through the portal.
+If TNT is detonated on an end portal, no blocks in its blast radius will be destroyed.
+Passing the end portal while riding a minecart will not teleport you to the end, instead you will simply pass through the portal, because the portal does not check for riding entities, but only the hitting entity itself.
+End portals don't reduce fall damage.
+Interestingly, the selection box for an end portal block appears on the bottom of the block, even though the actual location of the texture is at the top of the block.
+End portal blocks give off light.
+If a player throws an entity (including items) into an end portal, the entity will be sent to the End. This does not seem to work the other way around in singleplayer, but in multiplayer entities are teleported to the default spawn.
+Two End Portals placed above each other.
+Pocket Edition Only.
+When you plant beetroot seeds on Farmland, you will see beetroot crops in a "seedlings" state. Beetroot crops are very similar to the carrot and potato crops, but ripen pink.
+Glowing obsidian is a block which only generates when the Nether reactor is activated. Upon activation, the blocks that make up the reactor turn into glowing obsidian.
+As the name suggests, glowing obsidian is a solid block that gives off light similar to glowstone, but slightly dimmer. It does indeed glow, but its physical properties are closer to obsidian. It takes the same amount of time to mine as obsidian. Instead of dropping itself, it drops a normal obsidian block. The block will emit red smoke particles within close proximity to it so long as it exists, similar to the particles redstone creates when activated. Although in the Nether reactor the block seems to spawn items around it, it is not the block itself that acts like this, nor will it spawn items if placed normally. The block turns into obsidian after a short amount of time. Otherwise it is simply an aesthetic block, as it has the same blast resistance as normal obsidian.
+If the nether reactor core is mined out while the nether reactor is active, the glowing obsidian will not turn into obsidian after the reactor deactivates. This also causes the reactor to stop spawning items and zombie pigmen.
+The Update Game block is a placeholder for nonexistent data values. It is a block with a dirt texture with "update!" written on it in green.
+info_reserved6 is a solid-gray looking block. According to the code, the block's name is "info_reserved6", but in-game, the block appears to be named as ".name". The block was a placeholder for fire, due to a problem with the fire-spreading mechanics. info_reserved6 could only be obtained between Alpha 0.3.3 and Alpha 0.6.1. In Alpha 0.7.0, fire was returned with fixed spreading mechanics, replacing info_reserved6. Its data value, however, changed to ID 255. Currently, it can only be obtained through hex editing.
+These technical blocks are removed or have been replaced with another block.
+The Infinite Water Source was a block that would create infinite water, which would replicate infinitely to fill up volumes. They were added originally to allow for infinite lakes on floating maps. Infinite water source hacked into the inventory in Infdev and placed.
+ Gears do not show up on non-solid blocks, but do on the Infinite Water Source and Infinite Lava Source, proving that they are solid blocks.
+Similar to the Infinite Water Source, the Infinite Lava Source was a block that created infinite lava which would replicate infinitely to fill up volumes. Cogs do not show up on non-solid blocks, but do on the removed Infinite Water Source and Infinite Lava Source, proving that they are solid blocks.

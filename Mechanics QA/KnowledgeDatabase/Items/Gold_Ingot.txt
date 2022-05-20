@@ -1,0 +1,4 @@
+Gold ingots are a metal which is used to craft the second tier of armor, and the first of tools.
+Zombie pigmen have a 8.5% chance of dropping 1 gold ingot, 9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III.
+Nether fortresses, abandoned mineshafts, village blacksmiths and strongholds slab altars/store rooms may contain gold ingots in stacks of 1 to 3, and chests in desert temples and jungle temples may contain it in stacks of 2 to 7.
+Cleric villagers will buy 8-10 gold ingots for an emerald.

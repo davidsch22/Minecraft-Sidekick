@@ -1,0 +1,19 @@
+Dec value: Wood: 290 Stone: 291 Gold: 294 Iron: 292 Diamond: 293.
+Hex value: Wood: 122 Stone: 123 Gold: 126 Iron: 124 Diamond: 125.
+Durability: Wood: 60 Stone: 132 Gold: 33 Iron: 251 Diamond: 1562.
+Maximum stack: 1.
+A hoe is used to till grass and dirt blocks and turn it into farmland. It is crafted using 2 sticks and either 2 planks, cobblestone, iron ingots, gold ingots or diamonds. Unlike pickaxes and axes, hoes cannot be found in chests.
+Grass and dirt is tilled by right clicking it while holding a hoe. It will then turn into farmland on which you can plant seeds. Farmland can be hydrated, which is done automatically when water is within 4 blocks from the farmland. Rain will also hydrate farmland, but this happens very slowly and is not a reliable way to keep the farmland hydrated.
+The tilling of blocks happens instantly, so there is no point in making diamond, gold or even iron hoes. A stone hoe will allow you to till 60 blocks, which is usually enough for a large farm. Farmland will remain tilled forever if it’s hydrated, but will revert to dirt if it’s dehydrated. Jumping on farmland will also revert it back to a dirt block.
+Hoes are terrible weapons. All of them only do half a heart of damage, which is the same as the damage of fists, but they’ll take double durability damage when used this way.
+It’s impossible to enchant a hoe.
+Like most tools, hoes have a durability determined by the material they’re made of. It’s possible to combine 2 damaged hoes of the same type in any crafting interface to create a new hoe of the same type with the durability of the old ones added together, plus 10%.
+Hoes are tools used to till dirt and grass blocks into farmland blocks, the first step in farming wheat, melons, pumpkins, carrots, and potatoes.
+The hoe is used to turn dirt and grass blocks into farmland for producing wheat, melons, pumpkins, carrots, or potatoes. To till, press use on a grass or dirt block while holding a hoe.
+Hoes can also be used to convert coarse dirt into regular dirt by pressing use on the coarse dirt.
+The material used in the construction of the hoe has no effect on the utility of the hoe - the process of tilling is effectively instantaneous, regardless of material, and all hoes deal the same damage as fists if used in combat. The material used does, however, affect the durability of the hoe. When using hoes to break blocks or to attack mobs, it will not affect the durability of the hoe.
+In Pocket Edition, hoes can additionally be used to obtain wheat seeds and beetroot seeds from grass blocks.
+A hoe can receive the following enchantment, but only through an anvil Unbreaking.
+Tilling a dirt block which has a dirt block on top of it will change it to farmland even though it cannot be used. If a hoe is used on a block horizontally adjacent to such a block, the first block will revert to dirt and the selected block will not be tilled.
+When a hoe breaks it does not display the tool breaking animation like on other tools, since tilling is not predicted client-side.
+Although the word "hoe" is very recognizable in Minecraft, the word appears as "censored" on a sign in the Console Edition.

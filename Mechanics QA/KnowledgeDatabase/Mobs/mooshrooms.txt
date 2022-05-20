@@ -1,0 +1,8 @@
+A mooshroom is a rare type of cow that only spawns in mushroom biomes. They’re red and white, with red mushrooms growing on their backs.
+Like normal cows, mooshrooms drop 0-2 pieces of leater, 1-3 pieces of raw beef (or cooked beef if it dies by fire) and experience orbs worth a total of 1-3 experience.
+As well as being able to milk them by right clicking them while holding a bucket, mooshrooms can also be right clicked while holding an empty bowl, which will give you a bowl of mushroom stew. There is no limit or timer on how often you can ‘milk’ them. This makes the mooshroom an excellent mob to have around monster arenas and experience farms.
+It’s also possible to shear the mooshroom, causing it to drop 5 red mushrooms. The mooshroom will then turn into a normal cow and won’t change back.
+Mooshroom will spawn in groups of 4-8, but only in mushroom biomes and only on mycelium or grass when the light level is 9 or higher. Mooshrooms will not spawn on mycelium blocks placed outside of a mushroom biome.
+Mooshrooms can only jump up 1 block and will try to do so when a block is in their way. Their AI isn’t very advanced, as they’ll walk into fires, but they will avoid high falls.
+When you attack a mooshroom it’ll run, making it tricky to hit him again. It often runs in circles however, so you won’t have to walk too far to hit it again.
+Mooshrooms can be bred by feeding them wheat. Holding wheat in your hands will thus make them follow you. Mooshrooms can be bred with cows, the offspring will be either a baby cow or baby mooshroom.

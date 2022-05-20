@@ -1,0 +1,10 @@
+ID: 41.
+Dec value: 41.
+Hex value: 29.
+Minimum tool requirement to break: Iron pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Blocks of gold are created by placing 9 gold ingots in a 3×3 square on a crafting table. They have no current crafting use, other than being able to be turned back into 9 gold ingots.
+Blocks of gold are often used for decoration, but can also be used as a way to store more gold in a single inventory slot, as 1 full stack of gold blocks equals 9 stacks of gold ingots.
+An iron or diamond pickaxe is required to mine this block, using anything else will destroy the block, including the 9 gold ingots used to create it. Blocks of gold have the same blast resistance as stone, which means they can easily be destroyed by an explosion.

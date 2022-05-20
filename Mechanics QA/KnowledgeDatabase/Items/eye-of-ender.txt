@@ -1,0 +1,7 @@
+Dec value: 361.
+Hex value: 17D.
+Maximum stack 64.
+Eyes of Ender are created by combining an ender pearl with blaze podwder in a crafting interface. They are used to find and activate End portals.
+An eye of Ender can be shot by right clicking, much like an egg or snowball. If the player is not on top of the End portal, the eye will fly up in the air towards the End portal. After a short distance the eye will either drop on the ground or explode in a small burst of green particles.
+Once the player is on top of the End portal, the eye will fly directly to the ground. Now all you have to do is dig untill you find either cracked brick, mossy brick or brick stone, which indicates the ceiling of the portal room. Digging through this could cause you to fall in lava.
+The End portal consists of 12 portal frame pieces, some of which will already have an eye of Ender inserted in them. The other portal frames will require an eye of Ender to be inserted. Once all portal frames have an eye of ender, the portal will activate, allowing you to travel to the End. Note that there’s no way back from the End untill either you or the Ender dragon is dead.

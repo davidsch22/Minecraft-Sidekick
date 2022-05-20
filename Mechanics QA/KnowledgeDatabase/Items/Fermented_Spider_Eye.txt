@@ -1,0 +1,3 @@
+A Fermented Spider Eye is an item used to brew potions.
+Fermented spider eyes can be crafted from a spider eye, brown mushroom and sugar on a crafting grid.
+They can be used to brew potions with negative effects and the Potion of Invisibility.

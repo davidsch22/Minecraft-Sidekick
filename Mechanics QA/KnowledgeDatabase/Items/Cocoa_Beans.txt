@@ -1,0 +1,17 @@
+CaaymanoszLeMcPro.
+		The Cocoa Beans texture needs to be update fast, the texture is in september gonna hit the texture used 3 years ago (Now it's on 2.25 years)...		2015-01-05T15:24:55Z.
+See more discussions >
+Cocoa Beans are a primary color dye and food ingredient.
+Cocoa beans come from cocoa pods, which are found naturally in jungle biomes. Placing a cocoa bean on the side of jungle wood will plant a new cocoa pod. (The log does not need to be attached to a tree).
+Cocoa has three stages of growth. During its first, the pod is small and green. In the second stage, the plant is bigger and colored tan. In its last stage, the pod is even bigger, and orange-brown. When destroyed in the first two stages, the pod will yield only one cocoa bean. When destroyed in the third stage, it will give two or three cocoa beans. Bone meal can be used to force the cocoa pod forward 1 stage of growth. Cocoa pods will "pop" and drop their beans when struck by flowing water, pushed by a piston, or if their log is removed by any means.
+In the Pocket Edition, cocoa beans are crafted with an ink sac and orange dye.
+Like all other dyes, cocoa beans can be Applied to sheep to dye their wool, which can then be shorn for 1–3 blocks of brown wool.
+Like all other dyes, cocoa beans can be Applied to tamed wolves to dye their collars.
+Like all other dyes, cocoa beans can be Combined with gunpowder to make a firework star.
+Like all other dyes, cocoa beans can be Combined with a Firework Star to create a “fade to color” effect.
+Like all other dyes, cocoa beans can be Used to dye leather armor.
+Like all other dyes, cocoa beans can be Used to dye wool, or stain glass or hardened clay.
+Like all other dyes, cocoa beans can be Used to add patterns to banners.
+Cocoa beans have the ID name minecraft:dye, with a data value of 3.
+In a snapshot version, cocoa bean pods were experimental and were visible in the tree's leaves when a jungle biome intersected with another biome.
+Cocoa beans' texture before 12w19a.

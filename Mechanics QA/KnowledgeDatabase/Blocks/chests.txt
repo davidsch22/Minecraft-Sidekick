@@ -1,0 +1,13 @@
+Dec value: 54.
+Hex value: 36.
+Minimum tool requirement to break: None.
+Blast resistance: 12.5.
+Maximum stack 64.
+Transparency: Yes.
+Chests are the main way to store items, allowing up to 27 stacks of items to be stored inside it. Other methods of storage are, of course, a player’s inventory, as well as the limited spots inside furnaces and dispensers. Chests can be found in abandoned mineshafts, strongholds, villages and dungeons and can contain all sorts of loot. Saddles and melon seeds can only be obtained through naturally spawned chests. Please check the individual guides for a detailed loot list.
+Chests are created using 8 wooden planks. You can use any combination of colored planks, though they will not affect the result, which will always look the same. Chests are also used to create storage minecarts. Chests can be destroyed by hand, though an axe is faster. Destroying a chest will drop the chest and all the items inside on the floor, which is a fast method of taking everything out. Luckily unlike most wooden blocks, chests are not flammable.
+Chests are placed facing the player and are opened by right clicking them. Placing 2 chests next to each other will create a large chest, which allows you to place up to 54 stacks of items in it. Destroying the chest will only destroy one side and spill out the corresponding items.
+The top 3 rows in the large chest belong to the half facing north or east. The bottom 3 rows belong to the half facing south or west.
+Chests can only be opened if the block above it is either air, a half block (cakes, beds, slabs, etc.), lava, water, leaves and small transparent blocks (torches, levers, ladders, rails, signs, etc.).
+There are several shortcuts which make the use of chests a lot easier. Shift clicking an item stack in either your inventory or the chest’s inventory will instantly move the stack to the first available slot in the opposite inventory. .
+Left clicking a stack will pick up the whole stack and while a whole stack is selected, right clicking will place a single item and left clicking will place the whole stack in an inventory slot. Right clicking a stack will pick up half a stack.

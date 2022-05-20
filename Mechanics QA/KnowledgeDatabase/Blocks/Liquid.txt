@@ -1,0 +1,34 @@
+Liquids are blocks that can, as the name suggests, flow and spread.
+There are currently only two liquids in Minecraft: lava and water.
+Liquids are cellular automata. The rules appear to be as follows.
+An air block below a liquid block is converted into a liquid block of that type. This happens faster for water than for lava (except in the Nether).
+Liquids that are suspended above an open area by one block thick of material will seep through the material and drip to the floor. Lava particles that are seeping do not cause damage or start fires. This makes digging upwards safer, since you can tell if you are near a lava/water lake.
+Each liquid block has a level value. Source blocks have a level of 0, and the maximum level depends on liquid type. Water: 7.
+ Lava: 3 (7 in the Nether).
+Note: The "level" value increases as the water is further from the source. A high level value means that the water is actually physically downhill.
+To keep track of which blocks are actively flowing, water and lava each have a pair of block IDs. For water, there is flowing_water (8) and water (9). Water will stay in place until it receives a block update. Flowing water updates periodically and will change itself to water when it cannot spread any further.
+Updating a block next to water will turn it back to flowing water so it can spread some more.
+The state of a liquid block only updates in certain cases On creation.
+The state of a liquid block only updates in certain cases If one of the 6 neighboring blocks' state changes.
+The state of a liquid block only updates in certain cases If its own level changes.
+State changes that cause an update include Adding or removing a block.
+State changes that cause an update include A neighboring block's level changes.
+State changes that cause an update include A redstone wire switches on or off.
+However, generated structures never cause block updates to adjacent liquids when they spawn, so for example a cave entrance may meet a lake or ocean but remain dry until a block update is triggered. However, liquids can flow from a structure immediately when it is generated.
+When a liquid block updates, it performs the following checks. Check inward flow.
+If there is a liquid block of the same type above, set level to 1Otherwise, reduce or increase level in steps of 1 so that it is 1 higher than the one of its 4 neighbouring block with the lowest level*If level is increased past the max level, replace liquid block with air block.Level cannot be decreased below 1.
+* This does not affect source blocks (level = 0) Check outward flow.
+This only happens for liquid blocks of less than the max level valueDetermine the shortest distance to a fall, but only scan 5 blocks distance*If any of the directions tied for shortest have an air block, convert that air block to a liquid block with a level of 1 more than the current block*.
+* This means that lava will flow towards a drop that it cannot reach.
+A water block is converted into a source block if both of the following conditions hold it is bordered by at least 2 water source blocks on the same horizontal level.
+A water block is converted into a source block if both of the following conditions hold the block underneath is a solid block or a water source block.
+Lava source blocks cannot be created.
+If a liquid flows into a block occupied by another liquid, then the block turns into a solid block according to the following rules If Water flows into a lava source block, then obsidian is produced.
+If a liquid flows into a block occupied by another liquid, then the block turns into a solid block according to the following rules If Lava flows downward into Water, then stone is produced.
+If a liquid flows into a block occupied by another liquid, then the block turns into a solid block according to the following rules if Water flows horizontally into downwards flowing lava, nothing happens.
+If a liquid flows into a block occupied by another liquid, then the block turns into a solid block according to the following rules Otherwise, cobblestone is produced.
+When determining the shortest distance to a drop, other liquid blocks are assumed to be equal to air.
+Water.
+Flowing water.
+Lava.
+Flowing lava.

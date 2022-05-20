@@ -1,0 +1,5 @@
+Dec value: 373:8200.
+Hex value: 175.
+Maximum stack 1.
+Potions of weakness will reduce your damage output. A potion of weakness and a potion of strength will cancel out part of their effects, depending on the strength of the potions.
+There are 2 types of potions of weakness. A 90 second version and a 4 minute version. A potion of weakness will reduce your damage output by 2 hearts.

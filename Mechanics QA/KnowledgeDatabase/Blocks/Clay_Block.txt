@@ -1,0 +1,12 @@
+Clay Blocks are Blocks with a light-blue/light-gray recolor of the Sand texture. It is usually found in locations that have both Sand and Water, most commonly appearing in shallow water, especially at the coast of island groups. It can also be found in the water of Swamp Biomes. When mined with a Shovel not enchanted with Silk Touch, it drops 4 Clay items.
+When searching through the water for Clay, it can be distinguished from sand by its slightly bluish color. Clay balls, obtained from Clay Blocks, can be put into a Furnace and smelted into Bricks. Clay is considered to be moderately difficult to obtain because of the speed at which shoveling underwater is reduced. In 1.7, Clay in its hardened form became more easily obtainable with the introduction of the Mesa Biome.
+The primary use for Clay Blocks is as a storage item for Clay balls. As of 1.6.1, it can be smelted to make Hardened Clay, a decoration block.
+In real life, the color of clay can actually be bright red, a deep red, tan, or brown due to iron mixing with the clay, not just gray. Clay will also keep its color in block form. This means that Bricks, after Clay is smelted in the Furnace, should be gray and not red-brown.
+Clay is usually found underground in the real world, unlike in the game, where it is commonly found in shallow water.
+If inventory space is tight, Clay balls can be formed back into Clay Blocks using the inventory crafting grid. This is a good way to conserve space, but the Blocks must be placed and destroyed again to get the Clay balls back.
+As of the 1.6.1 release, Clay Blocks can now be smelted into Hardened Clay, which can then be dyed. This makes Clay Blocks, Wood, and Netherrack the only Blocks that can be smelted. Clay is also the only Block that, when smelted, makes a Block; the other two make items, namely Charcoal and Nether Bricks respectively.
+It is best to find a way to shovel the Clay above water, as it will take longer to break the Block while underwater.
+During Beta 1.6, in newly generated chunks, Clay Blocks were nearly nonexistent. To be specific, Clay only generated when the x and z coordinates were the same, severely limiting the amount of Clay on the map. This was fixed in 1.7. Back then, Clay was actually rarer than Diamond. This led to the phrase "You missed clay!".
+Minecraft Blocks & Items Clay Block.
+A video explaining everything about clay.
+Add a photo to this gallery.

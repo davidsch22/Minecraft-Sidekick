@@ -1,0 +1,17 @@
+The Minecart with TNT is a block of TNT inside a minecart.
+Minecarts with TNT can be retrieved just like other minecarts, by attacking it.
+Minecart with TNT will detonate on these conditions It moves over a powered Activator Rail (after 4 second delay like the TNT block).
+Minecart with TNT will detonate on these conditions It derails and falls more than three blocks.
+Minecart with TNT will detonate on these conditions It is destroyed while in motion.
+Minecart with TNT will detonate on these conditions It is destroyed by fire, lava or an explosion.
+Minecart with TNT will detonate on these conditions It turns on a curved track too fast, with a solid block or entity located beside the track (in the previous movement direction).
+Minecart with TNT will detonate on these conditions It is hit by a flaming arrow.
+Upon detonation, it will act as normal TNT, exploding and damaging nearby scenery, players, and entities. Upon detonation after activating on activator rail, it will not destroy its rails and the blocks the rail is on, however other nearby carts can. The faster the minecart, the more powerful the explosion.
+A direct hit from three merged minecarts with TNT can reduce a fully diamond armored player to half a heart.
+The first image of TNT carts released by Dinnerbone. (A TNT cart can be seen in the lower left hand corner).
+A more zoomed in image.
+Minecart with TNT and Activator rail for detonation.
+The 13w02a banner, with a minecart with TNT and a hopper.
+Dinnerbone showing how TNT carts have controlled explosions.
+Primed TNT cart.
+TNT cart explosion (Note there is a "bridge" of rails, proving these minecarts will not destroy their rails).

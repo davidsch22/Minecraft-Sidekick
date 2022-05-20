@@ -1,0 +1,15 @@
+Dec value: 98:1.
+Hex value: 62.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Mossy stone bricks are a different type of stone bricks, found only in strongholds. They cannot be crafted. They serve no real purpose besides their aesthetics.
+They’re very popular among players who want to create older and weathered buildings or ruins. Due to their rarity, these blocks are often more expensive on economy servers.
+Dec value: 97:2.
+Hex value.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Silverfish are capable of entering and hiding in these stones, but this will change the block to look like normal stone brick, with different proporties than regular stone brick. Breaking this new type of stone will set the silverfish free, which will attack you and call upon other silverfish who might be hiding in the surrounding stones. Luckily, Silverfish only appear naturally in strongholds.

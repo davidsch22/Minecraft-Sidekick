@@ -1,0 +1,11 @@
+Dec value: 80 Hex value: 50.
+Minimum tool requirement to break: None.
+Blast resistance: 1.
+Maximum stack 64.
+Transparency: No.
+Snow blocks don’t occur naturally in the world, but are created by placing 4 snowballs in a square shape in any crafting interface.
+Snow blocks can easily be destroyed by hand, but will only yield snowballs if a shovel is used. These tools are also the fastest.
+Destroying a snow block with a spade will yield 4 snowballs. Though if you need snowballs, a faster method is simply digging up snow cover, which only yields 1 snowball per block, but is pretty much instant.
+Because snowballs can only stack up to a size of 16, it’s more inventory efficient to turn them into snow blocks, which can stack up to a size of 64.
+Unlike snow and ice, snow blocks aren’t affected by heat sources and allow torches to be placed on them. This makes them an effective building material, fitting it well with the different snow biomes.
+Snow blocks can be used to create snow golems, by placing 2 of them on top of each other and finishing it off by placing a pumpkin or jack-o-lantern on top of it. It’s important the pumpkin is added last.

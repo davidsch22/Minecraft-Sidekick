@@ -1,0 +1,8 @@
+Dec value: 319.
+Hex value: 13F.
+Hunger restoration: 1.5 hunger bar slot.
+Hunger saturation: 1.8.
+Maximum stack 64.
+Porkchop is obtained by killing pigs, though killing pigs with fire will cause them to drop cooked porkchops. A pig will drop 0-2 cooked or uncooked porkchops depending on how it died.
+Raw porkchops will restore your hunger bar by 1.5 slots and your hunger saturation by 1.8. This means it’s almost always better to cook your porkchops as cooked porkchops will restore 4 hunger bar slots and 12.8 hunger saturation. But if you’re starving and there’s no furnace around, eating raw porkchops is perfectly safe. It will not give you food poisoning.
+Pigs can easily by farmed by breeding them. Simply feeding them with will put them in love mode. When 2 pigs are in love mode they’ll start to “dance” around each other and after a few seconds a piglet will spawn. After 5 minutes the parent pigs can be bred again.

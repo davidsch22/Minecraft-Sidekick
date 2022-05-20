@@ -1,0 +1,43 @@
+Dungeons are naturally generated structures that appear in the Overworld.
+Dungeons generate naturally in the Overworld, at any level. For each chunk, 8 attempts are made to spawn a dungeon; it's possible but unlikely for multiple attempts to succeed.
+For each attempt, a location and size (an open area of 5×5×3, 5×7×3, or 7×7×5) are chosen. The attempt succeeds if the following conditions are met The floor area (including under the walls) of the potential dungeon must be entirely solid.
+The attempt succeeds if the following conditions are met The ceiling area (including over the walls) of the potential dungeon must be entirely solid.
+The attempt succeeds if the following conditions are met The walls of the potential dungeon must have 2–5 openings (2-high air blocks) at floor level.
+If the location passes, air and cobblestone are placed, then 3 attempts are made to spawn each of 2 chests. To spawn a chest, the chosen block must be empty and must have a solid block on exactly one of its four sides. The spawner is placed at the center of the dungeon.
+Dungeons are small rooms made of cobblestone and moss stone and contain a monster spawner and up to 2 chests. Finding a dungeon without a chest is very unlikely, but possible. Occasionally, a dungeon will spawn with its chests in such a way as to create a double chest. Dungeons generate with either a zombie (50% chance), skeleton (25% chance), or spider (25% chance) spawner. The spawner is always in the center of the dungeon room, with chests located around the walls of the room (large chests can connect with the short side against the wall) Each block of the floor has a 25% chance of being cobblestone, and a 75% chance of being moss stone. Dungeons will still generate if the 'generate structures' option is toggled to off.
+Each dungeon chest block contains up to 8 item stacks, with the following distribution.
+In Pocket Edition, cocoa beans and ink sacs can be found in chests.
+This information was obtained from Minecraft's code. The generation algorithm places one of these items in a random slot in the chest eight times, possibly overwriting items already placed.
+Dungeons are always connected to a cavern or other structure, although it's possible for the dungeon itself to overwrite most of a very small cave.
+It is possible, though rare, to find connected dungeons with multiple spawners and extra chests. It is also possible for a dungeon to spawn over another, replacing the chests and spawner of the first.
+It is possible, though almost impossibly rare, for a dungeon to be generated at bedrock level, thereby deleting the bedrock. In that case, digging through the moss stone can lead into the Void.
+Double-chest dungeons as shown below may have chests that form a perpendicular barrier between the wall and spawner (an exception to this would be in 7x7 dungeons, in which the chest cannot reach the spawner).
+A gravel vein fallen into a dungeon.
+A dungeon located within a bedrock layer.
+A very rare instance of a dungeon spawning in midair.
+A dungeon without chests.
+A dungeon.
+A caved in surface dungeon.
+Surface dungeon.
+Dungeons can rarely be found open to the surface.
+A dungeon found under a frozen ocean.
+A dungeon found in the water.
+Two surface dungeons right next to each other.
+Five dungeons and 2 cave spider spawners close together in a mineshaft, cleared to show all 7 spawners.
+A double dungeon, the wall of the first acting as the entrance of the second.
+A double dungeon with three chests.
+Triple dungeon.
+Extremely rare double-decker dungeon.
+Dungeon in a dungeon.
+Another Double Dungeon.
+A dungeon intersecting with an abandoned mineshaft.
+A dungeon found by an end portal room in a stronghold.
+Dungeon spawned aside the chest chamber of the temple. One chest was overwritten by the dungeon wall.
+A dungeon distorted by a desert temple.
+A dungeon with a hole in it, caused by a lake generating in the same space.
+Caves can cut through dungeons.
+A floating dungeon in a cave system.
+A dungeon distorted by a cave system.
+The cave this dungeon spawns in can be even this small.
+A dungeon that has become flooded because of falling sand on the bottom of a river.
+A dungeon intersecting with a mineshaft at bedrock level.

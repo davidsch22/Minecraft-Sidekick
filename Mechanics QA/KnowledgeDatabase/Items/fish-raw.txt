@@ -1,0 +1,9 @@
+Dec value: 349.
+Hex value: 15D.
+Hunger restoration: 1 hunger bar slot.
+Hunger saturation: 1.2.
+Maximum stack 64.
+Raw fish is obtained by fishing in any water with a fishing rod, which means it’s always availalbe as long as you have a fishing rod. A fishing rod requires 2 pieces of string, so it’s often not available early in game. But keeping a fishing rod on you during your journey could provide you with some quick food, especially if you keep a water bucket with you, as fish can even be caught in a single block of water.
+Raw fish will restore 1 hunger bar slot and 1.2 hunger saturation. Unlike chicken, there’s no chance to get food poisoning.
+Cooked fish will restore 2.5 hunger bar slots and 6 hunger saturation, so it’s usually better to cook the fish, which can easily be done while you’re catching more fish.
+By right clicking while holding a fishing rod, you’ll cast out your line and bobber. The bobber will usually land in the water and after a few seconds it’ll submerge. At this point you have to right click again and a raw fish will be pulled towards you. This process can be tedious, but it’s a life saver in some situations.

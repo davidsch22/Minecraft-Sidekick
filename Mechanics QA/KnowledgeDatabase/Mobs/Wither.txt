@@ -1,0 +1,33 @@
+The wither is a floating, three-headed boss mob.
+Withers can be created by placing soul sand in a T shape (as shown in the image), and putting 3 wither skeleton skulls on top of the three upper blocks. The last block placed must be one of the three wither skeleton skulls. The skull that triggers spawning can be placed by the player or by a dispenser. Air blocks are required on either side of the base soul sand block under the upper blocks.
+The wither drops 1 nether star upon death. The Looting enchantment does not work on the wither. It drops 50 experience when killed by a player or tamed wolf.
+When spawned, the wither will temporarily flash blue and grow larger in size as its health bar fills from half to full. While in this state, the wither is invulnerable, and does not move. When this state ends, the wither will create a very large explosion centered on itself, destroying nearby blocks. This explosion does not damage the wither itself, but it will damage nearby mobs/players. A ghastly sound is played when the explosion occurs. This sound is not centered around the wither, instead it can be heard equally from all areas of the map, and can also be heard by other players throughout dimensions. After this, the wither can be attacked and can also move freely.
+The wither is immune to fire and lava damage. Drowning and suffocation are ineffective, since upon taking damage, the wither will break any block that comes into contact with it (except bedrock, end portals, end portal frames and barriers).
+The wither is hostile to the player and all mobs except undead mobs (skeletons, zombies, zombie pigmen, wither skeletons and other withers). Upon noticing a mob, the wither attacks them with a projectile called the “wither skull”. Each head fires independently, allowing a Wither to attack up to three different mobs at the same time.
+The wither's boss health bar is only shown when a player is looking in its direction, and can also be seen through walls. When looking at the wither, the sky gets slightly darker.
+If the Wither is calm, it simply hovers and is unable to jump.
+When its health drops below half (below 150 ( × 75)), the wither will gain the "wither armor" effect, which makes it immune to arrows. While in this state, the Wither will only fly at the same height as its target. If it regenerates above half health, the armor will disappear, and the wither is able to fly high again.
+Like other undead mobs (zombies, skeletons, etc.), the wither is harmed by healing potions and healed by harming potions; however, it is completely unaffected by any other status effect. It also regenerates 1 () every 20 ticks (1 second).
+The wither shoots wither skulls, which look like extra heads of itself launched as projectiles, and can keep up a fairly constant barrage of them. Wither skulls explode with the same force as a ghast fireball. If a wither skull hits a mob/player on Normal or Hard difficulty, it inflicts the Wither II effect, draining their health and turning their hearts black, while healing the wither for 5 () health.
+There are two types of wither skulls: a fast moving black one, and a slow moving blue one. The black wither skull cannot break blocks with a blast resistance above 20. The blue wither skull is shot primarily on normal or hard difficulty, when the wither is idle (meaning that no players/mobs are within its aggro range). On average, 0.1% of the shots by the main head (when the wither has a target) are blue skulls as well.
+Although the blue wither skull has the same explosion strength as the black skull, it treats all blocks (except bedrock, end portals, end portal frames and barriers) as having a blast resistance of no more than 4. This makes it much more destructive to the terrain. Note that unless the blue wither skull was shot by the main head during its attack on a target (~0.1% chance), the blue wither skull would be sent in a random direction.
+There is a painting showing the soul sand and wither skeleton skull formation needed to spawn a wither.
+The wither can see players/mobs under the invisibility potion effect.
+The wither's charging explosion, like other explosions, can be negated with water. The explosion comes from the head, so covering a wither's head in water will prevent block damage from the explosion.
+The wither does not take damage from undead mobs' attacks.
+If the wither is after a blaze and the blaze tries to fly up to it, the wither will attempt to keep rising above the blaze, thus making both of them rise higher until they rise above world height (where the wither skulls do not generate any more), hit a ceiling, or until the blaze despawns.
+Although the wither is 4 blocks tall, 3 blocks wide, and 1 block thick, its hitbox is only 4 blocks tall, 1 block wide, and 1 block thick.
+If spawned in the End, it usually attacks any nearby endermen, but will attempt to pursue and attack the ender dragon if there are no nearby targets, usually causing no damage to the dragon at all.
+The wither may occasionally attempt to hide from the player when it is low on health and there are no other non-undead mobs around.
+In Creative, when spawned in an area with no non-undead mobs, after the wither charges up, it will remain on the ground.
+In Creative, the player may flee from the Wither, but regardless of distance gained, the Wither will simply pause rather than despawn.
+Although the wither has 100 ( × 50) more than the Ender Dragon, the wither can be killed faster as it cannot move as fast.
+The wither appears not to shoot skulls on the Easy difficulty.
+When looked at very closely, the texture for the wither's shield is actually a circle 8 motion recorded over the withers blue texture file, as if looked at closely, you can see the left and right heads. The same goes for charged creepers.
+The wither spawn structure can be built horizontally, however the wither will be vertical upon spawning.
+The withering effect after being damaged by a Wither Skull.
+The "wither armor" that blocks arrows.
+A larger image to show how to summon the wither.
+A friendly wither, an April Fools mob. Notice the regular wither too.
+The pit created after the wither has charged.
+A bunch of Ender Dragons flying around, as well as a few withers, some with wither armor doing battle with the Ender Dragons.

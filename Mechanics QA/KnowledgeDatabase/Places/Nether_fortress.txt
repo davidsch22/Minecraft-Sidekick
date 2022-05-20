@@ -1,0 +1,42 @@
+Nether fortresses are structures that are naturally generated in the Nether. They are bridge structures constructed of nether bricks, nether brick fences, and nether brick stairs. They are the only places where nether wart, blaze spawners and wither skeletons can be found.
+Nether fortresses are very large complexes made mainly of nether bricks. Nether fortresses can tunnel through netherrack, and the inside of the tunnels will be cleared of netherrack by the terrain generator. However, at broken bridge sections, the terrain is not cleared, which may create a tunnel that leads straight into a wall of netherrack. Their main structure takes a shape of bridges with supporting pillars outside and corridors inside, both which have 3-blocks wide walking space. The bridges can be broken at the end. The interior of the structures have 1×2 windows with nether brick fences as the windowpanes. The fences also form gate-like structures at the entrances of some rooms and corridors. The rooms include Lava well rooms.
+The rooms include Rooms with nether brick stairs in the center and soul sand at sides of the stairway containing two 2×5 rows of nether wart growing on it.
+The rooms include Rooms with blaze spawners (normally 2 per fortress), which can have nether brick stairs leading up to them. The rooms also have nether brick fences.
+The rooms include Rooms with four exits. Some of them lead only to netherrack.
+The rooms include Rooms with a "stairway" of nether brick placed against a wall, leading up to the floor above.
+In a nether fortress, there are two sections: an indoor section and an outdoor section. The indoor section has a nether brick roof and is where chests are spawned. The outdoor section has no netherbrick roof, although it can tunnel through netherrack, making it seem like it has a roof. The outdoor section is where blaze spawning rooms are found. In every fortress, there is one lava well room, which is the single connection between the indoor and outdoor sections.
+Nether fortresses generate nether fortress loot with chests in the indoor sections placed at some interior points where corridors turn at right angles. Each chest contains 2-5 stacks of items, chosen from the following list. Chance listed is per stack, not for the chest as a whole.
+Nether fortresses may be spawned in inconvenient places, where half of or even the majority of the fortress is buried in Netherrack. The interior will not be filled, however; all hallways and passages will be clear except for open walkways and bridges. It is rare, but possible for glowstone to spawn inside of the fortress pathways.
+Nether fortress tend to cluster together in strips that run north and south. When you're searching for your first nether fortress, traveling east or west will give you the best chances of running into one. If you travel north or south, you could travel a long distance between two strips of fortresses. But if you have already found a fortress, you should travel either north or south to find another, which will likely be within a few hundred blocks. Note that north and south spawning is just a tendency and you may not find additional fortresses simply by going north and south from a located fortress in every case. Be flexible in your search and note that additional fortresses may still be east or west from a located fortress.
+Nether fortresses spawn magma cubes at a much higher rate. They also spawn two exclusive mobs which cannot be found anywhere else, blazes and wither skeletons. They also have a chance of spawning normal skeletons, which are exactly the same as the Skeletons found in the overworld.
+Blazes are desired because of their drop - blaze rods, as well as the high amount of experience they give. Wither skeletons are mostly desired for their wither skeleton skulls, which are necessary to create the wither. Ultimately those who spawn the Wither are aiming to acquire the nether star which is used to construct the beacon.
+The spawning algorithm has two checks.
+It checks if the spawn coordinates are within the "bounding box" of each piece (e.g. corridor or walkway) of any fortress.
+It checks if the spawn coordinates are within the "bounding box" of the entire fortress, and that the block under the spawn location is nether brick.
+If either check passes, it uses the special mob list for nether fortresses rather than the general list for the Nether when choosing the mob to spawn. The actual mob spawning proceeds as normal for the mob chosen from this list.
+Often, nether fortresses spawn with no nether wart gardens in them at all. In some rare cases, a garden will have spawned, but the nether wart will be partially or totally destroyed by falling lava.
+In extremely rare cases, a nether fortress will not generate any indoor rooms except one single lava room.
+The interiors of nether fortresses are safe from ghasts, because they are enclosed and are made out of materials that are completely resistant to ghast fireballs. However, the bridges are open to the "sky," as are many platforms (unless the fortress spawns encased in netherrack).
+Nether fortresses use a separate list of spawnable mobs from the rest of the Nether. This allows blazes to spawn naturally and makes magma cubes much more common. Ghasts are not allowed to spawn, preventing them from being trapped inside.
+Mushrooms can spawn in nether fortresses.
+Skeletons can spawn in nether fortresses. When the game tries to spawn a wither skeleton it has a 20% chance of spawning as a skeleton instead.
+Glowstone can spawn in the corridors of nether fortresses.
+Nether fortresses which spawn high above the lava oceans of the Nether can create huge walls of nether brick.
+Nether fortresses tend to spawn in "strips" aligning along the Z axis (north/south) in the nether. (Tested over 200 seeds so far, the trend is strong in all tested seeds - confirmed with AMIDST).
+Sometimes, two or more nether fortresses can spawn very close or even within each other, ultimately creating an even larger cumulative Nether Fortress.
+First screenshot released of the structures.
+Brightened version of the previous screenshot.
+Another bright version of a leaked official image.
+The general pattern of the walkways.
+Some nether warts found at a stair.
+Demonstration of the pathway architecture and its ability to cut through netherrack.
+The blaze spawner room.
+The abrupt end of an inside corridor.
+Broken walkways.
+A large amount of corridors. Notice how corridors do not develop arches in their supports.
+A close up view of the size and beauty of the fortress.
+A ghast that has spawned inside of one of the larger rooms.
+Another ghast spawned inside a fortress player expanded room.
+A player in a nether fortress with another nether fortress across from it.
+A nether fortress with another one generated on top of it.
+A chest that generated in a nether fortress.

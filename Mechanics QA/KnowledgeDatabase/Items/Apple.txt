@@ -1,0 +1,29 @@
+An Apple is a type of food that refills . Apples were introduced to Minecraft in Indev 0.31. Originally, apples were extremely valuable items, being rarely found in only dungeon chests. In Minecraft 1.1, apples began to rarely (0.5% of the time) drop out from tree leaves.
+In beta 1.4, along with Wolfs, it was planned to add green apples, though it was never implemented. Apples can be crafted into Golden Apples.
+ Inside world generated chests. (Villager Chests, Strongholds, etc).
+Trading with Villagers.
+Oak Leaves which have a 1/200 chance of dropping one.
+Inside Chests within an abandoned Mineshaft.
+Inside a Bonus Chest.
+ Kill Notch.
+Kill a player who has one.
+Apples are food items that can be eaten by the player.
+Oak and dark oak leaves have 0.5% (⁄200) chance of dropping an apple. This amounts to approximately 25% chance to get an apple from an oak tree and 60% chance from a dark oak tree. Breaking leaves with a tool enchanted with the fortune enchantment will increase the chances of dropping an apple: 0.556% (⁄180) with Fortune I, 0.625% (⁄160) with Fortune II, and 0.833% (⁄120) with Fortune III.
+In the pocket edition, the chance is higher.
+Apples can be found in chests found in strongholds and villages in stacks of 1 to 3, and in the bonus chest in stacks of 2 to 3.
+Villager farmers may offer to sell apples in exchange for emeralds. 5 apples can be bought per emerald as one of their third tier trades.
+To eat an apple, press and hold use while it is selected in the hotbar. Eating one restores 4 () (4 () in Pocket Edition) and 2.4 hunger saturation.
+An apple can be used to craft a golden apple or an enchanted golden apple.
+The sprite of red apples was the same as used in Notch's game Legend of the Chambered.
+An apple found in a stronghold chest.
+An apple that dropped from decaying leaves.
+Trading for apples via villager trading.
+Dec value: 260.
+Hex value: 104.
+Hunger restoration: 2 hunger bar slots.
+Hunger saturation: 2.4.
+Maximum stack 64.
+Red apples are obtained by destroy oak leaves, which have a small chance of dropping apples. Decaying oak leaves can also drop apples, the chance of an apple dropping is the same for both decaying and destroyed leaves. Apples can also be found in chests in villages and strongholds.
+Apples can be crafted into golden apples by combining it with 8 gold nuggets. This is highly recommended, as getting 8 gold nuggets is very easy and golden apples offer extra restoration.
+Eating an apple will restore 2 hunger bar slots and 2.4 hunger saturation, while golden apples will restore 2 hunger bar slots, 9.6 hunger saturation and increase health restoration for 4 seconds.
+Apples can be farmed, but it’s often a tedious process. Apples only drop from decaying or destroyed leaves of oak trees. So you have to either find or grow oak trees and destroy their leaves or wood. This process can be done on a larger scale by simply growing oak trees, possibly with bone meal, on a large scale and chopping down all the wood blocks. You could then either wait for all the leaves to decay or help a hand by destroying the leaves.

@@ -1,0 +1,33 @@
+Snow Golems, also known as Snowman, are unique passive mobs that are created by the player. As they walk they leave snow trails for the players to collect, but they won't leave trails in any biomes except for Taiga, Tundra, and Extreme Hills. It is also fair to note that snow golems will take damage during rainfall in any biome except taigas and tundras, which do not have rain (or deserts, assuming they could survive the desert heat).  Upon death, they drop only snowballs, meaning that no pumpkin will be received for later use. To make a Snow Golem place two snow blocks on top of one another and then place a pumpkin on top. The pumpkin must be the last block placed. They are there for your company.They also cannot survive the Nether.
+Snow Golems wander aimlessly until a hostile mob is seen, after which they will throw snowballs at it. Snowballs do not do damage, but anger the mob, thus diherting the enemy's attention. The mobs will then attack the Snow Golem until it is dead. Snow Golems will only hurt Blazes and the Enderdragon.
+As previously stated, Snow Golems will take damage from any form of Water, similarly to Enderman. However, they cannot survive in the Nether, Jungle Biomes, or Desert Biomes because of the heat. A Fire Resistance potion will render them immune to these biomes, however. .
+To create a Snow Golem, the player must vertically stack two snow blocks on the ground, then place a pumpkin on top of it. This does not require a crafting table. An alternative for pumpkins can be substitute for a jack-o-lantern.
+Note that when building it, the pumpkin must be put on last. This makes Snow Golems impossible to generate via redstone-effected items. Also note that they can be created in the Xbox 360 Edition as of a recent update. However, only 8 of them can be created at a time.
+Enderman can create Snow Golems, but this is extremely rare.
+Snow Golems do not take any fall damage, similar to Iron Golems.
+The pumpkin is just a mask, underneath is a snowball face.Go in it to see its face.
+Back in beta versions, Snow Golems could be bred by holding wheat.
+Snow Golems die in the Nether seconds right after it spawns.
+When hit with a shovel, snow golems die instantly. With something else, not so much.
+Snow golems burn (or melt) when they're in the desert.
+Snow Golems can be used as an infinite source of snow. Just create them on top of any type of block placed on the ground, with any type of blocks placed around and above the Golem's head to keep it from moving away and to protect it from harmful substances like rain. Then simply collect the snow from under the Golem with a shovel; it will keep on being replenished by the Snow Golem as it stays on that one block.
+Snow Golems have power to kill Blaze and Magma Cubes as they are technically made of/use fire.
+See here.
+Snow Golems are utility mobs.
+To create a snow golem, the player must vertically, or horizontally, stack two snow blocks on the ground and then place a pumpkin or jack o'lantern on top of them (or at one extremity if stacked horizontally). The pumpkin must be placed last in order for the golem to spawn. They can also be created by dispensing the pumpkin from a dispenser.
+Endermen are capable of creating snow golems by placing the necessary blocks, although this is an extremely rare event because they do not do so deliberately.
+Snow golems drop up to 15 snowballs upon death.
+Snow golems move towards hostile mobs and throw snowballs at them up to 10 blocks away, provoking them. The thrown snowballs do not do any damage, except to blazes. They do not purposely attack aggressive wolves, but they will attack zombie pigmen regardless of whether they attacked the player (but will not aggravate any others in the area). Snow golems do not follow the player.
+Snow golems have good path-finding skills, and will not jump off cliffs or into lava. Snow golems "melt" (take fire damage) in deserts, mesas, jungles, savannas, the Nether, and when in contact with rain or water. They do not take fall damage.
+As they move, they leave a trail of snow on the ground if the blocks can support it.
+Snow golems can be put on leads and tied to fences.
+Iron golems can be agitated if the snow golem accidentally hits one or a villager while aiming at another mob. The same applies for wolves.
+Snow golems wear their pumpkin as a helmet just like the player does. Their actual snowman-type head is hidden beneath it. If the player occupies the same space as a snow golem, its pumpkin helmet will be seen through, revealing their snowman-style face. The player can also go into spectator mode to see their snowman face.
+Snow golems cannot be made by pistons because the code for generating snow golems are found in the pumpkin's "OnBlockPlace" (when placed by a player) event, and also pumpkins (or jack o'lanterns) will be dropped as an item when pushed by a piston.
+Since snow golems take fire damage in hot biomes, a splash potion of fire resistance thrown immediately after the creation of one will make it survive.
+First screenshot of a snow golem, released by Notch in September 21, 2011.
+A snow golem.
+Three snow golems that were built by endermen.
+The view from inside a snow golem, proving that the original head still is in the game.
+In a zombie pigman trap, a snow golem teams up with several iron golems to kill the zombie pigmen, giving the player gold.
+A snow golem riding in a minecart.

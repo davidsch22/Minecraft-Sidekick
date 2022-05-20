@@ -1,0 +1,16 @@
+ Lapis Lazuli is a semi-precious material that is slightly less rare than diamond and has about the same rarity as Gold Ore, being found only in lower levels of a world. Its main purpose is to dye Wool blocks or to color Sheep blue. As of 1.8, it can be used for repairing tools and armor, as well as renaming them. It can be found underground in layers 5-11. When mined, it can drop 4-8 Lapis Lazuli (Dye). However, that is dependent on enchantments on the tool used.
+Lapis Lazuli is most commonly converted into blocks, then used in decoration. Lapis Lazuli Dye, which is dropped by mining the ores, can be used to make blue wool. Lapis Lazuli is also used for enchanting in 1.8.1 .
+Lapis Lazuli is one of the two ore blocks with a different pattern than the other ores, the other being Emerald Ore.
+Just like with redstone, maps generated before lapis lazuli was added will have none of this ore unless new terrain is generated.
+Lapis Lazuli ore found in a cave.
+Add a photo to this gallery.
+Lapis lazuli ore is the ore block from which lapis lazuli is obtained.
+A stone pickaxe or better is required to obtain a drop from lapis lazuli ore. If mined with a Silk Touch enchanted pickaxe, it will drop itself, otherwise it will drop 4-8 lapis lazuli and 2-5 experience.
+When mined with a Fortune enchanted pickaxe, there is a chance the drops will be multiplied by between 2 and the level plus 1, up to a maximum of 2 to 4 at level III (for a maximum of 32 lapis lazuli dropped).
+Lapis lazuli ore is found at a depth of 31 and below. The highest concentration of lapis lazuli ore is found between levels 13 and 16. At this level the concentration is about 0.083% of all blocks (0.1013% of stone). The concentration drops linearly as one gets farther from these rows. Overall, lapis lazuli is around 1.1 times as common as diamond ore with an average of 3.43 lapis lazuli per chunk.
+The primary use of lapis lazuli ore is to be mined to obtain its drops of lapis lazuli.
+Lapis lazuli is based on the real stone for which it is named and has historically been a prized and rare stone used in jewelry and as a dye.
+Lapis lazuli can come in veins of one.
+Another vein of lapis ore along with lapis dyes.
+Lapis lazuli at the edge of a lava lake.
+An isolated vein of lapis lazuli ore.

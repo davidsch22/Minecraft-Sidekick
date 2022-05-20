@@ -1,0 +1,42 @@
+ Getting enough food to satisfy your character’s hunger can always be challenging, especially when starting a fresh world. Luckily there’s a wide variety of easily obtainable foods.
+The easiest and best foods (after golden apples) are meats, which can simply be cooked in a furnace, just like you’d smelt ores. But there are some other types of food available, some of which are horrible and others which are great alternatives to meat.
+While some foods will satisfy your hunger enough, others will barely do anything or potentially even harm you.
+All foods and their recipes can be found below and if you’re looking for more ways to heal or boost yourself, check out the brewing guide for potion recipes.
+Apples are a great source of food as they can be turned into golden apples, the strongest food item in game. Apples satisfy your hunger by 2  , while a golden apple will satisfy you by 2  and regenerate health for 4 seconds.
+They can be found in chests in strongholds or harvested from oak and spruce leaves, which means they’re often found quite early in game. Although the drop rate is quite low. To create a golden apple you need 8 golden nuggets and an apple.
+Cows are one of the best animals in minecraft, not only do they drop steaks which, when cooked, are the best food source available for hunger bar restoration. They also drop leather and can give you milk. Cows can also be bred easily, so you can have huge amounts of steaks in a short time.
+Raw beef will restore your food bar by 1.5  and cooked beef will restore your food bar by 4  .
+Cows can be set on fire to make them drop cooked steaks.
+Bread is a decent source of food, but is harder to acquire. It can be found in chests or by creating it yourself with 3 wheat.
+Wheat can be farmed easily, but it takes a while to get a great amount of it. In addition to the fact that meat will restore your hunger more, wheat is best used to breed cows. As bread requires 3 wheat, while breeding animals only requires 2, and a cow will drop up to 3 pieces of raw steak.
+Bread will satisfy your hunger by 2.5  .
+Cake is more of a nice decoration, rather than a good food source, as gathering all the ingredients can tak a while and the return isn’t that great. Cake has to be placed down to be eaten and is eaten in 6 parts. Each part satisfies your hunger by 1  .
+1 cake requires 1 egg, 2 sugar, 3 wheat and 3 buckets of milk, which could all be farmed, but the wheat alone could be used for breeding cows instead.
+Chicken is quite a good source of food, however, it doesn’t restore your hunger bar as much as porkchops and steaks do, which means breeding chickens is only worth it if you also need their feathers.
+Raw chicken restores your hunger bar by 1  , but there’s a 30% chance of getting food poisoning.
+Cooked chicken will restore your hunger bar by 3  .
+Chickens who die by fire will always drop cooked chicken.
+Cookies are rather pointless as a food source. They’re one of the foods with the lowest hunger satisfaction, but has a high ingredient requirement.
+When making cookies you’ll get 8 of them, but since they heal close to nothing and require wheat and cocoa beans, they’re rarely made by players. Cocoa beans are often used to dye sheep brown instead and the wheat can be used to breed animals.
+One cookie only restores your food bar by 0,5  .
+8 cookies are made using 2 wheat and 1 cocoa beans, which would restore 4 hunger bar slots. Those 2 wheats could also produce 1 cow, which will give 1-3 pieces of steak, which restore 4 hunger bar slots each when cooked.
+Fish are a decent source of food, though catching them can be a boring and tedious process. Catching them is very easy though, all you do is use a fishing rod (right click) on any body of water and wait for the bobber to submerge. Then you right click again to reel in the fish.
+Fish can serve as a quick method to gather some food when you’re about to starve and nothing is around, so it’s advised to keep a fishing rod with you when you’re traveling far from your house.
+Raw fish’ll satisfy your hunger by 1  and cooked fish will statisfy your hunger by 2.5  .
+Melons are fairly poor as a source of food, but they’re easy to farm.
+However, melon slices are perfect if you’re low on health but only need to restore your food by by 1 or 2, so you won’t have to waste the extra points would’ve gotten from eating steaks.
+1 melon block will give you 3-7 slices and each slice restores your hunger bar by 1  .
+The melon slices are dropped when you break a melon block.
+Mushroom stews are a great source of food, but have to huge disadvantage of not being stackable.
+Mushroom stew requires 2 mushrooms, 1 of each type, which can easily be farmed by simply applying bonemeal on a planted mushroom, which will turn it into a huger mushroom.
+A mushroom stew will satisfy your hunger by 4  .
+Mushroom stew is always made with a bowl, a red and a brown mushroom, but the placement of these items doesn’t matter.
+Like cows, pork are the best food source for food bar restoration. Though cows are better to farm because they drop leather and they drop more meat.
+Pigs can be bred easily though, so you can have huge amounts of pork in a short time.
+Raw pork will restore your food bar by 1.5  and cooked pork will restore your food bar by 4  .
+Pigs who die by fire will always drop cooked porkchops.
+Rotten flesh can be eaten and is often used as a last resort when nothing else is available.
+It does have a high chance (80%) to give you food poisoning though, but if you eat enough of them, you’ll at least be able to survive until you get to a safe place.
+Rotten flesh can restore your food by by 2  .
+Spider eyes can be eaten, but it’s not advisded to so, as they’ll cause up to 2 hearts of damage.
+Eating a spider eye will restore your hunger bar by 1  , so it could be used as an absolute last resort.

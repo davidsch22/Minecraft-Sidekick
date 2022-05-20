@@ -1,0 +1,24 @@
+Bone meal is a material that can be used as a dye as well as a fertilizer for most plants.
+Like all other dyes, bone meal can be Applied to sheep to dye their wool, which can then be shorn for 1–3 blocks of white wool.
+Like all other dyes, bone meal can be Applied to tamed wolves to dye their collars.
+Like all other dyes, bone meal can be Combined with gunpowder to make a firework star.
+Like all other dyes, bone meal can be Combined with a Firework Star to create a “fade to color” effect.
+Like all other dyes, bone meal can be Used to dye leather armor.
+Like all other dyes, bone meal can be Used to stain glass or hardened clay.
+Like all other dyes, bone meal can be Used to add patterns to banners.
+Seeds, potatoes, carrots, beetroots: The plant will grow 2–5 growth stages.
+Melon and pumpkin seeds: The planted stem will grow 2–5 growth stages. Bone meal only affects the stem itself; it will not cause melons or pumpkins to sprout from a mature stem.
+Saplings: The sapling has a 45% chance of growing to the next growth stage, if possible. Saplings have two growth stages (with no visible difference between them) before growing into trees as the third stage. A tree will not grow if the sapling is not planted in proper ground or if sufficient space is not available.
+Grass blocks: Tall grass, and usually a few flowers, will form on the targeted block and on randomly-selected adjacent grass blocks up to 7 blocks away (taxicab distance). The flowers that appear are dependent on the biome, meaning that in order to obtain specific flowers, the player must travel to biomes where the flowers are found naturally. See flowers for more information.
+Sunflowers, lilacs, rose bushes, and peonies: The the corresponding item form will drop, without destroying the original plant.
+Tall grass and ferns: A one-block-high tall grass or fern (that is on dirt, grass, or farmland) will grow into a two-block-high tall grass or fern.
+Mushrooms: Has a 40% chance of growing into a huge mushroom if on dirt, grass, podzol or mycelium.
+Cocoa: The cocoa plant will grow 1 growth stage.
+Sugar canes: On the Pocket Edition only, bone meal grows sugar cane to maximum height (three blocks tall).
+Flowers: In Pocket Edition, using bone meal on some flowers will make poppies and dandelions grow in the surrounding area.
+Bone meal does not work on cacti, vines, nether wart, or other plants not listed above.
+Bone meal has the ID name minecraft:dye, with a data value of 15.
+Bone meal can be used on the sides or bottom of a grass block, as well as on a grass block with plants already on top of it.
+Regardless of if it succeeds in fertilizing, bone meal makes green sparkles. However, like smoke from a torch, the sparkles only appear if the player has particles set All or Decreased.
+Bonemeal used on grass blocks.
+Farming.

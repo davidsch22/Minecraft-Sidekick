@@ -1,0 +1,4 @@
+ Lapis Lazuli Blocks is a decorative mineral block. It is crafted with 9 Lapis Lazuli.
+Lapis Lazuli is a light blue color, with many streaks of darker blue and green markings on it. Its only uses are as a building block and as a form of storage of Lapis Lazuli dye. It is also for decoration.
+Before 1.6.6, it was easier to craft a Lapis Lazuli block than any other ore block, because a Lapis Lazuli Ore block drops 4-8 Lapis Lazuli dye. Thus, the easiest ore block to craft is glowstone, which although it drops less dust, is much easier to craft due to it only needing the 2x2 crafting grid.
+The Lapis Lazuli texture has changed as of 1.6.1.

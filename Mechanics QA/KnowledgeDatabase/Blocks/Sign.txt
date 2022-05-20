@@ -1,0 +1,42 @@
+A Sign is a thin block that can be written on, just as signs are used. This text can be written by the player once the block is placed. When a sign is destroyed, the original text is destroyed and isn't saved in any way. You can write in different languages.
+Only four lines of text can be put on a sign, and there is a character limit for what can be typed. If you want to change what it says from the sign, all you do is remove the sign, by punching it, and right-click where you want to place it while holding the sign. Placing down a sign without writing any text on it will simply yield a blank sign.
+Signs were originally added in the Survival Test but were soon removed. They were re-introduced in Indev and became their normal size with the Secret Friday Update. They were added in 0.6.0 in Pocket Edition and were updated to support bold, italic, and colored fonts in 0.11.0.
+Signs are used in multiplayer for several reasons. They are normally used for marking property, leaving directions, warning for danger, and stating rules.
+Signs originally displayed preset text.
+Signs can be placed on the side of slabs and stairs, unlike torches. Because of their wooden texture, signs can be used to decorate, such as an armrest on a chair.
+If you were to write a "curse word" onto a sign, it would be censored out with a "!?". However, some curse words are not censored if you replace one or two of the letters with *. On the Xbox 360 Edition, the word Censored will appear.
+  On the Pocket Edition, it won't censor anything at all.
+In Pocket Edition, signs were added in 0.5.1, whereas in Xbox 360 Edition, they were added straight away.
+On Minecraft servers, there is a plugin that allows you to create a shop. (PC Only).
+There is a plugin that allows players to be teleported if clicked on a sign. (PC Only).
+The plugin "Lockette" is used to lock certain things from being opened. It is a useful plugin, as it will prevent theft. .
+Text written in Arabic or Hebrew will apear backwards.
+Signs can be placed at multiple angles.
+On Minecraft servers, some servers will have the plugin where you can make a shop by using a sign like this one.
+Servers also use a plugin, called 'Lockette', to prevent people from stealing from chests like this one.
+Signs, along with Ladders, can create "air pockets".
+Add a photo to this gallery.
+Signs are non-solid blocks that can display text.
+Signs can be broken with any tool, or without a tool, but an axe is fastest.
+A sign will also break and drop itself as an item if the block the sign is attached to is moved, removed, or destroyed.
+Signs can be crafted from wood planks and a stick.
+Signs can be used to display text.
+Signs may be placed on the top or side of other blocks (including non-solid blocks like fences, glass, rails, and other signs). To place a sign, use a sign item while pointing at the block the sign should be attached to, enter the desired text (possibly none), and click the "Done" button. To place a sign on a block that can be interacted with by the use control (for example, chests, note blocks, etc.), sneak while placing the sign.
+Signs placed on the top of a block stand on a short post and will face in the direction of the player who placed it, in any of 16 different directions. Signs placed on the side of a block simply float there, even if the block doesn't make contact with the sign.
+When entering text, four lines of text are available. To switch between lines, the player can press Enter or the up/down arrow keys. The line which is currently selected will have a greater-than and less-than sign (> and <) at the beginning and end of it, respectively.
+While editing, typing and backspacing occurs only at the end of a line. It is impossible to insert text in the middle of an already typed line - the player must delete and reenter text in order to make edits.
+After the editing window is closed, the sign's text can only be changed by removing and replacing it, removing the text in the process. Copy and Paste cannot be performed, and no more than the basic/shifted characters on your keyboard may be entered. The Xbox 360 Edition supports both the Xbox 360 on-screen keyboard and direct editing of text using a USB keyboard or controller chatpad.
+In the PC edition, you can use Ctrl + pick block to copy an already placed sign and place it down again with the same text shown as the original.
+With a map editor, the color of sign text can be changed with formatting codes.
+Signs can be created with JSON text which allows complex formatting (colors, bold, italic, etc.), hover and click events, localized translation (for Minecraft technical terms, like "Redstone Repeater", otherwise translations must be provided in language files in resource packs), and the incorporation of scoreboard values into text. Use the /setblock command to create JSON signs and the /blockdata command to alter JSON signs.
+Example: setblock ~ ~1 ~ standing_sign 0 replace {Text2:"{text:\"line2\",color:blue}"}.
+Signs can post the success count of JSON text hover and click events to scoreboard objectives. The objectives to be used can be specified by running the /stats command or by modifying the sign's NBT data directly with the /blockdata command.
+Signs act as though they have a use action, so you are unable to place blocks or use items while the cursor is pointed at them without sneaking.
+Signs cannot be moved by pistons.
+Signs have no collision mask (they are completely non-solid), so items and mobs can move through sign blocks. Other blocks (including other signs) can be placed on any edge of a sign.
+Water and lava will flow around signs. Lava can create fire in air blocks next to signs as if the signs were flammable, but the signs will not burn up (and can't be burned by other methods either, except in Pocket Edition).
+A sign is defined by its ID, block data, and block entity. A sign also has a block state which is expected to replace the functionality of block data in a future version.
+A sign's ID defines whether it is standing on the top of a block or attached to the side of a block.
+A sign's block data specifies the direction it is facing.
+Every sign has a Sign block entity associated with it that holds additional data about the sign.
+The character limit for the Text tags depends on the width of the characters. Although the Text tags are string objects, they may contain JSON text which will evaluate as compound objects.

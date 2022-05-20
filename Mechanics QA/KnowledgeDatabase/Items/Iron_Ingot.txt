@@ -1,0 +1,7 @@
+Iron ingots are versatile metal crafting ingredients. They are most commonly obtained by smelting iron ore.
+Iron ingots have a chance of appearing in stacks of 1 to 4 in dungeons, and in stacks of 1 to 5 in strongholds, abandoned mineshafts, villages, and nether fortress chests.
+Iron golems drop 3-5 iron ingots upon death.
+Zombies have a 8.5% chance of dropping 1 iron ingot, 9.5% with Looting I, 10.5% with Looting II, and 11.5% with Looting III.
+In the Pocket Edition, zombies will not drop any iron ingots.
+Villager armorers, tool smiths, and weapon smiths buy 7-9 iron ingots for one emerald as their second tier trades.
+Iron Ingots are the most versatile item in the game, being used in 27 crafting recipes. The second most versatile item is Wood Planks with 23 recipes. Technically, if the Nether Reactor Core is counted, Iron Ingots are used in 28 recipes, but the Nether Reactor Core is exclusive to the Pocket Edition, and some crafting recipes that use them are not in the Pocket Edition (such as Iron Doors).

@@ -1,0 +1,5 @@
+Dec value: 373:16392.
+Hex value: 175.
+Maximum stack 1.
+Splash potions of weakness will reduce your damage output. A splash potion of weakness and a potion of strength will cancel out some of their effect, depending on the strength of the potions.
+There are 2 types of potions of weakness. A 90 second version and a 4 minute version. The further you stand from the potion’s blast radius the shorter this time will be. A splash potion of weakness will always reduce your damage output by 2 hearts.

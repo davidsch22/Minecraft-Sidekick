@@ -1,0 +1,7 @@
+Dec value: 382.
+Hex value: 17E.
+Maximum stack 64.
+Glistering melons are created by combining a gold nugget with a melon slice in any crafting interface. They cannot be eaten, but are used to create potions of healing or a potion of weakness.
+Farming melons is quite easy, though getting the melon seeds can be tricky as they can only be found in chests in abandoned mineshafts. Melon seeds are planted on farmland, which will then grow into melon stalks over time. Those melon stalks will then spawn a melon block on a block next to them. Check out our melon farming guide for more information.
+Gold nuggets are fairly easy to farm. Gold ore can be found in the bottom 32 layers of the world, so finding it can take a while. They’re usually found while looking for diamonds, but the same techniques used in diamond farming can be used to farm gold. Once you’ve aquired gold ore, the gold can be smelted into gold ingots, which can be turned into gold nuggets.
+Another way is to kill zombie pigmen. They can drop 1 gold nugget and sometimes drop a gold ingot. That gold ingot can then be turned into gold nuggets.

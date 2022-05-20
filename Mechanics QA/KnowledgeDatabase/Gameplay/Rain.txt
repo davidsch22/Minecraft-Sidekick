@@ -1,0 +1,29 @@
+Rain is an environmental effect that occurs occasionally in Minecraft. As with snowfall, it is a type of weather.
+Rain is a temporary, global occurrence that can happen randomly at any time but not in cold taiga, tundra, savanna, desert, or mesa biomes (in taiga and tundra, it snows instead). If you are near to both a biome that produces rain and another that produces snow, you can see both snow and rain.
+Thunderstorms may occur.
+The light from the sun decreases by 3, to light level 12 in full daylight. Moonlight is not reduced, and remains at light level 4.
+The Sun, Moon and stars are no longer visible (even in the desert).
+The sky during the day is a grayish blue hue and clouds are gray instead of white.
+It does not solidify lava or put out torches, but it does put out fires, except those on netherrack.
+Mobs on fire are put out on contact with rain; this prevents skeletons and zombies from burning in daylight.
+Flaming arrows are put out on contact with rain.
+Fish are more abundant during rain.
+Wolves shake themselves dry if they are not moving (certain versions only).
+Farmland becomes hydrated if it isn't already.
+Endermen may die due to their weakness to water. They will also teleport around until they find a place which is dry.
+Blazes that entered the Overworld, either via a spawn egg or a Nether Portal, are also harmed by rain.
+Rain fills up cauldrons with water, rarely.
+Rain may cause frame rate drops, sometimes referred to as "lag," making it harder to play.
+Rain falls at approximately the same speed one can descend while flying. This means that it is actually possible to free fall faster than the rain particles. If you fly up when it rains, the rain appears to fall faster. if you fly down while it rains, it will make the raindrops appear to be frozen in time.
+If you turn particles to minimal, the rain is silent.
+Rain falls only in the two middle lines of a block, therefore it looks like it is not raining directly above you, but actually the "square" in the sky is shifted half a block in each direction.
+Although you cannot see the sun during rain, the glow associated with sunrise and sunset is still visible.
+In singleplayer mode, when the player uses a bed, the rain stops when they wake up.
+Rain still falls above the clouds. Notch's explanation is that the gray above the clouds during a storm is another layer of clouds and the origin of the rain.
+Rain particles are only visible in nearby chunks, but its effects occur over all loaded areas.
+Although falling precipitation can be seen far above the maximum world height, rain falls from y=256. Raindrop splash particles can be seen on top of blocks of layer 255, even in biomes where it cannot rain.
+Rain actually falls one block into the void (Layer -1). This can be seen in Creative Mode by floating in the Void. Note that no particles are emitted from the rain, due to the absence of a block below it.
+Rain makes noise when it hits a block, and the noise can be heard at any point within 16 blocks. This means that if the player is flying in creative mode at least sixteen blocks above the nearest block rain is hitting, the player cannot hear the rain. Rain doesn't generate particles and sound at y=1 (and below), despite the bedrock under it.
+Rain falls through ladders, vines, carpets, repeaters, snow layers, mob heads, flower pots and cobwebs, but it's stopped by signs, banners, doors, gates, trapdoors, pressure plates, glass panes and iron bars.
+The average rainfall lasts .5-1 days, and there is a .5 to 7.5 day delay between rainstorms.
+The player can sleep in a bed during a thunderstorm, even if it is daytime.

@@ -1,0 +1,16 @@
+ A Crafting Table, (also called a Workbench), is a useful block used to craft items within a 3x3 grid. When right clicked (default), it allows the player to access the crafting grid. Crafting Tables and Furnaces are able to be pushed by Pistons as of release 1.5.
+The crafting table has a 3x3 grid on its top and, on the sides, various tools are depicte (which are unused except for the sound). The underside has a texture that is exactly like that of Wooden Planks.
+A player's inventory with a 2x2 grid in the top right corner where it says "Crafting".
+The interface of a crafting table in Minecraft PE 0.8.0 (it uses the MATTIS system).
+Add a photo to this gallery.
+The Crafting Table (originally called Workbench) is one of the most essential blocks in Minecraft.
+Crafting tables can be mined with any tool, or without a tool, but the axe is the quickest.
+Crafting tables generate naturally in libraries in villages and witch huts.
+Pressing use on a crafting table placed in the world will open the 3×3 crafting grid which allows you to craft more items than with the crafting grid in your inventory.
+If you disconnect, move more than eight blocks away or close the crafting interface the items inside will drop in front of you.
+When used as a fuel in a furnace, a crafting table lasts 15 seconds (or 1.5 items).
+Note: This video is outdated as crafting tables now also generate in witch huts.
+The underside of the crafting table has the same texture as oak wood planks.
+The old icon for Minecraft (not the launcher) is a crafting table. The Mac version uses the old icon instead of the new icon, which is a Grass Block.
+Naturally occurring crafting table.
+The crafting table GUI in Pocket Edition as of 0.7.6.

@@ -1,0 +1,23 @@
+The trading system is a gameplay mechanic that allows players to trade emeralds for items (and vice-versa) with villagers. Trading is not available in Pocket Edition.
+Right-clicking on a villager will open a GUI allowing a player to trade with the villager. Villagers will make offers based on their profession and career, and will only make trades based on what offers they are making. Different offers may be viewed by pressing the left and right buttons next to the currently displayed offer. All offers involve emerald as a currency, and some item pertinent to the villager's career. Trading allows the acquisition of uncommon items that would otherwise be fairly difficult to obtain, such as chainmail armor. It is also the only legitimate method of acquiring bottles o' enchanting in Survival mode.
+Different careers are assigned to each villager, and are viewable in the trading GUI. For example, brown-robed villagers can be fletchers or fishermen; blacksmiths can be armorers or weapon smiths; etc. Every villager spawns with tier 1 of their given career, which range from 2–4 initial unlocked trades (i.e. all shepherds will spawn with only two options, buying wool and selling shears). Each tier consists of a defined set of trade offers, and the tiers are the same for any given career (see the chart below). They can unlock new tiers when an existing offer is traded. Note that the trading GUI must be closed before a villager will unlock a new tier. When they do, they become surrounded with purple and green particles for a moment. Each career has a fixed sequence of tiers, and will only unlock a finite number of offers.
+Villagers will deactivate an offer if the offer has been used some number of times. The chance of an offer's deactivation is random, but an offer must be used at least 2 times before it is eligible for deactivation. After an offer has been used 12 times, it is guaranteed to be deactivated. Trading a different offer may activate an offer again. When an offer is disabled, a red X will appear in the trading interface, and it has the same particle effect as an offer being created.
+An offer is guaranteed to reactivate available options (and unlock a tier, if some have not yet been unlocked) the first time it is traded. On subsequent trades, it will only have a 20% chance of doing so, per trade. For example, if a farmer villager has a trade which is 8 pumpkins for 1 emerald, and a stack of 64 pumpkins is traded, this will count as 8 attempts with each attempt having a 20% chance to reactivate the villager's trades.
+Villagers will distinguish between damage values, so different colors of wool cannot replace white wool, charcoal cannot be traded in place of coal, and damaged tools cannot be traded in place of fully repaired tools. NBT data, however, is ignored, so the content of a written book does not matter.
+The full list of careers and tiers is listed below.
+The green Villager is not obtainable, even using /summon, other commands, mods, or third-party map editors. Attempting to create one instead yields a farmer.
+Right-clicking on a villager pauses that villager's pathfinding.
+If a Villager takes damage while trading, the trading GUI will close.
+You cannot trade with child villagers.
+The first image of the trading system released by Jeb. The currency item (later updated to the emerald) can be seen in the inventory.
+Another image released earlier by Jeb shows separated villagers.
+An edited image of the trading GUI with all items removed.
+Priest offers to player to enchant (Bane of Arthropods I) his iron sword for two emeralds.
+An image of the emerald item, the currency used for trading.
+An enhanced version of Jeb's screenshot showing the original ore texture more clearly.
+A villager offering trade two Glowstone blocks for one emerald in Snapshot 12w21b. Prior to the addition of the Witch, this was the only legitimate way to obtain Glowstone without traveling to the Nether.
+A chart with 55 observed offers from each villager type. This is not a comprehensive chart, but it may give an idea of how common or rare some offers are.
+A villager closing offer in Snapshot 12w32a.
+A villager with its only offer locked.
+A villager selling a Feather Falling IV Enchanted Book for 43 Emeralds.
+A villager selling an Efficiency III, Unbreaking III and Silk Touch I Pickaxe for an Iron Pickaxe and 4 Emeralds.

@@ -1,0 +1,38 @@
+Tools are items, normally used to speed up the progress of mining, breaking blocks, or farming. However, each tool has a different use.
+There are currently 6 different tools.
+ Pickaxe - used to bretk blocks such as Stone and items made of them faster; required to get the ores specified.
+There are currently 6 different tools.
+ Shovel - used to break blocks such as Dirt faster. Needed to obtain snowballs from snow.
+There are currently 6 different tools.
+ Axe - used to break wooden items faster, along with pumpkins.
+There are currently 6 different tools.
+ Sword - used to kill mobs faster (and break certain blocks faster, e.g. Cobweb).
+There are currently 6 different tools.
+ Hoe - used in farming to prepare ground.
+There are currently 6 different tools.
+ Shears - Used to harvest wool from sheep (other uses – collect leaves, tall grass and dead bushes).
+Each of these tools can be created using Sticks, and either Wooden Planks, Cobblestone, Iron Ingots, Gold Ingots or Diamonds, with the exception of shears which uses 2 iron ingots alone. Tools can be repaired on an Anvil using Experience and the material used (not the sticks).
+It is worth noting that some blocks, such as Obsidian, require a specific type of tool (in this case a Diamond pickaxe) to break in order to get the broken block in the inventory.
+If you put one tool next to the same tool the tool that appears is an upgraded tool.
+For your weapons, tools and armour, do you use...	.
+Iron			.
+161 .
+Wood			.
+6 .
+Stone			.
+23 .
+Diamond			.
+184 .
+Gold			.
+17 .
+The poll was created at 08:14 on June 15, 2013, and so far 391 people voted.			.
+Please wait, submitting your vote...		.
+Crafting recipes for tools.
+Add a photo to this gallery.
+Tools are items used by the player while held to perform actions faster and more efficiently, to gather materials not obtainable by hand, to gain information, or to perform completely new actions. With the exception of the clock, compass and bucket, tools do not stack in the inventory. Tools can be repaired; see Item Repair.
+Some tools can be obtained by killing mobs with the equipment (except in pocket edition).
+All tools can be obtained through crafting.
+Many blocks have a preferred tool to break them. Some blocks can only be broken with certain tools.
+Some tools are not block-breaking tools: This includes hoes, bows, fishing rods, carrots on sticks, flint and steel and buckets. Such tools are no better than bare fists at breaking blocks, but they do not take damage from doing so—they only take damage by being used in their own various manners.
+Item Repair.
+Breaking.

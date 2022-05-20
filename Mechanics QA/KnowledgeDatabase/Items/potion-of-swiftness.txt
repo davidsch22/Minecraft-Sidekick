@@ -1,0 +1,5 @@
+Dec value: 373:8194.
+Hex value: 175.
+Maximum stack 1.
+Potions of swiftness increase the movement of a player for a time, which can greatly increase the travel time and speed without depleting your hunger bar faster than normal. It also allows you to jump further due to your speed.
+There are 3 types of potions of swiftness, a 3 minute version, an 8 minute version and a 90 second version called potion of swiftness II. Potion of Swiftness II lasts shorter, but is stronger and gives you the faster possible running speed, without the use of mods of course. There is a final potion of swiftness II which lasts for 4 minutes, but this potion cannot be made and is only obtainable through mods.

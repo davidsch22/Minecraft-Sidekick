@@ -1,0 +1,13 @@
+Sprinting is a method of transportation that allows the player to move faster while consuming more hunger.
+To sprint, the player can while moving press sprint, or double tap forwards. The player cannot sprint if their hunger bar is at 6 () or below.
+Ocelots, iron golems, wither skeletons, baby zombies, zombie pigmen, endermen and villagers can also sprint like the player.
+Sprinting allows the player to move at around 5.612 meters/second, 30 percent faster than the normal walking speed of around 4.317 m/s. The player can turn while sprinting, which will slightly reduce their speed. Sprinting will also increase the speed of boats, horses, minecarts, and flying, plus it will slightly increase the speed of swimming.
+While sprinting, it is possible to jump across up to four blocks horizontally, instead of the usual two blocks, though the player will not jump higher.
+Sprinting will reduce the player's saturation, and once their saturation is 0 it will deplete the hunger bar at a rate of ⁄2 every 40 meters, or 7 seconds.
+Sprinting produces particles at the player's feet corresponding to the block type they are running on. When a player attacks any mob while sprinting (excluding squid), the mob suffers a larger knockback than usual.
+Sprinting ends when the player collides with a solid block, sneaks, blocks, attacks a mob, or otherwise it will end after 30 seconds. Sprinting will also end if the hunger bar lowers to 6 () or below.
+Sprinting and holding down jump at the same time is usually faster, but actually becomes slower when under the effect of a high level speed potion.
+Sprinting and jumping while under a 2 block high ceiling causes a player to move at a speed almost twice as fast as regular sprinting speed. This can be sped up even more by decreasing the ceiling height using trapdoors or by sprinting on ice.
+Particles coming out of the ground while sprinting.
+Sneaking.
+Critical hit.

@@ -1,0 +1,3 @@
+ The Purpur Blocks will be the blocks that make up the new End Cities and will be colored a Ender Purple. They will also make up the new End Ship which stores some loot. They will be available in Block, Slab, Stair, and Pillar forms. Shulkers also have the ability to disguise themselves as purpur blocks.
+Purpur Blocks can be crafted from four Chorus fruit which is found in the end.
+The Golden pickaxe is the quickest tool to break it with it take 0.2 seconds with a Gold pickaxe and 0.3 seconds with a Diamond Pickaxe.

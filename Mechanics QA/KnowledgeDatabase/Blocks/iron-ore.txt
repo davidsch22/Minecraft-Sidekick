@@ -1,0 +1,11 @@
+Dec value: 15.
+Hex value: F.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Iron ore is the most common ore after coal. It can be found at all altitudes below sea level. Due to the large amounts of iron ore available, iron ore is often ignored by players once they’ve gathered a few stacks. Mining iron ore effectively requires at least a stone pickaxe. Any other tool will simply destroy the block.
+Using a pickaxe with the fortune enchantment will not result in extra iron ore blocks, but will decrease its durability. Using a pickaxe with the silk touch enchantment allows the player to harvest the iron ore block itself, but this is pointless as mining it without the enchantment will give the same result.
+Iron ore can be smelted in a furnace, which will turn it into an iron ingot. Iron ingots can be used to make iron armour, swords and tools, as well as various items ranging from minecart tracks to buckets. All these items are listed in the article about iron ingots.
+Many players prefer using iron tools because it’s far easier to find and has decent durability and speed.
+It can also mine any block a diamond pickaxe can mine, with the exception of obsidian, and it’s much easier to replace, should the player die.

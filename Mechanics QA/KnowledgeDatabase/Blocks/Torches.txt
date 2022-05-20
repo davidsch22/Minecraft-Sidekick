@@ -1,0 +1,23 @@
+  The Torch is a type of tool found in Indev onward since the support for dynamic lighting, and is the simplest placeable source of light, not taking much to craft.
+Torches act as if there is no block there, and you are able to walk over it. Being an unsolid block, this even prevents sand and gravel from falling down past a square with a torch on it. Sand or gravel break when they fall on a torch. If they are placed directly above a torch they act as if they were on any other solid material, allowing them to be used as environmental triggers, such as Airlocks. When being placed in water, the torch breaks due to the water closing in on it.
+In 1.8, if one pays very close attention to the light emitted by a torch, one can see that it slightly flickers, like a real flame.
+If a block falls onto a torch (Sand or Gravel), it breaks the block and gives the player the resource, but the gravel will not drop flint. However, if the torch is placed quickly enough after removing the base of a stack of gravity-obeying blocks, the stack remains in place.
+If torches are put near ice, it ultimately melts after a moment.
+Torches cannot be put on ice and leaves.
+Torches share the same light as a Locked Chest does.
+If water or lava flows on top or around the torch, it will be turned into an item.
+You can make gravel or sand stay still if there is a torch below it.
+Torches were planned to be removed and replaced by lanterns but the lantern was dismissed and the torch is still here.
+ If you put a torch on the underside of a block, it will appear on the ground directly below it.                                  .
+Before 1.7, naturally generated torches in an Abandoned Mine Shafts would not emit light (This could be fixed by updating a block next to or near the torch, such as placing any item next to it). This is refered to as a Lighting Error.
+If Torches are naturally generated in a village (on the pieces of black wool), the Torches have a chance of not being on the Black Wool.
+Dec value: 50 Hex value: 32.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Luminance: 14.
+Torches are the main source of light in dark places and at night. They emit a light of level 14, which is 1 level below sunlight. Torches can be found in abandoned mineshafts, villages and strongholds. They’re also created as part of the portal spawned when the Ender dragon dies. Torches are created using sticks and coal or charcoal, each set will create 4 torches. Torches can then be used with pumpkins to create jack-o-lanterns.
+Torches can be placed on each side of a block, as well as on top of it. They cannot be placed on the bottom of blocks or on transparent blocks, like leaves and glass. Besides emitting light, torches also emit heat, which will melt snow and ice. Snow blocks do not melt, so torches can be placed on them without any risk. This is very useful in sugar cane farms inside snow biomes.
+While torches can be walked through by players and mobs, they act like solid blocks when used with other blocks as you can place blocks on top of torches, including sand and gravel, by clicking the top of the torch. However, falling sand and gravel will turn into items if they fall on a torch. This is often used as traps or as fast ways to harvest large amounts of sand and gravel.
+Water and lava will break torches, which make pumpkins, redstone lamps and glowstone a lot more useful. Light prevents hostile mobs from spawning, which makes torches perfect to disable monster spawner. Like the smoke coming off of normal fire, the smoke of torches will go through all blocks. This can be used to create fun effects, like an active chimney. Though it could also tell you where a player’s base might be.

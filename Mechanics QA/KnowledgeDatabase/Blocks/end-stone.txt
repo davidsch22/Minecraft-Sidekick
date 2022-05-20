@@ -1,0 +1,11 @@
+Dec value: 121 Hex value: 79.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 45.
+Maximum stack 64.
+Transparency: No.
+End stone makes up the surface of the island in the End and supports both the player and the endermen, who’d otherwise fall into the void. End stone requires at least a wooden pickaxe to be mined without destroying the block, though a diamond pickaxe is advised for its speed.
+End stone has the highest blast resistance of all blocks that can be destroyed by explosions, this makes it a reasonable blast shield.
+However, obsidian is stronger and much easier to obtain, so most players will simply use obsidian.
+End stone, along with bedrock and obsidian, is the only block that cannot be destroyed by the Ender dragon, though this is of no use in survival mode, as there’s only 1 Ender dragon, unless you use mods of course.
+Most players ignore end stone. It doesn’t look that good, it hardly matches with other blocks and its supply is very limited.
+However, by altering the texture in any texture pack, end stone could be made to look like a block you could actually use, perhaps a differntly coloured stone block?

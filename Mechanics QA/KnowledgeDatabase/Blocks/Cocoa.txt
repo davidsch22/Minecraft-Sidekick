@@ -1,0 +1,15 @@
+Cocoa Pods are growable fruits on jungle trees.
+Cocoa pods can be mined with any tool, but axes are the quickest.
+Cocoa pods can be found naturally on the trunk of normal-sized jungle trees.
+The player is able to plant cocoa beans on the logs of jungle trees. The cocoa pod has three stages of growth. During its first, the pod is small and green. In the second stage, the pod is bigger and colored tan. In its last stage, the pod is even bigger and orange. When destroyed in the first two stages, the pod will only yield one cocoa bean. When destroyed in the third stage, it will give three cocoa beans. Bone meal can be used to advance it one step. When cocoa beans grown on jungle tree logs are moved by a piston, they will become harvested. They will also become harvested when touched by water.
+Cocoa has the ID name minecraft:cocoa, and a data value of 127. It uses its block data field to store the stage of growth, and the direction to which the pod is attached.
+Cocoa plants have a different hitbox for each size, however the top is always .25 blocks below the top of the wood it's on.
+If a cocoa pod grows while the player is standing next to it, the player will not be pushed out and can move through it.
+The first screenshot of cocoa pods tweeted by Jeb, which revealed the plants.
+Screenshot tweeted by Jeb, showing the pod.
+Naturally generated cocoa pods.
+A cocoa pod farm.
+A somewhat efficient cocoa pod farm, minimizing space and wood use.
+A cocoa farm automatically farmed by pistons pushing the blocks they are growing on.
+Three growing phases of the cocoa pod.
+A log and pod layout for optimizing an example area of 13×13 (including walls).

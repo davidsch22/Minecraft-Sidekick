@@ -1,0 +1,21 @@
+An Item Frame is an item that displays the item or block that is inside it.
+An empty item frame can be broken simply by punching it. If the item frame contains an item, punching it will drop the item and leave the frame on the wall.
+Because item frames are entities, they can be broken in Adventure mode.
+Item frames can be placed on cactus blocks, pressure plates, fences, trees, slabs, cobblestone walls, chests, doors, and all solid blocks. As item frames are an entity, multiple item frames can occupy the same block, although on different faces. It also allows non-solid blocks to occupy the same space.
+Players can place items in the frame by using the item. If a map is placed in an item frame, it will enlarge to show the map in the size of a full block. If the item in the item frame has been renamed using an anvil, it will display its custom name when the cursor is over the item frame. If the player places a block inside the frame, it is displayed in miniature half in, half out of the block. This can be most notably seen on stairs or slabs.
+The displayed item can then be rotated by right-clicking the frame. Items displayed in the item frame can turn 45° diagonally, with a total of 8 possibilities, and the frame will output a redstone signal depending on the rotation phase which can be interpreted by a redstone comparator (Note that this rotation value is separate from the clock or compass rotation). As long as the frame remains placed, it remembers the orientation of the last item it held, and uses it for the next item it holds.
+The item frame is based upon a suggestion on reddit, like the ender chest and flower pot.
+Since you can't use commands to enchant in the console editions of Minecraft, item frames are an alternate way to copy enchanted items for custom maps.
+Dinnerbone's first screenshot showing armor and weapons.
+Dinnerbone's second screenshot showing a map and a compass.
+Dinnerbone's third screenshot showing a golden sword in all directions, the item frame item itself, and a working clock.
+Jeb's screenshot of the item frame.
+Dinnerbone's fourth screenshot, showing flower pots and item frames.
+Snapshot image.
+An item frame at the side of a slab.
+Four item frames in a one block space.
+The frame itself appears to use the texture of the birch wooden planks.
+An image of a fireplace retweeted by Dinnerbone.
+An image tweeted by Dinnerbone showing how hovering over an item frame containing a renamed item shows a name tag.
+An apple in an item frame.
+Painting.

@@ -1,0 +1,9 @@
+Potatoes are food items that can be planted, consumed raw, or cooked in a furnace to make baked potatoes.
+Zombies have a rare chance of dropping a potato when killed by the player.
+Potatoes can be found as crops in villages.
+When farmed, potatoes will take 8 stages to grow. However, there are only 4 distinct textures, so only 4 visible stages: every two stages have the same texture, except that growth stage 7 keeps the same appearance as stages 5-6, so that only stage 8 has the final, 'mature' appearance.
+Fully grown potato crops drop 1 to 4 potatoes and have a 2% chance of dropping an additional poisonous potato. Potato yield can be increased using a tool enchanted with fortune. Bone meal can be used to mature the potato to its last stage of growth.
+To eat a potato, press and hold use while a potato is selected in the hotbar. Eating a potato restores 1 () hunger and 0.6 hunger saturation.
+Villager farmers will buy 15-19 potatoes for an emerald as one of their initial tier trades.
+All the seeds that exist in the game, as of 12w34a.
+Carrots and potatoes found growing naturally in a village.

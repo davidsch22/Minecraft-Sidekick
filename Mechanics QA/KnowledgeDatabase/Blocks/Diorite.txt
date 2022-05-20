@@ -1,0 +1,10 @@
+ Diorite is a type of igneous rock.
+ Polished Diorite is the polished version of diorite.
+Diorite can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Regular diorite generates anywhere underground in rich seams, in an identical way to the other two stone types, as well as gravel and underground dirt. It is most commonly exposed to the surface in Extreme Hills biomes but can also be found commonly in other biomes.
+Diorite is currently only used for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+Diorite has the ID name minecraft:stone, which it shares with stone, andesite, and granite, differentiated by its block data. Diorite also has a block state which is expected to replace the functionality of block data in a future version.
+In real life, diorite is an intrusive igneous rock composed mainly of feldspar and small amounts of quartz and other minerals. It is an extremely hard rock and difficult to carve and work with. Its extrusive equivalent is andesite.
+Diorite naturally generated in a forest.
+A photo of granite, andesite, and diorite and their polished counterparts.
+Granite, diorite and andesite in one place in a cave.

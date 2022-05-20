@@ -1,0 +1,42 @@
+ Wood is a crucial base resource in the Minecraft found in trees. All of the beginning game-play (in Survival Mode) relies on this very important resource, as the player must start from harvesting wood in order to make any progress. Wood is collected from trees, and there are several different kinds (they vary from biome to biome), but to all intents and purposes, they will all do the same thing. Wood can catch and spread fire in an instant, so it is a good idea to be cautious when using flint and steel or lava near wood. Charcoal may be crafted from wood by smelting a piece of wood in the furnace.
+The process of gathering wood is commonly known as 'punching trees.'.
+Wood is a key resource during all the stages of the game. It can be crafted into wooden planks and then sticks, which are used to make tools. You can grow cocoa beans on jungle logs.
+Birch Wood - White wood with black streaks.
+Spruce Wood - Dark wood.
+Oak Wood - Regular wood.
+Jungle Wood - Regular wood turned sideways, with some green mixed in.
+Dark Oak Wood - Dark regular wood.
+Acacia Wood - Red inside, grey bark.
+When leaves are not touching wood, they will disappear, as of update 1.4.
+When the game was first created, there was only one type of wood. Birch and Spruce were added in Alpha, Jungle wood was added in 1.2, and Acacia, and Dark Oak was added in 1.7.2.
+Wood is widely considered to be the most important material in Minecraft.
+Wood, also known as logs, is a naturally occurring block found in trees, primarily used to create wood planks. It comes in six species: oak, birch, spruce, jungle, dark oak, and acacia.
+Wood can be broken by hand, but using an axe will speed up the process.
+Oak wood blocks generate as part of houses in plains or savanna villages. Wood blocks also spawn as supporting beams of witch huts.
+Wood blocks of all six types generate naturally as part of trees. Trees can also be grown using saplings.
+The following table presents the amount of wood needed to produce an even multiple of a given item with no waste left over, and the quantity produced.
+Wood logs can be used as a fuel in furnaces, smelting 1.5 items per block. However, it is far more efficient to craft one of the wood blocks into wood planks: each of the 4 planks will burn as long as the log would have, for a total of 6 items.
+The wood blocks are defined by block IDs and block data. They also have block states which may replace block data in the future.
+Note that when a wood block is placed, it changes its facing parameters, placing in the direction relative to the block it is placed on.
+The block data for wood blocks consists of two facing bits (high-order) and two wood type bits (low-order).
+Block 17 (minecraft:log).
+Block 162 (minecraft:log2).
+Block 17 (minecraft:log).
+Block 162 (minecraft:log2).
+Dark oak and acacia logs share a new block ID separate from the old logs, called log2, because all the other data values on the previous log block were occupied by rotated variants (red sandstone slabs suffered a similar fate). There are still 2 remaining data values on the block that cannot be obtained. The next two trees, if more are added, will likely use these values.
+Rotated wood.
+Oak, birch, spruce, jungle, acacia, and dark oak trees.
+All variations of wooden plank, with each wood type crafting into the planks below it, and the corresponding saplings.
+All the facings and type of wood logs. Also includes the bark-only blocks. From left to right: dark oak, acacia, jungle, spruce, birch, oak.
+Dec value: Oak: 17 Pine: 17:1 Birch: 17:2 Jungle: 17:3.
+Hex value: 11.
+Minimum tool requirement to break: None.
+Blast resistance: 10.
+Maximum stack: 64.
+Transparency: No.
+Wood, or logs, can be found as 4 different types, birch, oak, pine and jungle wood. Each are different in colour and will produce different coloured wooden planks. Wood can be found in every biome, with the exception of desert biomes, but are significantly harder to find in tundra and plains biomes.
+Jungle wood can, of course, only be found in jungle biomes. Pine can be found in abundance in forest and taiga biomes. Birch trees can be found in forests, mountains and plains biomes, but they’re often harder to find than the other trees. .
+Oak trees are found in every biome, though swamps and forests have the largest amount of oaks, followed by jungle biomes. Oak logs can also be found in some villages, where it’s used as a building material.
+Even though swamp trees are made out of the same blocks as oak trees, they’re sometimes called willows by players because of the vines growing from their leaves and the different colour it has, due to the swamp lighting.
+Wood is flammable and can pose a serious fire hazard in large quantities. It’s close to impossible to contain a spreading fire once it reaches about 6-9 blocks, without being able to dumb a bucket of water on top of it. Each tree also has its own type of leaves, which can make identifying them from a distance a little easier.
+Besides being used to craft wooden planks, wood can also be used as a fuel in furnaces, but this is very inefficient as 1 wooden plank lasts just as long (15 seconds). So 1 piece of wood could be turned into 4 planks, which will last 4 times as long. Wood can also be turned into charcoal, which lasts almost 5 times as long (80 seconds), by burning the wood in a furnace.

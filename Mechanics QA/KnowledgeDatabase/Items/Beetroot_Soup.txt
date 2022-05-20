@@ -1,0 +1,4 @@
+Beetroot Soup is a type of food added in Pocket Edition version 0.8.0 and 1.9 PC. It can be crafted with 6 Beetroot and 1 Bowl. When eaten, four hunger will be restored, and the bowl will be given back, like with Mushroom Stew.
+Pocket Edition Only.
+Beetroot soup is a liquid food item.
+Beetroot soup can be eaten to heal 8 () health.

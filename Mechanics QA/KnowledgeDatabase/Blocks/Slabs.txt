@@ -1,0 +1,33 @@
+Slabs are highly blast resistant half blocks used for building that generate naturally in Strongholds and Villages and are crafted in sixes with any of 8 different materials by making a horizontal line of 3 full blocks of the material being used in a Crafting Table. Slabs of the same type can be stacked to make full blocks, which sometimes look the same as the regular block, but sometimes look different.
+Stone slabs were introduced to the game on October 24, 2009, in Survival Test 0.26.
+Sandstone, Wood, and Cobblestone slabs were added in the Beta 1.3 update on February 22, 2011.
+Stone Brick and Brick slabs were added in the Beta 1.8 update on September 15, 2011.
+Red Sandstone slabs were added in Minecraft 1.8 update (Snapshot 14w32a, August 6, 2014).
+Despite the fact that sneaking lowers players' eye level to 1.5 blocks high, doing so does not allow the player to walk over a single slab with one block of air above it.
+Back in the beta version, Notch made a test on Dirt Slabs. These were never added in the game.
+Unless Water is flowing directly down on a Slab, a slab will block water flow regardless of the space above it.
+Before 1.3.2 Wooden Slabs' ID was a variant of Stone Slabs', so you needed a pickaxe to break wooden slabs. However, this still occurs on the Pocket Edition.
+In the Joke Update Minecraft 2.0, a new slab known as the Etho Slab was added. The name was a reference to the Minecraft YouTuber, EthosLab. This slab version of TNT would have a larger blast and if a player is close enough, will spawn an anvil above them.
+The bottom of Ender Crystals appear to be Bedrock Slabs.
+Single Slabs not blocking Redstone.
+Double Slabs blocking Redstone. (Note: the old texture of double Stone Slabs).
+Dirt Slabs or "Tiles".
+A Fan Made TNT Slab (Not in actual Game).
+Different wooden plank slabs.
+Add a photo to this gallery.
+Dec value: Stone: 44 Sandstone: 44:1 Wooden: 44:2 Cobblestone: 44:3 Brick: 44:4 Stone brick: 44:5.
+Hex value: 43.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: Yes.
+Slabs are half blocks, created by 3 of their corresponding normal blocks. There are 6 types of slabs, stone, cobblestone, sandstone, stone brick, brick and wood. The wood versions come in 4 colours, depending on the colour of the wooden planks used to create it. There is one more slab, but it can only be obtained through inventory edits. It looks like the stone brick slabs without the dark grey lines on the sides. None of the slabs are flammable.
+Slabs can also be placed upside down, by clicking the bottom of another block. These upside down slabs are considered as a different block by the game. They can be obtained through mods and will automatically place themselves in the upside down position. Sandstone slabs can be found naturally as part of desert wells, which are randomly generated in desert biomes. Stone slabs can be found in both strongholds and villages. A pickaxe is required to break slabs, including the wooden versions, without destroying the item drop.
+Slabs allow for a smoother transition when walking up or down and don’t require the player to jump. Unlike stair blocks, slabs allow a player to continue sprinting, though you do require twice as much slabs to ascent or descent the same amount as you would with stair blocks.
+Slabs can be placed on either half of a normal block, though if you want to place it on the top half, you’ll have to click the bottom of another block. Slabs can only be placed horizontally, not vertically. Slabs of the same type can be placed on top of each other, but other slabs and blocks cannot be placed on slabs placed on the lower half.
+When slabs are placed on top of each other, a new, double slab block is created. However, although this block looks like their normal counterparts, destroying it will simply drop 2 slabs. Only stone brick double slabs look different from regular stone brick blocks.
+Slabs are treated as transparent blocks, so, like glass, they allow a power current to be passed through it, even when the power current is going down a block, meaning the corner of the slab is touching the corner of the block with redstone. This also means nothing can be attached to slabs, like ladders or paintings.
+Placing slabs on top of a chest will still allow you to open it.
+Like torches and other partial blocks, slabs will turn any sand and gravel that falls on it, into resource blocks. This can help speed up harvesting, though torches are easier to remove.
+Slabs can be used to prevent players and most mobs from walking over slabs with just 1 air block above or under it. Sneaking will not work to get through this 1.5 block high passage. Though it is possible to walk of slabs while sneaking. Slabs placed on ice will take over the gliding effect of ice, this allows for hidden high speed paths, as running and jumping on ice makes you go extremely fast. The slabs will also prevent the ice for melting, so you can place torches around the ice path.
+Safe doors can be created by creating a 2 block high space in between 2 slabs. Mobs consider slabs as a full block while trying to find a path, so to them the 2 block high space is considered as only 1 block high. However, there is q major disadvantage to this system. Not only can projectile firing monsters attack you through this, other monsters can still reach you when you’re close and they will push each other through the hole.

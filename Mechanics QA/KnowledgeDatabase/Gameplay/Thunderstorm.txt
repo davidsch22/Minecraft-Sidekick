@@ -1,0 +1,34 @@
+A thunderstorm is a fairly uncommon weather condition which takes place randomly during rain or snowfall.
+Light level falls to 10 during daytime. Like rain, thunderstorms won't reduce the light level below 4 at night.
+When spawning hostile mobs, the light level from the sky is treated as if it were 5.
+The Sun, Moon and stars become obscured.
+The player can sleep in a bed during a thunderstorm, regardless of the time of day.
+Blazes, endermen, and snow golems are harmed by the rain.
+Lightning is a lethal element to the storm. It strikes randomly across the world, creating brief fires. While most are immediately put out by the rain, it is possible for it to ignite wood and other flammable blocks. Lightning creates fire where it strikes. While the accompanying rain usually puts out the fires before they spread, overhangs that block rain can allow fire spread. Netherrack lit by lightning will not be extinguished by rain.
+ Thunder can be heard by the player up to 160,000 blocks away from where the lightning strikes, but it can only strike in loaded chunks. In multiplayer, lightning can strike in chunks that are farther away because other players can load the chunks.
+ Lightning will light up the sky and the world of any player within a 512 block radius. This does not affect shadows caused by blocks.
+ Blocks (such as redstone, torches, and snow cover) are not directly affected by lightning.
+ Most entities struck by lightning are dealt 5 () damage, and are set on fire which may cause additional damage. If lightning strikes a pig, it turns into a zombie pigman.
+ If lightning strikes a creeper, it becomes charged.
+ If lightning strikes a villager, it transforms into a witch.
+ Items dropped during the lightning strike will frequently be destroyed by lightning.
+For each loaded chunk, every tick there is a ⁄100,000 chance of an attempted lightning strike while it is thunderstorming.
+When lightning is to strike, random X and Z coordinates within the chunk are chosen, and the block just above the highest block that is liquid or blocks movement is chosen for the lightning strike. Then if there are any living entities that can see the sky in a 3×3×h region from 3 below the target block up to the world height, one such entity is selected at random and the lightning target is moved to the block the entity is standing in.
+The target block is checked again for the following conditions Target block can see sky.
+The target block is checked again for the following conditions Rain (not snow) is falling in the target block.
+If these conditions pass, lightning strikes.
+When lightning strikes, all entities within a 6×6×12 region horizontally centered on the northwest corner of the target block with the bottom edge 3 below the target block are struck by lightning. Multiple passes are made over this region, so items dropped during an earlier pass may be destroyed during a subsequent pass; damage immunity usually prevents struck mobs from taking more than 5 () damage.
+If lightning strikes near a Nether portal frame, the fire produced may activate the portal.
+If lightning strikes TNT, it will detonate.
+Lightning only strikes blocks being rained on, and thus will not strike in dry or snowy biomes.
+The rules for choosing an entity to move the lightning target to are more lenient than the rules for lightning to actually strike. Entities under blocks that stop rain but do not obstruct the view of the sky (e.g. trapdoors, glass) or standing in water can prevent lightning strikes in the immediate vicinity.
+As long as the player is within earshot (with a very long range), thunder will be heard at the same time as lightning strikes.
+Thunder can be heard all the way down to the bedrock layer, even in the Void. Like ambience, thunder is not an indicator of anything but areas that were struck by lightning.
+If the player is killed by a lightning strike, the death message will read [player] was struck by lightning.
+Lightning, unlike other weather, does not have an image file associated with it. Thus, it is coded directly into the game engine, allowing for dynamic, realistic lightning.
+Forest fires made by lightning are rare unless the lightning strikes underneath a tree, where the rain would not be able to extinguish the fire.
+If multiple lightning bolts strike a single villager at the same time, the number of witches spawned as a result is equal to the number of lightning bolts, making it possible, but ridiculously unlikely, to get multiple witches from one villager. This also works with pig-to-pigman transformations, but not creeper-to-charged transformations as the latter is just a change of state rather than a new entity creation.
+Lightning can be summoned with /summon LightningBolt. While it's an entity, it can't be referred to by commands or selectors.
+You cannot see mobs through lightning.
+The void during a lightning strike.
+The fire that a lightning bolt creates.

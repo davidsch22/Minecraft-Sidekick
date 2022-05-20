@@ -1,0 +1,17 @@
+Granite is a block that was first released in the 1.8 update and 0.9 for MCPE. Normal granite can be found everywhere underground in large chains. It is usually exposed on the surface in Extreme hills, but will generate in other biomes also. If normal granite is placed in a group of 4 at the bottom left part of a crafting table, the outcome will be 4 polished granite. It also was added to the p.e in the 0.9.0 update.
+Polished Granite is the smooth product after crafting 4 Granite together.
+Granite was released on MCPE before it was to PC.
+The first screenshot Jeb released of "Smooth" granite.
+The first screenshot of granite as it generates naturally.
+Add a photo to this gallery.
+ Granite is a type of igneous rock.
+ Polished granite is the polished version of granite.
+Granite can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Regular granite generates anywhere underground in rich seams, in an identical way to the other two stone types, as well as gravel and underground dirt. It is most commonly exposed to the surface in extreme hills biomes but can also be found regularly in other biomes.
+Granite is currently only used for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+Granite has the ID name minecraft:stone, which it shares with stone, andesite, and diorite, differentiated by its block data. Granite also has a block state which is expected to replace the functionality of block data in a future version.
+In real life, granite is an igneous rock consisting of quartz, mica and feldspar. Granite has different colors from gray to distinctive pink. The word "granite" comes from the Latin term granum, a grain, in reference to the coarse-grained structure of such a crystalline rock. The pink granite in Minecraft reflected to its real life counterpart that has alkali feldspar in its composition.
+The first screenshot Jeb revealed of smooth granite.
+First screenshot of granite.
+A photo of granite, andesite, and diorite and their polished counterparts.
+Granite, diorite and andesite in one place in a cave.

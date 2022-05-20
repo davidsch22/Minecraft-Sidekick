@@ -1,0 +1,50 @@
+ A Spider Jockey is a rare hostile mob. When this mob spawns, there is a very rare chance (1%) that a skeleton will spawn with it on a spider's back. This can be a very deadly combination, as spiders move very fast and can climb walls, and skeletons can shoot from far range. This mob is treated as two mobs, so when one dies the other survives. If you are beneath the spider, the skeleton will shoot the spider instead of the player. In creative mode a spider spawn egg has 1% chance of spawning a spider with a Wither Skeleton riding it instead of normal skeleton, but only in the Nether. Skeletons will spawn if a Spider spawn egg is used in the Overworld. Once you kill the Skeleton it is then a normal Spider. Also, unlike a normal skeleton, if it shoots and kills a Creeper the Creeper won't drop a music disc.
+When it's raining, the spider will become neutral because it is light enough, yet the skeleton will not burn because it is dark enough.
+Tamed wolves will attack the mob the player hits first, so if fighting with wolves, it is recommended to hit the spider, as wolves might not be able to reach the skeleton if that is their target.
+They are a fairly glitchy mob, as the skeleton can shoot the spider while it is jumping.
+Sometimes when you quit the game and open the save file again the skeleton will leave the spider.
+There is a possibility of having a Wither Skeleton Spider Jockey, however, only in Creative Mode.
+If a Spider Jockey is named Dinnerbone or Grumm, only the Skeleton will be upside down.
+The Spider will often climb under tight spaces, suffocating the Skeleton.
+spider jockey.
+A spider jockey in a minecart.
+A Spider Jockey with the Wither Skeleton's ID.
+A Spider Jockey (Named Dinnerbone). Notice how the Skeleton is upside down.
+The Spider and the Skeleton upside down, BOTH named Dinnerbone.
+Spider jockey standing beside spider at night.
+A good capture of the front of a spider jockey's front.
+Add a photo to this gallery.
+A spider jockey is the rare appearance of a spider being ridden by a skeleton.
+A spider has a 1% chance to spawn with a skeleton rider. This means that a spider spawner, spawn egg, or the /summon command can very rarely spawn a spider jockey. Spiders spawned using spawn eggs in the Nether have a small chance (0.8%) of a wither skeleton spawning on them, creating a wither jockey. Likewise, due to the fact that 20% of all skeletons spawned in the Nether are ordinary skeletons, a skeleton may be on the spider the other 0.2% of the time.
+Spider jockeys spawned in narrow enclosures can cause the skeleton rider to die of suffocation, due to the spider scaling the walls.
+In the Pocket Edition, spider jockeys can spawn with a cave spider instead of a spider.
+The skeleton and the spider both have separate drops when that part of the spider jockey is killed.
+The skeleton part of the jockey may drop 0 to 2 bones, and 0 to 2 arrows. The maximum amount of either drop may be increased by 1 for each level of Looting used, up to a maximum of 5 of each.
+Skeletons also have a 8.5% chance each of dropping their bow or any equipped armor that they spawned with. The chance of each can be increased by 1% per level of Looting, up to an 11.5% chance.
+If spawned wearing a pumpkin or jack o'lantern and killed using the looting enchantment, there will be a chance equivalent to the level of Looting used to drop the pumpkin, up to a maximum of a 3% chance of a drop.
+If killed by a charged creeper, the skeleton will drop a skeleton skull.
+The skeleton will also drop 5 experience when killed by the player.
+The spider part of the jockey may drop 0 to 2 string. The maximum amount of string dropped may be increased by 1 for every level of Looting on the weapon, up to a maximum of 5 at Looting III.
+If killed by the player, spiders will also have a 33% chance of dropping a spider eye. If killed using a weapon enchanted with Looting, and if the spider eye drop fails, there will be a second chance to drop a spider eye, with a chance of 50% at Looting I, 67% at Looting II, and 75% at Looting III.
+The spider will also drop 5 experience when killed by the player.
+The spider controls the movement, so a spider jockey will wander aimlessly in the day and only pursue the player at night or in dimly lit areas when the spider is hunting. The two creatures attack and take damage individually (i.e. if the spider is killed, the skeleton will continue to attack and move, and vice-versa). If a spider jockey jumps into water, the skeleton will jump off the spider.
+The skeleton will turn and fire at the player as soon as it sees them no matter the time of day (although the skeleton will quickly burn in sunlight, leaving the spider unharmed). A spider jockey can attack two different players in SMP - this is caused by one player damaging one half of the spider jockey and not the other. If the skeleton shoots another hostile mob, the mob will focus its attack on the skeleton but not the spider being ridden, even after the skeleton is killed. If the skeleton on the spider jockey is shot by another skeleton, it will jump off and leave the spider to engage the skeleton that shot it.
+A spider jockey can kill itself - sometimes the skeleton arrows will injure the spider and other times the spider's pouncing will run the skeleton into its own arrow.
+When a spider jockey rides a minecart, the minecart will automatically accelerate.
+A spider jockey with an enchanted bow and armor.
+A dueling skeleton and spider jockey.
+A spider jockey glitch makes skeleton off-set.
+A spider jockey attacking the camera.
+Two spider jockeys attacking the player at once.
+A spider jockey mid-pounce.
+A spider jockey's skeleton burning up in the sun.
+Two spider jockeys that spawned close together.
+Two spider jockeys, one of them wearing golden armor and is glitching out.
+A spider jockey with the skeleton wearing full gold armor.
+A cave spider in Pocket Edition that can rarely spawn in mineshafts or via spawn egg with a skeleton riding on it.
+At Halloween 2012 it was possible that skeletons on spider jockeys spawned wearing a pumpkin or a jack o'lantern.
+A jockey in the rain.
+Spider Jockey in a desert biome in early morning.
+A spider jockey in a thunderstorm at night.
+A gold-armored spider jockey.
+A burning spider jockey.

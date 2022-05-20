@@ -1,0 +1,10 @@
+Cooked Rabbit is a food item added in Minecraft 1.8 and replenishes 2 and a half bars of hunger. It can be obtained by placing a piece of Raw Rabbit into a Furnace.
+It is the second food item out of two items that is used in the crafting of another food item.
+It was added into the game along with its raw version, rabbit stew, raw mutton and cooked mutton.
+The old icon of Cooked Rabbit.
+Add a photo to this gallery.
+Cooked Rabbit is a food item that can be eaten by the player.
+Rabbits drop cooked rabbit upon death while on fire. They drop 0-1 each time.
+To eat a cooked rabbit, press and hold use while it is selected in the hotbar. Eating one restores 5 () hunger and 6 hunger saturation.
+Cooked rabbit can also be used to heal or breed tamed wolves.
+First image of the item by Ryan Holtz.

@@ -1,0 +1,17 @@
+Dead Bushes are not a solid block, but rather an aesthetic weed that does not obstruct movement, similar to Sugar Cane, Wheat, Tall Grass, and hanging Vines. Dead Bushes will mostly appear in desert biomes, and sometimes in swamp biomes. They are most commonly light/dark brown in colour depending on the user's texture pack.
+The only current use for this item is decoration and can be obtained with an inventory editor, the /give command, by mining with an axe with a Silk Touch enchantment in the 1.9 pre-release, or with shears. It can also be used in the Creative mode of Beta 1.8. In the 1.9 pre-release it has also been known that the Dead Bush will drop sticks when harvested. .
+A variant of Tall Grass is visually identical to Dead Bushes but is able to give seeds and has an offset from the ground, like tall grass. The edited tall grass can be obtained by using bonemeal on a block of grass near sand (although they will only spawn on said sand).
+If the block below a dead bush is removed, the bush will disappear.
+You can obtain it in Survival Mode if you use Shears.
+The dead bush's ID is 32 but if you write the give command with ID 31 on PC you will be given another dead bush called Shrub.
+It can be placed inside a Flower Pot.
+ They are unaffected by Bone Meal.
+Dead bushes (also known as shrubs) are transparent blocks in the form of an aesthetic plant.
+Dead bushes do not drop anything unless shears are used. Also, they do not spread, and cannot be grown using bone meal. If the block below the dead bush is removed, the bush will simply disappear without dropping anything.
+Dead bushes will generate on sand, red sand, podzol and hardened clay in deserts, mesas, mega taigas and swamps.
+The only use for dead bushes is for aesthetic decoration. They can be placed into flower pots.
+There is a variant of grass called "Shrub" that looks identical to the dead bush, but will occasionally drop seeds and is randomly offset from the center of the block like grass. It can be obtained using /give @p tallgrass 1 0 <dataTag>.
+ Several dead bushes in a desert biome.
+ A dead bush in a swamp biome.
+ Multiple dead bushes in a mesa biome.
+ Dead bushes can even spawn in mesa caves.

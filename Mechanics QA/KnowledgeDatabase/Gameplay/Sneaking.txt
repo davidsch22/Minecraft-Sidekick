@@ -1,0 +1,20 @@
+Sneaking is a feature activated by holding the sneak key (default is ⇧ Shift). Sneaking prevents players from falling one or more blocks, making it highly useful for building horizontally outwards over empty space. The player can still dismount blocks while sneaking by jumping over the block's edge.
+Sneaking was originally called crouching; however, the player's hitbox doesn't change from the normal standing height.
+Players move slower, at a speed of about 1.31 meters/second. Moving diagonally will allow slightly faster movement.
+Eye level moves down one-eighth of a block, and the character model bends over slightly. This can be viewed using F5. This does not allow you to fit into smaller openings.
+No footstep sounds occur.
+Players cannot walk off edges. However, any edges that rise less than one full block above the ground (slabs, chests, beds, etc.) will not be protected from falling off.
+Other players in multiplayer cannot see sneaking player's name through a solid block unless the player is within 5 blocks of the sneaking player.
+In multiplayer, sneaking player's name tag will be darker than normal.
+If players are on a ladder or vine, they do not move down. This gives the impression of holding on to that specific ladder rung or vine. Mining speed is still decreased by a factor of 5.
+Players may place certain items and blocks on interactable blocks (hopper on a chest, torch on a furnace, redstone on a command block).
+Players are able to interact with a horse using pressing use item control while holding the sneak key.
+Sneaking does not affect Jumping: players can still jump both up and down block levels. However, beware that players' airspeed is reduced while sneaking and jumping, and they will suffer fall damage as normal.
+Sneaking does not affect Farmland being turned back to dirt as well as the crops being destroyed.
+Sneaking does not affect Hostile mobs' awareness radius.
+On a Macintosh computer, changing the sneaking hotkey to ⇪ Caps Lock allows the player to toggle between walking and sneaking, thus allowing the player to sneak without having to hold down a key. This can be done on a Windows system by pressing Alt while holding down the sneak hotkey. This will freeze the game temporarily; to resume the game release both keys, then press and release Alt again. To revert to normal walking, press and release the sneak hotkey again. Bringing up the inventory or menu will revert the status to walking, as will pressing the chat hotkey or interacting with a furnace, crafting bench, or dispenser. This method works in both windowed and fullscreen mode. (Note: this applies to other commands too, like walking or jumping).
+Also, if the sneak hotkey is pressed at EXACTLY the same time as the chat hotkey, then the player will be crouching in chat. This is very useful if you want to talk but remain hidden from players, because when chat is activated the mouse is released.
+In the Console Editions, sneaking is toggled by pressing in the right analog stick (by default).
+In creative mode, if you hold the sneak button and then double tap the space bar to fly, you jump up and you are stuck at the height you jumped up in and stay like that until you release the space bar. However, this isn't a bug because the sneak key is also the key used in flying to lower altitude, so using both keys at the same time purposefully keeps you still.
+This does not work in the Xbox 360 Edition, as you will immediately switch to a standing position when you fly.
+Before, in some versions of Minecraft, (possibly in Beta or Alpha) if you sneaked in 3rd person view, your feet would sink into the ground.

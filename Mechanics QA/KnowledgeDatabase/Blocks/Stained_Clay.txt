@@ -1,0 +1,9 @@
+Stained Clay, also known as Stained Hardened Clay, is a colored variation of hardened clay. It is available in the same 16 colors that wool can be dyed, although the color is tinted orange.
+Stained clay can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Red, orange, yellow, brown, white and light gray stained clay can be found naturally in mesa biomes. This yields a large quantity of hardened clay. Blue and orange stained clay can also be found in desert temples.
+Stained clay cannot be recolored.
+Stained clay has the same blast resistance as most other stone blocks, which is significantly higher than the block of clay before being smelted. A block of stained clay when one meter away from an explosion will protect any blocks behind it, though it will be destroyed in the process.
+Stained clay has the ID name minecraft:stained_hardened_clay.
+The 13w19a banner, featuring stained clay. Notice Grum behind the red wool.
+A comparison between dyed wool and stained clay.
+The 13w37a Banner showing hardened and stained clay in a Mesa Biome.

@@ -1,0 +1,48 @@
+Ice is a partially transparent Block that forms over Water in colder Biomes and is somewhat slippery. It can commonly be used as an indicator of a Tundra, Taiga and Ice Spikes Biome. The player can break Ice even without a Tool, but will do so fastest with a Pickaxe.
+Ice acts very similar to Snow in the sense that it melts when it comes into contact with Fire, is near a Torch, or is touched by Lava for a short period of time. Ice is not affected by Fire, but when melted with Lava, it will produce Water. This will also happen if Ice is destroyed and there is a Block beneath it.
+Ice does not commonly have a use, and was most likely implemented in Minecraft for show and visual effect. Ice cannot naturally be gathered; however, if a Pickaxe has the Silk Touch Enchantment, Ice can successfully be gathered without destroying it.
+Ice can be used to make traps, but is not efficient in this as water makes a better substitute in moving mobs. Melted Ice will disappear in the Nether.
+In Mob traps, Ice is great for making faster Mob delivery systems. Water traveling over Ice propels items and Mobs faster, decreasing the amount of time the Player must wait.
+Items flowing in Water over Ice will go much faster.
+When Ice is broken, it makes the same breaking sound as Glass.
+Blocks of Water in Arctic Biomes will occasionally freeze, forming blocks of Ice.
+If placed under Soul Sand, the player will move slower on the Soul Sand than if the Ice Block was not there.
+If Ice is placed directly next to Lava or Water, the liquid will be invisible.
+Players can sprint extremely fast on ice.
+By sprinting and jumping while on Ice and inside a 2-block tall tunnel, it is possible to move 16 blocks a second, twice as fast as a full-speed minecart. By replacing the 2-block ceiling with trapdoors, it's possible to travel 1000 blocks in 54 seconds, or 18.518 blocks per second. However, this will drain the player's hunger bar extremely quickly at roughly 1 unit per second.
+Ice can be melted by any block or item that omits a high light level.
+Ice in the Pocket Edition does not have the same transparency as in the PC version.
+See here.
+Ice is a translucent solid block.
+Ice can be easily destroyed without tools, but the use of a pickaxe speeds up the process. The block only drops when using a tool with the silk touch enchantment.
+Ice can be found naturally in snowy biomes from frozen lakes, rivers, and oceans.
+Water in a snowy biome will eventually freeze into ice if exposed to the sky from directly above, the light level immediately adjacent to the water block on all sides is less than 13, and there is at least one horizontally adjacent non-water block. This can happen at any time of day, and in any weather condition. If the highest adjacent light level is 11, an ice block will alternately melt and re-freeze when it receives a block tick.
+Water will also eventually freeze into ice in Extreme Hills, above the level that snow forms.
+Ice is slightly slippery, causing entities to slide, including items. This also allows for increased speed in water currents by placing the ice block under the water current.
+When a non-full block is placed on top of ice, the block has the same "slipperiness" as the ice below it; although, if ice is placed below soul sand, it just increases the slowing effect of the soul sand rather than making it slippery. This does not work in Pocket Edition with slabs, but does with the closed trapdoors.
+Ice can be used to create water: if there is another block directly underneath the ice block, the ice will revert to water when broken. Ice will also melt into water if the light level immediately next to it on any side is sufficiently high (11 or greater), from light sources other than sunlight. If ice melts or is broken in the Nether, no water will be produced.
+If a player rides a pig on ice using a saddle, the pig moves incredibly fast, making journeys across long frozen lakes easier.
+By sprinting and jumping while on ice and inside a 2-block tall tunnel, it is possible to move 16 blocks a second, twice as fast as a full-speed minecart. By replacing the 2-block ceiling with trapdoors, it's possible to travel 1000 blocks in 54 seconds, or 18.518 blocks per second. However, this will drain the player's hunger bar extremely quickly at roughly 1 unit per second.
+Sugar cane can be found next to ice, though when updated they will drop as items. This can be observed at random when running through a snowy biome.
+If you try to set ice on fire with a flint and steel no flames will appear, but the flint and steel will still act as if it had been used (its durability will decrease slightly). The same thing happens with glass and the sides of non-flammable blocks.
+Ice is not transparent in Pocket Edition. However, items/blocks that cannot be placed on transparent blocks such as ice (i.e. torches) still may not be placed.
+If an ice block is melted by a light source, it will not update itself. This can be used to make "floating" water blocks without signs, ladders, pressure plates, etc.
+The effect of a torch on ice exposed to the sky. Note that some blocks are at a light level that lets them alternately melt and freeze.
+A example of a small ice cave.
+It is possible to see chunk borders in ice.
+Natural pit of lava under ice patch in a snowy biome.
+Packed Ice.
+Dec value: 79 Hex value: 4F.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Ice is created in any snow biome, but only on exposed water. Trees or other blocks haning above water will prevent it from turning into ice. Any exposed water in snow biomes will eventually turn into ice, this process happens faster when it snows.
+Ice will cause players and mobs to glide a little when they walk. Any blocks dropped on it will also continue to glide, this property is often used in mini-games, like golf.
+A pickaxe is the fastest tool with which you can break ice, but even using your hands is quite fast. The only way to obtain an ice block is through the use of the silk touch enchantment.
+Breaking ice will turn it into water, but only if there’s another block below it, including other water blocks. Heat sources like torches and activate furnaces will melt the ice around it, causing it to turn into a water block.
+The unique gliding feature of ice offer a lot of potential uses, varying from traps to increased movement speed. The sliding effect of ice allows for the fastest travel in minecraft. By sprinting and jumping over ice, players can travel vast distances in matter of seconds. This is very useful for escaping hostile mobs or even players who are unaware of this trick. Like normal sprinting, this trick will deplete a player’s hunger bar very quickly.
+Riding a pig by using a saddle will also greatly increase the speed of the pig, but because a player is not able to control the pig, some form of pathway will have to be made to make travel a little easier. Using water flows on ice will make for great item transportation systems.
+It will speed up the process and items coming out of the water flow will continue to slide a few blocks before coming to a stop.
+Soul sand’s slowing effect will greatly be increased when it’s placed on ice, which can make for some of the most annoying traps in minecraft.
+Falling through a hole and ending up in a large, slow maze will probably annoy even the most patient people. Placing slabs on ice will cause the sliding effect to be transfered to the slab, which could be used to create hidden escape paths.

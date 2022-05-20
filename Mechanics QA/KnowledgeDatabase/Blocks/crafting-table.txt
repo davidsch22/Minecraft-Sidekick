@@ -1,0 +1,9 @@
+Dec value: 58 Hex value: 3A.
+Minimum tool requirement to break: None.
+Blast resistance: 12.5.
+Maximum stack 64.
+Transparency: No.
+Crafting tables are a must have in minecraft. It allows you to create blocks and items beyond those you can create with the 2×2 crafting grid in your inventory. Crafting tables are created with 4 planks, any color and any combination can be used. They can also be found in villages. They can be broken by hand, but axes are faster.
+A crafting table has a 3×3 crafting grid in it’s interface, which can be accessed by right clicking it after placing it on the ground. A 3×3 crafting grid is requires for the majority of the game’s blocks and items, making it almost essential to play the game at all. Unlike furnaces and other items with interfaces, placing items in the crafting interface and closing it will cause the items to drop on the ground.
+There are a few shortcuts that make using the crafting bench a lot faster. Once you’ve placed items in the crafting grid, shift clicking the created item will automatically move it to your inventory. It will also automatically create as many of those items as possible with the available items in the crafting grid. If there is a surplus of items in the crafting grid, the shift clicking trick will also turn those items into any item it can be turned in. Though it will not change the position of those items.
+For example, if you place 4 wooden planks in a 2×2 square and add a wooden plank to the 2 right blocks, shift clicking the created crafting bench will automatically put it in your inventory, as well as use the remaining 2 wooden planks and turn them into sticks and moves them to your inventory as well.

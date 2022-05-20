@@ -1,0 +1,5 @@
+Dec value: 373:8193.
+Hex value: 175.
+Maximum stack 1.
+Potions of regeneration will regenerate your health over time. They’re a great way to save yourself in a battle, which is why they’re widely used on pvp servers. There are 3 types of potions of regenration, a 45 second version, a 2 minute version and a 22 second version called potion of regeneration II.
+The 45 second version will heal 23 hearts, the 2 minute version will heal 54 hearts and the 22 second version will heal 24 hearts. There is a final potion of regeneration II which lasts for a minute, but this item cannot be made and is only obtainable through mods.

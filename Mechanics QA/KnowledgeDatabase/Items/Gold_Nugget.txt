@@ -1,0 +1,3 @@
+A Gold Nugget is an item obtained by killing zombie pigmen.
+Zombie pigmen, when killed, may drop 0-1 gold nuggets. When killed using a weapon enchanted with Looting, they may drop an additional gold nugget per level of looting used, up to a maximum of 4.
+Gold nuggets can be used to craft a golden carrot or glistering melon for brewing. Also, gold nuggets can be combined with gunpowder and dye to create a firework star that bursts in a star-shaped explosion.

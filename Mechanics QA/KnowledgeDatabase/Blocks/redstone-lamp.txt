@@ -1,0 +1,12 @@
+Dec value: 123.
+Hex value: 7B.
+Minimum tool requirement to break: None.
+Blast resistance: 4.
+Maximum stack 64.
+Transparency.
+No Luminance: 15, if activated.
+Redstone lamps are basically a togglable glowstone block which only emits light when powered. When powered it gives off light at light level 15, the same as glowstone and 1 higher than torches. Redstone lamps are created using 4 pieces of redstone and a glowstone block. They can be broken very quickly without any tools and will always drop a lamp.
+Redstone lamps receive power like most other power receiving blocks, either directly or through solid blocks. Redstone lamps count as solid blocks so they can power any redstone lamp attached to it. But like all solid blocks, the power cannot be passed through more than 1 block.
+Redstone lamps are often used as togglable lighting inside large houses, though usually only on peaceful or on server which have mobs disabled overywhere or in certain areas. Using redstone lamps in survival could leave you vulnarable to spawning mobs inside your house, so make sure you always power them at night, either by using a clock or by simply clicking it before you sleep in a bed or leave your house.
+Redstone lamps are quite useful to regulate the spawning of hostile mobs in mob farms as you don’t have to go inside to place torches on the spawner, you can simply flip a switch. Redstone lamps can also be used to create a disco floor or disco lights by using redstone clocks to turn the lights on and off.
+Redstone lamps make a great warning and communication system. You can assign certain message to a combination of lit lights, which could be used as a simple method to tell your friends something, especially at night, which you don’t want other people to know. This is also useful when you’re in a battle, it’ll tell your team direction needs back up or when to retreat, without the enemy being able to read what you’d otherwise have to type. By connecting doors and other switches to redstone lamps in a central control room, you’ll be able to tell where in the house or village people are without them knowing it. This gives you time to prepare an ambush or to run away.

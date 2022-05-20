@@ -1,0 +1,10 @@
+Dec value: 21.
+Hex value: 15.
+Minimum tool requirement to break: Stone pickaxe.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: No.
+Lapis lazuli ore is one of the harder to find ores, it’s often found while looking for diamonds. Many players mistake lapis lazuli ore for diamond ore at first glance, which has dissapointed and annoyed them many times over. Lapis lazuli can be found in the bottom 30 layers, with the exception of the bottom 2 bedrock layers, but is annoyingly more common below layer 17, which is where diamond ore can be found.
+Lapis lazuli can be found in veins of 1-10 blocks, though veins of 1 block are uncommon and only created when the adjecent ores have been replaced by landmarks, like lava pools and caverns. Mining Lapis lazuli requires at least a stone pickaxe and will yield 4-8 lumps of Lapis Lazuli. Using anything other than those pickaxes will simply destroy the block.
+Using a pickaxe with a fortune enchantment can increase the amount of lapis lazuli lumps that drop from a single ore block, depending on the level of the enchantment. Using a pickaxe with the silk touch enchantment allows the player to harvest the Lapis Lazuli ore block itself, which can be used for decorational purposes. The block can also be smelted, which will result in just 1 lapis lazuli lump and is therefore a waste, as mining it will yield far more.
+Lapis lazuli currently one has two uses. It’s used to create various dyes, used to create sheep and wool. It can also be turned into a lapis lazuli block, which is used purely for its aesthetics.

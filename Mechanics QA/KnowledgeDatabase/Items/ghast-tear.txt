@@ -1,0 +1,8 @@
+Dec value: 370.
+Hex value: 172.
+Maximum stack 64.
+Ghast tears are dropped by killing ghasts and are used to create potions of regeneration in brewing. They will only drop 1 tear, but it’s not a guaranteed drop.
+Farming ghast tears is a bit tricky as you’re mainly dependant on the amount of ghasts around. Then there’s also their flying ability, which makes getting to the dropped tear quite difficult. It could fall down a cliff, on top of another cliff or even into lava.
+Killing the ghasts themselves isn’t very difficult. The easiest method is to stand in a safe spot, away from lava and cliffs, and to shoot back their own fireballs.
+Make sure the ghast is not floating above lava or deep, hard to get to areas, you don’t want to spent more time retrieving the ghast tears than you spent on killing the ghasts. It only takes a single fireball to kill a ghast.
+Note that the ghast’s fireball can set fire to all blocks and destroy weaker blocks. It’s advised to build a small stone platform to stand on in order to avoid ever lasting fires on netherrack and the destruction of the ground you’re standing on.

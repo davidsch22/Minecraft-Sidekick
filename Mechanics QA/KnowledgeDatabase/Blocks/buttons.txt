@@ -1,0 +1,9 @@
+Dec value: 77.
+Hex value: 4D.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Buttons, when clicked, are used to send a 1 second pulse of power through the block it’s attached to, in every direction, which will activate anything that’s connected to it for a short time. A button can only be placed on the sides of blocks and cannot be made to stay permanently on. However, it is possible to use them in the same way as levers through the use of redstone circuits and pistons (T flip-flop circuit).
+Buttons can only be found naturally in Strongholds, in which they’re used to open iron doors. A pickaxe is required to harvest the button, though breaking the block its attached to will also drop it. Water will destroy buttons, virtually disabling whatever it could power. .
+Buttons are created with 2 pieces of stone. Despite the size of 2 blocks of stone, only 1 tiny button is created. With the exception of more complex redstone circuits, buttons are often only used to open doors or activate pistons for a short time, though even in these cases levers are often prefered by players, as they’re easier to use and click.

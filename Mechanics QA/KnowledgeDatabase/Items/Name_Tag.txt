@@ -1,0 +1,24 @@
+A name tag is an item used to name mobs in the world.
+Dungeon chests may contain name tags in stacks of 1.
+Name tags can be caught from fishing as part of the treasure category.
+Librarian villagers trade name tags for 20-22 emeralds apiece as part of their tier 6 trades.
+To use a name tag it must first be renamed with an anvil, if it is not renamed, it will have no effect when attempting to use on a mob. The player can then use it on a mob to give it the name given to the name tag from the anvil. Mobs can be renamed multiple times.
+Once a mob is named, it will keep its name, with one exception A named silverfish that goes into a block will not be named when the block is broken.
+Any mob can be named, except the ender dragon and players.
+Mobs that can be interacted with by pressing use will perform the use action instead of being named. As a result, adult villagers will open their trading interface instead of receiving the name. However, the villager will receive the name if he is trading with another player.
+Baby villagers can be named and will keep the name when they become adults. Renamed zombie villagers will also keep the name if they become normal villagers.
+Renamed mobs will have their name displayed over their head in the fashion as a mob named through a renamed spawn egg. Their names can only be seen if they are aimed at from four or fewer blocks away.
+Mobs that are named using the name tag will also not despawn in the world, similar to tamed mobs. The only exception is if the mob is hostile and the difficulty is switched to "Peaceful".
+If a renamed mob kills a player, the custom name will be used in the death message in place of the mob type name.
+Any mob that receives the name "Dinnerbone" or "Grumm" will be rendered upside down.
+Naming a sheep "jeb_" will cause its wool to fade between the dye colors, producing a rainbow effect. This won't affect the wool it drops when sheared or killed.
+Naming a rabbit "Toast" will cause it to have a special memorial skin.
+In the Console Edition, only "Dinnerbone" or "Grumm" will have an effect on mobs.
+Name tags were added at the request of Paul Soares Jr.
+To use a name tag, you must first rename it using an anvil.
+A wolf which has been renamed using a name tag.
+A Creeper renamed using the name tag.
+A Wither renamed using a name tag. The custom name takes place of "Wither" over the health bar as well.
+How to use Grumm/Dinnerbone name tag easter egg and lead to make an another animal Yo-yo.
+A horse using the Grumm/Dinnerbone easter egg to be rendered upside-down.
+Spawn Egg.

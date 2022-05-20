@@ -1,0 +1,46 @@
+(This article is about the regular spider mob; for the Cave Spider, see Cave Spider).
+The Spider is a hostile mob, usually spawning in groups of 1-4. They are aggressive at night, but neutral during daytime, attacking any player that provokes them. Any spider will drop 0-3 String when killed, and the occasional Spider Eye. A single spider is two blocks wide and almost one block tall, allowing them to fit through spaces that no other mobs can (except for Cave Spiders, Silverfish, Chickens, and Bats all of which are smaller).
+Spiders move slightly faster than other hostile mobs. They are extremely aggressive and will perform a leap attack at the player when close enough. They make a very audible sound similar to a loud hissing. Unlike the other mobs that spawn during the night, spiders have the ability to see through every block, which is the common cause of why spiders are a frequent danger to players. This and their unique climbing skill is an extreme risk to being active during the night (especially in a shelter, where spiders can sneak onto the roof in order to reach the player).
+Due to their climbing abilities, roofs are imperative when creating a shelter. Players can counter this ability, however, by creating overhangs around their buildings, preventing the Spider from climbing over. Spiders that appear during the day will become neutral and will not attack the player unless attacked. On rare occasions, Skeletons can be seen riding a spider, creating a Spider Jockey. Despite this combination, they are still separate enemies with their own weaknesses.
+On harder difficulties, spiders may spawn naturally with randomly generated potion effects active.
+Spiders can resolve to be irritating creatures during the first few days of a map in Survival. Players who do not acquire supplies fast enough may be left without a roof, which is the main drive of a spider that attacks within a player's home. An easy way to combat this is to use any supplies to build a overhang, which does not require corners and can be kept until a roof is fully built.
+Spiders can be difficult enemies to combat during night (due to their dark hue, sometimes the only way to differentiate a spider between darkness is its glowing, red eyes), so it is best advised to wait until day, as spiders will be neutral during the day-light. It is also to be noted that spiders are best tackled with a Bow as they will not become hostile towards the player if they are at least 10 or more blocks away in distance.
+If combated from a short range, attacking from one block below is an efficient strategy. Spiders only deal damage when their Y axis position is changed. When the player is at the same level as a spider, they are less likely to be hit. This will also give the player a straight shot towards a spider and provides more accuracy against their erratic movements.
+To make a wall that spiders can not climb over try putting a fence with any type of slab on top. It is considered either a glitch or a bug, but it works.
+Once a spider leaps into you, you jump while walking backwards then attack and repeat this technique.
+If the spider is far enough away, the player may see a white silhouette of the spider, even through solid objects, like many of the entities found within the game.
+Spiders are careless climbers; sometimes a spider will climb into a ceiling and fall, causing them to take fall damage. Players may find String and Spider Eyes around houses with overhangs due to this.
+In the 1.4 update, spiders made a crawling noise when moving, this can be the best key to discovering a spider chasing a player.
+If you throw splash potions of invisibility at a spider, the player will still be able to see a semitransparent version of their eyes.
+If a spider-egg is renamed Dinnerbone, via an Anvil, the spider that spawns will be upside-down.
+The spider's original colour was brown, it is unknown why the colour was changed.
+On April fool's day 2014, when villagers took over Minecraft, the spiders were saying 'Spiders gonna get you!', giving themselves away to the player.
+In Minecraft Pocket Edition, sometimes spiders will spawn without the back of them. Those spiders are hostile, even in the day.
+In the Pocket Edition, before 0.11.0, normal spiders composed the spawners of mineshafts.
+See here.
+Spiders are common neutral mobs that have the unique ability to climb walls.
+Spiders spawn in the Overworld in 3×3×2 space on solid blocks (centered on the middle block) at a light level of 7 or less, in groups of 4. The top blocks can be transparent, but not solid.
+In Pocket Edition, leaves can spawn spiders, provided that there are the same conditions as above.
+Spiders spawn from spawners found in dungeons.
+Spiders drop 0-2 string upon death. If killed by a player or tamed wolf, it also has a ⁄3 chance to drop a spider eye. They drop 5 experience when killed by a player or tamed wolf.
+A spider measures 1.5×1×1.5 blocks of size.
+Spiders are hostile to the player and to iron golems as long as the light level immediately around them is 9 or less; otherwise they won't attack unless a player attacks first. Hostile spiders will continue to chase the player even if they are exposed to well-lit locations. If a spider sustains damage from a source other than the player, such as falling, its hostility will be reset.
+Spiders can climb up over walls and other obstacles. If a spider cannot find an ideal path to the player (when a player goes behind or on top of a wall), it will get as close as it can to the player's position from the outside or below, and proceed to climb the wall vertically until it gets to the top, even if it loses its aggression towards the player. Additionally, when a spider loses its aggression on the player, it will continue moving forward blindly for about two seconds. This behavior causes the spider to climb up any walls in its path.
+Like most mobs, Spiders seem to be oblivious to cactus damage.
+While not poisonous themselves, spiders are unaffected by poison status effect.
+Spiders will often jump around when attacking. At close range, spiders occasionally pounce their attackers instead of being knocked back.
+In the Pocket Edition, spiders move at a pace slightly slower than the player's walking speed.
+There is a 1% chance that a spider will spawn with a skeleton on its back, forming a spider jockey.
+On hard difficulty, spiders have up to a 10% chance (depending on regional difficulty) of spawning with a single beneficial status effect. This effect can be speed (40%), strength (20%), regeneration (20%) or invisibility (20%), and has an essentially infinite duration.
+You can still see a spider's eyes when it is hit with a potion of invisibility.
+If the water a spider is swimming in is only 1 block deep, they may pounce nearby enemies upon touching the submerged floor.
+Spiders do a flip and land on their backs when they die, unlike most mobs (which land on their sides).
+A spider.
+Spiders are one of the most visible mobs at night due to their glowing red eyes.
+Spiders climbing into each other.
+A view of a spider from below.
+Spider shot by skeleton.
+A spider that spawned with the Swiftness potion effect in snapshot 13w24a.
+A spider that naturally spawned with an invisibility potion effect.
+The original brown spider.
+A spider in a 1.5×1.5 space.

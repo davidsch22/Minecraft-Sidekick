@@ -1,0 +1,45 @@
+ Doors are blocks used for minor or major protection, and are controlled mainly by the Player. They are obtainable through crafting, as seen below, or finding them in NPC Villages and Strongholds. .
+They come in two varieties: wooden doors, which are made from wooden planks and can be opened by hand, and iron doors made from iron ingots which can only be opened by power from a Button or another connected Redstone source. Doors are hinged on a side and have two states: rotated clockwise and rotated counter-clockwise. .
+Since the 1.2 Update, Zombies have the power to knock down wooden doors on hard and hardcore mode, and will "siege" it, eventually breaking it, in any lower difficulty. Villagers can open wooden doors and enter, but cannot use buttons or levers to open iron doors.
+When the 1.8 Update came out, doors came in spruce, jungle, dark oak, and birch. Villagers can still open the door to get through, and Zombies can break doors, but the difference is that the doors have a different shape.
+The crafting for both types of doors.
+As of 14w02a the crafting recipe yields 3 doors instead of just one, and as of 14w32d using different types of wood will create different types of doors (the wood type must be the same for the entire recipe).
+Minecarts will not move through doors.
+Water will not pass through doors, useful for flood control or underwater paths. A practical use of the door's water stopping feature is to leave a door open as an entrance to something underwater that is water-free on the other side. This occurs because water is technically a block and thus cannot enter any non-air block, including mostly empty ones.
+Doors placed on doors will be lost.
+It is impossible to place doors on ice blocks, glass blocks and snow.
+A wooden door can be opened by both redstone power and by either left or right clicking as of 1.4, but only right clicking and power prior to 1.4.
+ An iron door can only be opened by redstone power.
+On SMP, doors sometimes open and close quickly.
+Due to lag, sometimes doors might open and then close.
+If a Player is being chased by a Creeper and then closes their door to the House, the Creeper won't explode and will remain idle near the door until the player reopens the door.
+It is better to use an Iron Door to protect Villagers when they're in their house because it is very hard for a Zombie to break in.
+From the 1.3 update, zombies can knock down wooden doors on any difficulty.
+After snapshot 14w02b (Update 1.8) the recipe gives three doors in place of only one.
+Villagers will go into any door in a Village.
+In creative mode, when a zombie attempts to break the door down and the player either kills it or changes their difficulty to peaceful, and takes down the door, the cracks can be still seen.
+In Pocket Edition, when a block around a door is updated, the door might open/close. This can be useful for flood alarms, though.
+In Pocket Edition, attempting to place a door on any leaf blocks, stairs or slabs result losing the door. .
+As of the 1.7 update, when two doors are placed side by side, they will not look like they're facing each other, and when opened, the one on the left will go the wrong way. This has been fixed in 1.8.
+ Doors are openable blocks which allow you to prevent mobs from entering your base, while still allowing you to go in and out. There are 2 types of doors, wooden and iron. Besides crafting them, wooden doors can be found in villages and both wooden and iron doors can be found in strongholds. Your position matters when placing doors. They’re always placed facing you and they’re always in a closed position.
+It’s possible to walk on top of the doors, though it’s a little tricky as the collision box is very thin. Water and lava will not flow through open doors, this means doors can be used as airpockets, as well as easy access path to underwater bases. The holes in the doors allow you to see through them from a safe position, but it’s impossible to shoot anything through it and you cannot push buttons or levers on the other side.
+Dec value: block: 64; item: 324.
+Hex value: block: 40; item: 144.
+Minimum tool requirement to break: None.
+Blast resistance: 15.
+Maximum stack 1.
+Transparency: Yes.
+Wooden doors can be opened by the player without the use of a power input. Simply clicking it will open and close it. Redstone power and other switches can be used to open or close it however, which allows for automatic doors.
+Zombies can break down wooden doors on hard difficulty and hardcore mode, they will start to bang on it for a while (only sound is heard, they don’t actually move their hands), after which it’ll drop on the ground. However, zombies will only attack closed doors.
+Because doors are always placed in their closed state and because they always face you when they’re placed, you can prevent zombies from breaking down your door by placing it against a wall. By opening the door you block the passage, preventing mobs from entering.
+However villagers will no longer be able to enter their houses properly if you use this trick on their houses. They’ll stand in front of the door and you’ll hear the door opening and closing, but it remains closed. After a while it does open though most villagers will have bugged out and don’t enter.
+Note that zombies are able to hit you through doors, no matter how they’re positioned. Wooden doors are not flammable, despite being made out of wood. They can be placed in lava to stop the flow. Doors don’t require a tool to break it, but axes are the fastest tool to use. You can also simply remove the block underneath it.
+Dec value: block: 71; item: 330.
+Hex value: block: 47; item: 14A.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 25.
+Maximum stack 1.
+Transparency: Yes.
+Iron doors can only be opened using redstone power and other switches. The most common switches used are buttons and pressure plates, as they’ll keep the door open long enough for the player to walk through and will close right after. By using an inverter (‘NOT gate’), doors can be made to close when activated, instead of open. But, like wooden doors, placing the door closed against a wall will allow you to ‘close’ it when it’s activated. This is much easier and way more compact than using a redstone circuit.
+Iron doors cannot be broken by zombies and they won’t even try to. But villagers cannot operate buttons and levers, so pressure plates are required to allow them back in their house, though this also allows zombies to come in. A pickaxe is required to break an iron door without destroying the item, but it’s often much faster to simply break the block underneath it.
+It’s possible to create double doors by placing them next to each other. They’ll door handles automatically face each other, as long as the doors are placed facing you. They have to be opened seperately, either by clicking them (only works on wooden doors) doors or by using pressure plates or levers.

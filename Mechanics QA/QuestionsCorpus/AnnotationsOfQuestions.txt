@@ -1,0 +1,1341 @@
+<Recipe>
+
+{q1
+What do you need to make a Nether Portal?
+What are the materials for a Nether Portal?
+How do I make a Nether Portal?
+What should I use to make a Nether Portal?
+What is needed for making a Nether Portal?
+What is a Nether Portal made of?
+What is the recipe of the Nether Portal?
+Can you tell me how to make a Nether Portal?
+How can I built a Nether Portal?
+Where are the materials of the Nether Portal?
+}
+{s1|ga|Creation|Nether_portal
+Once a frame is constructed, it is activated by fire placed inside the frame.
+}
+{t1|ga|infobox|Nether_portal
+Consists of : Obsidian
+Consists of : Nether_Portal_(block)
+}
+{s2|ga|header|Nether_portal_(block)
+The nether portal block cannot be obtained as an item.
+}
+{s3|wi|header|Nether_Portal
+It consists of a frame of Obsidian, four blocks wide by five blocks tall.
+Once the frame is constructed, the player then sets the space inside the frame on fire, using flint and steel, or Lava and a flammable block.
+}
+{s4|gu|header|portal-block
+Portal blocks are created when a Nether portal is activated.
+Portal blocks cannot be obtained in survival mode, but it is possible to get them in creative mode.
+To get the portal block, point towards one and click your mouse’s scroll button.
+}
+{q2
+What is a Nether Portal?
+}
+{s1|ga|header|Nether_portal
+A nether portal is a manufactured structure which acts as a gateway between the Overworld and Nether dimensions.
+}
+{s2|ga|header|Nether_portal_(block)
+The Nether Portal block is a block that appears as part of the nether portal which teleports the player into and out of the Nether.
+}
+
+{q3
+What is the recipe for an Enchantment Table?
+How can I make an Enchantment Table?
+What is a way to create an Enchantment Table?
+What is the Enchantment Table made from?
+What are the materials needed to built an Enchantment Table?
+What is the recipe of the Enchantment Table?
+}
+{t1|ga|Obtaining/Crafting|Enchantment_table
+Ingredients : Diamond x2
+Ingredients : Obsidian x4
+Ingredients : Book
+Crafing recipe : [_,Book,_,Diamond,Obsidian,Diamond,Obsidian,Obsidian,Obsidian]
+}
+{t2|wi|Crafting|Enchantment_Table
+Enchantment_Table : [_,Book,_,Diamond,Obsidian,Diamond,Obsidian,Obsidian,Obsidian]
+}
+{s1|gu|header|enchantment-tables
+An enchantment table is crafted using 4 blocks of obsidian, 2 diamonds and a book, making it one of the harder to obtain blocks in minecraft.
+}
+{q4
+How can I get an Enchantment Table?
+How do I obtain an Enchantment Table?
+Where can I find an Enchantment Table?
+}
+{a
+crafted(x) => obtained(x)
+dropped(x) => obtained(x)
+}
+{r
+q3/[t1,t2,s1]
+}
+{t1|ga|Obtaining|Enchantment_table
+mine(Enchantment_table,pickaxe[wooden]) => dropped(Enchantment_table)
+mine(Enchantment_table,pickaxe[stone]) => dropped(Enchantment_table)
+mine(Enchantment_table,pickaxe[iron]) => dropped(Enchantment_table)
+mine(Enchantment_table,pickaxe[diamond]) => dropped(Enchantment_table)
+mine(Enchantment_table,pickaxe[golden]) => dropped(Enchantment_table)
+}
+{q5
+What is the use of an Enchantment Table?
+}
+{s1|ga|header|Enchantment_table
+An enchantment table is a block that allows players to spend their experience point levels to enchant tools, books and armor.
+}
+{s2|ga|Usage/Enchanting|Enchantment_table
+The enchanting table's main purpose is to enchant items.
+The table will enchant all tools and armor except the hoe, shears, flint and steel, lead and horse armor.
+}
+{s3|ga|Usage/Light source|Enchantment_table
+In Pocket Edition, enchantment tables emit a light level of 12.
+}
+{s4|ga|Enchanting methods/Enchantment table|Enchanting
+An item can be enchanted by using an enchantment table and placing the item and 1–3 lapis lazuli in the input slots.
+}
+{s5|wi|header|Enchantment_Table
+The Enchantment Table is used to enchant certain items using Experience Points.
+}
+{s6|wi|header|Enchantments
+Enchantments, often shortened to Enchants, are special abilities that can be applied to any piece of Armor or certain tools whilst using an Enchantment Table.
+Using the Enchantment Table method only allows the player to enchant all Armors, Shovels, Pickaxes, Axes, Swords and the Bow.
+}
+{s7|gu|header|enchantment-tables
+Enchantment tables allow you to use your xp levels to add a special ability to your weapons, tools and armour.
+}
+{s8|gu|Enchantments levels|enchantment-tables
+The enchantment table will allow you to enchant items up to a maxmimum enchantment level of 5. 
+}
+{q6
+How do I use an Enchantment Table?
+}
+{r
+q5/[s1,s4,s5,s7]
+}
+{s1|ga|Usage/Enchanting|Enchantment_table
+Bookshelves surrounding the table, with a block of air in between, will increase the maximum enchantment level.
+}
+{s2|wi|header|Enchantment_Table
+You can increase the chance of getting a better enchantment by placing bookshelves around the table.
+}
+{s3|gu|Using the enchantment table|enchantment-tables
+Right clicking an enchantment table will open its interface, which has 1 inventory spot in which you can place your item.
+}
+{s4|gu|Enchantment levels|enchantment-tables
+Bookshelves can unlock higher leveled enchantments when they’re with 1 block inbetween it and the enchantment table.
+}
+{s5|gu|Basics|enchanting
+Once you’ve made and placed your enchantment table, simply right click it to open the enchantment interface and drag your item into the empty grid slot.
+}
+
+{q7
+How to make a Potion of Healing?
+What are the ingredients of a Potion of Healing?
+How do you make Potions of Healing?
+What do I need to create a Potion of Healing?
+What ingredients should I mix to get a Potion of Healing?
+What ingredients give a Potion of Healing?
+How do I brew a Potion of Healing?
+What is the brewing recipe of a Potion of Healing?
+}
+{t1|ga|Potions/Secondary/Positive|Brewing
+Potion : Potion_of_Healing, Base : Awkward_Potion, Reagent : Glistering_Melon, Effect : Restores Heart.svgHeart.svg per potion., Duration (minutes) : Instant
+}
+{s1|ga|Recipes/Healing|Brewing
+Nether Wart → Glistering Melon.
+}
+{q8
+What should I add to a Base Potion to obtain a Potion of Healing?
+}
+{q9
+Which base should I use for the Potion of Healing?
+}
+{q10
+Which reagent is used for the Potion of Healing?
+}
+{q11
+How can I create a Splash Potion of Healing?
+}
+{q12
+What do you add to a Potion of Healing to get a Splash Potion of Healing?
+}
+{q13
+What is the effect of a Potion of Healing?
+What does a Potion of Healing do?
+}
+{q14
+How to obtain a Potion of Healing?
+}
+
+
+
+
+
+
+
+What materials are needed to make a Bow?
+How do I craft a Bow?
+What do I need to make a Bow?
+What is a Bow made of?
+What are the components of a Bow?
+What can I use to craft a Bow?
+By which way can I obtain a Bow?
+How can I obtain a Bow?
+How do I get a Bow?
+How do you use a Bow?
+What is the power of a Bow?
+How much damage does a Bow inflict?
+Against which enemies should I use a Bow?
+
+How many diamonds do you need to make a Enchanting Table?
+How many Diamonds are required to craft an Enchanting Table?
+How many Diamonds must I use to create an Enchanting Table?
+How many Diamonds should I obtain to be able to craft an Enchanting Table?
+How many Diamonds are required for an Enchanting Table?
+How many Diamonds are needed to built an Echanting Table?
+Are Diamonds required to make an Enchanting Table?
+Do I need Diamonds to create an Enchanting Table?
+Can I create an Enchanting Table without Diamonds?
+What do I need to make an Enchanting Table besides Diamonds?
+
+How many Bulks of Milk do you put in a crafting table to make a Cake?
+How many Buckets of Milk are used to get a Cake?
+How many Buckets of Milk are there in the recipe of the Cake?
+What quantity of Milk is there in a Cake?
+How many Bulks of Milk are there in a Cake?
+How much Milk do I need for one Cake?
+Is Milk necessary for crafting Cake?
+What is the recipe of a Cake?
+What is a Cake used for?
+How do I obtain Milk for making a Cake?
+
+How many Iron Ingots does it take to make an Iron Block?
+How many Iron Ingots does an Iron Block need?
+How many Iron Ingots do I need to create an Iron Block?
+How many Iron Ingots are required for creating an Iron Block?
+How many Iron Ingots should I use for an Iron Block?
+How many Iron Ingots must I have to get an Iron Block?
+How many Iron Ingots do I have to use for crafting an Iron Block?
+Can I craft an Iron Block with Iron Ingots?
+Do I need Iron Ingots to make an Iron Block?
+How to craft an Iron Block?
+
+<Blocks>
+
+{q1
+How do you obtain Obsidian?
+How do I get Obsidian?
+By which way do I obtain Obsidian?
+What is a way to get Obsidian?
+I would like to get Obsidian.
+}
+{a
+encountered(x),place(chest) => obtained(x)
+dropped(x) => obtained(x)
+}
+{s1|ga|Obtaining/Natural generation|Obsidian
+Obsidian can be created when a Nether portal is spawned in the Nether or the overworld. This portal can then be mined, providing another way of obtaining obsidian renewably.
+When a player enters the End, a platform of 25 obsidian blocks is generated for the player to spawn on. This platform can then be mined, and will be regenerated when the player reenters The End.
+}
+{s2|ga|Obtaining/Chests|Obsidian
+Obsidian can be found in 26.0% of village blacksmith chests in stacks of 3–7, and in 8.0% of nether fortress chests in stacks of 2–4.
+}
+{s3|ga|Obtaining/Ender chests|Obsidian
+When an ender chest is mined with a pickaxe without the Silk Touch enchantment, it drops 8 obsidian.
+}
+{s4|gu|Harvesting|obsidian
+The only way to obtain obsidian is by mining it with a diamond pickaxe, which takes almost 10 seconds.
+}
+{s5|gu|Occurence and behavior|obsidian
+Obsidian can also be found in chests in the blacksmiths of villages.
+}
+{q2
+Where can I find Obsidian?
+Where is Obsidian located?
+Do you know where Obsidian is?
+}
+{a
+spawned(x) => can_be_encountered(x)
+}
+{s1|ga|Obtaining/Lava and water|Obsidian
+Obsidian is formed when flowing water hits a lava source block, and can be found naturally where water from a spring or lake has flowed over a nearby lava pool.	
+}
+{s2|ga|Obtaining/Natural generation|Obsidian
+Obsidian can be created when a Nether portal is spawned in the Nether or the overworld.
+When a player enters the End, a platform of 25 obsidian blocks is generated for the player to spawn on.
+Solid pillars of obsidian can also be found on the surface which will regenerate when the ender dragon is respawned.
+Obsidian also generates as a part of end cities.
+Obsidian also occurs naturally where underwater springs flow onto lava, often at layer 10.	
+}
+{s3|wi|header|Obsidian
+It is only found near Lava beds below sea level, and is created when Water touches a still lava source, causing the lava source to turn into an Obsidian Block.
+For this reason, it is usually found very deep underground, by layer 10.
+Obsidian can be created by pouring Water from a Bucket over a pool of lava, provided that the lava is still (or else it will create Cobblestone).
+}
+{s4|gu|Occurence and behavior|obsidian
+Obisidian can often be found deep underground, as it’s created when water hits a lava source block.
+Obisidian occurs naturally in the End, in which it’s created as huge pillars with Ender crystals on top of it.
+Obsidian can also be found in chests in the blacksmiths of villages.
+Obsidian will spawn in the Nether, in the form of an active portal.
+Note that obsidian will only form when water flows on top of a lava source block.
+}
+{q3
+Can I find Obsidian somewhere?
+Is there a way to find Obsidian?
+}
+{a
+spawned(x) => can_be_encountered(x)
+}
+{r
+q2/[s1,s2,s3,s4]
+}
+
+What do you need to mine a Diamond?
+What is required to mine Diamonds?
+Is there a way to mine Diamonds?
+Can you mine a Diamond?
+What Item is needed for mining a Diamond?
+Which Pickaxe can mine Diamonds?
+What can I use to mine a Diamond?
+What should I use for mining Diamonds?
+Can I mine a Diamond without a Pickaxe?
+Why should I mine Diamonds?
+
+How many slots does a Crafting Table have?
+How many slots are there in a Crafting Table?
+Tell me about the slots of a Crafting Table.
+What are the slots of a Crafting Table?
+Are there many slots in a Crafting Table?
+What are the slots of a Crafting Table for?
+What is a Crafting Table used for?
+How do you use the slots of a Crafting Table?
+What is a Crafting Table?
+How to use a Crafting Table?
+
+What is the most rare Ore in minecraft?
+What Ore is the rarest?
+Which Ore is the most difficult to find?
+What is an Ore hard to find?
+What is the most common Ore in Minecraft?
+What Ore is the most common?
+Is there an Ore rarer than Diamond?
+What are the different types of Ore?
+Where do I find rare Ores?
+How to find rare Ores?
+
+Is Obsidian blast resistant?
+What has a high blast resistance?
+What has the highest blast resistance?
+What has a higer blast resistance than Obsidian?
+What has a high blast resistance except Bedrock?
+Has Bedrock a higher blast resistance than Obsidian?
+Is Bedrock the most blast resitant Block?
+Are there more blast resistant Blocks than Obsidian?
+What, besides Bedrock, has a higher blast resistance than Obsidian?
+What is blast resitance?
+
+What are Pressure plates?
+What is the use of Pressure Plates?
+What are Pressure Plates used for?
+How can I use Pressure Plates?
+How do Pressure Plates help?
+What is a Pressure Plate useful for?
+Can I use Pressure Plates with redstone?
+What should I do with a Pressure Plate?
+How to use Pressure Plates without Redstone?
+What can Pressure Plates help with besides Redstone?
+
+What are Pistons for?
+What can I do with Pistons?
+What can Pistons push?
+How to use Pistons?
+What can I use Pistons with?
+What can be used with Pistons?
+Why should I use Pistons?
+When should I use Pistons?
+What can't I use Pistons with?
+What can Pistons not push?
+
+How can I remove Cobwebs?
+What should I use to destroy Cobwebs?
+How can I destroy Cobwebs?
+What destroys Cobwebs?
+What are Cobwebs resitant to?
+Can I destroy Cobwebs with Swords?
+What is a way to destroy Cobwebs?
+What can be used to remove Cobwebs?
+Can I destroy Cobwebs without Swords?
+What else destroys Cobwebs besides Swords?
+
+Where can I place a Door?
+Where is it possible to put a Door?
+Where can you use a Door?
+On which Block can I place a Door?
+What are the Blocks you can place a Door on?
+Which are the Blocks I can't place a Door on?
+When can't I use a Door?
+What are the reasons for not being able to place a Door?
+Are there Blocks I can't place a Door on?
+What is one Block you can't place a Door on?
+
+How to mine Stone?
+What to use to mine Stone?
+What can be used to mine Stone?
+Do you know how to mine Stone?
+What to do to mine Stone?
+What are the different ways for mining Stone?
+What tools can be used for mining Stone?
+What Pickaxe should I use to mine Stone?
+What is sufficient to mine Stone?
+What tools are not able to mine Stone?
+
+Where are Emeralds?
+What is the location of Emeralds?
+Where can you find Emeralds?
+Where is Emerald located?
+How to find Emeralds?
+Where is Emerald found?
+What are the places with Emeralds?
+What level are Emeralds located at?
+Where have I most chance to find Emeralds?
+Where would you most likely find Emeralds?
+What is a level I can probably find Emeralds at?
+What is a good place to mine Emeralds?
+
+What level do you mine for Gold?
+What is the best level for Gold?
+What is the best level to find Gold?
+At what Level can you find Gold?
+Is there Gold under the ground?
+What is the depth of Gold?
+Where can Gold be found?
+What depth is Gold located at?
+Is Gold located in deep mine?
+What level can Gold be found at?
+
+<Mobs>
+
+What do Creepers do?
+What are Creepers?
+What are the specificities of Creepers?
+What is Creeper's behavior?
+How do Creepers act?
+What do Creepers generally do?
+Are Creepers dangerous?
+Do Creepers explode?
+How to beat Creepers?
+How to protect against Creepers?
+
+What is the Wither?
+When does the Wither appear?
+Why does the Wither appear?
+When does the Wither come out?
+Where is the Wither?
+How do you spawn the Wither?
+How do you make the Wither appear?
+What is a way to spawn the Wither?
+What are the conditions for the Wither to appear?
+Can I spawn the Wither?
+
+Are Spiders Passive?
+Are Spiders Hostile?
+Are Spiders Neutral?
+Are Spiders dangerous?
+Will I be attacked by Spiders?
+Will Spiders attack me?
+Are Spiders friendly?
+Are Spiders tameable?
+Can I tame Spiders?
+Can Spiders be Hostile?
+
+What can you trade with Villagers?
+Is it possible to trade with Villagers?
+How can I trade with Villagers?
+What can I trade with Villagers?
+What will Villagers trade with me?
+Can I exchange Items with Villagers?
+Can I sell Items to Villagers?
+Is it possible to buy Items to Villagers?
+Can I buy Items to Villagers?
+How to pay Villagers?
+
+What tames Wolves?
+How to tame Wolves?
+How can I tame Wolves?
+What can I tame Wolves with?
+What can I use to tame Wolves?
+Are Wolves tameable?
+What is the effect of taming Wolves?
+Why should I tame Wolves?
+What Item should I use to tame a Wolf?
+What is a way to tame a Wolf?
+
+What happens when a Pig is struck by lightning?
+What will a Pig struck by lightning turn into?
+What becomes a Pig struck by lightning?
+What does a Pig if struck by lightning?
+What happens if lightning strikes a Pig?
+What spawns when a Pig is struck by lightning?
+When will a Zombie Pigman spawn?
+What happens when lightning strikes a Pig?
+Will something happens if a Pig is struck by lightning?
+How can I spawn Zombie Pigmen?
+
+Can Sheeps change color?
+Can I change the color of a Sheep?
+Will Sheep change color?
+How to use Dye?
+What to use to make a Sheep change color?
+Can I use Dye on Sheeps?
+Is it possible to change the color of a Sheep?
+How do you make a Sheep change color?
+Can Sheeps change color without Dye?
+How do you make a Sheep change color without Dye?
+
+What do you call a Skeleton riding on the back of a Spider?
+How is called a Skeleton riding a Spider?
+What is the name of a Skeleton riding a Spider?
+What is a Skeleton on a Spider?
+Can a Skeleton ride a Spider?
+What is a Spider ridden by a Skeleton?
+What is called a Spider with a Skeleton on it's back?
+What is a Spider Jockey?
+What is called a Spider Jockey?
+How does a Spider Jockey act?
+
+How can you get a Dragon?
+Is there a Dragon?
+Where is the Dragon?
+What is the Ender Dragon?
+Can you ride a Dragon?
+What is the Red Dragon?
+Can you ride a Red Dragon?
+Does the Red Dragon exist?
+Is there a tameable Dragon?
+Can I tame Dragons?
+
+What is an aggravated Enderman?
+What is the difference between a normal and an aggravated Enderman?
+How to aggravate an Enderman?
+When the game is paused, what will an aggravated Enderman do?
+What does an aggravated Enderman do if the game is paused?
+What is aggravated Enderman's behavior when the game is paused?
+How will pausing the game affect an aggravated Enderman's behavior?
+How pausing the game will affect an aggravated Enderman?
+Can I stop an aggravated Enderman by pausing the game?
+Why won't pausing the game affect aggravated Endermen?
+
+Can a Sheep be pink?
+Do pink Sheeps exist?
+Are there pink Sheeps?
+Can I spawn a pink Sheep?
+Is there a Sheep with pink wool?
+Can pink Sheep spawn?
+What's the chance of a Sheep spawning with pink wool?
+How to make a Sheep pink?
+Can you make a Sheep pink?
+What is the color of a spawning Sheep?
+
+Are there Horses?
+Do Horses exist?
+Are there Horses in the game?
+Do Horses exist in Minecraft?
+Can I find a Horse in Minecraft?
+I want to know about Horses.
+Do you know about Horses?
+Where are Horses found?
+Can I get a Horse?
+Can you tame a Horse?
+Are Horses tameable?
+
+Where can I find a Slime Chunk?
+Where can I see a Slime Chunk?
+Do you know a way to locate a Slime Chunk?
+How can I locate a Slime Chunk?
+What is a way to locate a Slime Chunk?
+How can I find a Slime Chunk?
+Is there a way to find Slime Chunks?
+How to know where a Slime Chunk is?
+I want to know where Slime Chunks are.
+Tell me how to find Slime Chunks.
+
+What do Skeletons do?
+What is Skeleton behavior?
+How do Skeletons act?
+Do Skeletons do something in particular?
+What are the skills of Skeletons?
+What can Skeletons do?
+How do you use Skeletons?
+What can I do with Skeletons?
+Will Skeletons attack me?
+Are Skeletons Hostile?
+
+Are Spider Jockeys common?
+Are Spider Jockeys rare?
+Can you often see a Spider Jockey?
+Do Spider Jockeys spawn often?
+Are there many Spider Jockeys?
+Are Spider Jockeys numerous?
+What is the chance for a Spider Jockey to spawn?
+What is the probability of seeing a Spider Jockey?
+How often does a Spider Jockey spawn?
+What chance do you have for a Spider Jockey spawning in your world?
+
+How much Exp does the Ender Dragon drop?
+How much Experience do you earn by defeating the Ender Dragon?
+How much Xp does the Ender Dragon gives?
+Do you earn much Exp by defeating the Ender Dragon?
+Does the Ender Dragon drop much Xp?
+Do you earn Experience by killing the Ender Dragon?
+Can you progress much if you beat the Ender Dragon?
+How much will I gain Xp if I beat the Ender Dragon?
+Is it interesting to kill the Ender Dragon?
+What does the Ender Dragon drop?
+
+Can you dye a Sheep?
+Can you change the color of Sheeps?
+Can you make a Sheep change color?
+How can I change the color of a Sheep?
+What should I do to change Sheep's color?
+How can I dye a Sheep?
+What is a way to make Sheep change color?
+Can a Sheep change color?
+What to use for making a Sheep change color?
+Can I use a Dye on a Sheep?
+
+Are there several types of Villagers?
+Are there different kinds of Villagers?
+Are there different Villagers?
+Are there many types of Villagers?
+What kinds of Villagers are there?
+What are the different types of Villagers?
+How many different types of Villagers are there?
+How many types of Villagers are there?
+Why are there different colored Villagers?
+What does the color of a Villager means?
+
+Where do you find a Mooshroom?
+Where do I find Mooshrooms?
+Where are Mooshrooms located?
+Where are Mooshrooms found?
+Where can Mooshrooms be found?
+
+SectionTitle Search for mob.
+
+Which Mob can only be found in the Nether?
+Which Mob is specific to the Nether?
+Which Mob is only in the Nether?
+What Mob is always in the Nether?
+What Mob can only be seen in the Nether?
+What Mob exists only in the Nether?
+Which Mob is always in the Nether?
+Which Mob spwans only in the Wether?
+What Mob is not out of the Nether?
+Which Mob can't be found outside the Nether?
+
+What Mob can you ride?
+Is there a rideable Mob?
+Can I ride a Mob?
+Is it possible to ride a Mob?
+What is a Mob I can ride?
+What are the rideable Mobs?
+What is the Mob I can ride?
+What is the only rideable Mob?
+What is the only Mob you can ride?
+What are the Mobs I can use to travel?
+
+What is the smallest Mob in the game?
+What is the smallest Mob?
+Do you know the smallest Mob in Minecraft?
+What Mob is the smallest?
+What is the name of the smallest Mob?
+How is named the smallest Mob of the game?
+What is the biggest Mob?
+What is the name of the biggest Mob of the game?
+How is the biggest Mob of Minecraft?
+What is the third smallest Mob?
+
+What is the name of the green Mob that explodes?
+What Mob is green and can explode?
+What green Mob explodes?
+What Mob that is able to explode is green?
+What green Mob causes explosion?
+What Mob is green and able to make an explosion?
+What is the green exploding Mob?
+Do you know the name of the Mob that is green and can explode?
+How is named the green Mob that killed me by exploding?
+What is the name of the green Mob that explodes when getting close to me?
+
+What is the Mob that is created when a Creeper is struck by lightning?
+What happens to a Creeper struck by a lightning?
+What becomes a Creeper struck by a lightning?
+What Mob appears when a Creeper is struck by a lightning?
+What is given by a Creeper struck by a lightning?
+What happens if a Creeper is struck by a lightning?
+What does a Creeper do when struck by a lightning?
+What is the Mob that spawn after that a Creeper has been struck by a lightning?
+What effect does have a lightning on a Creeper?
+How is changed a Creeper if struck by a lightning?
+How is a Charged Creeper created?
+
+What is the Mob that explodes?
+What Mob explodes?
+What Mob can explode?
+What is the name of the exploding Mob?
+How is called the exploding Mob?
+What is the name of the Mob that can explode?
+How is named the Mob that explode?
+What is the exploding Mob?
+What Mob will explode when getting close?
+What is the Mob that explodes when getting close to me?
+
+What Mob lives underwater?
+What Mob can live undewater?
+What is the Mob that is underwater?
+What is the Mob that is in the water?
+What Mob lives in water?
+What Mob lives in the sea?
+What Mob is under the sea?
+What is the Mob that lives in the sea?
+What is the Mob living underwater?
+How is named the Mob living underwater?
+What is the name of the underwater linving Mob?
+
+Can I create Golems?
+Is it possible to make Golems?
+What Golems can you spwan?
+What are the Golems I can create?
+How many types of Golem are there?
+What are the two different types of Golems?
+How many different types of Golem can I create?
+What two types of Golems can you create?
+How to spawn a Golem?
+What is the way to spawn the two different types of Golem?
+
+Can Mobs swim?
+Are there Mobs that can swim?
+What are the Mobs that can swim?
+What Mobs are able to swim?
+List the names of the Mobs that can swim.
+Are there Mobs that can't swim?
+What are the Mobs that can't swim?
+List the names of the Mobs that can't swim.
+What Mob can not swim?
+What is the Mob that can't swim?
+
+Are there Bosses in Minecraft?
+What are the Bosses of the game?
+Is there a Boss in the game?
+What is the Boss of Minecraft?
+What is the name of the Boss?
+How is named the Boss of the game?
+What is the strongest Mob?
+What Mob is the hardest to defeat?
+What Mob is the most dangerous?
+What is the worst enemy in Minecraft?
+
+<Items>
+
+How to enchant a Sword?
+What enchantments can I use on a Sword?
+What kinds of enchants can I use on a Sword?
+What enchants can I use on a Sword?
+What enchantments can you put on a Sword?
+What enchantments can I put on a Diamond Sword?
+What enchants can you put on a Diamond Sword?
+What are some enchants you can put on a Diamond Sword?
+What can I enchant a Diamond Sword with?
+What are the enchantments I can use on a Diamond Sword?
+
+How to use a Cake?
+How much hunger does a Cake restore?
+How much hunger does a slice of Cake restore?
+How much hunger does an entire Cake restore?
+How many slices can I eat with one Cake?
+How many times can I eat from a Cake?
+How many slices does a Cake have?
+How many bites can you take out of a Cake?
+How many times can you use a Cake?
+How many slices of Cake can I eat from one Cake?
+
+What are Music Discs?
+How to use Music Discs?
+What are the Music Discs for?
+What do Musics Discs help with?
+What can I do with Music Discs?
+How many Music Discs are there?
+How many types of Music Discs are there?
+How many kinds of Music Discs are there in the game?
+What are the different Music Discs?
+Give me the list of the Music Discs?
+
+How do you collect Milk?
+How to obtain Milk?
+How can I get Milk?
+What is a way to get Milk?
+Where do I find Milk?
+Where can I find Milk?
+What do I extract Milk from?
+Where do Milk comes from?
+How can I obtain Milk?
+Where is Milk found?
+What is the best way to obtain Milk?
+
+Where do you find a Mushroom?
+How do you obtain a Mushroom?
+How do I get a Mushroom?
+Where can I get a Mushroom?
+Where can I obtain a Mushroom?
+What is a way to get a Mushroom?
+How to get Mushrooms?
+Where do I find Mushrooms?
+Where are Mushrooms located?
+Where can Mushrooms be found?
+Where are Mushrooms found?
+
+What is a Compas?
+What does the Compas Tool help with?
+What is the use of a Compas?
+What is a Compas Tool for?
+What does a Compas indicates?
+What does a Compas point to?
+What does the Compass Tool point to?
+How to use a Compas?
+How to use the Compas Tool?
+How can I use the Compas?
+
+What can drinking Milk help with?
+Why should I drink Milk?
+What is the interest of drinking Milk?
+What is the use of drinking Milk?
+In which case should I drink Milk?
+What is Milk for?
+What is the use of Milk?
+What is the effect of Milk?
+What does drinking Milk help with?
+What does Milk help with?
+
+What can I do with a Pumpkin?
+Can I equip a Pumpkin?
+Can you equip a Pumpkin?
+Is it possible to wear a Pumpkin?
+How does a Pumpkin help?
+How does wearing a Pumpkin on your head help?
+How does wearing a Pumpkin help?
+What is the use of Pumpkins?
+How do you use Pumpkins?
+What is the effect of wearing a Pumpkin on the head?
+
+What do you get if you right click a Mooshroom with a Bowl in your hand?
+What do you obtain by clicking a Mooshroom with a Bowl?
+What happens if you use a Bowl on a Mooshroom?
+What can I get by using a Bowl on a Mooshroom?
+What is obtained by clicking on a Mooshroom with a Bowl?
+What happens when I click on a Mooshroom using a Bowl?
+What will I get if I use a Bowl on a Mooshroom?
+What is the effect of using a Bowl on a Mooshroom?
+What does using a Bowl on a Mooshroom will produce?
+What does using a Bowl on a Mooshroom help with?
+
+What effects are given by the Enchanted Golden Apple?
+What are the effects of the Enchanted Golden Apple?
+What is the use of an Enchanted Golden Apple?
+What does a Enchanted Golden Apple do?
+Why should I use an Enchanted Golden Apple?
+What is an Enchanted Golden Apple used for?
+What is the effect of eating an Enchanted Golden Apple?
+How is an Enchanted Golden Apple useful?
+What is the effect of Enchanted Golden Apples?
+What can I use an Enchanted Golden Apple for?
+
+What Sword is easy to enchant?
+What Sword is the easiest to enchant?
+What Sword's enchant is the easiest?
+What is the easiest way to enchant a Sword?
+What is the less difficult enchantment for Swords?
+What enchant is the simplest for Swords?
+What is the simplest Sword's enchant?
+What is a simple enchant for a Sword?
+What is the simplest enchant for Swords?
+What Sword's enchant is the simplest?
+
+How much hunger does a Pumpkin Pie give to The Player?
+How much hunger does a Pumpkin restores?
+How much hunger does a Pumpkin Pie give me?
+How much hunger does a Pumpkin Pie can restore?
+How much hunger is restored by a Pumpkin Pie?
+How much hunger will I get by eating a Pumpkin Pie?
+How much hunger is restored by eating a Pumpkin Pie?
+How much hunger do I get back with a Pumpkin Pie?
+What is the effect of a Pumpkin Pie on hunger?
+What does Pumpkin Pies do on hunger?
+
+Are there Horse Sattles?
+What is a way to get a Horse Sattle?
+How to get Horse Sattle?
+How to obtain Horse Sattle?
+Where can I find Horse Sattles?
+How to create Horse Sattles?
+Can you craft a Horse Sattle in Minecraft?
+Is a Horse Sattle craftable?
+Can I create a Horse Sattle?
+Is it possible for The Player to create a Horse Sattle?
+
+Can an Iron Pickaxe break all Ores?
+Can I break any Ore with an Iron Pickaxe?
+Can I break all Ores with an Iron Pickaxe?
+Is an Iron Pickaxe sufficient to break all Ores?
+Can an Iron Pickaxe break any type of Ore?
+Can all Ores be broken by an Iron Pickaxe?
+Can any Ore be broken by an Iron Pickaxe?
+What types of Ores can an Iron Pickaxe break?
+What Ores can be broken by an Iron Pickaxe?
+What Ore is impossible to break with an Iron Pickaxe?
+
+How many Snowballs can be held in a stack?
+How many Snowballs are in a stack?
+How many Snowballs are stackable?
+How many Snowballs can I stack?
+What is the stack number of a Snowball?
+How many Snowballs can be stacked?
+How many Snowballs can I carry?
+How many Snowballs can I carry with one stack?
+How many Snowballs can I put in one slot?
+How many Snowballs can I put in one stack?
+
+SectionTitle Fight.
+
+What is the most powerful Mob?
+What is the most difficult Mob to defeat?
+What is the most dangerous Mob?
+What is the Mob that causes the highest damage?
+What is the Mob with the most attack?
+What Mob has the strongest attack?
+What Mob causes the highest damage?
+What Mob is the strongest?
+What is the Mob I should care the most about?
+What Mob causes me the most damage?
+
+What is the best Pickaxe?
+What Pickaxe is the best?
+What Pickaxe has the highest power?
+What is the most powerful Pickaxe?
+What Pickaxe has the highest capacity?
+What Pickaxe has the best attack power?
+What Pickaxe has the best durability?
+What Pickaxe has the shortest breaking time?
+What Pickaxe can harvest the most Blocks?
+What type of Pickaxe is the best to mine Blocks?
+
+How many Hearts does a Giant have?
+How much Health does a Giant have?
+What is the Health of a Giant?
+How many lives does a Giant have?
+What is the number of Hearts of a Giant?
+How many Hearts will I lose when attacked by a Giant?
+How many Hearts are lost by one attack of a Giant?
+How much damage does a Giant inflict?
+What damage do you receive from a Giant's attack?
+How much damage is taken with a Giant's attack?
+
+What Mob has the most Health?
+What Mob has the largest number of Hearts?
+What Mob is the most resistant?
+What Mob is the most difficult to defeat?
+What Mob has the smallest number of Hearts?
+What Mob has the less Health?
+What Mob has the largest number of Hearts except the Wither?
+What Mob has the most Health besides Enderdragon?
+Except the Wither and Enderdragon, what Mob has the largest number of Hearts?
+What Mob, besides the Wither Boss and Enderdragon, has the most Health?
+
+What can't you hit an Enderman with?
+What can't I use against an Enderman?
+What is inefficient against Endermen?
+What weapon doesn't work on an Enderman?
+What doesn't hurt an Enderman?
+What are Endermen resistant to?
+What are Endermen invulnerable to?
+What doesn't affect Endermen?
+What is useless against an Enderman?
+What doesn't help to defeat an Enderman?
+
+Tell me about fall damages?
+What are falling damages?
+What Mob don't receive fall damage?
+Will Magma Cubes take damage when falling?
+Do Magma Cubes receive damage from falling?
+Do Magma Cubes take falling damage?
+Does a Magma Cube take damage when falling?
+Will a Magma Cube be damaged when falling?
+Do Magma Cubes receive fall damage?
+Are Magma Cubes hurt when they fall?
+
+What are Zombie Pigmen automatically resistant to?
+What doesn't affect Zombie Pigmen?
+What doesn't help against a Zombie Pigman?
+What can't I use against a Zombie Pigman?
+What is impossible to use on a Zombie Pigman?
+What won't work on Zombie Pigmen?
+What are Zombie Pigmen invulnerable to?
+What won't hurt a Zombie Pigman?
+What is useless on Zombie Pigmen?
+What doesn't damage Zombie Pigmen?
+
+What is a critical hit?
+How can I deal a critical hit?
+What do I deal critical hit with?
+What can I use to do a critical hit?
+What can't I use to do a critical hit?
+What won't deal critical hit?
+Is it possible to deal critical hit by a Fireball?
+Can I deal a critical hit with a Fireball?
+Can Fireball make a critical hit?
+Can you do a critical hit with a Fireball?
+
+What is more powerful than a Diamond Sword?
+What is better than a Diamond Sword?
+What is stronger than a Diamond Sword?
+What is more efficient than a Diamond Sword?
+What causes more damage than a Diamond Sword?
+What inflicts more damage than a Diamond Sword?
+What is the stongest Weapon?
+What Weapon is the best?
+What Weapon inflicts the most damage?
+What is the strongest Weapon, except Diamond Sword?
+
+What is the best Armor?
+What is the most resitant Armor?
+What is the best Armor made of?
+What is the best Tool?
+What is the most powerful Tool?
+What is the most powerful Tool made of?
+What are the strongest Tools and Armors made of?
+What Ore is used to make the best Tools and Armors?
+What material is used for the most powerful Tools and Armors?
+What are the best Tools and Armors crafted from?
+
+How do I beat The Ender Dragon?
+What is the way to beat the Enderdragon?
+What strategy should I use to defeat the Ender Dragon?
+How to defeat the Enderdragon?
+What should I do to kill the Enderdragon?
+How to fight the Enderdragon?
+What do I need to fight the Ender Dragon?
+How can I beat the Enderdragon?
+How do I win against the Enderdragon?
+What is the best way to defeat the Enderdragon?
+
+How many hits can a Gold Sword afford?
+What is the durability of a Gold Sword?
+How many hits can I do with a Golden Sword?
+How long can you use a Gold Sword?
+How many times can you hit with a Golden Sword?
+How many hits can a Gold Sword give?
+How many times can I hit with a Golden Sword?
+How long can I fight with a Golden Sword?
+What durability does the Gold Sword have?
+How many times can I use a Gold Sword?
+
+SectionTitle Facts.
+
+How many Bosses are in Minecraft?
+How many Bosses are there?
+What is the number of Bosses?
+Are there many Bosses?
+Are the Bosses numerous?
+What do you know about the Boss?
+Is there a Boss?
+Are there Bosses?
+What are the Bosses of Minecraft?
+What is the Boss?
+
+Is there an end to the game?
+Can I win the game?
+Can I finish Minecraft?
+Is there an end to Minecraft?
+Can I finish the game?
+Do I finish the game by beating a Boss?
+Do Minecraft has an end?
+Can the game be finished?
+Will I finish the game?
+Is there a way to finish Minecraft?
+Is it possible to win Minecraft?
+Is it possible to finish the game?
+
+What types of Trees are there?
+What kinds of Trees are there?
+What are the different Trees?
+What are the different kinds of Trees?
+What kinds of Wood are there?
+What are the different Wood?
+How many kinds of Wood are there?
+How many kinds of Trees are there?
+What are the species of Trees in Minecraft?
+What are all the species of Trees of the game?
+
+What are the different types of Mobs?
+What are the categories of Mobs?
+What are the different behaviors of Mobs?
+What are the three different types of Mobs?
+What are the three different categories of Mobs?
+What are the three behaviors of Mobs?
+What are Passive Mobs?
+What are Neutral Mobs?
+What are Hostile Mobs?
+What are the differences between Passive, Neutral and Hostile Mobs?
+
+Can Monsters respawn in flying object?
+Can Mobs appear in a flying object?
+Can Mobs spawn in a flying object?
+Can Monsters appear in the sky?
+Can Mobs appear in the sky?
+Is it possible that a Mob spawn in a flying object?
+Is it possible to spwan a Mob in a flying object?
+Can I spwan a Mob in a flying object?
+Can you make a Mob appear in the sky?
+Is it possible for a Monster to appear in a flying object?
+
+What is the effect of shooting Arrows through Lava?
+What happens if you throw Arrows through Lava?
+What happens to Arrows thrown through Lava?
+What is the effect of Lava on Arrows?
+What becomes an Arrow shot through Lava?
+What will an Arrow do if shot through Lava?
+What effect does Lava have on Arrows?
+How do you make Arrows catch on fire?
+How do you make fire Arrows?
+Can you make a fire Arrow with Lava?
+
+What do you get when you mix Water and Lava?
+What happens if I mix Water and Lava?
+What happens when you add Water on Lava?
+What happens if you add Lava on Water?
+What is created when you mix Water and Lava?
+What is the effect of mixing Water and Lava?
+What will be produced by mixing Water and Lava?
+What will be produced if I put Water on Lava?
+What happens if I put Lava into Water?
+What is created when you put Water in Lava?
+
+What happens when there is Water over Ice?
+What happens when there is Ice under Water?
+What occurs when there is Ice under the Water?
+What effect does Ice have under Water?
+What is the effect of Water on Ice?
+What happens if I put Water on Ice?
+What happens to Entities when there is Ice under Water?
+What happens when you throw an Item on Water flowing over Ice?
+What effect does have Ice under Water on Items?
+What happens to any Block put on Ice?
+
+What are the main Tools in Minecraft?
+What are the different Tools in the game?
+What Tools are there?
+What Tools can I use?
+What Tools are available in Minecraft?
+What are the different kinds of Tools?
+What Tools can be found in Minecraft?
+What Tools can be used in the game?
+What Tools are there besides Pickaxes?
+What Tools can be found in Minecraft except Shovels and Pickaxes?
+
+What time of day do Monsters come out?
+When do Mobs come out?
+When do Mobs appear?
+When do Mobs spawn?
+What time do Monsters appear?
+What moment do Mobs come out?
+What time of the day do Mobs spwan?
+What time of the day do Monsters spawn?
+When do Monsters appear?
+What time of the day do Mobs come out?
+
+Can you sleep in the Nether?
+Is it possible to sleep in the Nether?
+Can I sleep in the Nether?
+What happens to a Bed placed in the Nether?
+What occurs if I sleep in the Nether?
+What happens when you sleep in the Nether?
+What will happen if I sleep in the Nether?
+What happens if you attempt to use a Bed in the Nether?
+What will happen if I try to sleep in the Nether?
+What happens if you try to sleep in the Nether?
+
+What will make you move faster through Water?
+What can I do to be faster in Water?
+How to be faster in Water?
+How to become faster in Water?
+How can I swim faster?
+How can you go faster through Water?
+What is a way to swim faster?
+What can I use to be faster in Water?
+What should I do to swim faster?
+What helps to move faster in Water?
+
+What are the behaviors of Mobs in Peaceful Mode?
+Are all Mobs Passive in Peaceful?
+Are there Passive Mobs in Peaceful Mode?
+Are there Hostile Mobs in Peaceful Mode?
+Can Mobs be Hostile in Peaceful?
+Are Mobs dangerous in Peaceful?
+Are there Hostile Monsters in Peaceful?
+Can Mobs be Hostile in Peaceful Mode?
+What are the only Hostile Mobs in Peaceful?
+What Mobs will still attack me in Peaceful?
+
+Where are Lava Pools?
+Where can I find Lava Pools?
+Where is the best Biome for finding Lava Pools?
+What Biome should I go in to find Lava Pools?
+Where do Lava Pools often appear?
+What Biomes do Lava Pools often spwan in?
+What Biomes contain more likely Lava Pools?
+What Biomes are Lava Pools more likely to spawn in?
+What Biome is the best for Lava Pools?
+What are the best Biomes for Lava Pools?
+
+Is it possible to turn a Mob upside down?
+How to turn an Animal upside down?
+How to turn a tamed Mob upside down?
+Can I turn a Mob upside down?
+How can I turn a Mob upside down?
+What name turn a Mob upside down?
+How to name a Mob to turn it upside down?
+What names can I give to a Mob to turn it upside down?
+What can you name an Animal to turn it upside down excepted Dinnerbone?
+What is the effect of naming a Mob Dinnerbone?
+
+What are the dimensions of a Nether Portal?
+How big is a Nether Portal?
+How large should a Nether Portal be?
+What is the biggest Nether Portal I can do?
+How big is the largest Nether Portal?
+What are the maximum dimensions of a Nether Portal?
+What are the biggest dimensions of a Nether Portal?
+How big is the biggest Nether Portal?
+How large is the largest Nether Portal?
+What are the largest dimensions of a Nether Portal?
+
+Can I fish?
+Where can I fish?
+Where can't I fish?
+How to fish?
+How can I fish?
+Is it possible to fish when I am in the Water?
+Can I fish when I am in the Water?
+Is it possible to fish under Water?
+Can you fish under Water?
+How to fish under Water?
+
+What is Water level?
+What are the different levels of Water?
+Can the Water level change?
+How to change Water level?
+How to make Water level change?
+Is it possible to change the level of Water?
+How can you change the level of Water?
+How to control Water level?
+Can I control the level of Water?
+What is the strategy to make Water level change?
+
+<Externe>
+
+Which Mobs were added in the version 1.8?
+What Mobs are in the game since version 1.8?
+Were some Mobs added in version 1.8?
+Have some Mobs been added in version 1.8?
+Was there any change about Mobs in version 1.8?
+Were Mobs modified in version 1.8?
+What Mobs were modified in version 1.8?
+Did version 1.8 add Mobs?
+What changed in version 1.8?
+What was added in version 1.8?
+
+What is Minecraft coded in?
+In which language is Minecraft coded?
+How has Minecraft been coded?
+In what language is Minecraft coded?
+What programming language does Minecraft use?
+What is the programming language of Minecraft?
+How has Minecraft been written?
+In which programming language is Minecraft written?
+Is Minecraft written in Java?
+Is Minecraft coded in C++?
+
+Who created Minecraft?
+Who invented Minecraft?
+Who is the creator of Minecraft?
+Who made Minecraft?
+Who has Minecraft been made by?
+Who is the father of Minecraft?
+What is the name of the creator of Minecraft?
+What is the name of the person who has created Minecraft?
+Who is Notch?
+Who is Markus Persson?
+What is the true name of Notch?
+
+<Explanations>
+
+How does Xp work?
+How can I gain Xp?
+How do I gain Experience?
+How does Experience work?
+Can I get Xp?
+How is Experience used?
+What is Xp used for?
+How should I use my Experience?
+What should I do to obtain Xp?
+Where can I find Xp?
+What are the ways to get Xp?
+Will I gain Experience by defeating Mobs?
+Is it possible to increase level?
+How do I level up?
+
+What is Spleef?
+Do you have information on Spleef?
+Do you know Spleef?
+What is called Spleef?
+Can I play Spleef?
+How can I play Spleef?
+What kind of game is Spleef?
+What are the rules of Spleef?
+Can you give me information about Spleef?
+What do you know about Spleef?
+
+What is the best strategy for breeding Villagers?
+How to breed Villagers?
+Can I breed Villagers?
+How to obtain Baby Villagers?
+Can Villagers been bred?
+Is there a way to breed Villagers?
+What is used to breed Villagers?
+Is it possible to breed Villagers?
+What is breeding?
+Why should I use breeding?
+
+What is a Mob?
+Define a Mob.
+What are Mobs?
+Give me information about Mobs.
+Where are the Mobs?
+What are the different Mobs in Minecraft?
+Are there Mobs?
+What can I do with Mobs?
+How to use Mobs?
+Who are the Mobs?
+
+Why can't I place a Door?
+Is there something impossible to do with Doors?
+Where can I place a Door?
+Where can't I place a Door?
+What makes placing a Door impossible?
+What are the places where I can't place a Door?
+Why can't I use a Door?
+What are the uses of a Door?
+How to use a Door?
+Where to place a Door?
+Where should I use a Door?

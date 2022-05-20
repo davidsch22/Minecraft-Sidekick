@@ -1,0 +1,445 @@
+<Minecraft_entity>
+
+armor
+base_potion
+biome
+block
+boss
+cold_biome
+decoration
+dimension
+dry_biome
+end_block
+entity
+food
+fuel
+game_mode
+gameplay_quantity
+gameplay
+hostile_mob
+item
+liquid
+manufactured_block
+manufactured_item
+medium_biome/lush_biome
+minecraft_entity
+mineral
+mob
+natural_block
+negative_potion
+nether_block
+neutral_biome
+neutral_mob
+non_solid_block
+object
+ore
+passive_mob
+place
+plant
+positive_potion
+potion
+potion_ingredient
+raw_material
+redstone_mechanism
+snowy_biome
+solid_block
+structure
+tool
+transparent_block
+vehicle/transport
+version
+weapon
+weapon/combat
+abandoned mine shaft
+activator rail
+adventure mode
+air
+andesite [type:normal,polished]
+anvil
+apple
+armor stand
+arrow [effect:normal,spectral,regeneration,swiftness,fire resistance,healing,night vision,strength,leaping,invisibility,poison,weakness,slowness,harming,water breathing,luck]
+awkward potion [use:normal/drinkable,splash,lingering]
+axe [material:wooden,golden,stone,iron,diamond] [enchant:normal,enchanted]
+baked potato
+banner [type:normal,standing,wall] [color:white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black]
+barrier
+bat
+beach
+beacon
+bed
+bedrock
+beef [type:raw,cooked/steak]
+beetroot
+beetroot soup
+birch forest [variant:normal,m,hills,hills m]
+blaze
+blaze fireball
+blaze powder
+blaze rod
+boat [material:oak,spruce,birch,jungle,acacia,dark oak]
+bone
+book
+book and quill
+bookshelf
+boots [material:leather,chain,iron,diamond,golden] [enchant:normal,enchanted]
+bottle o' enchanting
+bow [enchant:normal,enchanted]
+bowl
+bread
+brewing stand
+brick
+bricks
+bucket [content:normal/empty,lava,milk,water]
+button [type:stone,wooden]
+cactus
+cake
+camera
+carpet [color:white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black]
+carrot
+carrot on a stick [enchant:normal,enchanted]
+cauldron
+cave spider
+cavern/cave
+chest [size:normal,large]
+chestplate/tunic [material:leather,chain,iron,diamond,golden] [enchant:normal,enchanted]
+chicken food [type:raw,cooked]
+chicken jockey [type:normal,villager,pigman]
+chicken [size:normal/adult,baby/chick]
+chorus flower
+chorus fruit
+chorus plant
+chunk
+classic mode
+clay
+clay block
+clock
+coal [type:normal,charcoal]
+coal block
+coal ore
+cobblestone
+cobblestone wall [type:normal,mossy]
+cobweb
+cocoa
+cocoa beans
+cold beach
+cold taiga [variant:normal,m]
+command block [type:normal,chain,repeating]
+compass
+cookie
+cow [size:normal/adult,baby]
+crafting table
+creative mode
+creeper [type:normal,charged]
+daylight sensor [activation:normal,inverted]
+dead bush
+defense [unit:numeric,defense point]
+demo mode
+desert [variant:normal,m]
+desert temple
+detector rail
+diamond
+diamond block
+diamond ore
+diorite [type:normal,polished]
+dirt [type:normal,coarse]
+dispenser
+door [material:oak,spruce,birch,jungle,acacia,dark oak,iron]
+dragon egg
+dragon's breath
+dropper
+dungeon
+durability [unit:second,hit]
+dye/wool dye [type:bone meal,light gray dye,gray dye,ink sac,rose red,orange dye,dandelion yellow,lime dye,cactus green,light blue dye,cyan dye,lapis lazuli,purple dye,magenta dye,pink dye,cocoa beans]
+egg
+elder guardian
+emerald
+emerald block
+emerald ore
+enchanted book
+enchantment [type:protection,fire protection,feather_falling,blast_prtection,respiration,aqua_affinity,thorns,depth_strider,frost_walker,sharpness,smite,bane_of_arthropods,knockback,fire_aspect,looting,efficiency,silk_touch,unbreaking,fortune,power,punch,flame,infinity,luck_of_the_sea,lure,mending]
+enchantment table
+end city
+end gateway portal
+end portal
+end portal block
+end portal frame
+end rod
+end stone
+end stone bricks
+ender chest
+ender crystal
+ender dragon
+ender pearl
+enderman [type:normal,aggravated]
+endermite
+experience
+experience orb
+extreme hills [variant:normal,m,edge] [variant2:normal,+]
+eye of ender
+farmland
+feather
+fence [material:oak,spruce,birch,jungle,dark oak,acacia,nether brick]
+fence gate [material:oak,spruce,birch,jungle,acacia,dark oak]
+fermented spider eye
+fire
+fire charge
+firework rocket
+firework star
+fish [type:raw,cooked,clownfish,pufferfish]
+fishing rod [enchant:normal,enchanted]
+flint
+flint and steel [enchant:normal,enchanted]
+flower [specie:dandelion,poppy,blue orchid,allium,azure bluet,red tulip,orange tulip,white tulip,pink tulip,oxeye daisy,sunflower,lilac,rose bush,peony]
+flower pot
+forest [variant:normal,flower]
+frosted ice
+frozen river
+furnace [activation:active,inactive]
+ghast
+ghast fireball
+ghast tear
+giant
+glass
+glass bottle
+glass pane
+glistering melon
+glowstone
+glowstone dust
+gold block
+gold ingot
+gold nugget
+gold ore
+golden apple [type:normal,enchanted/notch apple]
+golden carrot
+granite [type:normal,polished]
+grass [specie:normal/tallgrass,fern,shrub,double tallgrass,large fern]
+grass block
+gravel
+guardian
+gunpowder
+hand
+hardcore mode
+hardened clay
+hay bale
+health [unit:numeric,heart]
+helmet [material:leather,chain,iron,diamond,golden] [enchant:normal,enchanted]
+hills
+hoe [material:wooden,golden,stone,iron,diamond] [enchant:normal,enchanted]
+hopper
+horse [specie:normal,donkey,mule,zombie,skeleton] [size:normal/adult,baby/foal] [type:normal/wild,tamed]
+horse armor [material:iron,diamond,golden]
+huge mushroom [specie:red,brown]
+human
+hunger [unit:numeric,shank]
+ice
+ice plains [variant:normal,spikes]
+igloo
+inventory slot
+stack of items
+iron bars
+iron block
+iron golem
+iron ingot
+iron ore
+item entity/dropped item
+item frame
+jack o'lantern
+jukebox
+jungle [variant:normal,m,edge,edge m]
+jungle temple
+ladder
+lapis lazuli block
+lapis lazuli ore
+lava [type:flowing,source,still]
+layer [level:0-61/underground,62/sea level,63-127,127-255/above clouds]
+lead
+lead knot
+leather
+leaves [specie:oak,spruce,birch,jungle,acacia,dark oak]
+leggings/pants [material:leather,chain,iron,diamond,golden] [enchant:normal,enchanted]
+lever
+light [level:0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] [levelinf:0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] [levelsup:0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+lily pad
+magma cream
+magma cube/lava slime
+map [type:normal/filled,empty]
+melon
+melon block
+melon seeds
+mesa [variant:normal,bryce]
+milk
+minecart [type:normal,chest/storage,command block,furnace,hopper,spawner,tnt]
+minecraft/the game
+mob head [type:dragon,creeper,human,skeleton,wither skeleton,zombie]
+monster egg [pattern:cobblestone,stone,stone bricks,cracked stone bricks,mossy stone bricks,chiseled stone bricks]
+monster spawner
+mooshroom [size:normal/adult,baby]
+moss stone
+mundane potion [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+mushroom [specie:red,brown]
+mushroom block [specie:red,brown]
+mushroom island [variant:normal,shore]
+mushroom stew
+music disc [title:13,cat,blocks,chirp,far,mall,mellohi,stal,strad,ward,11,wait]
+mutton [type:raw,cooked]
+mycelium
+name tag
+nether brick
+nether brick item
+nether portal
+nether portal block
+nether quartz
+nether quartz ore
+nether reactor
+nether reactor core
+nether star
+nether wart
+netherrack
+note block
+obsidian [type:normal,glowing]
+obsidian pillar
+ocean [variant:normal,deep,frozen]
+ocean monument
+ocelot [type:normal/wild,tamed/cat] [size:normal/adult,baby]
+origin of the world
+packed ice
+painting
+paper
+particles
+pickaxe [material:wooden,golden,stone,iron,diamond] [enchant:normal,enchanted]
+pig [size:normal/adult,baby]
+piston [type:normal,sticky]
+piston head
+plains [variant:normal,m,sunflower]
+plateau [variant:normal,m]
+podzol
+poisonous potato
+popped chorus fruit
+porkchop [type:raw,cooked]
+potato
+potion of fire resistance [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+potion of harming/potion of instant damage [power:normal/regular,level ii] [use:normal/drinkable,splash,lingering]
+potion of healing/potion of instant health [power:normal/regular,level ii] [use:normal/drinkable,splash,lingering]
+potion of invisibility [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+potion of leaping [power:normal/regular,level ii,extended] [use:normal/drinkable,splash,lingering]
+potion of luck
+potion of night vision [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+potion of poison [power:normal/regular,level ii,extended] [use:normal/drinkable,splash,lingering]
+potion of regeneration [power:normal/regular,level ii,extended] [use:normal/drinkable,splash,lingering]
+potion of slowness [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+potion of strength [power:normal/regular,level ii,extended] [use:normal/drinkable,splash,lingering]
+potion of swiftness/potion of speed [power:normal/regular,level ii,extended] [use:normal/drinkable,splash,lingering]
+potion of water breathing [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+potion of weakness [power:normal/regular,extended] [use:normal/drinkable,splash,lingering]
+powered rail
+pressure plate [type:stone,wooden]
+prismarine [type:normal,bricks,dark]
+prismarine crystals
+prismarine shard
+pumpkin
+pumpkin pie
+pumpkin seeds
+purpur block [type:normal,pillar]
+quartz block [pattern:normal,chiseled,pillar]
+rabbit [type:raw,cooked]
+rabbit hide
+rabbit mob [specie:normal,killer rabbit,toast]
+rabbit stew
+rabbit's foot
+rail
+redstone block
+redstone comparator [activation:active,inactive]
+redstone dust/redstone wire
+redstone lamp [activation:active,inactive]
+redstone ore [type:normal,glowing]
+redstone repeater [activation:active,inactive]
+redstone torch [activation:active,inactive]
+river
+roofed forest [variant:normal,m]
+rotten flesh
+saddle
+salmon [type:raw,cooked]
+sand [type:normal,red]
+sandstone [type:normal,red] [pattern:normal,chiseled,smooth]
+sapling [specie:oak,spruce,birch,jungle,acacia,dark oak]
+savanna [variant:normal,m]
+sea lantern
+seeds/wheat seeds/crop/wheat crop
+shears [enchant:normal,enchanted]
+sheep [size:normal/adult,baby] [type:normal,sheared]
+shield [color:normal,white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black] [enchant:normal,enchanted]
+shovel [material:wooden,golden,stone,iron,diamond] [enchant:normal,enchanted]
+shulker
+sign [type:normal,standing,wall]
+silverfish
+skeleton
+slab [size:normal,double] [material:stone,sandstone,cobblestone,brick,stone brick,oak wood,spruce wood,birch wood,jungle wood,acacia wood,dark oak wood,nether brick,quartz,red sandstone,purpur]
+slime [size:big,small,tiny]
+slime block
+slimeball
+snow
+snow block
+snow golem
+snowball
+soul sand
+spawn egg [specie:creeper,skeleton,spider,zombie,slime,ghast,zombie pigman,enderman,cave spider,silverfish,blaze,magma cube,bat,witch,endermite,guardian,shulker,pig,sheep,cow,chicken,squid,wolf,mooshroom,ocelot,horse,rabbit,villager]
+spectator mode
+spider
+spider eye
+spider jockey
+sponge [type:normal,wet]
+squid
+stained glass [color:white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black]
+stained glass pane [color:white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black]
+stained hardened clay/stained clay [color:white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black]
+stairs [material:sandstone,cobblestone,bricks,stone brick,oak wood,spruce wood,birch wood,jungle wood,acacia wood,dark oak wood,nether brick,quartz,red sandstone,purpur]
+stick
+stone
+stone beach
+stone bricks [pattern:normal,cracked,mossy,chiseled]
+strength [unit:numeric,heart]
+string
+stronghold
+sugar
+sugar canes
+survival mode
+swampland [variant:normal,m]
+sword [material:wooden,golden,stone,iron,diamond] [enchant:normal,enchanted]
+taiga [variant:normal,m,mega,mega spruce]
+the end
+the nether/hell
+the overworld
+the player
+the void
+thick potion [use:normal/drinkable,splash,lingering]
+thunderstorm/lightning
+tnt [type:normal,primed]
+torch
+trapdoor [type:wooden,iron]
+trapped chest [size:normal,large]
+tree [specie:oak,spruce,birch,jungle,acacia,dark oak,dying,matchstick spruce,lollipop spruce,tall birch,bush,swamp,fallen]
+tripwire hook
+computer edition [version:1.8,1.7,1.6,1.5,1.4,1.3,1.2,1.1,1.0,beta 1.8,beta 1.7,beta 1.6,beta 1.5,beta 1.4,beta 1.3,beta 1.2,beta 1.1,beta 1.0,alpha 1.2,alpha 1.1,alpha 1.0,infdev,indev,classic,pre-classic]
+pocket edition [version:0.13,0.12,0.11,0.10,0.9,0.8,0.7,0.6,0.5,0.4,0.3,0.2,0.1,pre-release]
+console edition [console:xbox 360,xbox one,playstation 3,playstation 4,playstation vita,wii u]
+pi edition
+village
+villager [size:normal/adult,baby] [profession:farmer,librarian,priest,blacksmith,butcher]
+vines
+water [type:flowing,source,still]
+water bottle [use:normal/drinkable,splash,lingering]
+wheat
+witch
+wither
+wither skeleton
+wolf [size:normal/adult,baby] [type:normal/wild,tamed/dog,aggravated]
+wood [specie:oak,spruce,birch,jungle,acacia,dark oak]
+wood plank [material:oak,spruce,birch,jungle,acacia,dark oak]
+wool [color:white,orange,magenta,light blue,yellow,lime,pink,gray,light gray,cyan,purple,blue,brown,green,red,black]
+written book
+x_size/width [unit:numeric,block]
+y_size/height [unit:numeric,block]
+z_size/length [unit:numeric,block]
+zombie [type:normal,villager,armed/armored] [size:normal/adult,baby]
+zombie pigman [size:normal/adult,baby] [type:normal,aggravated]

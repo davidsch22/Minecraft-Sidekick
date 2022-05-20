@@ -1,0 +1,9 @@
+Dec value: 42.
+Hex value: 2A.
+Minimum tool requirement to break: Stone pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Blocks of iron are created by placing 9 iron ingots in a 3×3 square on a crafting table. They’re the only mineral block that have a use, other than being able to turn itself back into 9 iron ingots.
+An iron golem can be created with 4 blocks of iron and 1 pumpkin or jack-o-lantern. Blocks of iron are widely used as both decoration and an efficient way to store large amounts of iron, as 1 full stack of blocks of iron equals 9 full stacks of iron ingots.
+Blocks of iron require a stone, iron or diamond pickaxe to be mined, using anything else will destroy the block, including the 9 iron ingots used to create it. Despite being solid iron, blocks of iron have the same blast resistance as stone, leaving them vulnerable to explosions.

@@ -1,0 +1,28 @@
+  The Torch is a type of tool found in Indev onward since the support for dynamic lighting, and is the simplest placeable source of light, not taking much to craft.
+Torches act as if there is no block there, and you are able to walk over it. Being an unsolid block, this even prevents sand and gravel from falling down past a square with a torch on it. Sand or gravel break when they fall on a torch. If they are placed directly above a torch they act as if they were on any other solid material, allowing them to be used as environmental triggers, such as Airlocks. When being placed in water, the torch breaks due to the water closing in on it.
+In 1.8, if one pays very close attention to the light emitted by a torch, one can see that it slightly flickers, like a real flame.
+If a block falls onto a torch (Sand or Gravel), it breaks the block and gives the player the resource, but the gravel will not drop flint. However, if the torch is placed quickly enough after removing the base of a stack of gravity-obeying blocks, the stack remains in place.
+If torches are put near ice, it ultimately melts after a moment.
+Torches cannot be put on ice and leaves.
+Torches share the same light as a Locked Chest does.
+If water or lava flows on top or around the torch, it will be turned into an item.
+You can make gravel or sand stay still if there is a torch below it.
+Torches were planned to be removed and replaced by lanterns but the lantern was dismissed and the torch is still here.
+ If you put a torch on the underside of a block, it will appear on the ground directly below it.                                  .
+Before 1.7, naturally generated torches in an Abandoned Mine Shafts would not emit light (This could be fixed by updating a block next to or near the torch, such as placing any item next to it). This is refered to as a Lighting Error.
+If Torches are naturally generated in a village (on the pieces of black wool), the Torches have a chance of not being on the Black Wool.
+Torches are non-solid blocks that emit light.
+A torch will break instantly and drop itself when broken using anything. The tool will not take any damage when breaking the torch.
+Torches will also be broken if flowing water runs over its location, or if pushed by a piston.
+Torches can be found randomly among the supports in an abandoned mine shaft's corridors. Torches can also be found in various rooms of strongholds, and as a part of village lamp posts. Torches generate around bonus chests if each side has a block at the same height around it.
+Torches can be placed on the top or the sides of most solid blocks, although some will require sneaking (see placement for exceptions). Being non-solid, torches have no collision box.
+Gravity affected blocks like sand and gravel will not fall if the block below them has a torch on it, and will break if they fall onto a torch.
+Torches give off a light level of 14. Torches also melt snow layers and ice within 2 blocks (taxicab distance).
+In general, torches can only be placed on solid, opaque, full blocks; exceptions are listed below.
+Notch originally planned for torches to become temporary light sources that would eventually burn out. Torches would then need to be relit with flint and steel. All torches placed before the planned feature would become lanterns, due to changing the data value. This was originally planned to take effect on October, 31, 2010 with the Halloween Update, but it did not happen.
+www.thinkgeek.com released a real physical torch that could be purchased for $24.99, and was able to be placed on walls.
+An image of a floating torch in a mineshaft.
+A torch placed on a wall.
+Redstone Torch.
+Redstone Lamp.
+Minecraft 2.0.

@@ -1,0 +1,14 @@
+Dec value: 85.
+Hex value: 55.
+Minimum tool requirement to break: None.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: Yes.
+Fences form a great border, both as a defence and as decoration. They look and act as a 1 block high block, but are counted as 1.5 block high when a player or mob comes into contact with it, which makes it impossible for players and most mobs to jump over it. Spiders can climb over fences and ghasts and blazes will simply fly over them. Projectile firing mobs and players can shoot over them, so you’re not completely safe.
+Fences are part of villages, abandoned mineshafts and strongholds. A nether brick version can be found in Nether fortresses. Fences can be crafting by placing 6 sticks in a 2×3 horizontal rectangle on a crafting table. 2 fences are created per 6 sticks. A pickaxe has to be used to recover this block, using anything else will destroy it, along with the 4 clay bricks used to create it.
+Placing a fence will only place a single pole in the middle of the block, but will automatically connect itself to most blocks next to it.
+Nether brick fences and wooden fences will not connect. Fences can be broken with anything.
+While fences will keep out existing mobs, new ones can still spawn under the right conditions. So it’s important to light up the inside if you want to keep hostile mobs out. Wolves and ocelots can also spawn inside fenced areas, as long as you’re in their respective biomes. This can be disastrous for your sheep and chickens, as wolves will kill your sheep and ocelots will kill your chickens.
+Fences are most commonly used as enclosures for mobs, but also offer various ways to decorate structures. Fences are often used as railings, which prevents players from accidently walking off of a cliff, but will obstruct the view at lower angles. Glass panes offer the widest view angle without the risk of falling. Fences create air pockets, so building one long fence pole to the bottom of the ocean allows you to breath and it will allow light to shine through.
+Fences are used in a wide variety of decorational creations, one of which is the chandelier in stronghold libraries. They’re also used as lampposts, as you can see in villages. Fences can be placed on top of each other, which many players use to create wooden, decorative supports for their structures, like roof and house supports. Fences are perfect for bridge supports. Fences make for great narrow chimneys, often used on top of furnaces. Building a box out of fences makes for a great cage or serves as monkey bars in a playground, depending on the size and how you look at it.
+Fences are often used with fence gates to allow easy access to the other side, but this can also be accomplished by taking out the corner fence of rectangular enclosures. Players will be able to walk through this gap, while monsters cannot.

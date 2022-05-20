@@ -1,0 +1,41 @@
+The Nether Reactor Core is a block that is crafted by the player to form the Nether Spire. It is crafted with three diamonds and six iron ingots. The block is exclusive to Minecraft: Pocket Edition as a replacement of the Nether, which is found in both Minecraft XBLA and Minecraft for the PC. It is one of the 4 blocks in PE only. Them being Beetroot crops, Glowing Obsidian, Stonecutter, and the Nether Reactor. It no longer functions as of 0.12.1.
+Once the pattern is built, all players must stand within a certain range of the Nether Reactor. If the pattern is somehow incorrect, there will be a text message that just says "Incorrect pattern!". Once it is hit (while it is in the correct pattern), a text message that says "Active!" will pop up, and the Nether Spire will be formed around it. The Cobblestone will then change to Glowing Obsidian, which is a red obsidian-like block. After a while, the Gold Blocks will too become glowing Obsidian. Before they do though, you may mine them for reusing. While the Reactor is active, it will spurt out many items and blocks, as well as spawning Zombie Pigmen. The Zombie Pigmen are naturally hostile to you. After 45 seconds, the Reactor will stop spawning items and Zombie Pigmen. Holes in the Nether Spire will appear, and all the Glowing Obsidian will become normal Obsidian. The core will then become a dull blue, and can be mined and reused.
+These are diagrams of how to set up the Nether Reactor to activate it, not crafting recipies.
+Zombie Pigmen are naturally hostile to you, so fight them immediately.
+If a player has a Pickaxe, he or she can quickly mine out the gold blocks before they convert to Glowing Obsidian. The reactor will still function as normally.
+Zombie Pigmen drop gold ingots, so killing enough Zombie Pigmen can produce enough gold for a new visit to the reactor.
+Because the Nether Spire is a tall, dark room, it can be used as a mob farm.
+The reactor design was planned to use gold and iron blocks, but the iron was changed to cobblestone because of its price.
+The Zombie Pigmen are naturally hostile.
+If you quit to title while the Reactor is still active, the holes will not appear when it burns out. only until 0.11.
+Glowing obsidian drops obsidian when mined.
+Prior to the 0.6.0 update, the Nether Spire was made of Obsidian. This is because Netherrack did not exist yet.
+Activating the Nether Reactor at Bedrock level will cause the Netherrack to cut through the Void. This can be used for access in Survival Mode.
+The Reactor does not work in Creative Mode. (This is intentional).
+If in any future update they let Nether portals made of Obsidian actually work, this block may be used as a decoration.
+If you destroy the nether reactor in Pocket Edition while it is active the Obsidian will still glow as if active infinitely but will now spawn any materials or Zombie Pigmen. You can stop this by quiting the game and returning to it or mining the obsidian. Also, the nether tower will not have holes in them untill you make any. Night is infinite untill the obsidian is mined or the game is quit. Sleeping will not stop this.
+Normally in Pocket Edition, only 3 zombie pigmen appear at a time until killed. 6 Zombie Pigmen will spawn before the core is done if you kill them continuously.
+If the reactor is built after a certain height and try to activate it, a messege will display saying "The nether reactor must be built lower down".
+The active Nether Reactor.
+The "tower" that the reactor generates.
+The "altar" that must be made to activate the reactor.
+Zombie Pigman spawned in Reactor.
+Add a photo to this gallery.
+Pocket Edition Only.
+The Nether Reactor is a player built structure which, when activated, spawns large quantities of normally rare or unobtainable items.
+The reactor is constructed by placing gold blocks, cobblestone, and a nether reactor core in the 3x3x3 arrangement shown below. Air blocks are required on the middle and top layers. If the structure is incorrect, attempting to activate the reactor will result in the client message "Not the correct pattern!".
+Tapping the core will activate the reactor, sending the client message "Active!". Immediately after activation, a massive 35×17×17 structure of netherrack with multiple rooms, unofficially referred to as a "Nether Spire", is spawned around the reactor. The bottom room, which contains the reactor, replaces all blocks other than those of the reactor with air, while blocks in the upper levels remain intact.
+Items will begin spawning randomly in the reactor room. These can be glowstone dust, nether quartz, cacti, sugar canes, both types of mushrooms, pumpkin seeds, and melon seeds. Zombie pigmen are also able to spawn. It is advisable to empty out one's inventory beforehand so that no items are missed, other than any weapons used to fight the zombie pigmen (unless playing in peaceful difficulty). During this stage, the blocks that make up the reactor will turn into glowing obsidian, and the core will adopt a red texture representative of being active. If the player mines the active core, all aspects of the reaction will freeze.
+After 45 seconds the reactor cycle will end, causing the spire to 'blow up', leaving holes in it's walls. At this point, the time is set to night. The reactor is replaced with a 3×3×3 box of obsidian containing the core, which now has a smooth, blackened texture representative of being 'burnt out'. If the player builds a new reactor around the burnt out core, the spire will generate, but no other behaviors associated with the reactor will occur. Because of this, netherrack is renewable.
+The reactor is not currently functional in Creative mode.
+All players must be within the spire's area.
+The reactor must be built at least three blocks above water.
+The reactor must be built at least 32 blocks below cloud level, or the spire will not generate properly.
+The player must not be standing on a block below the bottom layer of the reactor.
+The spire is composed of over 25 stacks worth of netherrack.
+Excluding the core, any part of the reactor can be mined after activation and it will still function. This way, the player can recycle the expensive gold blocks. If they're fast enough, they'll have time to mine all four gold blocks before they turn to glowing obsidian.
+Because the spire cannot replace blocks past the world border, when the reactor is activated near the edge of old worlds the player will be able to see the time set to night.
+A Nether reactor, ready to be activated.
+An active Nether reactor spawning items and zombie pigmen.
+A Nether reactor upon completion of the cycle.
+The 'Nether Spire' before 0.6.0, as seen from the outside.

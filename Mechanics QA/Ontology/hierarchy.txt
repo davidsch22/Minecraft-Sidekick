@@ -1,0 +1,594 @@
+.minecraft_entity
+	.entity
+	.place
+	.gameplay
+	minecraft/the game
+
+.entity
+	.object
+	.mob
+	enchantment
+	stack of items
+	chunk
+	inventory slot
+	blaze fireball
+	ghast fireball
+	bottle o' enchanting
+	camera
+	eye of ender
+	item entity/dropped item
+	particles
+	experience orb
+	fire
+	firework star
+	lead knot
+	thunderstorm/lightning
+	light
+
+.place
+	.biome
+	.dimension
+	layer
+	origin of the world
+
+.gameplay
+	.game_mode
+	.gameplay_quantity
+	.version
+
+.object
+	.block
+	.structure
+	.item
+
+.mob
+	.hostile_mob
+	.neutral_mob
+	.passive_mob
+	the player
+	giant
+	human
+	iron golem
+	snow golem
+	wither
+	horse
+
+.biome
+	.snowy_biome
+	.cold_biome
+	.medium_biome/lush_biome
+	.dry_biome
+	.neutral_biome
+
+.dimension
+	the end
+	the void
+	the nether/hell
+	the overworld
+
+.game_mode
+	adventure mode
+	classic mode
+	creative mode
+	demo mode
+	hardcore mode
+	spectator mode
+	survival mode
+
+.gameplay_quantity
+	health
+	hunger
+	experience
+	durability
+	defense
+	strength
+	x_size/width
+	y_size/height
+	z_size/length
+
+.version
+	computer edition
+	pocket edition
+	console edition
+	pi edition
+
+.block
+	.liquid
+	.solid_block
+	.non_solid_block
+	.transparent_block
+	.fuel
+	.nether_block
+	.manufactured_block
+	.mineral
+	.natural_block
+	.end_block
+	.ore
+	.plant
+	.redstone_mechanism
+	andesite
+	diorite
+	granite
+	mycelium
+	sea lantern
+	slime block
+	sponge
+	barrier
+	stained hardened clay/stained clay
+	hardened clay
+	monster egg
+	cocoa
+	prismarine
+	bed
+	enchantment table
+	anvil
+	beacon
+	brewing stand
+	dragon egg
+	dropper
+	hopper
+	mob head
+	nether reactor core
+	sign
+	nether portal block
+
+.structure
+	abandoned mine shaft
+	cavern/cave
+	desert temple
+	dungeon
+	end city
+	end gateway portal
+	end portal
+	nether portal
+	huge mushroom
+	igloo
+	jungle temple
+	nether reactor
+	obsidian pillar
+	ocean monument
+	stronghold
+	tree
+	village
+
+.item
+	.plant
+	.potion
+	.armor
+	.tool
+	.weapon/combat
+	.decoration
+	.food
+	.raw_material
+	.vehicle/transport
+	.manufactured_item
+	dye/wool dye
+	spawn egg
+	blaze rod
+	paper
+	rabbit's foot
+	string
+	torch
+
+.hostile_mob
+	.boss
+	blaze
+	cave spider
+	creeper
+	elder guardian
+	endermite
+	ghast
+	guardian
+	magma cube/lava slime
+	silverfish
+	skeleton
+	slime
+	spider
+	spider jockey
+	witch
+	wither skeleton
+	zombie
+	chicken jockey
+	shulker
+
+.neutral_mob
+	enderman
+	wolf
+	zombie pigman
+
+.passive_mob
+	bat
+	chicken
+	cow
+	mooshroom
+	ocelot
+	pig
+	rabbit mob
+	sheep
+	squid
+	villager
+
+.snowy_biome
+	frozen river
+	ice plains
+	cold beach
+	cold taiga
+
+.cold_biome
+	extreme hills [variant:normal,m]
+	taiga
+	stone beach
+	the end
+
+.medium_biome/lush_biome
+	plains
+	forest
+	swampland
+	river
+	beach
+	jungle
+	birch forest
+	roofed forest
+	mushroom island
+
+.dry_biome
+	desert
+	savanna
+	mesa
+	plateau
+	the nether/hell
+
+.neutral_biome
+	ocean [variant:normal,deep]
+	hills
+
+.liquid
+	lava
+	water
+
+.fuel
+	.tool [material:wooden]
+	.weapon [material:wooden]
+	bucket [content:lava]
+	coal block
+	blaze rod
+	coal
+	wood
+	wood plank
+	pressure plate [type:wooden]
+	fence [material:oak,spruce,birch,jungle,dark oak,acacia]
+	fence gate
+	stairs [material:oak wood,spruce wood,birch wood,jungle wood,acacia wood,dark oak wood]
+	trapdoor [type:wooden]
+	crafting table
+	bookshelf
+	chest
+	trapped chest
+	daylight sensor
+	jukebox
+	note block
+	mushroom block
+	banner
+	slab [size:normal,double] [material:oak wood,spruce wood,birch wood,jungle wood,acacia wood,dark oak wood]
+	sapling
+	stick
+
+.nether_block
+	glowstone
+	nether brick
+	nether wart
+	nether quartz ore
+	netherrack
+	soul sand
+
+.manufactured_block
+	trapped chest
+	crafting table
+	coal block
+	diamond block
+	emerald block
+	gold block
+	iron block
+	quartz block
+	redstone block
+	bookshelf
+	bricks
+	carpet
+	chest
+	cobblestone wall
+	fence
+	flower pot
+	furnace
+	glass
+	stained glass
+	glass pane
+	stained glass pane
+	hay bale
+	iron bars
+	jack o'lantern
+	jukebox
+	ladder
+	lapis lazuli block
+	slab
+	snow
+	stairs
+	tnt
+	wood plank
+	wool
+
+.natural_block
+	air
+	bedrock
+	bookshelf
+	cauldron
+	chest
+	clay block
+	cobblestone
+	cobweb
+	dirt
+	fence
+	frosted ice
+	furnace
+	glass
+	stained glass
+	gravel
+	ice
+	iron bars
+	ladder
+	monster spawner
+	moss stone
+	obsidian
+	packed ice
+	podzol
+	sand
+	sandstone
+	slab
+	snow
+	snow block
+	stairs
+	stone
+	stone bricks
+	wood plank
+	wool
+
+.end_block
+	ender chest
+	mob head [type:dragon]
+	end stone
+	end rod
+	chorus plant
+	chorus flower
+	purpur block
+	stairs [material:purpur]
+	slab [material:purpur]
+	end stone bricks
+	end portal block
+	end portal frame
+	dragon egg
+
+.ore
+	coal ore
+	diamond ore
+	emerald ore
+	gold ore
+	iron ore
+	lapis lazuli ore
+	nether quartz ore
+	redstone ore
+
+.plant
+	cactus
+	dead bush
+	farmland
+	flower
+	grass
+	grass block
+	leaves
+	lily pad
+	melon block
+	melon seeds
+	pumpkin seeds
+	mushroom
+	mushroom block
+	nether wart
+	pumpkin
+	sapling
+	seeds/wheat seeds/crop/wheat crop
+	sugar canes
+	vines
+	wheat
+	wood
+
+.redstone_mechanism
+	activator rail
+	button
+	command block
+	daylight sensor
+	detector rail
+	dispenser
+	door
+	fence gate
+	lever
+	note block
+	piston
+	piston head
+	powered rail
+	pressure plate
+	rail
+	redstone comparator
+	redstone lamp
+	redstone repeater
+	redstone torch
+	tnt
+	trapdoor
+	tripwire hook
+	redstone dust/redstone wire
+
+.potion
+	.potion_ingredient
+	.base_potion
+	.positive_potion
+	.negative_potion
+	potion of luck
+
+.armor
+	boots
+	chestplate/tunic
+	helmet
+	horse armor
+	leggings/pants
+
+.tool
+	axe
+	bowl
+	bucket
+	carrot on a stick
+	clock
+	compass
+	fire charge
+	fishing rod
+	flint and steel
+	glass bottle
+	hand
+	hoe
+	lava
+	lead
+	map
+	name tag
+	pickaxe
+	saddle
+	shears
+	shovel
+	water
+
+.weapon/combat
+	arrow
+	bow
+	shield
+	snowball
+	sword
+	potion [use:splash]
+
+.decoration
+	armor stand
+	ender crystal
+	item frame
+	music disc
+	painting
+	banner
+
+.food
+	apple
+	baked potato
+	beetroot
+	beetroot soup
+	bread
+	cake
+	carrot
+	chorus fruit
+	cocoa beans
+	beef
+	chicken food
+	fish
+	mutton
+	porkchop
+	rabbit
+	salmon
+	cookie
+	egg
+	golden apple
+	golden carrot
+	melon
+	milk
+	mushroom
+	mushroom stew
+	poisonous potato
+	potato
+	pumpkin pie
+	rabbit stew
+	rotten flesh
+	spider eye
+	sugar
+	wheat
+
+.raw_material
+	bone
+	brick
+	clay
+	coal
+	diamond
+	dragon's breath
+	emerald
+	ender pearl
+	feather
+	flint
+	glowstone dust
+	gold ingot
+	gold nugget
+	gunpowder
+	iron ingot
+	leather
+	nether brick item
+	nether quartz
+	nether star
+	nether wart
+	popped chorus fruit
+	prismarine crystals
+	prismarine shard
+	rabbit hide
+	slimeball
+	stick
+
+.vehicle/transport
+	minecart
+	boat
+
+.manufactured_item
+	bed
+	book
+	book and quill
+	bowl
+	cake
+	written book
+	enchanted book
+	firework rocket
+
+.boss
+	ender dragon
+	wither
+
+.potion_ingredient
+	fermented spider eye
+	glowstone dust
+	gunpowder
+	redstone dust/redstone wire
+	blaze powder
+	ghast tear
+	glistering melon
+	magma cream
+	spider eye
+	sugar
+	nether wart
+
+.base_potion
+	water bottle
+	awkward potion
+	thick potion
+	mundane potion
+
+.positive_potion
+	potion of regeneration
+	potion of swiftness/potion of speed
+	potion of fire resistance
+	potion of healing/potion of instant health
+	potion of night vision
+	potion of strength
+	potion of leaping
+	potion of water breathing
+	potion of invisibility
+
+.negative_potion
+	potion of poison
+	potion of weakness
+	potion of slowness
+	potion of harming/potion of instant damage

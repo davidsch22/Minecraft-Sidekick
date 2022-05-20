@@ -1,0 +1,6 @@
+Dec value: 373:16387.
+Hex value: 175.
+Maximum stack 1.
+A splash potion of fire resistance will allow you to walk through fire and swim through lava without getting hurt. It’s the same as it’s normal counter part, but throwable.
+There are 2 types of splash potions of fire resistance, a 2:15 minute version and an 6 minute version. The further you stand from the potion’s blast radius the shorter this time will be.
+A splash potion of fire resistance is created by first adding a nether wart to a water bottle, then adding magma cream and finishing it by adding gunpowder to it. Redstone can be added to this to create the 6 minute version. Glowstone can only be added to the 6 minute version which will change it back to a 2:15 minute version.

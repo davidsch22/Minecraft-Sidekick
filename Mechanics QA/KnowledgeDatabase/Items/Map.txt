@@ -1,0 +1,60 @@
+Dec value: 358.
+Hex value: 166.
+Maximum stack 1.
+Maps are a great way to map out an area and its most prominent features. They are created using 8 pieces of paper and a compass. .
+The position where you create the map is important, as it will be the center of that map. So creating multiple maps at once will simply result in several maps with the same center. Maps spawned in through mods will always be Map_0, so you’ll have to create other maps yourself if you want to explore more areas.
+By equiping the map, the area you created the map at will show up, along with a white arrow indicating your position. As you walk, the arrow will move and map out your surroundings on the map. A single pixel on the map equals an 8×8 area in the world. So only the most prominent features will be shown.
+Maps are 128×128 pixels, so you can map out an area of 1024×1024 blocks on a single map. Going passed this area will stop showing your position arrow. If you want to map out the area beyond that 1024×1024 area, you’ll have to create a new map in that new area. Note that creating a map right after leaving the area of the old map will simply result in 2 maps that overlap each other.
+A map has to be hold in order for it to map the world, but by pointing your mouse too far down the map will obstruct your view. This sometimes confuses new players, as they think it’s impossible to look up from your map.
+Only the most used blocks in the 8×8 area will be shown as a pixel on the map. So an 8×8 area in the desert with 3 cacti will show up as a sand coloured pixel on your map.
+A map will only map out the world as it is, which means any changes made to the land will only show up if you remap your map by visiting that land again.
+Maps can also be created and used in the End and the Nether. Although it’s less useful in the End, as it’s just an island. Maps in the Nether are extemely useful as many players often get lost in the large But make sure you create landmarks out of stone as they’ll be easy to spot on a map that is otherwise mostly red and orange.
+Maps created in one dimension cannot be used in the other. If you take a Nether map to the overworld you’ll still be able to view the explored area, but your position marker does not show up.
+Maps can be used on multiplayer servers and can even be exchanged with other players. This is a very useful way to exchange the locations of secret bases and other areas, as creating a map while marking your base in the minecraft world will cause those markings to be mapped out, but removing those markings after they’re mapped out will not remove them from the map until the player with the map visits that area.
+Nether and End maps can also be given to other players, who can then travel to the End or Nether and find your secret place. Note that other players will be able to see you on their maps when you’re using or creating a map, so they can find out where your base is without you knowing. But you can also use this trick to find other players.
+Colour Blocks it could represent: Beds, Block of diamond, Block of gold, Block of iron, Block of lapis lazuli, Brewing stands, Clay, Couldrons, Gravel, Iron doors, Iron bars, Silverfish blocks, Soulsand, Sponge, All stone blocks; including ores, nether brick, obsidian, enchantment tables and other blocks made out of stone. Ice Water Grass, Mycelium All nature-type blocks, like saplings, leaves, mushroom blocks, lily pads and flowers. Gravel, Sand, Soul sand Dirt, Farmland All wooden blocks, including chests, fences, signs, wooden doors and all other blocks made with wood. Snow, Snow blocks.
+Note that transparent blocks, like glass, rails and even portal blocks and fire will show the colour of the block below them.
+The Map is an item used to view explored terrain.
+In the Console Edition, the Player spawns with a map in their inventory upon creating a new world.
+A map's parameters are fixed when the map is created, meaning the map does not remain centered on the player. When the player leaves the map, the player pointer will transform into a white dot. Note that this sphere is not shown if the player is too far from the map's center: the radius is 320 blocks per level of zoom. This dot indicates on what side of the map you are. When placing a map into an item frame, the map will display with a green pointer shown at the location of the item frame. This is to help the player see where they are in relation to the area that the map is showing.
+Crafting a map creates an empty map. This map can then be adjusted to a different zoom level. The map will be drawn for the first time when it is held and used (with use item). To record the world on a map, that specific map item must be held in the player's hands while the player moves about the world. The world will be recorded as it is at exploration time, meaning that if the world is modified a player must revisit the area while holding the map in order to update the map's view. Maps can also be cloned.
+While maps in the Nether work, all that will be shown is a red and gray pattern. The only useful function is finding where you are in relation to where you made the map (the center), or have placed framed maps (green pointers). Additionally, the direction indicator rapidly spins and is not a good indicator of direction. As long as the map was created near a portal, that map's center will always be that portal. Maps made in the End show the same red and gray pattern as the Nether. The direction indicator does work properly, however.
+A player can make a large piece of pixel art facing upwards, center and map on it, and placed that map in a item frame to create a custom picture.
+Each pixel of a map corresponds to a variably-sized area of the world, and is always aligned to X and Z coordinates that are multiples of 8. Generally, the color of a map pixel matches the color of the most common opaque block in the corresponding area, as seen from the sky. 'Minority blocks' in the target area have no effect on the color of the pixel, thus small features tend to be undetectable on zoomed-out maps.
+Maps will also show ground up to about 15 blocks below the surface of the water in oceans as slightly lighter blue, so you can see where the ground rises. This is not true with land above water. Higher elevations in the world mean lighter colors on the map. The map will record the surface even as you move below the surface.
+Maps are 128×128 pixels in size, giving coverage varying from 128×128 to 2048×2048 blocks (8×8 to 128×128 chunks) depending on their zoom factor.
+Some relevant distances: 128 blocks (8 chunks) is the update radius from a player in the overworld. However, it is half this (64 blocks) in the End and the Nether. Also, 1024 blocks is the minimum Overworld distance from a Nether Portal, at which you can build another portal and expect to reach a new location in the Nether. This is the distance across a 1:8 map, and also from a 1:16 map's center to its edge.
+The zoom functions from the time you center the map (zoom level 0) to the largest size (zoom level 4). Zoom step 0, 1:1.
+ Zoom step 1, 1:2.
+ Zoom step 2, 1:4.
+ Zoom step 3, 1:8.
+ Zoom step 4, 1:16.
+Maps are always aligned to a grid at all zoom levels. That means zooming out any map in a specific area covered by that map will always have the same center, regardless of where the map was originally centered. As such maps will be aligned by map width (1024 blocks for a level 3 maps) minus 64. As such a level 3 map generated at spawn will cover X and Z coordinates from -64 to 960. All maps generated in this area will zoom out to the same coordinates, guaranteeing that they are always 'aligned' on a map wall.
+The parts of the world that have already been explored and mapped will be copied, and newly explored areas will appear on both instances. In Creative Mode, cloned maps can be obtained by pick blocking on the map displayed on item frames (make sure the map is out of your inventory when using pick block, or else that map will just be moved into your active hotbar slot).
+Use of the F1 key can allow the player to hold a map without blocking their view at all.
+There can be no more than 65536 (2) unique maps per world. If there are too many maps, when trying to craft one it will relay the message "Can't craft map: too many maps". The highest possible Map-ID is 32767.
+A map created using /give can be any map by using the data parameter to specify the map number desired. If no data value is supplied it will default to map_x", where x is the number of the map. The first one will be map_0. If Map_0 has not ever been crafted, it will be centered on the original spawn point (not moved with beds). If the damage value is larger than the numbers of maps created then it will give you a 1:8 map in that area (which used to be the default map in previous updates). E.g. /give [player] minecraft:filled_map 1 100 <dataTag> assuming that you have not already exceeded 100 maps it will give you a default map.
+The maps are stored separately as their own data (.dat) file as map_x.dat with (x) being the map number, see map item format for more info. By manipulating this number, players can organize their maps to suit them, or if they accidentally create a map in the same location, they can delete their extra map so as to save the number they make.
+Certain programs can be used to make customized maps with images or text on them instead of actual maps, many people use these in adventure maps to show pictures or to tell a story.
+Since all copies of a map are links to the same file, copying an unfinished map will keep it synchronized with the copy as you fill it in. Thus, a copy stored in a chest can act as a remote backup.
+A fully zoomed map.
+Having a map in hand will not stop the ability to see ahead.
+Nearly fully explored map.
+A map hacked to the scale of 1.
+A map mapping the Sky Dimension. Only works in SMP.
+A map in a Superflat world, with some villages.
+A village and how it is represented on a map.
+A map containing a custom image instead of the default map.
+A completely explored map.
+A diagram showing how maps zoomed out before 1.8. Notice how the larger maps have borders made of half and quarter small maps.
+From 1.8, zoomed maps are aligned to this grid exactly.
+A map in the Nether.
+A map in the Nether, the arrow will start to turn around itself, like in compass.
+A map in the End.
+A map displayed on an item frame, as it looked before 1.7.
+Multiple maps in item frames. Notice a village, two pyramids and a lava lake.
+A collection of 9 connected full maps.
+A combination of 36 maps pasted together as one map.
+Maps can be placed into item frames so they can be viewed together.
+Clock.
+Navigation.

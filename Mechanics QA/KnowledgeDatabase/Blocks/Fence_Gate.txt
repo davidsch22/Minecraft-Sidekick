@@ -1,0 +1,28 @@
+ Fence Gates are an interactive block, similar to a door, that were first implemented in the Adventure Update (Beta 1.8) and were also implemented into Minecraft XBLA. Fence gates enable easy access to fenced in areas without climbing over blocks or ladders to gain access. They can only be opened by right clicking the gate and will always open away from the player.
+Like fences, fence gates count as one and a half blocks tall for player and mob collisnons, and one block tall for all other purposes. This means that when closed, the player cannot jump over a fence gate.
+Fences have had their hitboxes made smaller, allowing players to move remarkably closer to the gate itself.
+Fence gates are constructed by using three 2-high columns of sticks, planks, and then sticks again.
+When used with a cobblestone wall, fencegates will not be connected, but will still keep mobs from moving past it.
+Fence gates require a block below them to be placed, much like pumpkins.
+Fence gates will still work with, and be connected to, Nether Brick fences.
+A fence gate is a block that shares the functions of both the door and the fence.
+A fence gate can be mined with anything, but an axe is fastest.
+A fence gate can be used as a switchable barrier which can be opened and closed by hand or by redstone power.
+To place a fence gate, use the Place Block control while pointing at a block facing the space the fence gate should occupy. When placed, a fence gate will automatically face towards the player who placed it, regardless of any other fences around it.
+A fence gate can only be placed if there is a solid block beneath it, but after being placed the block beneath can be removed without affecting the fence gate.
+Fences, nether brick fences and cobblestone walls will connect to fence gates, but glass panes and iron bars will not. If placed and not connected to anything else, a fence gate will appear to be floating.
+A fence gate can be used as a switchable barrier.
+To open or close a fence gate, use the Use Item control. When a fence gate opens or closes, it immediately changes its orientation without affecting anything in the space it "passes through" -- moving fence gates don't push entities the way that pistons do. When opened by hand, a fence gate always opens away from the player.
+Although a fence gate appears to be only one block tall, a closed fence gate is a barrier one and a half blocks high -- most mobs cannot jump over a fence gate, and entities on top of the fence gate stand half a block above it.
+An open fence gate is completely non-solid, including the open gates. Multiple open fence gates next to each other can be passed through as if the entire space is open.
+Hostile mobs recognize the fence gate as a block and will not attack players through it unless they have already seen them.
+The sound of opening and closing of a fence gate can be heard up to 16 blocks away, like most mob sounds.
+A fence gate can be controlled with redstone power.
+A fence gate is a redstone mechanism and can be activated by an adjacent active power component, including above or below: for example, a redstone torch, a block of redstone, a daylight sensor, etc.
+A fence gate is a redstone mechanism and can be activated by an adjacent powered block (for example, a block with an active redstone torch under it), including above or below.
+A fence gate is a redstone mechanism and can be activated by a powered redstone comparator or redstone repeater facing the fence gate.
+A fence gate is a redstone mechanism and can be activated by powered redstone dust configured to point at the fence gate or a directionless "dot" next to it; a fence gate is not activated by adjacent powered redstone dust which is configured to point in another direction.
+When activated, a fence gate will immediately open. When deactivated, a fence gate immediately closes.
+An activated fence gate can still be closed by a player, and won't re-open until it receives a new activation signal (if a fence gate has been closed "by hand", it still needs to be deactivated and then reactivated to open by redstone).
+Fence gates can be moved by pistons. When an activated fence gate is moved by a piston to a position where it shouldn't be activated, it doesn't change its state until it receives a redstone update.
+Fence gates use six different ID names to determine the type of wood the gate is made from. Fence gates also use block data to determine additional data.

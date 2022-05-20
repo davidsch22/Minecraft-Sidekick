@@ -1,0 +1,5 @@
+Dec value: 373:8196.
+Hex value: 175.
+Maximum stack 1.
+A potion of poison will, of course, poison the player and cause damage over time untill the player reaches half a heart of health. The effect of the potion will remain untill its time runs out, so when the player gains health the poison will take effect again, untill the player reaches half a heart again.
+There are 3 types of potions of poison, a 45 second version, a 2 minute version and a 22 second version called potion of poison II. A potion of poison will cause half a heart of damage every 1.5 seconds. A potion of poison II will cause 1 heart of damage every 1.5 seconds. There is a final potion of poison II which lasts for a minute, but it cannot be made and is only obtainable through mods.

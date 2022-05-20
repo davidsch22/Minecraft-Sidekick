@@ -1,0 +1,37 @@
+ A Ladder is a wooden block used for climbing walls and blocks either vertically or horizontally. .
+Ladders allow the player to climb vertical surfaces. The player must place them vertically on a block. After it is placed, it can be climbed by pressing the 'forward' button while touching the ladder. Ladders can be built with 7 sticks, by building the form of a ladder in the Crafting Table. You get three ladders every time you craft it. .
+Ladders occur naturally in Strongholds, library rooms, and intersection rooms with a wooden ceiling. Ladders can also be found in NPC Villages, specifically, in tall buildings and houses with roofs which have fence railings.
+Like torches, a ladder occupies one block from the side on which it is placed and cannot be placed on glass, leaves, Ice, or Glowstone Blocks. Unlike torches, however, they resist water and will create an air pocket, like Signs. They also resist lava, and can be used instead of glass to let lava light shine through a ceiling. If you place a ladder in lava or water just on the ground not near a wall, the air pocket will be present but invisible.
+Placing ladders on snow layers make the ladder invisible but they still act as if you placed them normally.
+If you place a bucket of water in a place occupied by a ladder with no other blocks next to it, the water will replace the ladder and you will not get the ladder back.
+Attempting to place a ladder on a spot another ladder occupies may instead place the ladder somewhere near by.
+It is possible to remove a ladder while standing on a ladder and holding the sneak key, but it can take a long time because the countdown for breaking the ladder often resets.
+Ladders one block higher than the ground level the player is on can only be reached by jumping up.
+Some mobs are able to climb ladders.
+Ladders are wooden blocks used for climbing walls either vertically or horizontally. They can only be placed on the sides of other blocks.
+Ladders can be broken using any tool, but an axe is the quickest.
+Ladders occur naturally in library rooms of strongholds and in intersection rooms with a wooden ceiling. Ladders can also be found in Villages; specifically, in churches and houses with roofs which have fence railings.
+Ladders provide a way to safely cushion a player's impact after a free fall. Upon entering a ladder's area of effect, the player's speed is reduced instantly to normal ladder descent speed and no damage is taken. Care must be taken to avoid landing on the narrow top surface of the ladder, as this will incur falling damage as normal.
+Holding the sneak key while climbing a ladder will grab hold of the ladder, to prevent you from falling off. When the player is holding on to a ladder, the rate which blocks are mined decreases.
+Any mob can climb a ladder in the same way a player does: by pushing against it. Mobs are not smart enough to deliberately use ladders — they won't stay on a ladder to get somewhere, but a ladder directly in their straight-line path (or if they turn in the process) will let them climb up.
+Like torches, a ladder occupies one block from the side on which it is placed and cannot be placed on glass, leaves, ice, slabs, glowstone, or sea lanterns. Unlike torches, however, they resist water and will create an air pocket. They also resist lava, and can be used instead of glass to let lava light shine through a ceiling. If the player places a ladder in lava or water just on the ground not near a wall, the air pocket will be present but invisible.
+A ladder takes effect whenever the player's lower half is in the block occupied by a ladder. These effects are If the player pushes against a wall, the player moves upward instead. (Thus inside a 1×1 ladder shaft, the player can use any movement key to move upward).
+These effects are If the player is moving perpendicular to the ladder block and enters the ladder block, the player will begin to move upwards, but will most likely fall off the ladder shortly after, because the player will continue to move horizontally.
+These effects are The player's maximum downward speed is reduced to a “descending ladder” speed.
+These effects are The player's horizontal movement friction is the same as on ice. (That is, moving around in the tiny space the player is in while still hanging on the ladder at the same level).
+It is possible to use ladders one block apart in a corner by placing every other ladder on the other side of the corner. This method is a bit hard to use, as you will need to jump and shift sides constantly.
+By holding the jump key, players can still use water ladders that have ladders placed every other block.
+If you stop yourself on a ladder and place a sign, you will still stay in midair without having to hold Shift since the game is paused in singleplayer. This does not work in multiplayer since the game is not paused.
+Attempting to place a ladder on a spot another ladder occupies may instead place the ladder somewhere near by (because of the ladder's hitbox).
+It is possible to remove a ladder while standing on a ladder and holding the sneak key, but it can take a long time because the countdown for breaking the ladder often resets.
+Block mining time is considerably reduced if you are in a ladder.
+Unlike walking, consuming food, blocking with a sword, and pulling back a bow do not slow you down while climbing ladders.
+Like vines, ladders slow you down when walked through.
+Ladders are the only blocks that are neither flammable nor usable as furnace fuel, despite being made of wood and classified as a wooden block (other than wooden doors).
+If the player is on a slab in front of the ladder, they will have to jump to get on the ladder despite only being 1/2 a block down.
+Opened ceiling on water.
+Tunnel through water.
+Ceiling lit by ladder-suspended lava.
+Naturally occurring ladders in a stronghold.
+An abandoned mineshaft has intersected with a stronghold resulting in floating ladders.
+In versions prior to Beta 1.5, spacing ladders was a way to climb, without wasting, ladders.

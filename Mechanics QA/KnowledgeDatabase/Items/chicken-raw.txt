@@ -1,0 +1,11 @@
+Dec value: 365.
+Hex value: 16D.
+Hunger restoration: 1 hunger bar slot, with 30% chance of food poisoning.
+Hunger saturation: 1.2.
+Maximum stack 64.
+Raw chicken is obtained by killing chickens, though killing them with fire will cause them to drop cooked chicken. Chickens will only drop 1 raw chicken upon death, but this is a guaranteed drop.
+While raw chicken is edible, it’s not advised to do so. Cooking the chicken doesn’t take too long and will restore your hunger bar 3 times as much and your hunger saturation 6 times as much. Raw chicken also has a 30% chance of giving you food poisoning, which will drain your hunger bar and hunger saturation. Note that food poisoning doesn’t stack, so it’s perfectly safe to eat large amounts of cooked chicken in case of an emergency.
+Drinking milk will cure food poisoning.
+Raw chicken will restore just 1 hunger bar slot and 1.2 hunger saturation, while cooked chicken will restore 3 hunger bar slots and 7.2 hunger saturation.
+Chickens can easily by farmed by breeding them. Simply feeding them with will put them in love mode. When 2 chickens are in love mode they’ll start to “dance” around each other and after a few seconds a chick will spawn. After 5 minutes the parent chickens can be bred again.
+For the full details on breeding, click here.

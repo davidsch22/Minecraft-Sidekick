@@ -1,0 +1,4 @@
+Snowballs are throwable items.
+Snowballs can be obtained by breaking snow blocks (4 snowballs) when using a shovel without silk touch and by breaking snow layers using a shovel (1-8 snowballs, one per layer).
+Snow Golems drop 0-15 snowballs upon death.
+Snowballs are able to knockback mobs and gives the same effect as if the mob were being damaged. They deal 3 () to blazes and 1 () to Ender Dragons, but no damage to other mobs. Snowballs can also be fired from dispensers. Snowballs are affected by gravity. Snowballs behave like arrows in all ways other than the damage they deal and redstone interactions, so a snowball shot through lava will set mobs on fire.

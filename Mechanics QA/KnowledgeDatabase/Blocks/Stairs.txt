@@ -1,0 +1,48 @@
+ Stairs are blocks that allow the player to change elevation without jumping, similar to Slabs. They allow for easier movement over areas that the player would normally have to climb. Stairs can "merge" with other stairs when they meet at right angles, to create a smooth transition. This can be useful for making a roof, floor recess, etc. Stairs will naturally occur in NPC Villages and in Nether Fortresses.
+Stairs can be crafted from six Wooden Planks , six Cobblestone Blocks, six Bricks , six Stone Bricks, six Sandstone Bricks, six Nether Bricks, or six Nether Quartz Blocks producing four stairs per craft. Upon destroying the block after placement, it will yield only one of the material used to craft it.
+Brick Stairs, Stone Brick Stairs, and Nether Brick Stairs were added in the Adventure Update.
+Previously, Wooden Stairs would not burn, but as of Beta 1.6, Wooden Stairs and Fences have become flammable.
+Placing 6 Mossy Stone Brick or 6 Cracked Stone Brick in a crafting box will only make Stone Brick Stairs not Mossy/Cracked Stone Brick Stairs.
+As of version 1.2, stairs can be placed upside-down, to form an arch-like stair design.
+As of Snapshot 12w21b sandstone stairs have a crafting recipe.
+The 1.8.2 update for the XBox 360 edition added Stone Brick and Brick stairs.
+In 1.4.2 online, stairs can now join and create corners.
+Stairs are 1 of the 2 blocks that you can stand on by just walking.
+Stairs are a block that allows mobs and players to change elevation without jumping.
+Stairs can be crafted, or can be found in villages, strongholds, and nether fortresses.
+Wood stairs drops themselves as items when broken with any tool, or with no tool, but an axe is fastest. Non-wood stairs drop themselves as items only if broken with a pickaxe.
+Wood stairs must be crafted entirely from one type and color of wood, and they retain the style of that wood's type and color.
+Oak wood and cobblestone stairs generate naturally in plains villages, and sandstone stairs generate naturally in desert villages.
+Cobblestone stairs also generate naturally in strongholds.
+Nether brick stairs generate naturally in Nether fortresses.
+Spruce wood stairs generate naturally in Witch huts.
+To place stairs, use a stairs item while pointing at a surface facing the space the stairs should occupy. Stairs will place with the half-block side closest to the player.
+Stairs can be placed either right side up or upside-down Pointing at a block top or the bottom half of a block side will place the stairs right side up.
+Stairs can be placed either right side up or upside-down Pointing at a block bottom or the top half of a block side will place the stairs upside-down.
+Stairs will change their shape to join with adjacent stairs (of any material) When a stairs' half-block side is adjacent to the side of another stairs, the stairs' full-block side will wrap into an "L" shape to join the other stairs (it creates an "inner corner").
+Stairs will change their shape to join with adjacent stairs (of any material) When a stairs' full-block side is adjacent to the side of another stairs, the stairs' full-block side will shorten to join only the other stairs' full-block side (it creates an "outer corner").
+Right side up stairs won't join with upside-down stairs and vice versa.
+Walking up stairs is faster and takes less of a toll on a player's hunger bar than jumping up.
+Stairs are defined by their ID and block data. Stairs also have a block state which is expected to replace the functionality of block data in a future version.
+A stairs' ID specifies its material.
+A stairs' block data specifies its facing and whether it is upside-down.
+On the Xbox 360 edition, grass won't revert to dirt on stone or oak wood stairs, but grass can't grow on it either.
+Naturally occurring cobblestone stairs in villages.
+Naturally occurring Nether brick stairs in Nether fortresses.
+First image of upside-down stairs released by Jeb.
+Dec value: Wooden: 53 Cobblestone: 67 Brick: 108 Stone brick: 109 Nether brick: 114.
+Hex value: Wooden: 35 Cobblestone: 43 Brick: 6C Stone brick: 6D Nether brick: 72.
+Minimum tool requirement to break: Wooden version: None; Other: Wooden pickaxe; Blast resistance: Wooden version: 15; Other: 30.
+Maximum stack 64.
+Transparency: Yes.
+Stairs allow a player to go up or down a block without having to jump, making the transition between elevations much smoother. There are 5 types of stairs, stone brick, brick, nether brick, cobblestone and wood. Wooden stairs can be created with all the 4 coloured planks in any combination, none of them will have any effect on the outcome, however.
+Stairs are created by placing 6 of the corresponding blocks in a stair shape in a crafting table. 4 stairs are created per 6 blocks. Besides crafting them, cobblestone stairs can be found in villages, as well as inside Strongholds. Wooden stairs can also be found in villages, used as furniture and rooftops. Nether brick stairs can be found inside Nether fortresses.
+Stairs can be placed upside down by clicking the bottom of another block. This is often used to mimic supports at edges of rooftops or cliffs, or just to smooth out an overhang.
+Stairs are more compact than slabs, allowing for more elevation change with less blocks, but you cannot sprint on stairs, which you can on slabs. Like slabs and glass, placing stairs on chests will still allow you to open it. Red stone circuits can also pass through stairs and the lower part of stairs will not block power currents going down, when the corner of the stairs touches the corner of the block with redstone.
+Stairs are one of the most versatile blocks when it comes to decorating, mostly due to their shape, allowing for rounder and smoother structures. But they also offer some more surprising decorational possibilites. Besides their obvious use as stairs, many different types of roofs can be created using stairs, sometimes in combination with slabs and/or normal blocks. .
+Many players use stairs in various ways to create many different pieces of furniture. We’ve covered a lot of them in a seperate guide, right here. Mixing cobblestone stairs with (cobble)stone slabs and stone stairs can give the impression of broken stairs and roofs, something which looks especially good in abandoned villages and dungeons.
+(Cobblestone) steps are sometimes used to resemble rubble piles, though it’s often a bit tricky to make them look good.
+Though steps in combination with normal blocks often make for good looking, half destroyed walls.
+Similar to the slabs safe door, stairs can be arranged with the lower parts touching, to create a safe door only players can go through, as mobs will consider those blocks as 1 block high. You will need to make sure the space between the stairs is 2 blocks high, you cannot sneak through a 1.5 block high gap.
+Placing a row of upside down stairs on top of a row of normal stairs creates Greek/Roman themed columns, perfect for temples and other structures. The hole created by surrounding a stair blocks with other blocks can be used as a spying hole, but arrows cannot be shot through this hole.
+Upside down stairs are tsometimes used for the bottom side of boats, ships and other floating or flying vehicles. Arranging stairs and upside down stairs in the right way can create shelves, windows and counters. Placing stairs one block above a furnace makes for a great extractor hood.

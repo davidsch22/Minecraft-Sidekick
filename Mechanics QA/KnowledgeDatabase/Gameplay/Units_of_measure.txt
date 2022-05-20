@@ -1,0 +1,12 @@
+1 item is the most basic measurement in quantity. 1 stack = 64 Items. This applies to non-stackable and partially-stackable items as well. e.g. 64 water buckets = 1 stack of water buckets, although they do not technically stack.
+One stack of a fully-stackable material (e.g. stone, diamond) will fully occupy one slot in one's inventory.
+1 full chest = 27 slots or 27 stacks = 1,728 items.
+1 inventory = 4/3 or 1.333… full chests = 36 stacks = 2,304 items.
+1 full double chest = 2 chests-full = 54 stacks = 3,456 items.
+1 chunk = ~37.926 chests-full = 1024 stacks = 65,536 items.
+Note: 1 chunk is a 16×16×256 piece of a Minecraft map.
+The basic measure of health is one hit point 1 (). One heart 2 () is also commonly used when talking about health.
+Similarly, the basic unit in hunger is a food point -  - displayed as a chicken drumstick.
+A full hunger bar () contains 20 food points (sticks).
+The basic measure of distance is a block. One block in Minecraft is one meter cubed (1m) in real life.
+So, knowing that one block is one meter cubed, we can assume that.

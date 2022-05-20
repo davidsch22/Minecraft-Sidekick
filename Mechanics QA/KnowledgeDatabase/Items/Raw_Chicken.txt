@@ -1,0 +1,12 @@
+Raw Chicken is a food item dropped by Chickens when killed. It has about a 30% chance to add hunger status (also called food poisoning) to the player when eaten. To avoid this, it must be cooked in a Furnace and turned into Cooked Chicken.
+If killed by fire (including from enchanted weapons), the chicken will drop Cooked Chicken instead of Raw Chicken.
+Raw Chicken and Rotten Flesh are the only foods that can cause food poisoning.
+Food Poisoning can be cured by drinking Milk.
+Raw Chicken won't cause food poisoning when eaten in Minecraft: Pocket Edition, as there is no food poisoning in that edition.
+Raw chicken is a food item which can be eaten by the player, or cooked in a furnace to make cooked chicken.
+Raw chicken is dropped by chickens when they die. Each chicken drops one raw chicken. It does not matter if the player was involved in the chicken's death, and the Looting enchantment will not increase the number of raw chicken drops.
+Chickens that die while on fire will drop cooked chicken instead.
+To eat raw chicken, press and hold use while it is selected in the hotbar. Eating one restores 2 () hunger and 1.2 hunger saturation, but has a 30% chance of inflicting food poisoning (the Hunger effect for 30 seconds).
+Raw chicken can be used to heal or breed tamed wolves without risk of food poisoning.
+Butcher villagers will buy 14-18 raw chicken for an emerald.
+Chicken in the inventory, which also shows how they stack up.

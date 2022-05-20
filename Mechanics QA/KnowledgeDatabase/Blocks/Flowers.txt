@@ -1,0 +1,42 @@
+Flowers are a type of natural plant in Minecraft that are useful for getting Wool Dyes to color wool blocks, sheep, stained hardened clay, or stained glass into different colors which can then make paintings, or as decorative blocks to be placed around or in your home in Minecraft.   .
+While they can be planted on grass and dirt blocks, flowers cannot be cultivated like trees, sugar cane, or other crops, but can occasionally spawn when bonemeal is used to generate patches of tall grass. They appear to spawn randomly in clusters on grass blocks. There are different types of flowers.
+To survive, they must be planted on a grass or dirt block that either does not have a block any altitude above it to obstruct sun/moonlight, or is lit with at least a light level of 8. If neither of these conditions exist, the flower will quickly pop out. This attribute allows flowers to be used in the creation of light-sensitive mechanisms.
+Even in a biome covered with snow, flowers will generate naturally on dirt blocks with grass, despite the adjoining dirt blocks being covered with snow.
+There are several types of new two-block tall flower (i.e. Sunflower). Unlike other flowers, these are not regenerated with bonemeal. They can, however, be "grown" be using bonemeal on the flower itself. This will create a replica of the flower for use without worrying about running out.
+ Dandelion flowers are yellow, and can be collected in one hit and placed in a crafting grid to create 2 units of Dandelion Yellow dye. In PE, they are called "Flowers".
+ Rose bushes, can be collected in one hit and placed in a crafting grid to create two units of Rose Red dye. They are also somewhat rarer than Dandelions; usually being alone or in groups of 3-4.
+Note: As of Update 1.7.2, Roses have been removed. All Roses will transform into Poppies when the update is applied.
+ Cyan Flowers can only be obtained in Minecraft Pocket Edition. Cyan Flowers spawn randomly similar to Rose flowers (and the actual in-game name is Rose), but they do not craft into any wool dyes. In 0.8.0, tall grass and ferns have been confirmed to spawn when using bone meal. Cyan flowers were supposed to be in the PC version of Minecraft but were removed. In update 0.9.0 they were replaced by Poppies.
+ Sunflowers are flowers that were added in Minecraft 1.7. Unlike the other flowers, sunflowers were originally planned to have a more "realistic" appeal to them, however, it was said that it went against the classical Minecraft arts, and was changed to a more subtle appearance. Sunflowers are capable of growing up to two blocks high, and always face the east, the direction the sun rises in. They are found in large quantities in Sunflower Plains biomes.
+ Lilacs were added in Minecraft 1.7. Lilacs are two blocks tall, like sunflowers. They are also purple.
+ Paeonia, or Peony, is another flower introduced in Minecraft 1.7. They have a pink color to them and resemble a real life variant. They are also in 0.9.0 in PE. .
+ Tulips are a special variant of flower added in 1.7. They can be found in many colors, where others are only a single color.
+ A Poppy is a flower added in 1.7. They are very similar to roses, but are smaller. Poppies replaced roses as an Iron Golem drop, and any existing rose will be replaced with this, as they have the same data value.
+ A Blue orchid is a light blue flower. It can be crafted into one light blue dye. It is found in swamps and taigas.
+ The Oxeye Daisy is a simple flower that can be crafted into Gray Dye. They can typically be found in Plains.
+On SMP, placing a flower on a stone block with a layer of snow on top would result in the flower being planted normally. This was fixed in 1.5.
+Due to the nature of their spawning algorithm, it is possible (but relatively rare) to find naturally-spawned flowers in lava caverns.
+In 1.8, a map generation glitch made it impossible to find red flowers without using Bone Meal. This has been fixed in 1.9.
+In the pirate language, a rose is called "lady's flower.".
+In Minecraft Classic, when flowers are placed on other objects other than dirt, they will disappear. Similarly, this happens to mushrooms as well.
+In Minecraft Classic, flowers can also be glitched to float in mid-air, seen by the game as one block beside another block.
+In Minecraft Pocket Edition Lite, when digging up a Cyan Flower, it will provide a drop that when collected, will just vanish. You can only place these in the full version. This same effect happens with wood.
+Because new updates are not added to any PlayStation 3 game discs, Flowers introduced in 1.7, like the Sunflower, are not found in such copies until updated, and roses can be found until then.
+ Flowers can be found on dirt and grass blocks all over minecraft, including in snow biomes, just like tall grass and ferns. Flowers cannot be farmed in the way you’d farm wheat or mushrooms. The only way to create more flowers is by using bonemeal on grass, which will grow both types of flowers and a lot of tall grass on and around that block.
+Flowers require a light level of 8 or more to survive, anything below level 8 will cause the flowers to pop out of the ground. This can be used to quickly harvest a large field, though water is often more effective as it also takes the flowers, along with the seeds from tall grass, in it’s flow, possibly to a specified gathering spot.
+Dec value: 37.
+Hex value: 25.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Dandelions are widely available in almost every biome, often occuring more than roses. It’s easy to walk through a field and pick a large quantity of dandelions in a short amount of time, but the fastest way to gather them is by using bonemeal on grass.
+Dandelions are often used in decorative gardens, but can also be crafted into 2 pieces of dandelion yellow, which is a yellow dye, used to paint wool and sheep, as well as being able to combine it with rose red, to create orange dye.
+Dec value: 38.
+Hex value: 26.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Roses are often harder to find than yellow flowers. They often grow alone, though fields of roses are also possible. Iron golems can sometimes carry a rose and killing them will have a chance to drop up to 2 roses. The easiest way to get roses is of course using bonemeal on grass blocks, though even then you often end up with more yellow flowers.
+Roses are often used in decorative gardens, but they can also be crafted into 2 pieces of Rose Red, which is a red dye, used to paint wool and sheep, as well as being able to combine it with other dyes, to create other dyes.

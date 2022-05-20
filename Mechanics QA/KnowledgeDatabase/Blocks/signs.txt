@@ -1,0 +1,13 @@
+Dec value: Item:323 Mounted:68 Standing: 63.
+Hex value: Item: 3F Mounted: 44 Standing: 143.
+Minimum tool requirement to break: None.
+Blast resistance: 5.
+Maximum stack 1.
+Transparency: Yes.
+Signs allow you to write short messages, instructions or rules on them. Due to the small space, several signs are often used to write longer messages. Signs are created using 6 wooden planks and a stick. You can use any combination of wood colours, though this will not change the result, signs will always look the same. Signs can be broken without the use of tools, but axes are much faster.
+A sign can be placed on the sides of other blocks and on top of blocks, on which they’ll be supported with a small stick. Unlike torches and other similar blocks, signs can be placed on every block, including other signs. Signs placed on top of blocks will always face you and can be placed in any direction, not just north, east, south or west, but every angle.
+Once you place a sign, a small box will pop up on which you can enter your desired text. You can only enter 15 character per line, up to 4 lines. You can also leave them blank. To get to the next line, either press enter or use the up and down arrows.
+It’s not possible to insert text in the middle of a line, which means that if you’ve made a spelling mistake or wish to change the message, you have to delete most of the line to get to your mistake. Once you close the input box the text will be displayed on the sign. You can only change the text by breaking the sign and replacing it.
+The text on signs is black by default. It’s possible to change the colour by using mods and map editors. You can find how to do this in a seperate guide, right here.
+Signs are not just used to write messages. They’re often used as decoration, most commonly as part of furniture. There’s a wide variety of furniture you can make signs, so we’ve put most of them together in a seperate guide, right here.
+Signs also make great borders for plant pots and similar objects. By placing them around the sides of one or several grass blocks, a nice looking plant pot is created. Signs will hold up water and lava. Because signs can be placed on each other, the whole ceiling can be covered with lava or water. Covering the ceiling with rows of signs adds a nice wooden beam effect.

@@ -1,0 +1,14 @@
+Dec value: 331.
+Hex value: 14B.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Redstone dust can be placed on the ground to create a redstone wire which can transfer power from any power supplier, like levers and pressure plate. Redstone is also used as an ingredient in brewing. Adding redstone to an existing potion will increase the duration of the potion’s effect. Redstone is also used in various crafting recipes, found at the bottom of this article.
+Redstone is mined from redstone ore, which drops 4-5 pieces of redstone. An iron pickaxe is required to mine redstone ore. Using a pickaxe with the silk touch enchantment allows you to harvest the redstone ore block itself, which could be useful to store larger amounts of redstone, but is usually only used for decoration.
+When redstone is placed on the ground it will automatically connect itself to other redstone wires, as well as some blocks, like repeaters, red stone torches and powered rails. But most blocks that receive power will not be connected automatically. Redstone wires can be removed by just a single click. No tools are needed, any tool you do use will lose durability.
+Connecting redstone wires together allows a power current to be transfered up to 15 blocks away from its source, after which it has to be repeated by a redstone repeater. Redstone can go up or down 1 block, which is shown by a redstone wire running along the side of the block, but it cannot be placed on the sides of blocks by a player.
+Redstone wires are dark red when they’re not powered and turn slightly brighter when power flows through it, turning darker the further it travels from a source. While redstone can be connected to other redstone 1 block higher, placing another block directly above the lower redstone will cut off the power supply. This can easily be seen as the wires are cut off where the corners of the blocks meet.
+Redstone is often used in mechanisms and other redstone circuits, but they also offer other practical and decorational uses. It’s often useful to craft redstone torches and place them as visible beacons to show you to an exit, especially in large caverns and abandoned mineshafts.
+Redstone wires can also be used, but they’re less visible.
+Redstone is quite useful and cheap way to draw lines, either is borders to your land or to draw a game field on the ground, like a running track or a dodgeball field. Due to its dark red colour, redstone is sometimes used to mimic blood spatters in dungeons and other buildings. Redstone can also be used in obisian farms.

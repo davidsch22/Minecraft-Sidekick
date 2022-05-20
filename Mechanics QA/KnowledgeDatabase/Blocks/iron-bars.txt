@@ -1,0 +1,11 @@
+Dec value: 101.
+Hex value: 65 M.
+inimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: Yes.
+Iron bars serve both as fences and as a type if window, usually prison bars. Iron bars can be found in villages and strongholds, but can also crafted by players using 6 iron ingots. Iron bars behave just like glass panes. If an iron bar is placed without any other block next to it, the bars will look like a cross.
+Placing a block next to it will cause the bars to attach itself to that block and flatten itself out, though blocks can be placed in each direction to still create cross or T shaped bars. Water will not flow through iron bars, so they can be used as airpockets and water cages. Paintings and signs can be placed on iron bars, but will make it look like they’re floating.
+Iron bars serve as a great border, as they block the line of sight of mobs, while you can still look through it. However, spiders and ghasts can see through walls and will follow you around untill there’s an opening to attack you through. Unfortunately, iron bars don’t allow arrows to be shot through, making them less useful as safe sniping spots.
+Iron bars have the same blast resistance as stone blocks, which means they’re weak enough to be destroyed by any explosion, but they’ll protect the blocks behind it. If the iron bars are placed in a 2×2 horizontal grid, players and small mobs can fall through the gap in the middle, which can be used for some traps.
+Iron bars are rarely used as anything other than prison bars, though they’re quite useful as garden fences and other seperation methods, as the player can stand inside half the block of the iron bars and, unlike fences, it’s possible to jump over them. Iron bars can be pushed and pulled with pistons. This makes for great prison doors and castle gates.

@@ -1,0 +1,4 @@
+Dec value: 373:8197.
+Hex value: 175.
+Maximum stack 1.
+A potion of healing will instantly heal you, which is great as a last resort or to quickly heal up between battles, but drinking a potion will leave you open to attacks. There are 2 types of potions of healing: potion of healing and potion of healing II. Potion of healing will heal 3 hearts, potion of healing II will heal 6 hearts.

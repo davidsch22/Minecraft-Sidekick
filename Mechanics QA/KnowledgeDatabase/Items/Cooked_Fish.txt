@@ -1,0 +1,9 @@
+This is about the fish introduced before Minecraft 1.7. .
+Cooked Fish is a type of food available since the Beta release of Minecraft. Cooked Fish can be obtained when Raw Fish is cooked in a furnace. Cooked Fish heals 3 times more than Raw Fish, which heals . But, unlike raw fish, cooked fish cannot be used to tame an Ocelot. Cooked fish has medium food saturation and will keep the player from losing a shank for a period of time.
+Cooked fish is a food obtained by cooking raw fish.
+Cooked fish can be obtained in quantities of 6 from a fisherman villager for 6 raw fish and 1 emerald.
+Cooked Fish can be eaten for 5 () hunger points and 6 saturation.
+Raw Fish.
+Raw Salmon.
+Pufferfish.
+Clownfish.

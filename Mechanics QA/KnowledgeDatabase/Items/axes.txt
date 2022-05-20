@@ -1,0 +1,9 @@
+Dec value: Wood: 271 Stone: 275 Gold: 286 Iron: 258 Diamond: 279.
+Hex value: Wood: 10F Stone: 113 Gold: 11E Iron: 102 Diamond: 117.
+Durability: Wood: 60 Stone: 132 Gold: 33 Iron: 251 Diamond: 1562.
+Maximum stack: 1.
+Axes are used to chop wooden items faster than by hand. They’re not a requirement to use in game, but crafting in axe is definitely advised to speed things up a bit. Axes are crafted by the player using 2 sticks and either 3 planks, cobblestone, iron ingots, gold ingots or diamonds. Stone and wooden axes can be found in the bonus chest, which will save you a few minutes when you start a game.
+Diamond axes are the strongest axes in terms of durability, lasting 1562 uses. Gold axes are the fastest axes, but they only last 33 uses. It’s possible to prevent axes from taking durability damage by chopping a block to almost its breaking point and then switching to another item. Note that switching to a tool that can take durability damage, will take durability damage.
+Axes can be used as weapons and they’ll do half a heart less damage than swords of the same material, but axes will take double durability damage when used on mobs and players and they require an extra material resource to be made. Axes are the strongest tools in terms of damage, so if you don’t have a sword, the next best thing will be an axe.
+Like most tools, axes can be enchanted. Some enchantments will increase the speed, while others will increase your yield.
+It’s possible to combine two damaged axes of the same type in any crafting interface, which will create a new axe of the same type with the durability of the old ones added together, plus 10%. Note than any enchantments on the old axes will be lost.

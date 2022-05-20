@@ -1,0 +1,35 @@
+Bread is a food added in Indev, and available in Indev, Alpha, Beta and the Official Release. It is crafted from three Wheat.
+Like all other Foods, Bread used to restore health, and restored a rate of 2.5 Hearts/Bread (Hearts per Bread). It did not stack back then, making storage of bread overly expansive.
+With the introduction of the Hunger system, Bread was converted from restoring health to restoring hunger, keeping the same restoring value as before 1.8.
+Wheat farming is reliable. Pigs and mushrooms are spawned randomly. Though both are relatively plentiful, it is more reliable to obtain food from a field of crops than to hunt for randomly generated entities.
+A field of crops may be left to grow for 2–3 days while mining underground, then harvested and re-planted upon returning to the surface, ensuring a reliable source of food and allowing for relatively uninterrupted mining.
+Farming may be slow at first, but in the end can be more efficient than farming mushrooms for mushroom stew.
+Farming is safer in many cases as the farm can be placed in a guarded area close to a shelter. Fields can be safely harvested at night - to get grilled pork or mushrooms after sunset places the player at greater risk of being attacked by hostile mobs.
+Early on, it is much easier to find wheat seeds, as merely breaking tall grass might give you wheat seeds. Carrots are much rarer, as they are a rare drop from Zombies and are found in NPC Villages, and Melons can only be found in abandoned Mineshafts or purchased through trading with NPC Villagers.
+Farming can be lengthy. It takes creating a hoe, getting seeds, plotting a field, planting, and the wait to harvest.
+It doesn't heal as much as a cooked porkchop or steak does, so more bread is needed.
+When Compared to Carrots, Bread is less efficient space-wise and requires a crafting table to make, while Carrots do not.
+Farming can be broken easily if it's hydrated but if it's non-hydrated it'll take a long time but rarely breaks, so you need to put fences just in case mobs tries to break your wheat.
+Cake cannot be stacked and takes up far more space in the inventory.
+Bread can usually be found in Dungeon chests and abandoned mineshaft Minecart with Chest.
+Bread can be purchased from NPC Villagers.
+Bread is a food item that can be eaten by the player.
+Stacks of bread can be found in several types of naturally generated chests Bonus chests: 2–3 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Dungeons: 1 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Mineshafts: 1–3 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Villages: 1–3 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Strongholds (slab altars and store rooms): 1-3 bread per stack.
+Villager farmers will sell 2–4 bread for one emerald as part of their initial tier of trades.
+Villager farmers may craft wheat they harvest into bread and throw it at other villagers.
+To eat bread, right-click and hold while bread is selected in the hotbar. Eating bread restores 5 () hunger and 6.0 hunger saturation.
+Bread can be used to make villagers willing to breed by dropping bread so they pick it up. When their inventory fills up, they might throw some bread at other villagers.
+Note: At around 0:19 in the video, the narrator says that bread restores three hunger points. That is not true, as bread restores 5 () hunger.
+Dec value: 297.
+Hex value: 129.
+Hunger restoration: 2.5 hunger bar slots.
+Hunger saturation: 6.
+Maximum stack 64.
+Bread is created from wheat and is one of the easier food items to farm fast and in large quantities. It can also be found in chests in dungeons, abandoned mineshafts and strongholds, as well as in the bonus chest.
+Bread is one of the weaker food sources when it comes to hunger bar restoration and hunger saturation. All meats (once cooked) are better, however, depending on the size of your farm, bread is often easier to obtain. Bread will restore 2.5 hunger bar slots and 6 hunger satisfaction.
+Farming wheat is very easy. You start by planting seeds on farmland, which will grow into wheat over time. The seeds will require light of level 9 and hydrating the farmland will increase the growth speed.
+After a while the seeds will have grown through several stages and reach maturity, at which point the wheat can be harvested. You can use bone meal on the planted seeds to instantly grow the wheat, no matter at which growth state it is. This can be very useful to create large amounts of bread or to breed a lot of animals.

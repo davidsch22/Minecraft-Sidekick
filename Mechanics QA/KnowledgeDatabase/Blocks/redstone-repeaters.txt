@@ -1,0 +1,11 @@
+Dec value: Item: 356; Block: 93.
+Hex value: Item: 164; block: 5D.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64 Transparency: Yes.
+Luminance 9, when activated.
+Redstone repeaters can extend a power supply beyond 15 blocks, as well as add a delay and act as a one way circuit (diode). A repeater can only receive power from 1 side, which it then repeats and sends out of the ‘front’. The repeating process is basically a recharging mechanism. Redstone power can only travel up to 15 blocks away from its source. Repeaters will act as a redstone source when it receives power, sending a fresh power supply out of the other end which can travel another 15 blocks.
+Repeaters have a slider which can be clicked to change it. This slider will add a delay to the power it supplies. The default position delays the power by 0.1 second, but can be extended by 0.1 second per slide, up to 0.4 seconds. Other repeaters can be connected with each other, which means you can set the delay of any mechanism quite accurately, though for long delays (5+ min) it’s often better to use item despawning clocks.
+Repeaters can only receive power from it’s ‘back’, which is very useful when you want to create seperate power supplies, as redstone dust will connect to every redstone next to it. Repeaters can receive power from every type of power supplier, including other repeaters and redstone wires.
+Repeaters will pass their power to anything that can receive power, like rails, note blocks, dispensers and redstone lamps. They will also pass their power into normal blocks that can pass power, which means they can activate redstone on the other side or on top that block. This allows for a compact vertical transfer of power.
+Repeaters are widely used in many redstone circuits, most commonly in clocks.While redstone torches can burn out, repeaters cannot. By connecting 2 or more repeaters and then activating them shortly, by using a button for example, a clock is made and can be set reasonably accurately. Torches can be used in combination with repeaters to make self powering clocks, though if you use only 1 repeater it has to be set to at least a delay of 3 or the redstone torch will burn out.

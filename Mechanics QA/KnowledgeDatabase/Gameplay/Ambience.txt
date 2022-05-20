@@ -1,0 +1,52 @@
+Ambience (sometimes called cave noises) is a set of sounds that occasionally play when the player is in close proximity to a dark cave. They were made by C418, who also composed Minecraft's music. Ambient sounds can be played in any dimension, including the Nether and the End and can be heard in both singleplayer and multiplayer. Despite their name, they are not sounds that one would expect to hear inside of a cave, such as falling pebbles or dripping water, but rather supernatural noises frequently likened to demonic or ghostly moans, vehicles, ringing bells and instruments.
+Ambient sounds can play in a space of any size, but they seem to play much more likely in larger spaces positioned 10 - 20 blocks away from the player in any direction, and completely filled with a light level less than 8 without any lighting from the sky (the ambience will more likely play from the direction of lower levels because of a lower light level). The space does not need to be sealed off - a sound can even play from a space that the player can actually see - nor does the player need to be underground to hear it. The sounds can also come from player-created spaces, even if that space is a box above the clouds.
+Ambient sounds are found in the resources/newsound/ambient/cave from the .minecraft folder. They play randomly in different pitches, like other sounds of Minecraft do. There are 13 sounds (Cave 1 - 13) in total.
+A loud, ghostly screech, often compared to the whistle of a train or a wolf howling.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+An echoing choir of angelic voices.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A quiet, low pitched rumble.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+The roar or breath of a demon or a blowing distant wind.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A loud, eerie, ear-piercing ringing.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A car or train passing by.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A low-pitched, quiet sound like somebody hitting a gong.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+The sinister grunt of a demon or a blaze breath.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A flying distant jet plane, distorted thunder or an echoing minecart.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A loud violin screech, like a ghast or mouse screaming.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A waterfall or a train going by.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A distorted bell ringing, blaze roaring or an echo of a demon.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+A ghostly roar, echoing wind, or a zombie growling.
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+Ambience is not a direct indicator of nearby ores, underground structures, mobs, etc. However, following them can still lead the player to such things indirectly, since they often emanate from unlit places.
+Ambience can be used to detect areas where hostile mobs are able to spawn, since both require a light level of less than 8.
+Due to the unsettling atmosphere of ambience, these sounds can be frightening to some players. However, they do not represent any immediate danger. They only play in deep darkness. If you do not want to hear the sounds, ambience can be disabled by turning off Ambient/Environment sound, though this also means all environment sounds are turned off.
+If the fifth sound is listened closely, presumably at loud volume, sounds of thumping can be heard, like someone walking.
+If the seventh sound is listened closely, a short creak or a sizzle can be heard near the beginning.
+The eighth sound resembles a stretched blaze sound. Although it sounds like there is one nearby, blazes are very rarely encountered outside the Nether, unless it has traveled through a Nether portal or has been spawned using a spawn egg.
+On rare occasions ambient noises can be heard if the player is standing by an ocean or deep body of water, regardless of light level outside the water. This is because deep bodies of water have very low light levels making this possible.
+The rarest sound to hear is 1.
+11 12 and 13 seem to be the same sound at different pitches. The length of the sound is different in each one though. The pop heard at the beginning is an error and can sound different each time you play the sound (most noticeable on 12).
+On Superflat worlds, even when the light level is 15, ambience can still be played.

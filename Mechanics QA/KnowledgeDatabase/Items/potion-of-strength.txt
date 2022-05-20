@@ -1,0 +1,5 @@
+Dec value: 373:8201.
+Hex value: 175.
+Maximum stack 1.
+A potion of strength will increase the damage you do to any mob or player and is one of the most used potions on pvp servers. There are 3 types of potions of strength, a 3 minute version, an 8 minute version and a 90 second version called potion of strength II.
+A normal potion of strength will increase your damage output by 1.5 hearts. A potion of strength II will increase your damage output by 3 hearts. Note that armour will still block some of this damage. There is a final potion of strength II which lasts 4 minutes, but this potion cannot be made and is only obtainable through mods.

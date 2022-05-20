@@ -1,0 +1,5 @@
+Large Biomes is a World Type.
+Large Biomes cause the biomes of the Overworld to be expansive. The player can use a map to gain a visual representation of the scale of the biomes in their world.
+Large Biome worlds are generated as Default worlds, but 16x bigger. A Default and Large Biome world sharing the same seed will be the same overall geographically, but the Large Biomes world will be approximately 16 times bigger, with the x and z axis multiplied by 4.
+Rivers are not larger than they are in a default world.
+Example of a massive Plains/Extreme Hills Biome on a map.

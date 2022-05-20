@@ -1,0 +1,9 @@
+Third person view is a viewpoint from outside of the player in which the camera does not show the player's eye level, but instead shows from behind the player.
+Third person view can be activated by pressing F5 (or fn+F3 on some computers). Pressing F5 once will display the back of the player in third person view, twice will display their front, and three times revert back to first person view.
+If the player suffocates while in this mode, the camera will switch back to first person view. This does not apply to Pocket Edition.
+A third person face view can also be seen while the inventory is open, the player there will always be facing towards the cursor.
+When in third person view, the player can be viewed at an angle of 0 degrees and from the front of the player at 180 degrees (Y axis) when the mouse is leveled with the ground.
+In Pocket Edition, third person view allows the Player reach further than in first person.
+Third person view as seen from the front of the player.
+Third person view as seen from the back of the player.
+Shoulder camera in Alpha.

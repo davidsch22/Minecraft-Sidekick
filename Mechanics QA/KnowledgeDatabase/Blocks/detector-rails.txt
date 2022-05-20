@@ -1,0 +1,9 @@
+Dec value: 28.
+Hex value: 1C.
+Minimum tool requirement to break: None.
+Blast resistance: 3.5.
+Maximum stack 64.
+Transparency: Yes.
+Detector rails are basically pressure plates on rails. When a minecart is on top of it, the rails will send a pulse to the blocks under and next to it.
+This is very useful to create redstone clocks and allow for some form of randomization by making various tracks overlap into each other. They can also be used to permanently activate something by making a minecart stop on top of it. This is sometimes used in adventure maps, in which the tracks lead to the next part of the map and opens a door once the minecart reaches the end of the tracks. Detector rails can be combined with powered rails to speed up minecarts without having to use redstone torches to permanently power the tracks.
+Some people use detector rails when they’re making a song with noteblocks, though it’s often much easier to use redstone repeaters to set the time, detector rails allows you to create a journey around the song, showing the right thing on the right note. Detector rails make for the perfect trap by connecting many arrow or firecharge shooting dispensers to it. Make sure you place them far enough in front of the tracks, if the minecart goes too fast the dispenser will simply shoot behind the player.

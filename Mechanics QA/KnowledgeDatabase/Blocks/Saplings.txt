@@ -1,0 +1,39 @@
+Saplings are an important resource that allows trees to be grown to replace those cut down by players in search of wood.
+The saplings come in 6 types: Oak, Birch, Spruce (also known as pine or evergreen), Jungle (redwood), acacia, and Dark Oak.
+ Oak is chestnut and has green leaves. The leaf color of these trees is biome-dependent.
+The saplings come in 6 types: Oak, Birch, Spruce (also known as pine or evergreen), Jungle (redwood), acacia, and Dark Oak.
+ Birch is white with black spots and has emerald leaves.
+The saplings come in 6 types: Oak, Birch, Spruce (also known as pine or evergreen), Jungle (redwood), acacia, and Dark Oak.
+ Spruce is dark brown with dark green leaves. There are 1x1 and 4x4 variants of the tree. The 4x4 variants spawn in Mega Taiga biomes.
+The saplings come in 6 types: Oak, Birch, Spruce (also known as pine or evergreen), Jungle (redwood), acacia, and Dark Oak.
+ Jungle trees have a cocoa color to it and it has bright green leaves. The leaf color of these trees is biome-dependent. When 4 jungle saplings are placed in a square and you use bone meal on it it makes a thick jungle tree found in jungle biomes.
+The saplings come in 6 types: Oak, Birch, Spruce (also known as pine or evergreen), Jungle (redwood), acacia, and Dark Oak.
+  Acacia trees have a different formation than the rest of the trees and are only found in Savannah biomes. They are an orange color.
+The saplings come in 6 types: Oak, Birch, Spruce (also known as pine or evergreen), Jungle (redwood), acacia, and Dark Oak.
+  Dark Oak trees have the same texture as regular Oak wood but have a darker shade to them. They are found only found in Roofed Forest biomes and will only grow in 4x4. Because of this, 4 saplings are needed to grow one tree. They are dark brown in color.
+Dead bushes may look like saplings, but it is withered and will not grow, even when adjacent to water. Dead bushes are solely used for decoration.
+Saplings can be planted on any Dirt or Grass block, and will grow into a new tree if they are exposed to a light level of at least 9 in the block above the sapling, and have at least a certain number of empty blocks, depending on sapling type, above the sapling itself. Normal saplings need a 1x6x1 area, birch saplings need a 5x7x5 area, and pine saplings need a 7x10x7 area. Jungle saplings need either a 5x7x5 area for normal sized trees, and at least a 10x30x10 area for the huge variant. Acacia needs a 3x3x7 minimum area to grow. Dark Oak needs a 5x5x7 minimum area to grow, but needs to be at least 2 blocks away from any wall. A glitch with growing Dark Oak trees allows them to break blocks under the actual tree. Using this glitch, it can remove any block under the Dark Oak, including bedrock.
+Saplings are dropped with a random chance when leaves wither, or are destroyed by the player in survival mode. The withering behavior of leaves is explained in detail in the Leaves article. There are various saplings for each tree type as of Beta 1.5. Most tree canopies will drop at least one sapling block, though they may drop more, and large tree canopies should drop several if completely denuded. .
+Aside from being able to grow into new trees, saplings can be used as a fuel source in Furnaces. They are only able to smelt half an item, which means 2 saplings are needed to smelt a full item. Saplings can also be placed in Flower Pots as a decoration.
+If the player stands on the same block as a placed Sapling as it grows into a tree, wood blocks will grow on top of them, causing suffocation.
+It is possible to plant a sapling anywhere, provided dirt or grass is available, however, it cannot grow unless it meets certain requirements.
+It is possible to count Mushrooms as saplings as in mushroom biomes, Mushroom can grow into huge mushrooms.
+The Dead Bush is a retextured version of the oak sapling.
+Jungle trees can be grown in a 2x2 formation as well as their 1x1 formation. Dark Oak also grows in a 2x2 area but does not have a 1x1 variant.
+Jungle Sapling grown in the Nether.
+Oak sapling texture from 1.2 - present.
+Add a photo to this gallery.
+Dec value: Oak: 6 Pine: 6:1 Birch: 6:2 Jungle: 6:3.
+Hex value: 6.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+There are 4 types of saplings, oak, birch, pine and jungle. Saplings are a rare drop from destroyed or decayed leaf blocks. The leaf blocks will only drop from leaves of the corresponding tree.
+The saplings can be planted on dirt, grass and farmland and will grow a tree over time. Farmland will not affect the speed at which the tree grows and will simply revert to dirt once the tree is fully grown.
+Bonemeal can be used to instantly grow a tree, which is often used when farming large amounts of timber. Unlike wood and leaves, saplings are inflammable.
+Saplings require a light level of 9 or higher, if it’s lower the seed will pop out of the ground. This will not happen if the sapling is directly exposed to the sky. However, saplings will grow in any light conditions if you use bonemeal on it. They also require enough space to turn into a tree, which is 6 blocks for birch and oak saplings, 7 for pine and jungle saplings. Its also possible to grow a large jungle tree by placing 4 jungle saplings in a 2×2 square. Saplings only require a single block to grow, so they can be grown in the middle of the ocean or flying up high in the sky.
+Trees cannot grow higher than the map’s height limit, unless you use a mod. Unlike huge mushrooms, the growth height of trees cannot be contained. It will simply grow through whatever blocks are blocking it, popping out on the other side.
+It’s quite easy to farm trees, as all you’re really doing is planting a sapling and waiting for it to grow into a tree. You could speed things up by applying bonemeal, but unless you’re in direct need of wooden planks or logs, using bonemeal generally isn’t really needed.
+However, there are a few tricks you can use to make farming trees, including large jungle trees, a bit easier and more efficient.
+We’ve covered those tricks in a seperate guide, right here.

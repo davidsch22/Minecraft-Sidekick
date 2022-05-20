@@ -1,0 +1,22 @@
+ The Lily pad first appeared in the Beta 1.9 prerelease. It can only be placed in Water and drops when destroyed. Players can place Sugar Cane and other flora on the Lily Pad. You can also stand on the Lily pad and not fall in the water. You can jump on them too.
+Lily pads are destroyed when the water beneath it freezes and becomes ice.
+Lily pads are destroyed when water flows on it. This can be used to climb by alternating the placement of lily pads and water source blocks without leaving the placed lily pads.
+If a lily pad is placed on the water in a farm, the water will still irrigate the nearby tilled land. This is because they are transparent.
+A boat can break lily pads,eventually lily pads will break the boat.
+If you sprint while placing a lilypad down you can practically sprint jump on water.
+The Lily Pad is a collectable block found growing on water in swamplands.
+Lily pads can be instantly mined with anything.
+Lily pads can be found naturally on water in swampland biomes. It is also possible for lily pads to generate on the surface of underground lakes.
+Lily pads can be obtained as a "treasure" item while fishing.
+Lily pads can be used to make paths over water without having to build bridges or use full blocks. Lily pads are broken and drop as an item when water flows on it. Mobs cannot spawn on lily pads.
+Lily pads can only be placed on top of water. Lily pads occupy the block above water and are not part of the water block itself.
+Lily pads face a consistent direction which depends on their location and is not affected by the direction the player is facing. Replacing a lily pad will not change the direction.
+Lily pads break and drop as an item when the water beneath freezes.
+When lily pads are placed on water source blocks that do not take up the space of the entire block (when the water is flowing to the block next to it), the lily pad will appear floating above the water source block.
+In the Console Edition, if a swamp is next to a taiga at the edge of the world, lily pads in the swamp may spread to the taiga ocean, which could be frozen, causing it to generate on ice.
+Lily pads are the shortest solid block in Minecraft, being a measly ⁄64 of a block tall.
+If you sprint on lily pads, they will appear to give off water particles. This is because the game thinks you are technically on the water below the lily pad.
+Lilypads in a swamp biome.
+A lilypad generated in cave under swamp biome.
+Four lily pads on flowing water.
+A walkway of lily pads in a farm of melons and pumpkins that allows easy harvesting.

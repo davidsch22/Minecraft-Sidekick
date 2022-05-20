@@ -1,0 +1,46 @@
+ A Redstone Repeater is a redstone block. It can act as a repeater, a diode, or a delay.
+A repeater extends a powered redstone current by fifteen blocks. The repeater can delay this current by up to four tenths of a second. Repeaters will have their movable torch become a horizontal bar if powered from the side by another repeater, and stop responding to changes to the input block while in this state.
+Prior to beta 1.6, the particles generated when the block was destroyed looked like those of a pumpkin .
+In the codipear shorter is because the torches are actually off-set from their y-axis.
+Two repeaters in a repeater lock.  Note how it is still powered even when the input has been disconnected.
+Add a photo to this gallery.
+A redstone repeater (sometimes called a diode) is a block used in redstone circuits to "repeat" redstone signals back to full strength, delay signals, prevent signals moving backwards, or to "lock" signals in one state.
+A redstone repeater can be obtained by crafting, by looting jungle temples, or by breaking a previously-placed repeater.
+A redstone repeater can be broken instantly using any tool, or without a tool, and drops itself as an item. To remove a redstone repeater, mine it.
+A redstone repeater will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.
+A redstone repeater will also be removed and drop itself as an item if water flows into its space.
+A redstone repeater will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+If lava flows into a redstone repeater's space, the redstone repeater will be destroyed without dropping itself as an item.
+A single redstone repeater is generated naturally in each jungle temple.
+A redstone repeater can be used to "repeat" redstone signals back to full strength, delay signals, prevent signals moving backwards, or to "lock" signals in one state.
+A repeater can only be placed on opaque blocks (dirt, stone, etc., but not glass, leaves, etc.), or on top of upside-down slabs, upside-down stairs, and hoppers. To place a repeater, use the Place Block control.
+A redstone repeater has a front and back – the arrow on the top points to the repeater's front. A repeater also has two small redstone torches on its top – the color of the torches indicates whether its output is on (dark red when off, bright red when on) and the distance between them indicates the delay the repeater adds to the signal transmission.
+A repeater is 0.125 (1/8) blocks high.
+A repeater only transmits signals from its back to its front, but its behavior can be modified from the side (see signal locking, below).
+A redstone repeater can be powered by any of the following components at its back an active power component (redstone torch, lever, block of redstone, etc).
+A redstone repeater can be powered by any of the following components at its back powered redstone dust.
+A redstone repeater can be powered by any of the following components at its back a powered redstone comparator or another powered redstone repeater facing the repeater.
+A redstone repeater can be powered by any of the following components at its back a powered opaque block (including any opaque mechanism components, such as dispensers, redstone lamps, etc).
+A redstone repeater can power any of the following components at its front redstone dust.
+A redstone repeater can power any of the following components at its front a redstone comparator or another redstone repeater facing away from the repeater.
+A redstone repeater can power any of the following components at its front any opaque block (including any opaque mechanism components).
+A redstone repeater can activate any mechanism component it is facing.
+An opaque block powered by a redstone repeater is called "strongly-powered" (as opposed to an opaque block "weakly-powered" by redstone dust). A strongly-powered opaque block can power adjacent redstone dust, as well as other redstone components.
+A redstone repeater can "repeat" a redstone signal, boosting it back up to power level 15.
+Redstone signals have a maximum power level of 15 and that level drops by 1 for every block of redstone dust the signal travels through. If a signal must travel through more than 15 blocks of redstone dust, a redstone repeater can be used to boost the signal back up to full strength. An extra two blocks of distance can be achieved by placing solid opaque blocks before and after the repeater.
+While redstone repeaters can allow signals to travel great distances, each adds some delay to the transmission.
+When initially placed, a redstone repeater has a delay of 1 redstone tick (equivalent to 2 game ticks, or 0.1 seconds barring lag).
+A repeater's delay can be modified by using the Use Item control. Each use increases the repeater's delay by 1 redstone tick, to a maximum of 4 redstone ticks, then back to 1 redstone tick. Longer delays can be made with multiple repeaters – for example, a repeater set to '4' and another to '1' will give a half second delay (0.4s + 0.1s = 0.5s).
+A repeater set to a delay of 2 to 4 redstone ticks will increase the length of any shorter on-pulse to match the length of the repeater's delay, and suppress any shorter off-pulse. For example, a repeater set to a 4-tick delay will change a 1-tick, 2-tick, or 3-tick on-pulse into a 4-tick on-pulse, and will not allow through any off-pulse shorter than 4 ticks.
+Note: A repeater cannot be set to have a delay of zero.
+A redstone repeater acts as a "diode" – it will only allow redstone signals through in one direction (unlike redstone dust or opaque blocks which can transmit redstone signals in any direction).
+A diode can be used to protect a redstone circuit from redstone signals feeding back into the circuit from its output, or can be used to isolate one part of a circuit from another.
+A redstone repeater can be "locked" by another powered redstone repeater facing its side. When locked, the repeater will not change its output (whether powered or unpowered), no matter what the input does. When the side repeater turns back off, the repeater will go back to its normal behavior.
+A repeater can also be locked by a powered redstone comparator facing its side. This offers additional possibilities for locking signals because a comparator's output can be affected from 3 sides as well as by containers.
+While a repeater is locked by another repeater (but not by a comparator), the small movable redstone torch on top will change into a bedrock bar, indicating its locked status.
+If a repeater is locked again too quickly after unlocking (e.g. the lock is controlled by a fast clock circuit), or the lock and the input are changed only on the same tick (e.g. because they're fed by the same clock and both repeaters have the same delay), the repeater will not switch states.
+A redstone repeater is defined by its ID and block data. A redstone repeater also has a block state which is expected to replace the functionality of block data in a future version.
+A redstone repeater's ID specifies whether it is currently powered.
+A redstone repeater only exists as an item in its unpowered state (ID name: repeater; item ID: 356).
+A redstone repeater's block data specifies its orientation and delay.
+Effectively, add the repeater's facing value (0 to 3) to 4×(delay-1). For example, a repeater facing west with a delay of 3 redstone ticks would have a block data value of 3 + 4×(3-1) = 11.

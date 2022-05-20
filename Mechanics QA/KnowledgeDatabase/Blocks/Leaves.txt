@@ -1,0 +1,40 @@
+Leaves are a type of block that are abundant in normally generated maps, appearing on every tree, and can be collected if the Player uses Shears on them. Leaves are available for use in both Creative and Survival mode. All tree types have different leaves. Leaves can be broken much easier with a of sword, but doing this will wear it down much faster than normal. .
+Leaf blocks are very weak, can only be collected with shears, and can be easily destroyed by hitting them with any tool. Leaves are extremely vulnerable to explosions and are highly flammable. As of Beta 1.2, leaves in snowy areas have a different texture. It is possible, but extremely unlikely for a leaf block to stay on Fire forever after catching on fire.
+Destroying leaves yield Saplings 6.25% (1/16) of the time which can be planted by the player in order to grow new trees. Destroying Oak Leaves can also yield Apples 0.5% (1/200) of the time which can be eaten by the player to gain hunger points.
+As of Beta 1.7 leaves can be collected using Shears. Using Shears collects the leaves with a single hit (unless you are underwater, which will make them almost instant to harvest using shears). However, leaves will despawn after a while if not by a wood log.
+Before Beta 1.7, leaves could not be harvested without mods, and since Beta 1.8, player or Enderman-placed leaf blocks will persist over time without decaying.
+Before 1.6, the above made it possible to place Torches and Ladders on leaves on "Fast" graphics and switch back to "Fancy" graphics without making them come off.
+Similarly, in "Fast" graphics, getting stuck inside leaves (usually by using Bonemeal) will suffocate the player, while on "Fancy" graphics leaves will not.
+In creative mode, if looking in your inventory, all four leaf types are available.
+As of Minecraft Pocket Edition, a player can obtain leaves with no shears in Creative or Survival.
+In Pocket Edition, versions 0.3.0, leaf blocks, harvested by shears, were designed to use the Crafting table as a placeholder apart from the top are the sides. This was fixed in 0.4.0.
+Leaves are blocks which grow as part of trees.
+Leaves can only be obtained with shears or Silk Touch enchanted tools.
+Leaves from trees spontaneously decay (disappear) when they receive a block tick, if they are not connected to any wood block, either directly or via other leaf block, with a maximum distance of 4 blocks. Player-placed leaf blocks will never decay.
+Leaves which decay or are destroyed without using shears usually drop nothing, but yield saplings 5% (1/20) of the time. Jungle leaves drop saplings 2.5% (1/40) of the time. Oak leaves also have a 0.5% (1/200) chance of dropping an apple. Rates are increased by the Fortune enchantment. Leaves that are burned do not yield saplings or apples.
+Leaves take on a different shade of green depending on the biome in which they are placed.
+Leaves are always transparent to light but cannot be seen through when the graphics mode is set to "Fast"; the transparent regions are instead black. They diffuse sky light, causing the shadows they cast under trees.
+When leaves are pushed by a piston, they are destroyed without dropping an item.
+Leaves use two different block IDs. They use minecraft:leaves (block 18) for oak, spruce, birch and jungle; and they use minecraft:leaves2 (block 161) for dark oak and acacia. Leaves use block data values to determine their type and state. They also have block states which will replace data values in the future.
+Block 18.
+Block 161.
+Block 18 (minecraft:leaves).
+Block 161 (minecraft:leaves2).
+In Alpha, leaves would decay using an algorithm that checks whether it has a solid or leaf block underneath it or is adjacent to a solid block. If it doesn't, it must be connected to a leaf block that is also supported as long as it is no further than five blocks away from said support. Alpha-style decay.
+ The extent a single "branch" of leaves can survive.
+ Leaves can be connected an infinite distance away from a support block.
+Occasionally, leaves will grow through other blocks, acting as though they are still connected to the tree. They may also completely replace blocks they try to grow into.
+Leaves do not prevent chests from being opened.
+Some trees seem to occasionally drop apples or saplings without being destroyed due to creation of leaf blocks not supported by wood.
+The default texture for jungle leaves have a yellowish tint in some areas.
+A red mushroom is seen growing on the top of a block of leaves.
+Dec value: Oak: 18 Pine: 18:1 Birch: 18:2 Jungle: 18:3.
+Hex value: 12.
+Minimum tool requirement to harvest: Shears.
+Blast resistance: 1 Maximum stack 64.
+Transparency: Yes, if video settings are on fancy.
+Leaves are obviously part of trees, as well as bushes in jungle biomes. There are 4 different types of leave, each belonging to a corresponding type of tree. Besides the different leaf types, the colours can also change depending on the biome they’re in. This is due to the colour filters and will not affect the leaves when harvested. This often leads to multi coloured trees on the borders of different biomes.
+Leaves are completely solid if you’ve set your graphics options to fast. If you’ve set them to fancy, leave blocks will be slightly transparent, allowing you to see the other side. This also means you suffocate if you’re stuck in leaves while on fast mode, but not if you’re on fance mode.
+Although tree saplings require light to grow, leaves placed by a player will not decay in darkness, nor will trees die without light. If the logs of a tree are destroyed, the now disconnected leaves will decay. Destroyed leaves will sometimes drop saplings of their tree type. Oak tree leaves also have a small chance of dropping an apple, and jungle tree leaves have a small chance to drop cocoa beans. Note that leaves will not decay if another tree is attached to them, even if it’s a different type of tree.
+Leaf blocks can easily be harvested using shears, which can then be placed on other blocks without decaying. They’re often used to create hedges or bigger trees and tree houses. The fastest tool to get rid of leaves is shears, which makes it almost instant. But if you’re after the saplings, apples and cocoa beans, swords are the fastest tool. However, swords will take double durability damage, so using a diamond sword is often discouraged.
+Leaves are highly flammable, burning faster than other flammable blocks. This means a forest fire can quickly result in an enormous sea of fire, which could cause massive lag on slower computers and some multiplayer servers. Leaves are also extremely weak against explosions, which can cause fires.

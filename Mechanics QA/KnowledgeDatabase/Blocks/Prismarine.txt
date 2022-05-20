@@ -1,0 +1,15 @@
+Prismarine is a stone-like material that only appears underwater in Ocean Monuments. This block has several variants, including Prismarine Brick and Dark Prismarine.Prismarine is a retextured Cobble stone with a animation.
+ Prismarine is a stone-like material that only appears underwater in ocean monuments.
+ Prismarine Bricks is a decorative form of prismarine with a sawtooth-edged brick pattern.
+ Dark Prismarine is a decorative form of prismarine; it is dark, with a tight grid pattern.
+All types of prismarine can be mined using any pickaxe to drop itself. If mined without a pickaxe, the block will be lost.
+All types of prismarine naturally generate as the main blocks making up ocean monuments. Normal prismarine and its bricks are found in large amounts due to the size of the structure. Prismarine bricks make up the 23 pillars below the monument, and appear decoratively throughout the structure. Somewhat more rare is dark prismarine, which encases the 8 gold block reward of the dungeon, and appears in fewer decorative features.
+Each type of prismarine can be crafted using varying amounts prismarine shards, and an ink sac in the case of dark prismarine. All of these resources can be obtained from underwater mobs.
+The only current usage for prismarine is decoration or as a high blast resistance building block.
+The normal prismarine is uniquely useful for decoration as it has an animated texture. The cracks in prismarine slowly cycle in color through aqua, green, purple, and indigo. The full animation for the prismarine texture changes color 22 times in an irregular sequence before the whole pattern repeats; this takes 5 minutes and 30 seconds.
+Prismarine has a ID name of minecraft:prismarine and an ID number of 168. It uses its block data and block state to determine which variant of prismarine is displayed.
+The name "prismarine" was created by Reddit user AjaxGb during a naming contest, where Jeb was looking for a name for the block.
+The first picture of prismarine, along with sea lanterns, in a proto- ocean monument.
+A brightened version of the preview image.
+Another picture of prismarine.
+A picture of prismarine and its variants in an ocean monument, along with the Elder Guardian.

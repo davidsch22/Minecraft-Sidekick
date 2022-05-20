@@ -1,0 +1,19 @@
+Endermites are mobs introduced to Minecraft in Version 1.8. They occasionally spawn when a player uses an Ender Pearl. Note that an Endermite will no longer spawn when an Enderman teleports as of 14w28a. Endermites were introduced to the game in snapshot 14w11a (Update 1.8). Although it was formerly similar in shape, size, and general appearance to the Silverfish, the texture and model were changed in a snapshot in order to make it more unique. It attacks the player and deals 1 heart of damage. Endermites will despawn within 2 minutes unless named with a Name Tag. Unlike Endermen, Endermites neither teleport nor take damage from Water. Endermites drop 3 experience when killed by a player or tamed wolf.
+Endermites are currently very buggy, and have a tendency to stay in one place and glitch around as opposed to moving like other Mobs. It causes knock back so it is harder to kill but easy to slay when you are in range. They are small little purple blobs with dark red eyes on the front and a dark purple mouth below the eyes.
+When spawned in Creative Mode, due to a bug, it will not move, just shake its body.
+It is a redesigning of Silverfish and uses the exact same sounds.
+Dinnerbone has stated he has an "Ultimate Plan" with Endermites that might include the Dragon Egg. However, he also mentioned he hasn't discussed this idea with the rest of the team yet.
+Their model was changed to be shorter in snapshot 14w17a as their head and tail have appeared to be "chopped off".
+ Not only can Endermites spawn in The End, but can sometimes be spawned by opening Enderchests, mentioned in snapshots 14w11a and 14w11b.
+The old texture of Endermites.
+The new texture of Endermites (head and tail chopped off). (Also note the Endermite's Spawn Egg).
+Add a photo to this gallery.
+Endermites are the smallest hostile mobs in Minecraft.
+Using an ender pearl has a 5% chance of spawning an endermite.
+Endermites drop 3 experience when killed by a player or tamed wolf.
+Endermites will attack players within 16 blocks of them.
+Endermites despawn within 2 minutes, regardless of the player's distance from the endermite, unless they are named with a name tag. If they are named, they will never despawn unless they are killed.
+Endermites will take damage if walking on soul sand, due to its small hitbox.
+Endermites will spawn two portal particles around them.
+Endermen will attempt to kill endermites, provided they were spawned from ender pearls and there is no nearby player in Survival or Adventure mode. If the player is close enough to an endermite, endermen focus on the player instead of the endermite.
+The End.

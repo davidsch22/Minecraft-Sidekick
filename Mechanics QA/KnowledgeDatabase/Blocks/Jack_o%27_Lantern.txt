@@ -1,0 +1,6 @@
+Jack o’ Lanterns are solid blocks implemented in the Halloween Update on October 30, 2010 and in 0.8.0 for Pocket Edition. They are created by combining a pumpkin and a torch on a Crafting grid. They are intended as a purely decorative addition; however, they can also be used as a light source. (As an added bonus, their light radius is larger than a Torch, and they work underwater.) During the Halloween period, skeletons/zombies/zombie pigmen will wear pumpkins or Jack o' Lanterns on their heads and also have a chance of dropping them. You can make an Iron Golem with them by placing 4 Iron blocks in a cross formation and a Jack o’ Lantern on top. Similar can be done to make a Snow Golem, stacking 2 Snow blocks and placing a Jack o’ Lantern. They can only be placed on the top of blocks, and cannot be placed on non-opaque blocks, but they are able to stay there if the block below is replaced by a block they cannot be placed on. They are also unable to be placed on the side or base of another block.
+Unlike Pumpkins, Jack o’ Lanterns cannot be worn.
+Every Holloween, hostile mobs will sometimes spawn with pumpkins on their heads.
+Jack o’ Lanterns can also be used in the creation of a Snow Golem or an Iron Golem instead of a Pumpkin.
+Unlike Torches, it can be used as a source of light underwater, like Glowstone.
+Jack o' Lantern/Gallery.

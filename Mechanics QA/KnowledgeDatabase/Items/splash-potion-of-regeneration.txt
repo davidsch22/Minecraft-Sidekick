@@ -1,0 +1,6 @@
+Dec value: 373:16385.
+Hex value: 175.
+Maximum stack 1.
+Splash potions of regeneration will regenerate mobs and players caught in its blast radius, with the exception of skeletons, zombies and zombie pigmen. These mobs will remain unaffected.
+There are 3 types of splash potions of regenration, a 33 second version, a 90 second version and a 16 second version called potion of regeneration II. This last potion lasts shorter, but is stronger.
+The 33 second version will heal 19 hearts, the 90 second version will heal 42.5 hearts and the 16 second version will heal 19.5 hearts. The further you stand from the potion’s blast radius the shorter this time will be.

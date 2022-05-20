@@ -1,0 +1,134 @@
+Advanced Redstone Circuits encompass mechanisms that require complicated redstone circuitry. For simpler mechanisms, see Tutorials/Mechanisms#Electronic_Mechanisms, Tutorials/Traps#Wired_Traps, and Redstone.
+In Minecraft, several in-game systems can usefully perform information processing. The systems include water, sand, minecarts, pistons and Redstone. Of all these systems, only Redstone was specifically added for its ability to manipulate information, in the form of Redstone signals.
+Redstone, like electricity, has high reliability and high switching-speeds, which has seen it overtake the other mechanical systems as the high-tech of Minecraft, just as electricity overtook the various mechanics such as pneumatics to become the high-tech of our world.
+In both modern digital electronics and Redstone engineering, the construction of complex information processing elements is simplified using multiple layers of abstraction.
+The first layer is that of atomic components; Redstone/Torches/Repeaters/blocks, Pistons, Buttons, Levers and pressure plates are all capable of affecting Redstone signals.
+The second layer is binary logic gates; these are composite devices, possessing a very limited internal state and usually operating on between one and three bits.
+The third layer is high-level components, made by combining logic gates. These devices operate on patterns of bits, often abstracting them into a more humanly comprehensible encoding like natural numbers. Such devices include mathematic adders, combination locks, memory-registers, etc.
+In the fourth and final layer, a key set of components are combined to create functional computer systems which can process any arbitrary data, often without user oversight.
+A full adder takes two inputs A and B and a Carry input and produces the Sum and Carry outputs. It relies on two XOR gates, two AND gates, and one OR gate. With some thought, these gates can be compressed (as both AND gates already exist in the XOR gate, and an OR gate can simply be a redstone wire).
+A and B are the bit inputs and C' is the carry in. It produces a sum at S and a carry out at C. When full adder modules are tiled together C' and C will be connected, which allows the carry to propagate to the next module.
+The half adder is nearly identical to the full adder, except the second XOR gate is removed and the output from the first XOR gate becomes S. There is no Carry in (C'), but the Carry out (C) circuit is still on top of the first XOR gate and provides a carry to the first full adder. Some ALUs will not use a half adder for the first bit, to support INCREMENT (allow a carry in on the first bit).
+This full adder is similar to the previous one, except for the fact that it is two wide and the inputs are aligned vertically. This design is great for minimizing horizontal space and can be built in-line with two redstone buses, eliminating the space required to expand a bus to reach the inputs of a wider full adder.
+A video guide on how to build the 2 wide adder.
+Gates: XNOR, IMPLIES.
+Torches: 12.
+Redstone: 7.
+Blocks: 19.
+Size: 5X4X4.
+This adder will take 2 bits and add them together. The resulting bit will be the output of S (sum). If both bits are 1, there will be a carry over, and C will become 1 (C will become 0). This half adder can be modified to create a non inverted C output, but this configuration is used so that it can be implemented as the start of a chain of full adders.
+(EXTENSION): for those new to advanced redstone like myself, it's eaiser to understand it like this: let's say output B (C) has a NOT gate that inverts the signal and it leads to an iron door or piston door etc. output A (S) is connected to sticky pistons controlling the floor. let's say for sake of argument that there is 1x1x1 block NOT affected by the sticky pistons, this is the Safety Block. when you activate input A, both the door will open and the floor will drop, if you're standing on the Safety Block, then you will not fall. input B will control only the floor, but if input A is on the input B will control them both. when both are on, input A will only affect the floor. this means if you are off the server and want no one in, leave A and B on, when they deactivate A, the floor will drop, but the door will stay closed, so if they know the secret, they still can't get in.
+Gates: XNOR (2), IMPLIES, NOT, OR, AND.
+Torches: 16.
+Redstone: 32.
+Blocks: 48.
+Size: 6X12X5 Ceiling to floor, including I/O spaces.
+This adder will take 2 bits and a carried over bit (actually C, rather than C, a value held in the redstone in the bottom left corner on layer 1) and add them all together, producing a sum (S) bit and a carry (actually C rather than C).
+In order to make a subtracter, simply invert one of the binary inputs (the 1st or 2nd number). If the number is negative, the answer comes out inverted. In real computers, the first bit (also called the sign) decides whether the number is positive or negative, if you include this (applying the same inverting rule) you can detect whether the number is negative, or if it is just a big number.
+When using the gates above; mind the inputs and outputs. You may be wondering why there are so many inverted signals being used instead of the regular signal.
+The adders shown here use XNOR gates rather than XOR gates because they are more compact, and as a result, implies gates must be used instead of AND gates, which also happen to be more compact.
+Therefore for the most compact adder, inverse signals must be used. These adders are too complex to be easily deciphered with 2 layers per square, so each single layer has been drawn separately to ease the building process.
+Carry input and output are aligned to easily connect many of these modules in series.
+Torches: 14.
+Redstone wire: 15.
+Size: 5x6x3.
+BROKEN LINKS!
+1 Piston Full-Adder.
+2 Piston Full-Adder.
+Torches: 3.
+Sticky Pistons: 2.
+Repeater: 8.
+Redstone: 16.
+Blocks: 7.
+T = T Flip Flop.
+Torches: 2.
+Sticky Pistons: 2.
+Repeater: 0.
+Redstone: 6.
+Blocks: 3.
+Note: Cin and The in must be pulses or it will not work!
+Note! The least significant digit ("ones" digit) is on the left of the diagram so that the progression from half adder to the full adders can be seen more clearly. Reverse the diagram if you want a conventional left to right input.
+Gates: XNOR (7), IMPLIES (4), NOT (4), OR (3), AND (3).
+Torches: 56.
+Redstone: 108.
+Blocks: 164.
+Size: 23X12X5.
+This adder will take 2, 4 bit numbers (A and B) and add them together, producing a sum (S) bit for each bit added and a carry (C) for the whole sum. The sum bits are in the same order as the input bits, which on the diagram means that the leftmost S output is the least significant digit of the answer. This is just an example of a string of adders; adders can be strung in this way to add bigger numbers as well.
+The same function but a different design with 4 full adders instead of 1 half adder and 3 full adders.
+NOTE: switches are inputs A and B (top switch C input).
+Subtracting and adding are the same thing when reduced down to the idea that, for example 3-2 = 3 + (-2) = 1. Since we already have the framework in place to add bits, it is fairly simple subtract by just adding the negative bit. The problem lies in the representation of negative numbers.
+We are all familiar with the elementary school concept of "borrowing" in subtraction from the next column like this.
+We are not capable of taking 8 from three, so we "borrow" a 1 from the next decimal place to allow us to subtract 8 from 13 instead, resulting in 5.
+Computers are not capable of assumptions, so when a computer needs to find a negative it does not (and can not) put a negative sign in front of the input. It just subtracts from zero "borrowing" from the next column like so.
+This is the same in binary. Let us, for example use a 4 bit binary number for the example.
+We could repeat this forever, but that would be useless. This about what a 4 bit register does: it truncates after 4 bits worth of data. So after we truncate the number (which I kindly did for you in the example, otherwise the number would have an infinite number of 1's to the left). Thanks to this little perk, we can do whatever we want to the 0's after the four of them, including (which will prove to be fantastically useful later) adding a single 1 in front of them.
+Remember how we said that our redstone had no special way of designating a negative from a positive? We just created a way. If the most significant (first) bit of a number is 1 that means that it is a negative number. This fantastic perk of binary numbers is a theorem called "Two's Complement".
+Formally Two's Complement is defined as.
+The negative of a number b with bit length n is equal to 2^(n+1) - b.
+Essentially what this is saying that -b is just the inversion of b (exchange 1's for 0's and 0's for 1's) plus 1.
+What we have done is turn the first bit into a "negative sign" if it is on, but if you have been reading this you realize it is not that simple. Numbers that have a negative sign like this are commonly referred to as Signed integers. Numbers like in a normal adder, where two's compliment is not taken into effect are called Unsigned integers. Unsigned integers can go to a higher value, but cannot go below zero where as signed integers can only go half as high, but they can go equally as far below zero. This means that the two numbers have the same range, it is just in a different location like so (this is with a 8 bit number).
+It should be noted that some strange effects can take place when using the lowest signed value (in this case -128) so this should be avoided.
+Now that we have a positive way of representing our negative numbers it is very trivial to implement this into an adder. Currently our adder solves.
+We want it to solve.
+or.
+Therefore, if we enter the two's complement of B, our adder becomes a subtractor. This is easily implemented by using the Carry-in bit of the least significant (first) bit as the "+1" and then all that is left is to invert B.
+There is one important thing to note when implementing this. Because it is possible to get a two's complement number out, when subtracting the most significant digit must be inverted. This is usually the Carry out of the last adder.
+This can all be implemented to an adder like so.
+A control bit is added to the circuit such that when it is on, the unit subtracts and when it is off the unit adds. After this, add XOR gates between the control bit and each B input. Route the output of each XOR to the B input of each adder. Finally, to make the unit Two's compliment compatible a final XOR gate must be added between the control bit and the carry out of the most significant bit.
+This is the simplest way to implement negatives and subtraction in a CPU as it will add gracefully and store well in registers. If this is to be implemented in a calculator, simply subtract 1 from the output and then invert all the outputs except the most significant. The most significant bit will be on if the number is negative.
+In circuits, it might be useful to have a logic unit that will, based on the input, decide which output is to be chosen. Such a unit can then be used for more complex circuits, such as an ALU.
+This is an example of a 2-bit logic unit that will have four states depending on the input.
+The outputs are in top row, with 11, 00, 01, 10 order (input order: first first, bottom second).
+This is another example of a simplified version using Gray codes. The output appears at the torches at the end of the top rows. This design can be extended to any number of bits, but practical limitations due to timing considerations restrict the use of more than a byte or so. The outputs are triggered by the inputs 11, 01, 00, 10, respectively.
+The Arithmetic logic unit (ALU) is the central part of the CPU. It does calculations and logical processing and then passes this information to a register. The ALU on basis of the input it selects a specific function, performs, and then gives the result.
+The ALU shown below is a 1 bit ALU with the functions: ADD, AND, XOR. It takes the A and B inputs and then performs the selected functions. Read about the adders to see how the ADD function works. XOR and AND are basic functions that is explained on the logic circuits page. There can be more functions added to an ALU like multiplication, division, OR, NAND... etc. These functions could with some modifications be added to this 1 bit ALU.
+This 1 bit ALU can be linked to each other to create an as many bit ALU as possible. Just like adders you need to connect the Carry out (Cout) to the Carry in (Cin) of the next ALU.
+This is a screenshot of the actual 1 bit ALU in Minecraft. You can view the ALU in 3D here.
+These circuits simply convert inputs of a given format to another format. Converters include Binary to BCD, Binary to Octal, Binary to Hex, BCD to 7-Segment, etc.
+A series of gates that converts a 3bit binary input to a single active line out of many. They are useful in many ways as they are compact, 5x5x3 at the largest.
+As there are many lines combined using implicit-ORs, you have to place diodes before each input into a circuit to keep signals from feeding back into other inputs.
+Requirements for each output line (excluding separating diodes).
+A series of gates that converts a 4bit binary input to a single active line out of many (eg. 0-9 if the input is Decimal or 0-F if the input is Hexadecimal). They are useful in many ways as they are compact, 3x5x2 at the largest.
+As there are many lines combined using implicit-ORs, you have to place diodes before each input into a circuit to keep signals from feeding back into other inputs.
+Requirements for each output line (excluding separating diodes).
+You also can convert a 1-of-16 signal to a 4bit-binary number. You only need 4 OR gates with 8 inputs each. These have to be isolating ORs to prevent signals from feeding back into other inputs.
+For every output line, make an OR gate with the inputs wired to the input lines where there is a '1' in the table below.
+The example on the right uses ORs (>=1), XNORs (=), RS-NOR latches (SR) and some delays (dt*). For the XNORs I would prefer the C-design.
+The example on the right uses a 4-bit design, so you can handle a hexa-decimal key. So you can use 15 various digits, [1,F] or [0,E]. You only can use 15, because the state (0)h == (0000)2 won't activate the system. If you want to handle 16 states, you edit the logic, to interact for a 5-bit input, where the 5 bit represents the (0)h state.
+In the following we'll use (0)h := (1111)2. And for [1,9] the MUX-table upon. So the key uses decimal digits. Therefore we have to mux the used buttons to binary data. Here look trough the first two columns. The first represents the input-digit in (hexa)decimal, the second represents the input-digit in binary code. Here you can add also buttons for [A,E], but I disclaimed them preferring a better arranging. The /b1\-box outputs the first bit, the /b2\-box the second, and so on.
+Now you see Key[i] with i=1..3, here you set the key you want to use. The first output of them is the 1-bit, the second the 2-bit and so on. You can set your key here with levers in binary-encryption. Use here the MUX-table upon, and for (0)h := (1111)2. If we enter the first digit, we have to compare the bits by pairs (b1=b1, b2=b2, b3=b3, b4=b4). If every comparison is correct, we set the state, that the first digit is correct.
+Therefore we combine (((b1=b1 & b2=b2) & b3=b3) & b4=b4) =: (b*=b*). In minecraft we have to use four ANDs like the left handside. Now we save the status to the RS-latch /A\. The comparison works the same way for Key[2], and Key[3].
+Now we have to make sure, that the state will be erased, if the following digit is wrong. Therefore we handle a key-press-event (--/b1 OR b2 OR b3 OR b4\--/dt-\--/dt-\--). Search the diagram for the three blocks near "dt-". Here we look, if any key is pressed, and we forward the event with a minor delay. For resetting /A\, if the second digit is wrong, we combine (key pressed) & (not B). It means: any key is pressed and the second digit of the key is entered false. Therewith /A\ will be not reseted, if we enter the first digit, /A\ only should be reseted, if /A\ is already active. So we combine (B* & A) =: (AB*). /AB*\ now resets the memory-cell /A\, if the second digit is entered false and the first key has been already entered. The major delay /dt+\ must be used, because /A\ resets itself, if we press the digit-button too long. To prevent this failure for a little bit, we use the delay /dt+\. The OR after /AB*\ is used, for manually resetting, i.e. by a pressure plate.
+Now we copy the whole reset-circuit for Key[2]. The only changes are, that the manually reset comes from (not A) and the auto-reset (wrong digit after), comes from (C). The manual reset from A prevents B to be activated, if the first digit is not entered. So this line makes sure, that our key is order-sensitive.
+The question is, why we use the minor-delay-blocks /dt-\. Visualize /A\ is on. Now we enter a correct second digit. So B will be on, and (not B) is off. But while (not B) is still on, the key-pressed-event is working yet, so A will be reseted, but it shouldn't. With the /dt-\-blocks, we give /B\ the chance to act, before key-pressed-event is activated.
+For /C\ the reset-event is only the manual-reset-line, from B. So it is prevented to be activated, before /B\ is true. And it will be deactivated, when a pressure-plate resets /A\ and /B\.
+pros and cons.
+Not really a con: in this circuit the following happens with maybe the code 311: 3 pressed, A activated; 1 pressed, B activated, C activated. To prevent this, only set a delay with a repeater between (not A) and (reset B). So the following won't be activated with the actual digit.
+If you fix this, the circuit have the following skill, depending on key-length. ( ||digit|| = 2-1, possibilities: ||digit|| ).
+A door that opens when a certain combination of buttons/levers are on. (Note: A moderate understanding of logic gates is needed for this device).
+Combination Lock Tutorial(Easy To Make And Follow.
+Combination Lock Tutorial(easy to follow).
+Connect a series of buttons to the S-input of RS Latches. Feed the Q or Q (choose which one for each latch to set the combination) outputs of the RS Latches into a series of AND gates, and connect the final output to an iron door. Finally, connect a single button to all the R-inputs of the RS Latches. The combination is configured by using either Q or Q for each button (Q means that the button would need to be pressed, Q don't press) Example.
+With the automated reset it causes the correct combo to cause a pulse instead of a "always on" until reset.
+The AND based combo lock uses switches and NOT gate inverters instead of the RSNOR latches in the previous design. This makes for a simpler design but becomes less dynamic in complicated systems and it also lacks an automated reset. The AND design is configured by adding inverters to the switches. Example: .
+The OR combo lock is actually an AND combo lock without unnecessary repeaters, override lever and last inverter. Output is off when the code is correct.
+Due to its compact size and fast response time, this combination lock is also ideal for use as an address decoder in the construction of addressable memory (RAM).
+Design A. Code is set by torches on inputs (1001).
+It is possible to remove the spacing between the levers by replacing redstone wire behind the levers with delay 1 repeaters.
+You can expand on this by creating a new level on top of the first and using the same principle as the first level, keep creating them.
+Design B. Code is set by inverters in the blue area (001001).
+N = number of inputs. K = number of 1's in code.
+This is a device which sorts the inputs, putting 1's at the bottom and 0's at the top. In effect counting how many 1s and how many 0s there are. The diagram is designed so that it is easily expandable, as shown in the diagram. The bright squares shows how to expand it, and also where the in- and outputs are.
+Truth table for a three-bit sorting device.
+Opens when a certain order of switches are pressed. You can change the order. (Note: A moderate understanding of logic gates is needed for this device.) Have 4 blocks near each other with a switch and a sign saying 4,3,2 or 1 respectively. 10 blocks to the right and 2 blocks down place a block then place 2 more with a 5 block space. 6 right and 3 up place the block. Label them 4-3-2-1 respectively. Have a 11 block wire or 13 for left to a repeater on the 9th block or 11th for left and on the right side. Place a repeater 2 blocks over with the same wire from it. Connect the left repeaters. to the code changing module. (You may use bridges of cobblestone for getting over other wire and repeaters for boosting the signal. Construct a XNOR Gate where). 2 of the wires meet. Connect to adjecent outputs with AND gates. These Outputs are connected to final AND gate. Final AND gate if connected to iron door.
+A door that opens when buttons are pressed in certain order.
+(Note: A moderate understanding of logic gates is needed for this device).
+Make a series of buttons, and connect only one to an RSNOR latch. Then connect both the RSNOR latch and a second button to an AND gate, which feeds to another RSNOR latch. Do this continually until you have either filled all of the buttons or are satisfied with the lock. Connect the final RSNOR latch to a separate AND gate with a signal from an enter button. Feed that to the output RSNOR latch. Then connect any of the left-over buttons to the enter button and send reset signals to all of the RSNOR latches. A pressure plate next to a door can reset the door. This type of lock has severe limitations its security. For example, not all the buttons could be used in the pin or there would be nothing to reset the system.
+For a lock that can have a combination of any size, using all the buttons, and still have a wrong entry reset the system, you need a different way for it to reset. To construct this, hook up a panel of buttons (any number, but four or more is preferred) to a parallel series of adjacent repeaters. Invert as necessary so that all the repeaters are powered and are unpowered by the press of the corresponding button. These repeaters power a row of blocks. On top of the blocks, place a torch corresponding to the incorrect buttons for the fist number in the PIN. For the correct button/number, place dust under the powered block which leads to a RS NOR Latch. Place a row of blocks above the torches for the incorrect buttons, with redstone dust on top. Then connect this dust to the reset of the first RS NOR Latch. Only the correct button will set the RS NOR Latch and all others will reset it. Connect the output of the RS NOR LATCH to half of an AND gate. After the first row of blocks with the reset torches, place another row of repeaters and another row of blocks. Again place torches for the incorrect buttons and dust under the correct button's line. Power will be fed from the buttons through the rows of repeaters and blocks for as many rows as there are digits in the PIN number. Connect the dust from the correct button to the other half of the AND gate coming from the first RS NOR Latch. Only if the two conditions are met, that the first button was pushed correctly, setting the first RS NOR Latch, and the second button is pushed correctly will the AND gate send a signal to set the second RS NOR Latch. Again, connect a reset line from the incorrect button's torches to the reset of the second RS NOR Latch. NOTE: Delay the reset signals by one full repeater to give time for the next RS NOR Latch to be set before the reset happens. Continue building the array in the same manner until you reach the desired number of digits. In operation, when a button is hit, each RS NOR Latch checks (through the AND gate) to see if the previous RS NOR Latch is set, and the correct button for this RS NOR Latch has been pushed. Only when the correct buttons are pressed in order, will the signal progress through the conditional RS NOR Latches to the end. Connect the output of the last RS NOR Latch to a door and attach a line to a pressure plate inside the door to reset the last RS NOR Latch.
+Tutorials Video: Combination Lock RSNOR.
+There is also another way to make order-sensitive combination locks. It is based on several RS NOR latches that is placed on a row. The RS NOR latches are connected together, and each latch is connected to one button. The combination lock opens when all the latches are activated. To activate all of them, the latches have to be activated in the right order. If wrong button is pressed, the lock automatically sends a reset signal to the first latch, and resets the entire lock. The circuit also has a T flip-flop that controls the output. The T flip-flop turns on and stays on when the right combination is pressed. When the lock is open, all the buttons works like a reset button. This makes it easy to close the door from the outside. Just press a random button. It is also possible to connect buttons that overrides the lock and makes the output signal toggle like on a normal T flip-flop.
+Tutorial video.
+This is an order-sensitive combination lock with order sensitive reset function. It works like an ordinary order-sensitive combination lock, but in addition it has a function that resets everything when a button is pressed too early. The function consists of AND-gates that sends a reset signal if the previous button hasn't been pressed yet. The lock does not need a reset button because it resets automatically when the code is wrong.
+Redstone circuits.
+Mechanisms.
+Traps.

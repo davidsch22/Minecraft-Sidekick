@@ -1,0 +1,8 @@
+Dec value: 24:1.
+Hex value: 18.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 4.
+Maximum stack 64.
+Transparency: No.
+Chiseled sandstone is a variant of normal sandstone. It appears to have a creeper face on it, along with several other shapes under that. It can be crafted by placing 2 sandstone slabs on top of each other in any crafting interface. Decorated sandstone can be used to craft smooth sandstone.
+This block is often used, and perhaps intended, as hieroglyphic blocks, due to it’s texture. Many players use this to build Egyptian style buildings, most commonly pyramids as either decoration or part of a custom adventure map.

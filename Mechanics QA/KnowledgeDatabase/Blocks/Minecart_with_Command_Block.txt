@@ -1,0 +1,11 @@
+This is a command block and a minecart combined. This was added in 1.7.2.
+Much like regular command blocks, the minecart with command block is only obtainable using /give @p command_block_minecart or external tools. It can also be obtained through /summon, like the other different types of minecarts can.
+This can be used as a command blockon the go. The minecart with command block is used to run commands and travel. It can be more useful than a Command Block in some situations, and less useful in others. For an example, a benefit of command block minecarts is that you do not need to give it input from a Clock circuit; for as long as it is powered, it will repeatedly run the command, once every four game ticks (five times per second). Relative coordinates can be very useful in Minecart Command Block commands. For example, giving the XYZ as "~6 ~2 ~0" (without the quote marks) means "the block that is 6 South and 2 up from the minecart's current location". Since the minecart's location is constantly changing, a setblock command using relative coordinates can draw a wall (poorly, with gaps). The ID of a command block itself is 137.
+Proof of it.
+Minecart with command block.
+Add a photo to this gallery.
+Minecart with Command Block is a command block inside a minecart.
+Minecart with command block is only obtainable using commands. It can be broken like any other minecart, but the command block is lost.
+The minecart with command block combines the functionalites of both minecarts and command blocks. It runs its command repeatedly (each 4 game ticks) when on an active activator rail. When it passes over a detector rail with a comparator connected next to it, it will output the command block's result.
+A minecart with command block in 13w39b.
+A minecart command block testing the block in the red area with air.

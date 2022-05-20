@@ -1,0 +1,36 @@
+Mycelium is a block similar to grass, and will grow over any dirt in its area. even if it has a sapling or another plant on it, but it is only found naturally in mushroom biomes. This can be stopped by creating an obstruction to the Mycelium's expansion (such as a two-block change in terrain height or a non-dirt solid block). .
+Mycelium was first added in the first Beta 1.9 release, useable only in creative mode.
+As of 1.2.4, mycelium is the only block players can spawn mushrooms on while in sunlight.
+They were added to Pocket Edition in the 0.9.0 Update alongside Mushroom Biomes.
+When harvested, it normally drops a dirt block, but with the Silk Touch enchantment, a block of mycelium can be collected.
+Players cannot convert mycelium into farmland. It must break and turn it into dirt first.
+Mycelium emits particles similar to those underwater and near the Void.
+Mycelium is a block that has a particle effect that resembles tiny spores being released constantly from the surface.
+Mycelium can only be obtained by mining them using a tool with the silk touch enchantment. Otherwise it will drop dirt. A shovel is the fastest tool to collect it.
+Mycelium generates naturally in mushroom biomes.
+Mushrooms can remain on mycelium blocks in any light level, unlike other blocks that generally break mushrooms (dropping them as items) during block updates in high light.
+Huge mushrooms can grow on mycelium (but can also grow on dirt and grass).
+Mycelium cannot be tilled with a hoe to make farmland, and saplings and flowers cannot be planted on it.
+A mycelium block can spread to any dirt block within one space above, one sideways, or three down. The mycelium needs light level 9+ above it and the dirt needs light level 4+ above it, and must not be covered by any light-impeding block or any opaque block. Mycelium reverts to dirt when covered by one of the light-impeding blocks above and the light level at that block is below 4.
+If there is a plant on a dirt block when mycelium spreads to it, the plant will pop out and drop as an item. Pumpkins and melons will not spawn on mycelium.
+Generated caves and ravines in a Mushroom Island biome will not remove mycelium, often leaving a thin layer over a ravine or 'bars' of mycelium covering a cave.
+It is a common misconception that only mooshrooms can spawn on mycelium. This is not true; friendly and hostile mobs can spawn on mycelium just as on any other block. It is the mechanics of the mushroom biome that prevents other mobs from spawning. Relatedly, mycelium outside of a mushroom biome will not spawn mooshrooms.
+The spore particle effect is called "townaura" in the game code.
+In real life, mycelium is the mushroom's nutrient gathering web of thin threads known as hyphae. The entire mushroom, from the mycelium to the cap is made entirely of hyphae.
+A Mushroom Island Biome, primarily composed of mycelium.
+Mycelium with snow on top. The mycelium still produces spores.
+How a Mushroom Biome appears on a map.
+Mycelium spreading in dirt and destroying planted sugar canes.
+Mycelium on Wikipedia.
+Podzol.
+Dec value: 110.
+Hex value: 6E.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: No.
+Mecylium is a block unique to the rare mushroom biomes and behaves a lot like grass blocks. Harvesting mycelium is impossible, unless you have a silk touch enchantment. Shovels will dig up mycelium the fastest, resulting in a dirt block. Unlike grass, mycelium cannot be turned into farmland.
+Like grass, mycelium will spread onto nearby dirt blocks. These dirt blocks have to be either next to the block on the same height, 1 block higher or up to 3 blocks lower than the mycelium block. Like grass, mycelium needs a light level of 9 or more to spread, and the dirt block needs a light level of 4 or more before anything can spread onto it. Grass and mycelium will not spread onto each other.
+Mycelium will die if light conditions fall below level 4. The light level at night is 4. Therefore it will die when blocks are placed on top of it, as they’re blocking the light. Transparent blocks can be placed on it, but too many blocks on top of each other will block the light enough to kill the mycelium.
+Mycelium allows for the growth and spawning of mushrooms under any light conditions and they’ll spread faster on mycelium, which makes it a lot easier to farm mushrooms. But any plants planted on it, will simply pop out of the ground. If a plant is planted on a dirt block and mycelium spread onto it, the plant will pop out of the ground.
+Mycelium has a small particle effect which can even be seen through a cover of snow. If a mycelium block is covered in snow, the mycelium on the sides of the block will turn white. Mobs can spawn on mycelium outside of mushroom biomes, but mooshrooms will not spawn on it outside of mushroom biomes.

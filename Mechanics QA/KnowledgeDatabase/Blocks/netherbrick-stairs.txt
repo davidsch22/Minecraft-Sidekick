@@ -1,0 +1,7 @@
+Dec value: 114.
+Hex value: 72.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: Yes.
+Netherbrick stairs are part of Nether fortresses in which they’re only used as stairs, despite their decorative potential. They can easily be mined with a pickaxe. Diamond pickaxes are recommended for their speed, as even an iron pickaxe will take a while to break this block. Netherbrick stairs can also be created by using 6 netherbricks.

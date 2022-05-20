@@ -1,0 +1,6 @@
+Books are items crafted from paper and leather.
+Three books are dropped when a bookshelf is mined without silk touch or destroyed by an explosion.
+Books can be found in stacks of 1 to 3 inside chests in the stronghold's library.
+Books can be made into enchanted books by enchanting them on enchantment tables.
+Librarian villagers will buy 8-10 books for an emerald.
+Enchanted Book.

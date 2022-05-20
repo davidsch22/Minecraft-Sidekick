@@ -1,0 +1,15 @@
+Dec value: 65.
+Hex value: 41.
+Minimum tool requirement to break: None.
+Blast resistance: 2.
+Maximum stack 64.
+Transparency: Yes.
+Ladders are used to climb blocks vertically without having to jump. They can be found in Strongholds and villages, but they can also be created using 7 sticks. They can easily be broken without any tools, though removing the block they’re attached to will cause them to drop as well, which can often be faster than breaking the ladder.
+Ladders can only be placed on the sides of blocks, but they cannot be placed on transparent blocks like ice, glass and leaves. Ladders can be placed on blocks underwater, which is useful to create airpockets or easy access holes to an underwater base.
+The effect of ladders is activated when a player walks against the ladder with its lower body. While on the ladder you can move in all directions. Going up requires you to keep walking into the ladder. To go down you simply do nothing. While you go down, your speed will be greatly reduced, preventing you from taking fall damage.
+Sneaking on ladders will keep you stuck in place, which allows you to harvest nearby blocks but at a slower rate, similar to mining while underwater. Walking passed a ladder will slow you down due to its speed reducing effect, this can be used to slow down players through a certain path, though cobwebs are usually more effective.
+Ladders can be used in more ways than just for climbing. Jumping against a ladder from any height will break your fall and prevent you from taking any fall damage. This makes traveling down incredibily fast, as you can simply jump down against a ladder, though going back up can take quite a while.
+This is sometimes used as a mini game. Ladders have a collision box which allows you to stand on top of them as if they were a solid block. This is often used in custom parkour maps.
+Ladders can hold up water and lava, this can be used as a trap or as a hidden access riute.
+By placing water on top of a ladder and then placing another ladder with lava on top, you can safely jump through the lava without dieing. However, this method is very risky as you’ll often only have 2-3 hearts left. The key to surviving this is to jump on the opposite side of the ladder, jumping on the ladder will slow you down too much and kill you. Eating a golden apple or drinking a potion of fire resistance is a huge help to survive this.
+This does make a perfect escape route, epspecially if you sneak once you’re safe as the player chasing you will most likely think you died. Note that death messages are usually displayed on multiplayer serves, so if the chat isn’t busy enough the other player can tell if you died or not. However, most players will still be too scared to jump in as it’s easy to block the entrance with a piston.

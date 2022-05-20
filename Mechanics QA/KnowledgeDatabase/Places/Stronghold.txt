@@ -1,0 +1,75 @@
+Strongholds are structures that occur naturally underground, and are primarily important because they house end portals. Strongholds can be located using eyes of ender.
+There is a limit of three strongholds per world (1 per world in console versions). All strongholds are located at random positions in a radius between 640 and 1152 blocks from the point at x = 0, z = 0 (not the world spawn, which may be a couple hundred blocks away. Strongholds also may extend further in or out of that area). The three strongholds are spawned at roughly equal angles from the center point of the world (that is, each stronghold is in the region of 120 degrees from the others, measured from the origin). The game will not generate a stronghold partially above-ground: any portion above the ground layer will be replaced with air blocks, leaving a cutaway. Strongholds may generate at bedrock level, cutting the bedrock.
+Strongholds vary in size. They contain several doors and rooms made mostly of stone brick, mossy stone brick, and cracked stone brick. Strongholds are lit by enough torches to provide visibility in most areas, though not enough to suppress mob spawns.
+Each Stronghold contains several dispersed chests containing a variety of loot.
+Strongholds are primarily generated underground, usually unexposed to the surface and only visible within caves, possibly even underwater caves. Strongholds contain silverfish that are created when someone either mines one of the blocks within, or finds the End Portal room, which contains a silverfish spawner.
+Strongholds feature various types of main rooms. Each room has an entrance, which is either a plain 3×3 opening, a wall with a wooden door, a wall with an iron door (with buttons), or a 3×3 opening with a grate of iron bars leaving a 1×2 opening, and may have exits to other room pieces or dead-end "exits" into stone. Additional "passages" between rooms may exist if their generation overlaps or if the stronghold intersects a cave, mineshaft, or other structure.
+Stronghold generation begins with a spiral staircase room with a 5-way crossing at the bottom, with additional rooms being randomly generated from the exits of previous rooms up to a maximum distance of 50 rooms and 112 blocks horizontally. If a portal room is not generated, generation is redone. End portal room: Contains an unactivated End portal and a silverfish spawner. There are two pools of lava in the front sides of the room and a bigger lava pool below the End Portal. There are 16 iron bar windows in the room, and the entrance is always a grate. One per stronghold, and never within 5 rooms of the starting staircase.
+ Libraries (see below). Maximum two per stronghold, and never within 4 rooms of the starting staircase.
+ Large rooms: A room with three exits (four counting the entrance). The center of the room may have various decorations. Maximum six per stronghold. Empty rooms: Has no decoration.
+ Stone Pillar rooms: Has a stone brick pillar with torches on it.
+ Fountain rooms: Contain a fountain in the center, which consists of a stone brick ring and pillar with a water source block on top of the pillar.
+ Store rooms: Dual-level rooms, each 2 blocks high, with a cobblestone center structure joining the two. A lone torch is housed within the structure. A ladder runs up the side wall for access to the second floor, which is made of wood planks and contains a Chest.
+ Five-way crossing: Has up to five exits (six counting the entrance): one across from the entrance down a short stairway made of stone slabs and stone brick blocks, one each to the left and right of the entrance, and one on an upper level reached by a short stairway made of stone slabs and stone brick blocks, and one on the upper level across a bridge of stone slabs and double stone slabs over the downward stair. A single torch is on the side of the bridge. Maximum five per stronghold.
+ Empty prison cells: A corridor with one wall partially made of iron bars and with two iron doors (in an "open" position, with no buttons). Beyond each iron door are cells with an iron bar wall between them. An exit is opposite the entrance. Maximum five per stronghold.
+ Spiral staircase: A 3×3 spiral stair made of stone brick blocks and stone slabs, leading down, with an exit at the bottom. Maximum six per stronghold.
+ Straight staircase: A 3 block wide staircase of cobblestone stairs leading downwards, with an exit at the bottom of the stairs. There is also an empty alcove under the stairs. Maximum five per stronghold.
+ Corridor: A bare corridor with up to 3 exits: one straight ahead, and optional exits to the left and right.
+ Chest corridor: A corridor with a small altar made of stone slabs, with a chest on the altar. One exit, opposite the entrance. Maximum four per stronghold.
+ Corridor turn: A bare corridor with one exit, left or right. May resemble a small room if both the entrance and the next room's entrance have doors.
+ Dead-end corridor: A bare corridor with no exits, although it is likely to intersect other rooms. This room type never has a door or grate at the entrance.
+Libraries occur in two sizes: Small single-level libraries, and larger duplex libraries. All libraries contain bookshelves, wooden planks, chest(s) and cobwebs dispersed randomly.
+Large libraries contain a second level consisting of a surrounding balcony with fences as railings, and fences/torches arranged in a chandelier formation over the center of the room. The two levels are connected by ladders on the wall furthest from the entrance.
+Chests are found on the corner of one bookshelf in each library, with an additional chest in the corner of the top floor in duplex libraries.
+Chests found in store rooms contain 1-4 stacks of items, chosen from the following list. Chance listed is per stack, not for the chest as a whole.
+Chests found on slab altars in corridors contain 2-3 stacks of items, chosen from the following list. Chance listed is per stack, not for the chest as a whole.
+Chests found in libraries contain 1-4 stacks of items, except that each enchanted book is in a separate slot even when a "stack" of more than one would generate. Chance listed is per stack, not for the chest as a whole.
+Of all the stone brick blocks in a stronghold, approximately 45% are regular stone brick, 30% are mossy stone brick, 20% are cracked stone brick, and 5% are actually monster egg blocks.
+Strongholds usually spawn underwater, meaning reaching them is difficult, and whole rooms can be flooded if the stronghold is intersected by a mineshaft or ravine. Very rarely, floating End portal rooms can be found in the ocean. Reaching those is also a challenge.
+There is also on average one room with cobblestone stairs in every stronghold.
+Portal rooms (and other parts of the stronghold) can be overwritten by ravines, caves, abandoned mineshafts, dungeons, or parts of the stronghold itself, forcing a player to find one of the other two strongholds.
+There are exactly 233 bookshelves in one large Library Room, which, if mined with a non-Silk Touch axe, will yield exactly 699 books.
+The first image of a stronghold that Notch posted.
+The side view of an uncovered stronghold.
+Overhead view of an uncovered stronghold.
+Top view of an uncovered stronghold.
+A stronghold generated on Superflat using Customization GUI in 12w40a/b.
+An underground view of the top of a stronghold.
+A stronghold that generated with one room above the surface on top of an ocean.
+An underwater end portal room with no other rooms.
+An underground view of the bottom of a stronghold.
+A stronghold with a fountain.
+A Pillar Room inside a stronghold.
+A large library.
+A small library.
+A zombie dungeon. Though not technically part of the stronghold, strongholds often intersect dungeons.
+A chest in a stronghold.
+A floating torch in an empty fountain.
+A floating torch in a library.
+The End Portal room.
+Finished End Portal.
+A dungeon intersecting a stronghold.
+Underground ravine cutting through a stronghold.
+A stronghold intersecting with an abandoned mine-shaft.
+A floating library generated in a ravine over a lava lake.
+A stronghold intersecting a ravine.
+An abandoned mine shaft generated inside a stronghold library.
+An abandoned mine shaft running through an end portal.
+A stronghold and an abandoned mine shaft intersection.
+A dungeon, stronghold and an abandoned mine shaft in one area.
+A stronghold and a cave system. This causes the doors to float.
+A skeleton dungeon that generated in a stronghold.
+A dungeon generated in a library.
+Four silverfish chasing the player in a stronghold.
+Mushrooms growing in a cell made of iron bars.
+A chest containing three items; an apple, iron pickaxe, and iron boots.
+A Staircase Leading to bedrock.
+A glitch where the ladders of a stronghold library can appear floating.
+Stronghold libraries can sometimes be set ablaze by naturally-occurring lava.
+Eye of Ender throw plotting tool.
+Another Stronghold Locator.
+An iOS utility for finding strongholds.
+A stronghold and village finder for 1.7.
+Python implementation to find strongholds.
+(Yet another, but working) Minecraft stronghold locator.
+Still another stronghold finder.

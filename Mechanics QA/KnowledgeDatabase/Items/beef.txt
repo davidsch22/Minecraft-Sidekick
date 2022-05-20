@@ -1,0 +1,7 @@
+Dec value: 363.
+Hex value: 16B.
+Hunger restoration: 1.5 hunger bar slots.
+Hunger saturation: 1.8.
+Maximum stack 64.
+Beef is obtained by killing cows and mooshrooms, which drop 1-3 pieces of beef. If the cow or mooshroom dies by fire it’ll drop cooked beef (steak). Raw beef will restore your hunger bar by 1.5 slots and your hunger saturation by 1.8. This means it’s almost always better to cook your beef as cooked beef (steak) will restore 4 hunger bar slots and 12.8 hunger saturation. But if you’re starving and there’s no furnace around, eating raw beef is perfectly safe. It will not give you food poisoning.
+Cows and mooshrooms can easily by farmed by breeding them. Simply feeding them with will put them in love mode. When 2 cows or 2 mooshrooms are in love mode they’ll start to “dance” around each other and after a few seconds a baby cow or baby mooshroom will spawn. After 5 minutes the parent animals can be bred again.

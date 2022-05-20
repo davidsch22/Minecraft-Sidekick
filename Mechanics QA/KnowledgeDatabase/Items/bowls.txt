@@ -1,0 +1,5 @@
+Dec value: 281.
+Hex value: 119.
+Maximum stack 64.
+Bowls are created using planks and are currently only used to make mushroom stew. Mushroom stew can be made by either combining a bowl, a red mushroom and a brown mushroom in a crafting interface or by “milking” a mooshroom with the bowl.
+Note that the placement of the mushrooms in a crafting interface doesn’t matter, so you can make mushroom stew in your inventory’s crafting interface. Bowls can be stacked up to 64, but mushroom stew does not stack. Unlike buckets, bowls cannot hold any liquids besides mushroom stew.

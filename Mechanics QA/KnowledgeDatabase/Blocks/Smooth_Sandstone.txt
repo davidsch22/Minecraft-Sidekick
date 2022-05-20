@@ -1,0 +1,6 @@
+ Smooth Sandstone is a naturally found in generated structures.(pyramid, desert villages, etc.) .
+Smooth sandstone can also be crafted, by placing four blocks of Sandstone in a square, not requiring the 3x3 crafting grid. There are two varieties of Sandstone: Chiseled Sandstone and Smooth Sandstone. Sandstone can be used to craft the other two types of sandstone. Smooth by placing for in the same manner as sand to make it, and chiseled by making into slabs and then stacking them on each other. See crafting below.
+Unlike sand, sandstone is unaffected by gravity and will not fall if placed without a supporting block. This block is almost identical to cobblestone, except that it is a tan color. It also has three different designs, the two newest only available in Creative Mode or if you found a Desert temple. In a previous version of Minecraft, Sandstone could not be destroyed by an explosion caused by TNT or by creepers.
+Sandstone was added in the Beta 1.2 update; their respective slab was added in the next patch, with the introduction of slabs.
+Chiseled and smooth sandstone blocks were added in Minecraft 1.2.4. Sandstone stairs were added in the developmental snapshot 12w21a.
+In versions prior to 1.7.5, if you crafted Smooth Sandstone in a 2x2 square, you will get 4 Smooth Sandstone, if you did this again you will get those Smooth Sandstone again.

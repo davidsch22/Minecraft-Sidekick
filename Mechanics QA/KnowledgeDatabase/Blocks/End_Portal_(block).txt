@@ -1,0 +1,17 @@
+End Portal (End Portal Frame in the Console Editions) is a block. It resembles an end stone with a decorative bluish-green top, with sides decorated in hollow rounded rectangles with the same color as the top.
+The end portal blocks are indestructible, except by using creative mode or cheats.
+The end portal generates naturally in stronghold portal rooms over a pool of lava with a staircase containing a silverfish spawner. It generates end portal blocks in a 5×5 square border, without the corners. Each end portal block generates facing inwards, with a 10% chance of containing an eye of ender.
+Each Stronghold only contains one end portal, and each world only contains three strongholds, so a total of 36 end portal blocks are generated. In the console edition, there is only one portal per world, so only 12 are generated.
+Using eyes of ender on end portal blocks inserts them to the top of the blocks. Once an eye of ender has been inserted in all 12 blocks, the end portal will activate and the player can pass through to access the End.
+End portals blocks have a front, which must face inward if you are to build a working End Portal.
+End portal blocks will output a redstone comparator signal of 15 when an eye is present. If there is no eye in the frame, it outputs a signal of 0.
+End portals emit a light level of 1.
+The bottom two bits determine which "side" of the whole portal frame this block is a part of. To make the frame activate, each of the portal frame blocks in the pattern must "face" toward the middle. Since the image is near-symmetrical, it is difficult to tell which direction an individual block is actually facing, but if the block isn't facing in that direction and that is the last frame block where the Eye of Ender is placed, the frame won't activate.
+Direction vectors for the blocks are the following 0: To the south.
+Direction vectors for the blocks are the following 1: To the west.
+Direction vectors for the blocks are the following 2: To the north.
+Direction vectors for the blocks are the following 3: To the east.
+0x4 is a bit flag: 0 is an "empty" frame block, 1 is a block with an eye of ender inserted.
+When an end portal block is broken after being activated, the portal itself will not be deactivated.
+When broken, these blocks make the same breaking noise as glass blocks.
+An interesting feature of the end portal frame (and the monster spawner, barrier, and slime block) is that they are transparent in their rendering only - unlike all other transparent blocks, they can have torches and redstone placed on them, conduct a redstone current, will suffocate mobs, and more.

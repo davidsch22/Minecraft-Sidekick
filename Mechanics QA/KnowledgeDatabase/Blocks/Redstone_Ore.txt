@@ -1,0 +1,33 @@
+ Redstone Ore is a type of ore that is found 16 or less levels above bedrock. It drops redstone dust when mined and it can be crafted into redstone-related mechanisms. Redstone crafted into Redstone Dust only has one other use than making electrical wires; redstone torch. If it is hit with anything it will begin to glow and will light a small area. It is usually defined as "Useless" in vanilla minecraft, but in modpacks such as Tekkit, it is more valuable than diamonds.
+Though it is called an "ore", it is not a metal and doesn't have to be smelted into a usable form, although it will give Redstone Dust if smelted in a Furnace in Creative Mode.
+When added to the game, all Redstone-related blocks had no official name. In 1.0.4, July 9, 2010, the name Redstone was given by Notch after demands from the community.
+One may only obtain Redstone Ore as a block through Silk Touch enchantmented tools. It is best to mine the Redstone Ore instead of using Silk Touch because when burning it, it gives one when mined directly drops 1-4 pieces of Redstone.
+Lit Redstone Ore is defined as a separate block in the source code.
+For beginner Minecraft players, Redstone Ore might be mistaken for Rubies.
+In Pocket Edition, Redstone Ore can be found, but cannot be placed.
+There is a glitch, that when dug with a Silk Touch pick, a redstone ore is obtained that is unstackable. Placing and destroying with Silk Touch again fixes that glitch.
+Redstone can essentially be determined to represent copper, but contains a more red hue in Minecraft than it is in real life. It also has a powdery texture. However, both objects take the same basic function, conducting power.
+Redstone ore can be mined using an iron pickaxe or better. It cannot be mined with a wooden or cobblestone pickaxe, although it can be destroyed by them, it will not yield anything.
+Redstone is used to make many items that cannot be made with other materials, because it is a good conductor of electricity. A useful thing to make on survival mode would be a compass and/or map, as it can be used to venture from your home and easily find your way back.
+Redstone ore found randomly while mining in PE.
+Making a compass with iron ingots and redstone dust.
+Making a map with paper and a compass.
+Redstone ore generating naturally in caves.
+redstone block.
+Add a photo to this gallery.
+Redstone ore is the ore block from which redstone is obtained.
+The redstone ore block itself (rather than its redstone drops) can be obtained by mining it with an iron or diamond pickaxe with the Silk Touch enchantment.
+Redstone ore veins form at the bottom 16 layers of the map. Below layer 14, it can be found in 1.025% of stone. There are an average of about 24.8 redstone ores per chunk.
+Redstone ore forms in veins made up of 4 to 8 blocks. However, multiple veins together or non-stone surrounding the vein can change those numbers.
+Redstone ore drops 4 to 5 redstone and 1-5 experience when mined with an iron pickaxe or better. Mining with a Fortune enchanted pickaxe will increase yields.
+Redstone ore will produce light (strength 9) and red particles when clicked, updated, or contacted by any mob (including the player, if not sneaking). This effect will continue until the redstone ore block receives a block tick (averaging 68.27 seconds). This effect does not actually produce redstone power, but the block changes can be detected with a block update detector allowing redstone ore to act like a pressure plate for mobs, but capable of detecting contact with its sides and bottom surfaces as well.
+Smelting the ore instead of mining it is highly inefficient, as mining the ore block yields 4 to 5 redstone rather than the single redstone that smelting yields.
+Redstone ore can be found in Pocket Edition and can be mined but the dust has no use yet except for making clocks, compasses, and powered rails.
+In Minecraft Pocket Edition, stepping on redstone ore does not cause a block update.
+Lots of ore.
+A vein of redstone ore next to some lava.
+Multiple natural veins of redstone in a cave.
+Redstone ore in a mine with a diamond ore (bottom right) and a vein of iron ore (bottom left) next to it.
+Some redstone found in a cave.
+Mechanisms.
+Traps.

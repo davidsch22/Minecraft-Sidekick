@@ -1,0 +1,2 @@
+ Nether Quartz Pillar is the version of Nether Quartz added in Mnecrafft 1.5 and can be crafted from using two blocks of Nether Quartz Blocks on top of each other in crafting. Its index numbers are shared with Nether Quartz and Chiseled Quartz Block.
+The Nether Quartz Pillar is often used in Roman-style buildings.

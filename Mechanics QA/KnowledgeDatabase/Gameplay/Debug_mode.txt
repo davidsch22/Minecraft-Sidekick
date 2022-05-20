@@ -1,0 +1,34 @@
+Debug mode is a world type used to test block models, states and textures. It is thereby useful not only to Mojang but also to creators of resource packs.
+To select the debug mode, hold the ⇧ Shift key while clicking the "World Type" button. Debug mode will then be the world type directly after Customized, and just before Default.
+Upon selecting debug mode, the "Bonus Chest", "Generate Structures", and "Allow Cheats" options are removed from the menu, and the game mode is locked at "Spectator".
+Debug mode contains all Minecraft blocks in all their different block states in a single world, in a grid across height y=70, with a barrier floor at y=60. Every block state generates only once. The remainder of the map is empty.
+When choosing this world, the only game mode available is Spectator with the difficulty locked on peaceful; however, /gamemode and /difficulty work as usual within the world. Further world options (such as generated structures, bonus chest, etc.) are unavailable.
+Breaking any block, including those in the barrier floor, is impossible in this mode. Likewise, placing blocks is impossible, and the commands /setblock, /clone and /fill are unavailable. Some blocks allow right-click interactions (e.g. chests, beds, cake, and generally speaking, those interactions which do not change any block state), while others do not (e.g. levers, redstone repeaters). A block's state cannot change, but its block entity data can change, for instance through using /blockdata.
+The block grid is approximately 180×180 in size, occupying the +X,+Z (southeast) quadrant, although the barrier floor extends past the grid in all directions to the world border. Starting at 0,0, the blocks are arranged first in rows of 89 block states from north to south, then in 87 rows from west to east (with an additional partial row of 63 states), following first the numerical data values of the blocks, then the block state names and values in alphanumeric order. There are a total of 7806 block states.
+Note that any bugs relating to using other game modes than spectator are resolved as invalid due to the fact that the world type can only be legitimately accessed in spectator.
+The biome is plains (except when in the Nether or the End).
+The sun is displayed as if it were the beginning of day (time 1000), but there is no day/night cycle. The daytime can be adjusted, and the day/night cycle can be toggled as usual using console commands. The time can be advanced to sunrise by using a bed.
+In game modes which normally allow blocks to be broken, if the player attempts to break a block, all the usual signs will occur – the player's arm swings, cracks appear, and block-breaking particles spill out – except that the block remains unbroken.
+Water and lava cannot be collected by buckets.
+Cauldrons will clean leather armor and banners, but will not fill bottles and cannot be filled by buckets.
+Brewing stands and furnaces will operate as usual, starting with empty GUIs, but the blocks will not change state to reflect what is happening in the GUI.
+Either TNT block will drop a primed TNT when activated by flint and steel, but will remain also as a block.
+Using a button or lever will drop one of itself as an item. Activating those blocks schedules a block tick for its own block, which drops one of itself because those blocks cannot be suspended in mid-air.
+Using an unactivated pressure plate will cause it to generate enormous quantities of dropped plates, make weird noises, and likely crash the game. The pressure plate schedules a block tick for itself, which drops an item because it cannot be suspended in mid-air.
+ Since it never changes to an activated pressure plate, it never stops receiving activation from the entity or the items on it, and never stops scheduling block ticks.
+Using a comparator in subtract mode, a lever or an unpowered button will cause the block in the direction opposite its facing property to drop as an item. If that block is a repeater or a comparator, it will drop 36 stacks of itself. These types of blocks schedule a block tick in the adjacent block.
+ If that block could not normally remain suspended in the air, it will drop one of itself as an item.
+ If it is a repeater or a comparator, it will start to repeatedly schedule its own block-state-changing tick, which will fail continually a large number of times.
+Rails and minecarts operate as usual.
+Certain doors, glass panes and iron bars have incorrect hitboxes.
+Breaking a sign, a chest or an ender chest will make it invisible, but will preserve all other interactions. Similarly, breaking the enchanting table will render the book invisible, and breaking the mob spawner will cause the pig and its fire particles to disappear. The banners are invisible to begin with.
+If a Nether or End portal is used, the player will spawn in a Nether version or an End version of the debug world, respectively. The sky, light level and other properties will be appropriate to the dimension. In the End, the Ender Dragon is present flying around, though it does not break or interact with blocks. If the End portal is used in the End, the end credits will appear.
+If you open or close the doors or trapdoors, they will not move, but you will still hear the sound.
+Debug world in version 14w26b.
+Large overview (14w26b).
+Grid overview (14w26b).
+Low block ID overview (14w27b).
+Grid overview (14w27b).
+View of the world after using the nether portal (14w27b).
+View of the world after using the end portal (14w29b).
+A barrier block in debug mode.

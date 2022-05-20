@@ -1,0 +1,35 @@
+This article is/was a featured article!
+Stone, also known as "Smooth Stone" and "Clear Stone," is the most common Block in the Overworld, after Air, in all current game modes. It turns into Cobblestone when mined after Beta, unless using a Pickaxe with the Silk Touch enchantment. Also after Beta, It is possible to turn Cobblestone into Stone by cooking inside a Furnace. Stone cannot be used to make Buttons and Stone Pressure Plates, for Cobblestone is meant to be used in those recipes.
+Stone is mostly found at least three or four blocks underneath Grass. Stone is useful because it is an easy material to build with, although it cannot be used for the crafting of tools.
+Stone is one of the blocks Silverfish are able to go into and spawn from.
+Stone can be seen in tall mountains' sides.
+Stone on the side of a Lava Lake.
+Add a photo to this gallery.
+There is an extremely rare glitch in which, if the player goes down a diagonal Stone tunnel, they will noclip through the wall and suffocate.
+Stone's blast resistance is not very strong (though, when mined into Cobblestone, it's blast resistance increases).
+Stone is a block found in abundance in the Overworld.
+Stone requires a pickaxe to be mined, in which case it will drop cobblestone. When mined without a pickaxe, it will drop nothing. If stone is mined with a Silk Touch enchanted pickaxe, it will drop itself.
+Stone makes up the majority of the solid blocks generated. When chunks generate, stone can be found under layers of grass and dirt in most biomes. It can also be seen exposed at the side of mountains in extreme hill biomes.
+When the world is generating new chunks, some stone becomes ore, and almost every cavern and mineshaft will generate at stone level.
+Stone can also be made by lava flowing on top of water, where the water will be replaced.
+Silverfish have the ability to enter and hide in stone, creating a monster egg.
+Stone has the ID name minecraft:stone, which it shares with andesite, diorite, and granite, differentiated by its block data. Stone also has a block state which is expected to replace the functionality of block data in a future version.
+Stone is presumably an igneous rock, due to the fact it is formed by the rapid cooling of magma.
+The side of a circle cave, made of stone.
+The various types of stone since the Bountiful Update.
+Dec value: 1.
+Hex value: 1.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Stone, which is often refered to as default stone, smooth stone, natural stone and normal stone, is the most occuring block, besides air, in the minecraft world. Stone can be found naturally in all levels in which blocks are spawned. It is often at least 4-6 layers deep, covered by sand, dirt and/or grass, but exposed rock is quite common in the form of clifs, basins and mountain sides.
+Mining stone requires at least a wooden pickaxe, but will always result in a cobblestone block. It is possible to harvest stone blocks by using the silk touch enchantment, though this is often considered a waste of the limited durability of this rare enchantment.
+An easier way to get stone is by simply smelting cobblestone in a furnace. The large amounts of both stone and coal make this quite easy, especially when multiple furnaces are used to cut the waiting time.
+Stone is required in several recipes and is often only used for this. Many players prefer the look of cobblestone, stone brick and other stone types over the look of stone. Stone often looks too much like a cave, rather than a normal building or castle. In addition with the extra effort required to create stone, this block is often ignored when building anything in survival mode.
+Dec value: 97.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Silverfish are capable of entering and hiding in stone, which changes the properties of this stone, but not the looks. Breaking this new type of stone will set the silverfish free, which will attack you and call upon other silverfish who might be hiding in the surrounding stones. Luckily, Silverfish only appear naturally in strongholds.

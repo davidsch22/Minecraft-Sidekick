@@ -1,0 +1,23 @@
+Achievements are a way to gradually guide new players into Minecraft and give them challenges to complete. There are currently 34 achievements in the PC edition, 50 achievements in the Xbox 360 Edition, 29 trophies in PlayStation 3 Edition, 46 trophies in the Playstation 4 Edition, and 50 achievements in the Xbox One Edition.
+Achievements can be completed in any game mode, including Creative. They are obtained and saved separately based on world.
+In the console editions, they can only be done on Survival, and if the game is switched to Creative or host privileges are enabled, going back to Survival or disabling host privileges will not allow completion of achievements, because switching to Creative or enabling host privileges disables achievements. Achievements are independent of each other, allowing you to get them in any order.
+You can also obtain them by either being an operator or having cheats enabled, then using the /achievement command.
+When an achievement is obtained, a message is broadcasted to the server declaring the player who earned the achievement. This can be disabled in the server settings.
+In the Xbox editions, achievements grant the player gamerscore, totaling 1000 on the Xbox 360 and Xbox One.
+The achievements in the PlayStation 3 and PlayStation 4 Editions act as trophies.
+The button to access the Achievements screen is found on the main menu screen of Minecraft. Next to it is a button to access the Statistics interface.
+Minecraft's achievement system involves a tree composed of achievements, some of which must be completed before others can be. Originally the interface showed the achievement tree on the left, and a 'mini-map' of the tree on the right. The mini-map was removed in the final version, which now simply shows the tree. The background of the tree mimics the world with dirt at the top with stone spanning below, bedrock at the bottom, and ores distributed as they would be in the world. By clicking and dragging you can view different branches of the achievement tree. Using the scroll wheel on your mouse zooms in and out of this display, making it easier to see, at a glance, what you have achieved and what you still need to.
+The Xbox 360 Edition and PlayStation 3 Edition use the standard Xbox 360 achievement and PlayStation 3 trophy interfaces, respectively, instead of the tree display.
+When an achievement is obtained, it is announced to all players in chat.
+On PC version, achievements can be obtained in any game mode. Because of this, it is easy to get more difficult achievements such as On A Rail, When Pigs Fly, and Sniper Duel, and others by using creative mode. Return to Sender is an exception to the above, because it requires a ghast fireball, and ghasts only attack the player in survival, hardcore, and adventure mode, although it can still be obtained through commands.
+Achievements such as Delicious Fish cannot be rewarded if you hook up the furnace to a hopper, as you are not getting the item directly from the furnace.
+When using a command to give an achievement, a player will receive all previously required achievements as well as the one being given, spamming chat.
+You can reset all of your achievements in a world by deleting the "stats" folder in the world file. Beware that it also resets statistics.
+Sniper Duel became much more difficult when monsters started despawning depending on their distance from the player. 50 blocks is far enough that skeletons will despawn fairly quickly (usually within a couple of minutes or less), and will not move around.
+When Pigs Fly requires Cow Tipper. Cows drop leather, but there is no crafting recipe for a saddle.
+Ironically,"The Beginning?" requires "The End.".
+The Lie is a reference to the Internet meme "The Cake is a Lie", which itself is a reference to the video game Portal.
+"Achievement Get!" is a reference to a decade-old proto-meme: early screenshots of Super Mario Sunshine used the Japanese localization, and featured Mario grabbing a Shine Sprite with the prominent text "Shine Get!". Due to the prominence of the game and the attention given to these screenshots, "[noun] Get!" subsequently became a popular term used on image boards as post count benchmarks, which Notch occasionally visits.
+Return to Sender refers to a message often written on non-personal letters, usually in case that a letter ends up at an incorrect address.
+When Pigs Fly is a reference to a well known saying meaning something absurd that would never happen.
+Tutorials/Achievement Guide.

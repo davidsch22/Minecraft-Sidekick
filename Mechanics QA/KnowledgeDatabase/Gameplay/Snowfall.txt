@@ -1,0 +1,15 @@
+Snowfall is an environmental effect that occurs occasionally in Minecraft. As with rain, it is a type of weather.
+Snowfall is a temporary, biome specific occurrence that can happen randomly at any time but only in the Tundra (Ice Plains), Ice Spikes Biome, and Taiga biomes. It occurs simultaneously with rain, albeit in separate biomes. If you are near both a biome that produces rain and another that produces snow, it is possible to see both snow and rain at the same time.
+Thunderstorms may occur randomly.
+Light from the sun and moon is reduced by 3, to light level 12 in full daylight.
+The Sun, Moon and stars are no longer visible.
+The sky during the day is a grayish blue hue and clouds are gray instead of white.
+Snowflake particle effects are visible falling through the air over all snow biomes.
+Snow regenerates over all non-transparent blocks.
+Mobs on fire will not be put out on contact with snow.
+If it is snowing or raining and you go to sleep, it will stop when you wake.
+Although you cannot see the sun during snowfall, the glow associated with sunrise and sunset is still visible.
+Snow still falls above the clouds. Notch's explanation is that the gray above the clouds during a storm is another layer of clouds and the origin of the snow.
+Snow actually falls one block into the void (Layer -1). This can be seen by digging a vertical shaft down in Creative mode, removing the bottom layers of Bedrock, and flying down into the Void. Note that no particles are emitted from the snow, due to the absence of a block below it.
+If you look directly upwards, you will see that no snow seems to be falling onto the exact block you are standing in. This is also the same for rain.
+When it rains in any biome that is not cold, rain automatically turns to snow above a sufficient altitude. For extreme hills biomes, this is roughly y=95; for taiga, this is about y=120; for most others, it is around y=400-450, up to about y=1170 for deserts and mesas.

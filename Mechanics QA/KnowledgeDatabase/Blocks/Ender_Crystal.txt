@@ -1,0 +1,30 @@
+ An Ender Crystal is a type of "block" (Tile Entity) that is found in The End. They are situated on top of large and tall towers made of obsidian, on top of a block of bedrock. They are unobtainable and easy to break. Destroying it will cause an explosion that will kill the Player unless they are properly protected and causes damage to the enderdragon or any other mob that was also close enough to the crystal. Due to the fact that they are on a tall structure, sometimes exceeding 30 or more blocks high, the explosion might knock you off the tower and cause you to fall to your death. The ender crystals slowly heal the Ender Dragon if it gets near the crystal. It is also worthy to note that the ender crystal is an entity and not a block, therefore, it cannot be placed down by the player, and has a hit-box and health, this health being effectively 0 hearts. The health is proven by the fact that Snowballs, which do not cause damage, can destroy it. An ender crystal can be spawned using the /summon command due to the fact they are an entity.
+Destroying an Ender Crystal causes an explosion, so it is best to destroy it with an arrow or a snowball. When an Ender Dragon gets near the crystal, it will start to heal the damage it took; however, if the Ender Dragon comes into contact with the ender crystal, it will blow up and damage the enderdragon.
+Despite being only naturally spawned in the end, it is possible to use mods or map editors to spawn them in to be used as traps or as decoration. You can also use the /summon command to make an ender crystal.
+If the player looks closely at an Ender Crystal, he/she will see that it contains the Galactic alphabet, the same used on the enchanting table when it is surrounded with bookshelves.
+It is possible to kill an Ender Dragon while it's being healed, although extremely difficult. If this happens, there will be a glitch in which you destroy the Ender Dragon (while connected to an Ender Crystal) and destroy the Ender Crystal next, which makes the Ender Dragon look like it is still being healed, as shown in the picture.
+Before 1.4.2, when an Ender Crystal was destroyed, it would make a fire that couldn't disappear. If the block that is supporting it is removed, the fire will be invisible, but you still would get damage, and it would reappear after a new block was placed again. At 1.4.2 the fire is fixed.
+Because the fire in the ender crystal is undousable (until the crystal is destroyed that is), putting a water bucket directly above the ender crystal will create a loop where the water stays just directly above the ender crystal.
+They look like a Bedrock slab. These are currently not added.
+An upper view of an Ender Crystal with the Ender Dragon healing itself.
+Close view of an Ender Crystal.
+Add a photo to this gallery.
+3 messages CandD.
+		Endercristals don't exist..... For one, crystal is spelled wrong, number two, I have a list of ids.		2012-12-20T20:18:42Z.
+3 messages Sharple.
+		Incorrect, Ender Crystals do exist you can learn more about them here. There is an ID for them but it's just their spawn egg that doesn't w...		2012-12-20T21:54:59Z.
+See more discussions >
+An ender crystal is an entity found in the End.
+Ender crystals are found atop the many obsidian pillars in the End.
+Their primary purpose is to recharge the health of the ender dragon, who will charge from the nearest crystal within a cuboid extending 32 blocks from the dragon in all directions. The dragon is healed 1 () each half-second. An ender crystal can heal multiple ender dragons at the same time. The healing beam is neither obstructed nor is its power diminished by entities or blocks.
+When attacked, even by attacks that normally deal zero damage, they will explode. The ender crystal's explosion is the same power as a charged creeper, 50% more powerful than TNT. Any ender dragon charging from the crystal when it is destroyed will take 10 () damage.
+The base appears to be made of bedrock, with a crystal hovering over it. While in the End a crystal will continually generate fire at its current position, one block above the base (directly on top of the block the base is embedded in), replacing any other block at that location. The ender crystal entity is not solid and can be walked through freely. Ender dragons will pass through the crystal with impunity.
+Ender crystals can be pushed by pistons, but if they are moved while in live fire they will catch fire and explode.
+Placing water above one using a bucket will cause a looping effect, where the fire is continuously put out and reinitialized as the water attempts to flow down and is stopped. The water will not spread, as it can flow downward, but is prevented by the reoccurring fire instantly taking its place.
+Since fire is only checked when an entity moves, ender crystals do not normally take damage from their own fire.
+Oftentimes, the fire will stay after an ender crystal blows up.
+An ender dragon being hit with the "healing beam" of an ender crystal.
+An ender crystal.
+An example of the ender cystal water trick explained in the trivia section.
+An ender crystal in the Overworld.
+An end portal decorated with ender crystals (done by killing an ender dragon spawned in a Superflat world using /summon, then using the same command to spawn the crystals.

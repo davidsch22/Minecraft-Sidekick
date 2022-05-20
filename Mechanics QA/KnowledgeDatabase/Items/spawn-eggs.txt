@@ -1,0 +1,7 @@
+Dec value: 383.
+Hex value: 17F.
+Spawn eggs are creative mode only items which allow a player to spawn in almost any mob by right clicking a block while holding the egg. Spawn eggs cannot be thrown, though the can be placed in dispensers which will drop the eggs rather than shoot them.
+The monsters spawned through eggs will spawn in the same way as they’d normally would. This means slimes will spawn in random sizes, ocelots and wolves only spawn untamed and all hostile mobs can only be spawned when not in peaceful mode.
+However, some mobs spawn a little different. Sheep will always be white and spiders can never spawn as spider jockeys. Villagers will spawn with random skins, this is not affected by any house they might be spawned in.
+There are no eggs for baby mobs, iron golems, snow golems and the Ender dragon, nor does the Ender egg act the same way as spawn eggs. Special versions of certain mobs can’t be spawned either, like coloured sheep, charged creepers, spider jockeys and tamed mobs.
+Spawn eggs are often used in custom adventure maps to control which mobs spawn when. They’re also used on multiplayer servers in server events, like an invasion or mob arena fights.

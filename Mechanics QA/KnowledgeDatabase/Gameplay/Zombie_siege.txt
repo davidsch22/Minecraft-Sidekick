@@ -1,0 +1,32 @@
+Zombie Sieges are in-game events that occur when many zombies spawn in a village. They occur regardless of how well lit or walled off a village is.
+As the behavior of zombies in sieges is nearly identical to that of randomly-spawned zombies and all zombies have a very large search radius, it can be difficult to determine if a large number of zombies attacking a village is an actual siege or just an attack by a greater than usual number of randomly-spawned zombies.
+At midnight each night, there is a 10% chance that a zombie siege will be attempted that night. If a siege is to occur, attempts will be made each tick to start the siege until either a siege is successfully started or the sun rises (specifically, the siege is abandoned when the sky light level reaches 12).
+Each village has a center (defined as the geometric center of all the village's doors) and a size (either 32 or the euclidean distance of the farthest door from the center, whichever is greater). For each player, the village with a center nearest that player where the player is less than the village's size + 1 blocks from the center (by euclidean distance) is a candidate for a siege.
+If the candidate village has fewer than 10 doors or fewer than 20 villagers or the village has not been "stable" (no doors added or removed) for at least 20 ticks (1 second), the next village is considered.
+Ten attempts are made to choose a random point on the circle with radius 0.9 times size centered on the village that is not within the bounds of any other village. The Y value of the chosen point is that of the center of the village. If all ten attempts fail, the entire siege attempt fails but another may be attempted on the next game tick.
+If a valid point is found, 10 attempts are made to randomly choose a valid siege zombie spawning location (see below) within a 16×16×6 box around the chosen point. If no valid spawning location is found, the next village is considered. If a valid spawning location is found, the siege is started at that point.
+Zombies spawned for a siege ignore player proximity, light levels, and the presence of other mobs. Only the minimal spawning conditions are checked the spawning block must be non-opaque and non-liquid.
+Only the minimal spawning conditions are checked the block directly below it must have a solid top surface (opaque, upside down slabs / stairs and others).
+Only the minimal spawning conditions are checked the block directly below it may not be bedrock.
+Only the minimal spawning conditions are checked the block directly above it must be non-opaque.
+Only the minimal spawning conditions are checked the block must be within the target village.
+Note in particular that siege zombies can spawn inside transparent blocks such as slabs that normally prevent mob spawning.
+For the siege, 20 attempts are made to spawn a zombie over the course of 2 seconds. For each zombie, 10 attempts are made to randomly choose a valid siege zombie spawn point within a 16×16×6 box around the chosen point. If a valid spawn point is found, a zombie is spawned.
+Zombie villagers are never spawned as part of a siege, but all other variation (e.g. baby, jockey, equipment) is determined as for normal random spawns.
+For the most part, the zombies that are part of a siege will behave in the same manner as randomly-spawned zombies. They will also despawn as usual if the player is far enough away. The exception is that if they happen to wander more than the village's size blocks away from the center of the village, their AI will take them back towards the village center if they are not actively pursuing a target.
+Villagers, Iron Golems, and other mobs do not differentiate between siege-spawned zombies and randomly-spawned zombies.
+If at least two villagers survive the siege and doors are rebuilt as necessary, the villagers can mate and repopulate the village. The village will be safe from future sieges until the population reaches 20. Without player intervention, however, it is likely that villages will be wiped out by sieges and randomly-spawned zombies.
+Even if no villagers survive, a village may be repopulated by curing zombie villagers (either randomly spawned or those created from zombie-killed villagers on normal or hard difficulty), or by luring in villagers from another village.
+When a zombie is attacking a targeted villager, it will ignore the player and any other villagers unless a player or other mob attacks it.
+Zombies also attack villager children.
+Rain or storms can allow siege start attempts to continue past dawn, since they reduce the sky light level.
+Although zombies are the only mob that attacks villagers, Iron Golems still attack other hostile or neutral mobs. This is probably because they can be created by the player for self-defense, not for defending a village.
+Sieges can occur in player-made villages and mushroom biomes, despite zombies not spawning in mushroom biomes naturally.
+In Pocket Edition, Zombies attempt to reach villagers inside buildings, though they are unable to break doors.
+A group of Zombies breaking down a wooden door, two of which are villagers.
+An Iron Golem killing a zombie during a siege, preventing the zombie from breaking down the door.
+A siege ending because of the zombies burning in the daylight.
+A siege while it's raining in another biome. The zombies are burning because it doesn't rain in desert biomes.
+A zombie attacking a villager while the other one is trying to run.
+3 Villagers taking cover in a Large House during a zombie siege.
+Spawn area model of the zombie siege.

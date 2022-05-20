@@ -1,0 +1,18 @@
+Spectator mode is a game mode which allows you to fly around and observe the world without interacting with it in any way. Spectator mode can be entered by using the command /gamemode spectator, /gamemode sp, or /gamemode 3.
+Spectators are invisible, can fly, clip through blocks and entities, and view invisible players.
+Spectators are completely invisible to other players, unless the other players are also in spectator mode.
+Spectators are not noticed by mobs, and do not trigger mob spawning (including from spawners), nor do they prevent mob despawning.
+Spectators can move through blocks, entities, and other players. When their head is inside a block, they can see through all blocks.
+Spectators cannot take damage, as all blows go through them. Lava, drowning, fire, and suffocation also do not affect them. However, they can take damage from the Void or /kill.
+Commands (including player selectors) can still target spectators.
+Spectators are always flying. They cannot stop flying by landing, as the player will just go through the blocks. The mouse scroll wheel, the sprint key, and the slowness and swiftness effects all affect the flying speed.
+If you open your inventory while in spectator mode, you cannot interact with any of the items in it. Likewise, viewing GUIs is possible, but it is not possible to interact with them. You also cannot pick any item up. Items in your inventory cannot be used.
+If you click a number on your keyboard, you can teleport to a specific player on that server by pressing 1, or you can teleport to a team member by pressing 2.
+Spectators can see other spectators and invisible mobs, as well as themselves using F5. Spectators appear as a translucent disembodied head, and the selected item from the hotbar is also visible. Invisible mobs appear translucent, like when viewing an invisible ally with /scoreboard teams option <team> seeFriendlyInvisibles set to true.
+A spectator can left click on an entity, to take its view. Their position is locked to that of the entity, and their POV moves in accordance with the entity. Viewing oneself while spectating from an entity's point-of-view using F5 shows the entity. Pressing the dismount key (⇧ Shift by default) returns the player to flying mode.
+Certain mobs also apply a shader while looking from their point-of-view. This filters how the world is portrayed to the spectator. Similar to the Super Secret Settings, if one presses F4, it removes the filter without dismounting the mob. Below is a table of mobs that have a filter.
+If you put a pumpkin on your head and go into spectator mode, your vision is still filtered even when you enter the view of a mob.
+Spectator mode allows you to view the perspective of an ender crystal, a primed TNT block and any variety of minecart. Likewise, spectator mode allows you to take the point of view of any stationary entity (such as paintings and armor stands).
+If an entity falls out of the world, any spectators taking its perspective will die with it since they are still separate entities and take Void damage.
+All mobs perspective can be viewed with the exception of the Ender Dragon.
+Debug mode.

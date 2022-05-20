@@ -1,0 +1,106 @@
+Spawning refers to players and mobs being created and placed in the game world. Players will respawn at their spawn point, or at the bed they last slept in upon death. Mobs will despawn upon death.
+New players will initially spawn within a small area surrounding the world spawn point when the server is not in adventure mode. This area is 20×20 blocks in singleplayer and reduced to 10×10 blocks in multiplayer, while the area itself is offset in the Northwest direction of the world spawn point. Upon death, the player will then respawn within this area unless they have had their individual spawn point changed.
+When spawning, the player will be placed upon the highest block of the matching X and Z location that they have spawned at, even if this would set the player above the maximum build height. This area will not consider the existence of a block to spawn on, which can result in players spawning above the Void if there are no blocks at that X and Z location.
+The world spawn point also determines the center of the permanently loaded spawn chunks.
+The world spawn point itself can be changed using the /setworldspawn command.
+When the server's settings set the default game mode to adventure mode (using the server.properties), then the normal spawning mechanic is ignored and players are spawned directly on the world spawn. This includes the X, Y and Z coordinates, even if there is no block there and even if there are blocks above it.
+If the Y coordinate is not a valid spawning area then the server looks up until it finds one, at most players can spawn at Y=256. If there is space to spawn but it is in the middle of the air, the player will spawn in the middle of the air, even falling into the void if there is a hole.
+The individual spawn point of the player can be changed by lying in a bed or using the /spawnpoint command. If the individual spawning area of the player is obstructed upon their death, they will be forced to respawn at the world spawn.
+Lying in a bed will allow for leniency in obstruction, in that the player will attempt to respawn on other blocks near the bed if the original point becomes blocked. If the spawn point set via /spawnpoint becomes obstructed, the player will not be given this leniency in respawning.
+Many mobs generate upon initial chunk creation. These spawns will only happen once per chunk. They are not affected by the game rule doMobSpawning.
+Approximately one in ten newly generated chunks will contain mobs, usually in packs of up to four of the same species. They will always spawn on the highest available block in a column, basically the one that can see the sky. For an animal to spawn on it, this block must be opaque and the two blocks above it must be transparent. The block does not need to be a grass block nor does it need to be illuminated as it does with mob spawning.
+Animals do not spawn in desert or ocean biomes, with the exception of squid, and only mooshrooms will spawn in mushroom island biomes.
+Randomness for animal spawning is derived from the world seed, which means that worlds with the same seed will generate chunks with the same animals in the same places.
+Villagers generate as part of the village generation.
+A single witch will spawn within a witch hut upon generation.
+Three elder guardians generate as part of a single ocean monument.
+A single ender dragon is created in the End when the dimension is created.
+Mobs are broadly divided into four categories: hostile, friendly, water (i.e. squid) and ambient (i.e. bat). Hostile mobs have a spawning cycle once every game tick (1/20th of a second). Friendly and water mobs have only one spawning cycle every 400 ticks (20 seconds). Because of this, where conditions permit spawning, hostile mobs spawn frequently, but passive mobs (ie: animals) spawn very rarely. Most animals spawn within chunks when they are generated.
+Mobs spawn naturally within a square group of chunks centered on the player, 15×15 chunks (240×240 blocks). When there are multiple players, mobs can spawn within the given distance of any of them. However, hostile mobs (and some others) that move farther than 128 blocks from the nearest player will soon despawn, so the mob spawning area is more-or-less limited to spheres with a radius of 128 blocks, centered at each player. In multiplayer, mob caps are shared by all players, no matter where they are.
+Mob caps are directly proportional to the total number of chunks eligible for spawning. To calculate the cap, the spawning area is expanded by one chunk in every direction (so the default gives 17×17 chunks), then the total number of chunks is plugged into the following formula.
+Each mob category has a separate cap and a different constant in the formula.
+In single player mode, there are always 289 chunks in range so the caps above are used. In multiplayer, chunks that are in range of multiple players are only counted once. So the more spread out the players are, the more chunks will be covered and the higher the caps will be.
+The amount of mobs is checked once at the beginning of each spawning cycle against the cap. If the number of living mobs in a category is over its cap, the entire spawning cycle for that category is skipped. The area checked for mobs is the same as the area used for calculating the mob cap, which is the spawning area expanded by one chunk in every direction.
+For each spawning cycle, one attempt is made to spawn a pack of mobs in each eligible chunk. A random location in the chunk is chosen to be the center point of the pack. For the pack to spawn at all, the center block must be water for water mobs and air for all other mobs. Note that in the latter case, it must actually be an air block. Any other block, even a non-colliding one, will prevent the entire pack from spawning.
+If the pack location is suitable, 12 attempts are made to spawn up to a pack, which is 8 wolves, 1 ghast, 3 rabbits, or 4 or any other mob. The pack is spawned within a 41×1×41 (that's a 41×41 square that is one block high) area centered at the initial block. Mobs will spawn with the lowest part of their body inside this area. For each spawn attempt, a block location within the pack area is chosen at random. Though the pack area extends 21 blocks out from the center, the random location is heavily skewed toward the center of the pack. Approximately 85% of spawns will be within 5 blocks of the pack center, and 99% within 10 blocks of the center.
+All mobs within a pack are the same species. The species for the entire pack is chosen randomly from those eligible to spawn at the location of the first spawn attempt in the pack In the Overworld, this depends on the location Forest, taiga, mega taiga, and cold taiga biomes and their variants can also spawn wolves.
+In the Overworld, this depends on the location Plains and savanna biomes can also spawn horses, though savannas spawn horses only 1/5 of the time as plains.
+In the Overworld, this depends on the location Jungle biomes can also spawn ocelots, and increase the chance to spawn chickens.
+In the Overworld, this depends on the location Desert, beach, stone beach, river, ocean, mesa, and snowy biomes (except cold taiga) cannot spawn animals; only hostile mobs and squid.
+In the Overworld, this depends on the location Mushroom island biomes can spawn only mooshrooms.
+In the Overworld, this depends on the location Witch huts can only spawn witches.
+In the Overworld, this depends on the location Ocean monuments can only spawn guardians.
+In the Overworld, this depends on the location The rest of the locations can spawn sheep, pigs, chickens, cows, rabbits, spiders, zombies, skeletons, creepers, endermen, slimes, witches, and squid. Slimes will only spawn if they are in any eligible chunk under layer 40, or in a swamp biome at a low light level.
+The species for the entire pack is chosen randomly from those eligible to spawn at the location of the first spawn attempt in the pack In the Nether, the locations are less varied, Skeletons, wither skeletons, and blazes can spawn within Nether fortresses.
+In the Nether, the locations are less varied, Ghasts can spawn everywhere that does not belong to a nether fortress.
+In the Nether, the locations are less varied, Zombie pigmen and magma cubes can spawn anywhere in the Nether.
+The species for the entire pack is chosen randomly from those eligible to spawn at the location of the first spawn attempt in the pack In the End, only endermen will spawn.
+Each individual spawn attempt succeeds only if all of the following conditions are met There must be no players and no player spawn points within a 24 block distance (spherical) of the spawning block.
+If it's a squid or a guardian, then... the spawning block must contain liquid (water or lava).
+ If it's a squid, then... the spawning block must be between level 46 and 62, inclusive.
+ the spawning mob must not be obstructed by other mobs.
+ If it's a guardian, then... the difficulty must not be peaceful.
+ 95% chance of failure if the spawning block has sky exposure (details).
+If it's not a squid or a guardian, then... the block directly below it must have a solid top surface (opaque, upside down slabs / stairs and others).
+ the block directly below it may not be bedrock.
+ the spawning block itself must be non-opaque and non-liquid.
+ the block directly above it must be non-opaque.
+ the spawning mob hitbox must not be obstructed by solid blocks, other mobs or liquids.
+If it's a bat, then... the spawning block must be at level 62 or below.
+ If the real-time day is between October 20 and November 3, then the light level must be 7 or darker. Otherwise the light level must be 4 or darker.
+If it's an animal (other than a mooshroom or ocelot), then... the light level of the spawning block must be 9 or brighter the block directly below the spawning block must be grass.
+If it's a mooshroom, then... the light level of the spawning block must be 9 or brighter the block directly below the spawning block must be mycelium.
+If it's an ocelot, then... the spawning block must be above level 63.
+ the block directly below the spawning block must be grass or leaves.
+ there is a 1/3 chance the spawn will fail.
+If it's a hostile mob (except as noted below), then... the difficulty must not be peaceful.
+ the light level of the spawning block must be 7 or darker (with exception during thunderstorms), and more light increases the chance that the spawn will fail.
+ sunlight falling on the spawning block further increases the chance that the spawn will fail, by up to 50%.
+If it's a slime, then... the light checks in the general hostile mob check don't apply.
+ one of the following must be true option 1 the spawning block must be in a chunk eligible to spawn slimes (see the slime page for details).
+option 1 the spawning block must be below level 40.
+option 1 90% chance of failure.
+one of the following must be true option 2 the spawning block must be in a swamp biome.
+option 2 the spawning block be on level 51 through 69 inclusive.
+option 2 chance of failure based on the phase of the moon.
+option 2 the light level of the spawning block must be 7 or darker, and more light increases the chance that the spawn will fail.
+option 2 50% chance of failure.
+If it's a ghast, then... the light checks in the general hostile mob check don't apply.
+ there is a 95% chance the spawn will fail, thus ghasts only spawn 1/20th as often as other mobs.
+If it's a magma cube, then... the light checks in the general hostile mob check don't apply.
+If it's a zombie pigman, then... the light checks in the general hostile mob check don't apply.
+If it's a blaze, then... the light checks in the general hostile mob check don't apply.
+ the light level must be 11 or darker.
+If it's a skeleton in the Nether, then... there is an 80% chance of spawning a wither skeleton instead.
+If all of these conditions are met then the mob is spawned. The pack is complete when 4 mobs have spawned (or 8 wolves, or 1 ghast, or 3 rabbits), or 12 attempts have been made, whichever comes first. The exception(s) to these rules is the ender dragon or the wither.
+Due to the general block checks, all mobs besides squid must spawn on top of an opaque block with at least two blocks of headroom, even ghasts, etc. However, short mobs can spawn in a one block high space if the block above is transparent, like a glass block or piston.
+While individual mobs can spawn inside signs, pressure plates, and other non-opaque blocks, packs cannot. They need a completely empty block in the center. Since a pack spawns all at one level, there needs to be some air blocks right above a flat surface to allow mobs to spawn on it, and more air blocks will always allow more spawning.
+Similarly, buildings surrounded by air will spawn more mobs inside than underground rooms because packs that spawn outside of the building can spawn mobs inside it.
+The mob caps tend to be reached in seconds. Because of this, mobs can be funneled into a spawning room by preventing them from spawning outside of it.
+The caps also mean that the faster mobs are killed, the faster they will spawn.
+Because the caps are only checked at the beginning of a spawn cycle, they can be dramatically exceeded when a large number of mobs spawn in a single cycle. This happens often with squid, which have a fairly low cap (5 in single player) but can spawn in the hundreds in a single cycle, in an area with lots of water.
+If the player's view distance or the server view distance in multiplayer is at 9 or below, mob spawning is severely reduced (or they despawn too quickly), and may result in the player encountering no mobs at all. Set the view distance to 10 or higher to ensure mobs spawn correctly.
+Cows, chickens, pigs, sheep, mooshrooms, villagers, ocelots, wolves, horses, donkeys, and rabbits can breed. All of these requires a player to breed them except for villagers.
+A thrown egg has a 1 in 8 chance of spawning a chicken, and an additional 1 in 32 chance of spawning 4 chickens from a single egg, so there is a total of 1 in 256 chance for a single thrown egg to spawn 4 chickens.
+A snow golem, iron golem, or wither can be made to spawn if a player builds the proper structure out of blocks. Iron golems can also spawn in sufficiently populous villages. See their respective pages for full details.
+A monster egg will spawn a silverfish if broken, or if a nearby silverfish is attacked.
+Zombies can spawn in large groups in villages at midnight ignoring most of the usual restrictions, forming a siege. It could even happen in mushroom biomes or if /gamerule doMobSpawning is false.
+Zombie pigmen can spawn from nether portals in the Overworld. Lighting and player proximity don't prevent this.
+Endermites can spawn randomly when a player uses an ender pearl.
+Killing medium and large slimes and magma cubes will spawn more of them, but in a smaller size.
+When a pig gets struck by lightning, it is replaced by a newly spawned zombie pigman.
+When a villager gets struck by lightning, it is replaced by a newly spawned witch.
+A monster spawner causes mobs to spawn constantly in the area around it. Spawners may naturally generate spawning zombies, skeletons, spiders, cave spiders, silverfish, or blazes, but may be made to spawn other mobs using commands. Mobs have the same spawning conditions they would have from a natural spawn, except hostile mobs may spawn without a block below them.
+In Creative, the player can use spawn eggs to spawn most mobs. When mobs are spawned this way, all normal spawning requirements, such as light level and block type, are ignored.
+Any entity can be spawned using the /summon command.
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions A mob that has had no player within 32 blocks of it for more than 30 seconds has a 1 in 800 chance of despawning on each game tick (1/20th of a second). Therefore, the half-life of monsters not within 32 blocks of a player is 27.73 seconds (after the initial 30 seconds have elapsed).
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions A mob will immediately despawn if there is no player within 128 blocks of it. Note that this is a Euclidean sphere, not a cylinder from map top to bottom and not a taxicab sphere (which is more like an octahedron). Example: A mob at 0/y/0 will remain at least 30 seconds (as above) if the player moves to 65/y/65 (real distance 91.9), but despawns immediately if the player moves to 91/y/91 (real distance 128.7).
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions All hostile mobs (including those that are holding items) in a world will despawn if the difficulty is set to peaceful, regardless as to where the player is positioned in the world.
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions In multiplayer, despawning does not occur while there are no players in the game.
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions A monster which has been named with a name tag will not despawn. However, one created from a renamed spawn egg will despawn as normal.
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions If a monster is holding any items or wearing any armor that was given by a player or picked up from the ground, it will not despawn.
+Monsters, squid, ocelots, and hostile wolves, can cease to exist, or "despawn", under certain conditions Chickens that originally spawned as chicken jockeys follow zombie despawn rules, rather than chicken despawn rules. In other words, they will despawn.
+Sometimes it is possible for the world spawn in the ocean.
+It is possible for the spawn point of a world to be in a lava lake, in which case starting a game in Survival is nearly impossible unless there is water nearby.
+Forum thread by Marglyph about the spawning algorithm in Beta 1.2.
+Forum thread by fr0stbyte124 on mob spawning in Alpha 1.1.2_01 from before the Halloween Update changes.

@@ -1,0 +1,8 @@
+Dec value: 24:2.
+Hex value: 18.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 4.
+Maximum stack 64.
+Transparency: No.
+Smooth stand is a different variant of sandstone, without the cracked surface normal sandstone hs. Smooth sandstone can be created by placing 4 pieces of any type of sandstone in a 2×2 square shape, in any crafting interface.
+Smooth sandstone can be used to craft sandstone slabs, with the cracked texture, and it can be crafted into itself. No loss of materials occurs, so it’s a completely pointless action.

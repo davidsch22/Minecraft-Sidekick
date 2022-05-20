@@ -1,0 +1,24 @@
+Huge mushrooms are generated structures.
+They naturally generate in mushroom island and roofed forest biomes. In Pocket Edition, they also generate in swamp biomes.
+Huge mushrooms can be grown by applying bone meal to a small red or brown mushroom that is planted on dirt, coarse dirt, grass block, podzol or mycelium. In open daylight, it requires more bone meal on dirt or podzol than on mycelium to grow.
+They require a 7×7×6 to 7×7×8 space to grow depending on their height, not counting any spaces occupied by partial blocks. The bottom-most layer (where the mushroom is placed) only requires blocks immediately adjacent to the source mushroom to be free, not counting diagonal blocks.
+A huge mushroom will only grow if there is sufficiently low light, or if grown on mycelium or podzol.
+A huge mushroom will not grow above the height limit.
+A huge mushroom's height will always be between 5 and 7 blocks inclusive. In Pocket Edition, however, they can reach heights of up to 13 blocks.
+Huge brown mushrooms consist of a single stalk in the center, with a 7×7 canopy of brown mushroom blocks at the top with the corners missing.
+Due to the space requirement matching the size of the canopy at the top, it is possible for a huge brown mushroom to grow with its canopy directly touching a mushroom next to it.
+Huge red mushrooms, like their brown counterparts, have a single stalk in the center, but a different canopy, composed of five 3×3 slabs of red mushroom blocks arranged above and around the stalk, forming a 'dome'. Even though the space requirement is the same, the actual huge red mushroom only ends up being 5×6 blocks in area, so subsequent ones can be grown closer together than brown ones.
+The decoded change-list.
+All huge mushrooms have exactly 45 blocks besides the stalk, so on average, you can get 13.5 mushrooms from each huge mushroom.
+Red mushrooms are rarer than brown mushrooms, but this is not the case for huge mushrooms.
+A brown huge mushroom found in a roofed forest.
+A red huge mushroom found in a roofed forest.
+A brown 13 block-tall huge mushroom generated in a swamp (Pocket Edition exclusive).
+A red 13 block-tall huge mushroom generated in a mushroom island (Pocket Edition exclusive).
+A guide to the minimum growth requirements for each type of huge mushroom.
+A huge mushroom house incorporating both red and brown huge mushroom.
+Red and brown huge mushrooms in a mushroom island.
+Huge mushrooms spawned in a roofed forest.
+Some huge mushrooms generated in a swamp (Pocket Edition).
+A river test with 3 huge red mushrooms (Bottom left, top, and one hidden behind a tree at the far left).
+An early village with 2 huge mushrooms.

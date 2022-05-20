@@ -1,0 +1,8 @@
+Pumpkin Pie is a food item added in the 1.4.2 Update. Pumpkin Pie functions as a normal food item, a single pie being eaten once, unlike Cake which needs to be placed on a block before consumption.
+Pumpkin pies restore 4 hunger points per pie. You can make a pumpkin pie with one pumpkin, one egg, and one unit of sugar. The recipe is shapeless, and so the ingredients can be placed however you would like. Using the pumpkin pie is useful when you are in the wild.
+Pumpkin pie only requires three ingredients to make, and nothing needs to be cooked, which means you can make it with your 2x2 inventory crafting grid. This makes it a fairly reliable food source compared to the likes of food items such as steak (which requires a furnace) and cake (which requires a crafting table and a bucket of milk) when you may not have access to these things, even temporarily. Assuming you have the right resources (pumpkins can be difficult to find, after all), pumpkin pie can be an excellent early-game food item, due to it's relative cheapness (more or less excluding the somewhat elusive pumpkin) and high hunger replenishment, as well as a nice inexpensive later-game food item.
+Before 1.5, Pumpkin Pie was not planned to be implemented, instead, Calamari would be used for a new use for Squids, with the possibility of farming. This idea was later scrapped, thus implementing Pumpkin Pie.
+Pumpkin pie is a food item which can be eaten by the player.
+Villager farmers sell 2-3 pumpkin pies for an emerald as part of their second tier trades.
+To eat pumpkin pie, press and hold use while it is selected in the hotbar. Eating one restores 8 () hunger and 4.8 saturation.
+The first screenshot of pumpkin pies, posted on Jeb's twitter.

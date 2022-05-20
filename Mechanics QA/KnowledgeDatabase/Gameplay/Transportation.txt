@@ -1,0 +1,35 @@
+Transportation involves the methods by which players move around the world or between worlds. This includes walking, sprinting, swimming, flying, riding saddled pigs and horses, using minecarts, boats, and portals, and even using TNT cannons.
+NOTE: For speed measurements on any method of Transportation, all speeds are shown in SI Units. 1 m/s equals 3.2 ft/s and 1 km/h equals .621 MPH.
+*Horses vary in speed.
+From this data, we can infer that the time taken by a boat to reach maximum speed is 9.4 seconds—the difference in time between a running start and not, is half that, or 4.7 seconds.
+One noteworthy point is that a boat does not seem to be significantly faster when going down rapids rather than traveling at top speed on flat water.
+The swimming speeds are interestingly not affected by Swiftness potions. The surface speed refers to "skimming" across the top of the water by holding the spacebar. Underwater refers to any part of the body submerged in water and walking on flat terrain. The Player travels the same speed regardless of if the water is 1 block deep or 2 (in observed cases).
+Horses are the fastest method of transportation on open terrain, even faster than flying in creative mode. They are not slowed down by 1-block high jumps appreciably, and can jump ravines and caverns easily. However they are slow in forests and jungles.
+Certain transportation methods are also valid methods of transportation if used in the Nether. Since one block in the Nether is equal to eight blocks in the Overworld, using the Nether for transportation effectively multiplies transportation speeds by eight.
+Using potions of swiftness, walking and sprinting speeds become competitive with other methods of transportation. Using a 100m level track, the following times and speeds were obtained.
+Each additional level of Speed allowed the player to walk at nearly the sprinting speed of the previous level, and sprinting with Speed II allowed the player to keep pace with a minecart on fully powered rail. With adequate food and potion supplies, sprinting may be more cost-effective than building high-speed transportation systems.
+Using the /effect command, extremely high or low speeds become reachable.
+Some vertical times are also known Using any method of elevating yourself that relies purely on jumping, including climbing a slope without a flight of stairs and pillar jumping, you cannot rise faster than about 2.0 m/s.
+Some vertical times are also known Walking up stairs, you will ascend by about 3.2 m/s. Walking down is slightly faster at 3.6 m/s.
+Some vertical times are also known On ladders, you go up at about 2.3 m/s and down at 3.0 m/s. (From experiment).
+Some vertical times are also known In creative mode, flying vertically is slower than horizontal flight: 7.5 m/s (from experiment).
+Some vertical times are also known Falling down a waterfall, you drop at 2.0 m/s. Swimming up is only slightly slower, 1.9 m/s.
+Some vertical times are also known Going up or down a lavafall (in the Overworld, and assuming you can survive) moves at 0.8 m/s. (from experiment).
+Some vertical times are also known Falling speed is more complex: Every tick (1/20 second), non-flying players and mobs have their vertical speed decremented (less upward motion, more downward motion) by 0.08 blocks per tick (1.6 m/s), then multiplied by 0.98. This would produce a terminal velocity of 3.92 blocks per tick, or 78.4 m/s. However, the sky isn't quite high enough for that: Falling from layer 256 to bedrock takes about 5.5 seconds, with impact at 3.5 blocks per tick (70 m/s). (In creative mode, you can fly higher, and could potentially reach terminal velocity falling from "above the sky").
+Some vertical times are also known A function to calculate the speed of a (free)falling player is the following: v(t) = (0.98 - 1) × 3.92. The velocity v is in blocks/tick (or meters/tick), and the time t is in ticks. The usual downward velocity will be negative. .
+Some vertical times are also known Integrating the previous yields a formula to find the distance fallen by tick: d(t) = 3.92 × (99 - 49.50×(0.98+1) - t) . Again, distance fallen is negative.
+Use ladders to climb up flat facades. Ladders can also be used to take the player down. Either by having them already there or "drop-ladder" down.
+ By drop-ladder the player "drop" down from a ladder and place a new one under on the wall to catch the player (hold shift to stop).
+The player can only use portals to travel between dimensions such as the Nether or the End. Yet, if the player creates a portal in the Nether and re-enters the overworld, any distance covered in the Nether is multiplied by 8, effectively making the Nether a fast travel zone that allows for greater distances to be covered in a short amount of time in the normal world (in the Xbox 360 edition, this factor is 3 instead of 8, probably because of the world size limit). If players have already defeated the Ender Dragon, and is near a Stronghold/End Portal, they can enter and exit the End to instantly be transported to their bed or spawn point.
+Players are also able to use pistons for transport.
+Players can pillar to reach high locations; this type of movement is commonly attributed to new players.
+Dying will instantly transport you to your bed or spawn at the cost of all of your items and possibly XP.
+Flying into an explosion in creative.
+Water pushing you.
+Players are able to fly in Creative and Spectator modes.
+In addition, there are two bugs when a player is sprinting that can be exploited to create very high speeds Sprinting and jumping while in a 2 block high tunnel or house will cause a speed almost twice as high as regular sprinting speed. This is rather inefficient however, as this can easily drain food at a rate of about 1 unit per second.
+In addition, there are two bugs when a player is sprinting that can be exploited to create very high speeds Doing the same as above, except above ice allows the player to move at an astonishing 16 blocks per second. That is twice as fast as a full speed minecart on powered rails.
+In addition, there are two bugs when a player is sprinting that can be exploited to create very high speeds You can travel even faster with ice and trapdoors above it, creating very little space between jumps allowing you to go faster.
+It is possible to mount minecarts and boats as long as they are within 4-5 blocks (inclusive) from the player. Placing minecarts in a straight line allows for extremely fast transport. This also works with saddled pigs, provided they stay in position (placed on posts).
+Throwing Ender Pearls will teleport the player to the spot where the Pearl lands, at the cost of two and a half hearts in fall damage.
+The player may also utilize waterfalls to move vertically up or down. This can be useful when attempting to build below a platform with no conventional means of getting down. Also, players can repeatedly place and remove water above themselves while swimming upwards in order to reach high locations when ladders and other forms of vertical transportation are unavailable.

@@ -1,0 +1,5 @@
+Stained glass panes are a dyed version of regular glass panes that can be used for decoration purposes.
+If a stained glass pane is broken with a tool enchanted with silk touch, it will drop itself; otherwise it will drop nothing.
+Like regular panes, stained glass panes function as a much more efficient solution to stained glass, covering much more surface with less used resources.
+The original look of stained glass panes.
+Stained glass panes as of Update 1.7.2.

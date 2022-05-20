@@ -1,0 +1,13 @@
+Nether Quartz Ore is an ore that is only found in The Nether. Nether quartz ore has a 45% chance of spawning, similarly to iron in the Overworld. When mined with any pickaxe, Nether quartz will drop a Nether quartz that can be used into making daylight sensors and redstone comparatorss. When Nether Quartz Ore was first introduced in 13w01a it couldn't be smelted if obtained by a silk touch pickaxe or via Creative Mode, this was fixed in 13w01b.
+Nether quartz ore is the first ore (and possibly the only one) available in The Nether.
+Nether quartz ore is the second ore to have a use for redstone mechanics.
+Though some people think that glowstone is an ore because it drops glowstone dust, the only ore in The Nether, is Nether quartz.
+Unlike Netherrack, Nether Quartz Ore does not burn forever.
+Nether Quartz Ore is the only ore available in the Nether.
+The Nether quartz ore block itself (rather than its nether quartz drops) can be obtained by mining it with a pickaxe with the Silk Touch enchantment.
+Nether quartz is about as abundant as iron is in the Overworld. However, it appears to be more abundant because there are more exposed caves in the Nether compared to caves in the overworld. It can also be found at any layer. There is an average of roughly 79 ores per chunk. It is not available in Pocket Edition.
+Nether quartz ore drops one nether quartz and 2 to 5 experience when mined with any pickaxe. Mining with a Fortune enchanted pickaxe will increase possible yields by 1 per level (up to 4 with level 3).
+Unlike netherrack, fire does not burn indefinitely on nether quartz ore.
+Nether quartz ore has the same blast resistance as other ores, which is more than the quartz block and netherrack combined.
+Natural Nether quartz ore in the Nether.
+Quartz in the Nether.

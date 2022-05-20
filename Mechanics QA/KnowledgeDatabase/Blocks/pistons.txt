@@ -1,0 +1,21 @@
+Dec value: 33.
+Hex value: 21.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Pistons are blocks with an extendable arm, which is either retracted or extended. A piston arm will extend when it receives power, either trough redstone power or other switches, which will cause the arm to push most blocks in front of it away. The sticky piston is like the normal piston, but it will pull blocks when it retracts. Note that this only happens when it retracts, the blocks aren’t actually attached to it, so it will not keep sand and gravel floating above air.
+Pistons are created using an iron ingot, redstone dust, 4 cobblestone and 3 planks. These planks can be any combination of colours. A sticky piston is created using a slimeball and a piston. They can easily be broken with your hands without completely destroying it. Pistons are always placed facing the player with its arm, they can be faced in any direction, including downwards. Pistons require power to function, this can come from above and below (redstone torch) and from any power source leading directly into both its top and bottom.
+Pistons are capable of pushing up to 12 blocks, anything more than that will simply prevent the piston from extending. But not all blocks can be pushed, they’ll prevent the piston from extending. .
+Those blocks are Unbreakable blocks (obsidian, bedrock and End portals).
+Those blocks are Utility blocks, like note blocks, chests and furnaces, but also monster spawners.
+Those blocks are Extended (sticky) pistons.
+Some blocks will break and drop itself or something else as an item Cobwebs: Drops string.
+Some blocks will break and drop itself or something else as an item Melons: Drop melon slices.
+Some blocks will break and drop itself or something else as an item Cacti, dragon eggs, sugar cane, leaves, pumpkins and jack-o-lanterms all drop themselves as an item.
+Pistons will also break any block that’s attached to the block they’re pushing or pulling, like levers, torches and buttons. However, this will not happen if the block they’re pushing into that spot is suitable for the attached items to be attached to it. So it’s possible to push a stone block into the spot of a wooden plank, without breaking a torch or other item attached to that wooden block. Note that fire is considered as an attached item.
+If a piston pushes its arm into a water or lava (source) block, that block will be destroyed. This can be used to regulate the flow of lava and water, which will flow again once the piston retracts itself, as long as there’s water and lava left to flow of course.
+Pistons are capable of pushing all other blocks, including trapdoors and rails, though rails and trapdoors require their new place to be suitable for them, meaning rails can only be pushed onto other solid blocks and trapdoors have to be pushed against another block. Other pistons can also be pushed, as long as they’re retracted. This is sometimes used to push or pull blocks that are further away, but often require careful redstone planning.
+Pistons are also capable of pushing players and mobs, however, if pushed by only the piston arm, mobs and players will simply go through the arm. Only by pushing it with another block will the player or mob suffocate inside those blocks. Though they’re often pushed to the sides of those blocks, so you either have to use a couple of pistons in a row or make sure there’s nowhere else to go. Pistons cannot push items passed the map boundaries (void and sky).
+Pistons are used in a wide variety of ways. Probably the most common use is (hidden) doors, either semi automatic or fully automatic. Pistons are also widely used in automated farms, as they can push and break items, which can then be carried to a central point using water. Because pistons can push minecarts and rails, they’re sometimes used as automatic track changing systems by using detector rails.
+Draw birdges are easily be created with pistons, as they can be placed, and retractred underwater. Pistons can also be used to create complicated, but fast elevators.

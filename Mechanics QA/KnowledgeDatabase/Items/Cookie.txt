@@ -1,0 +1,25 @@
+Cookies are a food item introduced in Beta 1.4 that restore one  when eaten. It was hard to obtain until 1.3 was released and Cocoa Beans, one of the ingredients, became a lot easier to find. .
+Using the crafting recipe just once will give eight cookies, making it possible to heal eight         in a single batch.
+Can be made into 8 cookies in just one cocoa bean and two stalks of wheat.
+Cocoa beans are easy to find once in a jungle.
+Wheat is easy to grow and their seeds are easily found.
+They are renewable.
+They only restore 0.4 saturation points. .
+Wheat requires time to grow.
+If you are not close to a jungle and do not have a cocoa bean farm, cocoa beans are not readily available.
+Cookies were the only stackable food when at the time of their introduction in Beta 1.4.
+As of 1.3.1, Cookies are now easier to make because of Cocoa Bean's farming mechanics.
+Cookies can sometimes be obtained from Trading with Villagers.
+Cookies are a food that are easily obtainable, but do not restore a lot of hunger or saturation.
+Villager farmers will trade 6 cookies for 1 emerald as part of their tier 4 trades.
+Cookies can be eaten to restore 2 () and 0.5 saturation.
+Trading for cookies.
+Dec value: 357.
+Hex value: 165.
+Hunger restoration: 2 hunger bar slot.
+Hunger saturation: 0.8.
+Maximum stack 64.
+Cookies are created with cocoa beans and 2 wheat, which will result in 8 cookies. Compared to other food sources cookies are one of the worst food items. They restore only 2 hunger bar slot and 0.8 hunger saturation. Which is a low ratio compared to most other foods. A stack of 8 cookies also only heals as much as 3 steaks, porkchops or mushroom stews.
+Cows and pigs can be found and bred easily, so using the 2 wheat required to create the cookies is often better spent on breeding cows, which has a higher meat drop yield than pigs. If you’re looking for a quick bite to restore the last 1 or 2 hunger bar slots, melon slices are the better choice, though cookies are easier to obtain if you don’t have any melon seeds.
+If you do want cookies, the ingredients are not that easy to obtain. Wheat is easy to farm, but cocoa beans can currently only be found in dungeon chests.
+Farming wheat is very easy. You start by planting seeds on farmland, which will grow into wheat over time. The seeds will require light of level 9 and hydrating the farmland will increase the growth speed. After a while the seeds will have grown through several stages and reach maturity, at which point the wheat can be harvested. You can use bone meal on the planted seeds to instantly grow the wheat, no matter at which growth state it is. Full details on farming can be found here.

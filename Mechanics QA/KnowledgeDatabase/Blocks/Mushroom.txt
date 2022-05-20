@@ -1,0 +1,24 @@
+Mushrooms are fungi that grow and spread in dark areas.
+Mushrooms can be instantly mined with anything.
+Mushrooms naturally generate in poorly lit areas (light level of 12 or less), as well as in mushroom island biomes and the Nether.
+Witch huts have a flower pot with a mushroom inside.
+Mining a huge mushroom block drops up to 2 mushrooms.
+Shearing a mooshroom drops 5 red mushrooms.
+Mushrooms can be planted and grown on blocks in light levels below 13 and not directly underneath the sky. If planted on mycelium or podzol, they can stay planted in any light level. Both brown and red mushrooms grow at the same rate regardless of light level.
+Besides being mined directly, mushrooms are dropped as items if the block below them falls, is moved, or destroyed;.
+Besides being mined directly, mushrooms are dropped as items if a fluid flows over them;.
+Besides being mined directly, mushrooms are dropped as items if it is above light level 12 and a block updates next to it.
+When bone meal is applied to a mushroom, the mushroom has a chance to grow into a huge mushroom, provided that it has enough space and that the light level is dark enough.
+Mushrooms will spread randomly onto nearby blocks when in appropriate conditions. They will spread only if there are fewer than 5 mushrooms of the same type in 9×9×3 area.
+Brown mushrooms emit a barely visible light level of 1.
+Either type of mushroom can be planted in a flower pot.
+Red mushrooms bear a strong resemblance to Amanita muscaria mushrooms, more commonly known as fly agarics. Consuming them will cause delirium and hallucinogenic effects if their psychoactive properties have not been reduced by parboiling. Similarly, red mushrooms in the Minecraft Survival Test damaged the player when eaten.
+Mushrooms found in a swamp biome.
+Mushrooms growing in a stronghold cell.
+A brown mushroom growing on a tree.
+Mushrooms growing in the Nether.
+An example of a mushroom island biome.
+A red mushroom growing on a cluster of glowstone in the nether.
+The rare occurrence of a mushroom growing on moss stone in a dungeon.
+Mushrooms growing on podzol.
+Mushrooms growing on mycelium in a mushroom island biome.

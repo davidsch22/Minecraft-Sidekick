@@ -1,0 +1,63 @@
+Biomes are regions in a Minecraft world with varying geographical features, flora, heights, temperatures, humidity ratings, and sky and foliage colors. Biomes separate every generated world into different environments, paralleling the real world; examples of biomes include the forest, jungle, desert and ice plains.
+The term biome is analogous to its scientific usage: on Earth, a biome is climatically and geographically defined by distinctive communities of plants, animals and soil organisms supported by similar climatic conditions. They are often referred to as ecosystems.
+Biomes have a temperature value that determines if it snows, rains, or does not have either. The required values are: <0.15 for snow, 0.15 - 0.95 for rain, or >1.0 for none. These values can be used to determine the heights that snow generates in different biomes. For example, extreme hills generate snow at y=95, due to highland climate, as the base value is 0.2, and savannas do not experience rain or snow due to their heat. The temperature drops 0.00166667 per meter above sea level (Y==64).
+Biomes are split into 5 categories based on their temperature: snow-covered, cold, medium, dry/warm, and neutral. They were separated to prevent biomes with huge temperature differences being placed side-by-side (such as cold taiga next to a desert).
+There are 61 distinct biomes. Biomes can be distinguished by the grass and leaf colors in the biome, along with the types of blocks present (e.g. types of trees or other plants like cacti, sand coverage in deserts). Biomes are pseudo-randomly generated using the map seed.
+Biomes are separated into 5 categories. The snow-covered biomes are marked in blue, cold in green, medium/lush in orange and dry/warm in red. The biomes which are not labeled are either neutral or unknown. Temperatures are given at sea level.
+In these biomes, it snows at any height. The foliage and grass is an aqua-green.
+In these biomes, it begins to snow over a certain height, but before the 256 block height limit. Otherwise, it rains. The foliage and grass is an aqua-green.
+In these biomes, it begins snowing over the 256 blocks height limit. Otherwise, it rains. The foliage and grass is a vibrant light green, except swamps and roofed forests, which have a dark green grass. Rivers are also exempt from this, as they have a dull blue hue.
+In these biomes, it neither rains nor snows at all. The foliage and grass is an olive color, except mesa biomes, which have brown grass.
+These biomes are usually covered with water and have very little land exposed. Either that, or they have many variants of themselves which are also variants of other non-neutral biomes. The foliage and grass in these biomes usually have a dull green grass hue.
+These biomes no longer generate naturally, but still exist in Minecraft's code, and can be accessed by using the Custom world type.
+Each type of biome has its own biome number, shown in the following table. These biome numbers are used when creating a customized superflat world. Biome variations seem to have a number of 128 + <original biome number>.
+The temperature and rainfall values of the biome are used to change the colors of grass, foliage, and (for swamplands) water.
+A biome's rainfall value is typically a value from 0.0 to 1.0. A biome's temperature starts at a given value at sea level, Y==64, and goes down by 0.00166667 per meter increase. Starting values range from 2.0 (e.g., Desert) to -0.5 (e.g., Cold Taiga). The temperature does not increase below sea level.
+The temperature and rainfall values are used to access two texture images in Minecraft, grass.png and foliage.png, in \assets\minecraft\textures\colormap. These textures are triangular, only the lower left is used, despite the upper right of the foliage file having colors. The adjusted temperature and adjusted rainfall values are used to access these two triangles. Treating the lower left corner as temperature = 1.0 and rainfall = 0.0, with adjusted temperature decreasing to 0.0 at the right edge and adjusted rainfall increasing to 1.0 at the top edge, the values used to retrieve the colors are computed as follows.
+"clamp" limits the range of the temperature and rainfall to 0.0-1.0. The clamped rainfall value is then multiplied by the 0.0-1.0 adjusted temperature value, which brings its value to be inside the lower left triangle. Some biomes' ranges are shown on the right; the multiplication makes all the line segments point towards the lower right corner.
+The color for grass block top and sides, along with various forms of grass – specifically tall grass, ferns, double tall grass, and large ferns – is modified by the color retrieved from the grass.png image. The color for various tree foliage - all tree types except spruce and birch, which have fixed colors in the code – is modified by the color retrieved from foliage.png.
+At borders between or among biomes, the colors of the block and its eight neighbors are computed and the average is used for the final block color.
+Exact temperature and rainfall values for biomes can be found in various projects, e.g. this biome code.
+Swamplands are special. Temperature, which starts at 0.8, is not affected by altitude. Rather, a Perlin noise function is used to gradually vary the temperature of the swampland. When this temperature goes below -0.1, a lush green color is used, 0x4C763C, otherwise it is set to a sickly brown, 0x6A7039. In addition, the color of the water in swamplands is always multiplied by a greenish tinge, 0xE0FFAE. These colors are locked in the code and not retrievable from any texture.
+The roofed forest biomes' grass color is retrieved normally, then averaged with a dark green color, 0x28340A, to produce the final color.
+All mesa biomes' grass and foliage have hardwired colors, two tan colors, 0x90814D and 0x9E814D respectively. These are not modifiable by grass.png and foliage.png and unaffected by temperature.
+Mountainous biomes have names ending with "Hills" in the F3 Menu, except for mega spruce taiga, whose mountainous version is called "Redwood Taiga Hills M," rather than "Mega Spruce Taiga Hills".
+The world generation was changed in 1.7 to greatly reduce the incidence of biomes with the highest temperature differences, such as an ice plains and a desert, from generating next to each other. Such juxtaposition can still be seen in rare cases, although these occurrences are much less common.
+This is the biome colors template for 1.7.2.
+The biomes graph from Notch, prior to beta 1.8, with new biomes added. Notice the chicken scratch handwriting, as Notch was working quick to try to get the biomes update out.
+The old biomes graph with linear axes.
+A .png from the Minecraft files that determines the color of the grass at certain temperatures and rainfalls.
+A .png from the Minecraft files that determines the color of the leaf blocks at certain temperatures and rainfalls.
+A .png from the Minecraft files that determines the color of the water at certain temperatures and rainfalls.
+The color of the sky in two different biomes.
+Jens Bergensten tweeted an image of the mega taiga, unofficially dubbed the Redwood Forest. The name was changed following 1.7's release. .
+This is the first picture provided of the mesa biome.
+The first image of a stone beach (then called cliff) biome, provided by Jens Bergensten.
+A jungle sunset.
+Mesa plateau biome, prior to the addition of red sand. Note the F variant in the background.
+A rare mesa variant called Mesa Plateau F M.
+An above view of a flower forest biome.
+A roofed forest biome in the Pocket Edition. The stone variants can also be seen in the cliff.
+A large cold taiga biome, with a beach off to the side.
+A mountainous mushroom island.
+A variant of extreme hills, where large swaths of gravel generate.
+The Nether biome before beta 1.8.
+Mesa (bryce) biome, prior to the addition of red sand.
+Mesa plateau M. Note that red sand had not yet been added.
+A frozen ocean biome, with fog obscuring the distance.
+A savanna biome, prior to 13w43a. Note the jungle logs on the acacia trees.
+The rare mesa plateau F M biome, before red sand was added.
+A large river separating a desert and a forest.
+A Mesa biome with a small lake nearby. An F variant can be seen in the upper corner.
+A small area of a jungle with desert biome coloring data.
+A desert with a jungle right beside it.
+A swamp spawned in the middle of an ocean, causing miscolored water and lily pads without any actual swampland.
+A rare occurrence of a mushroom biome touching the mainland.
+A rare biome transition of a colder biome touching a warmer biome.(e.g. mesa and ice plains spikes).
+Swampland in Pocket Edition, with some huge mushrooms.
+A mesa and jungle biome generated together in Pocket Edition. Note the exposed mineshaft in the lower right.
+The Overworld.
+Generated structures.
+Weather.
+Large Biomes.
+Amplified.

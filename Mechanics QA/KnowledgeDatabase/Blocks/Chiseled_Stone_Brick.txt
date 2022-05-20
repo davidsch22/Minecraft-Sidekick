@@ -1,0 +1,2 @@
+Chiseled stone bricks are a special type of stone brick. They can commonly be found in jungle temples.
+They are one of the rarest blocks in the game, due to the fact that they can be only found in Jungle Temples. The rarity of the block got decreased in snapshot 14w02b, because you could craft them by putting two stone brick slabs on top of each other in a Crafting Table.

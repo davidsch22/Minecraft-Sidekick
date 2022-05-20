@@ -1,0 +1,16 @@
+Cooked Chicken is obtained when Raw Chicken is cooked in a Furnace, or when a Chicken is killed in Fire. It restores  when eaten.
+Can restore a good amount of hunger points.
+Lots of saturation.
+Chickens are farmed easily, plus when farming, they may occasionally lay eggs which will create more Chickens.
+Chickens somewhat appear randomly and if you can't find one, no chicken.
+They require seeds to breed.
+Cooked chicken must be cooked in a furnace (8 cobblestone), and require some fuel or you would have to kill with fire.
+Each chicken will always drop one raw chicken when killed, even if it is killed by a weapon with the looting enchantment (which makes other passive mobs drop more of their drops).
+Cooked chicken is a food item that can be eaten by the player.
+When a chicken dies while on fire, it will drop one cooked chicken instead of raw chicken. It does not matter if the player was involved in the chicken's death, and the Looting enchantment will not increase the number of cooked chicken drops.
+Raw chicken can be cooked in a furnace. Each piece of cooked chicken removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+Villager butchers will offer 6–8 cooked chicken for an emerald as one of their second tier trades.
+To eat cooked chicken, press and hold use while it is selected in the hotbar. Eating one restores 6 () hunger and 7.2 hunger saturation.
+Cooked chicken can also be used to heal or breed tamed wolves.
+Cooking chicken.
+Cooked chicken in an inventory.

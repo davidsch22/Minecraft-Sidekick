@@ -1,0 +1,57 @@
+Item durability is a property to which certain crafted items, including all tools, weapons and armor, as well as certain other usable items, are subject. It represents the number of useful actions an item can perform and depletes upon item use. For tools and weapons, item durability represents the number of available uses before the tool is destroyed. For armor, it represents the amount of damage that can be absorbed before the armor is destroyed.
+The remaining durability of any item can be seen by looking at the item's durability bar on the bottom of the item icon in the inventory and action bar. An item that has not once been used will not display a durability bar. As the item's durability decreases, the bar shortens right to left, changing color from green to red. When the item has only small number of uses left the durability bar is an empty gray line.
+The numeric durability of your items can be displayed in game by pressing F3+H. (This enables various additional information in the tooltips for items in the player's inventory.) Note that the durability value displayed there is one less than the actual durability of the item: after the value hits 0, the item can be used one last time.
+Only players can reduce the durability of items. Weapons or tools picked up by mobs that are used against a player will not lower in durability; it will remain the same as when the weapon or tool was first picked up by the mob.
+Armor durability is based on the armor's type (head, torso, legs, feet) and material (leather, gold, iron, diamond). Any time you take damage, each piece of armor you are wearing loses one point of durability.
+Armor durability only decreases when its wearer takes damage that the armor is capable of reducing. This includes Direct attacks from mobs and other players.
+This includes Getting hit with an arrow, snowball or fireball (either Ghast or Blaze).
+This includes Touching a block of fire, lava, or cactus.
+This includes Explosions.
+This includes The Thorns enchantment.
+The following types of damage are not reduced by ordinary armor and have no effect on the armor's durability. Some enchantments can protect against them, but they still don't damage the armor. Ongoing damage from being on fire.
+ Suffocating inside a block.
+ Drowning in water.
+ Starvation.
+ Fall damage.
+ Falling into the Void.
+ Poisoning e.g. from a Cave Spider bite or a Potion of Poison.
+ Instant damage from a Potion of Harming.
+Values represent the number of points of durability damage this armor must take before it is destroyed.
+Note that every time the player takes damage that armor is capable of reducing (see above), it counts as one point of durability damage for every worn armor piece. Armor with the Thorns enchantment automatically loses another point of durability, and two more (for a total of four) if it reflects damage to the attacker.
+Some tools are not block-breaking tools: This includes hoes, bows, fishing rods, carrots on sticks, flint and steel and buckets. Such tools are no better than bare fists at breaking blocks, but they do not take damage from doing so—they only take damage by being used in their own various manners.
+For block-breaking tools, a use is counted only if a player completely breaks apart one block or hits a mob. If a block is partially broken this is not counted as a full use.
+Items with an Unbreaking Enchantment do not always lose durability when used; for a given enchantment level, the chance that they will use durability is 1 in (1+level). The result is that they will last an extra level times their original durability, give or take a few.
+Note that certain uses cause either no damage or extra damage to the tool.
+Axes, pickaxes, and shovels Breaking a block that breaks instantly counts as 0 uses.
+Axes, pickaxes, and shovels Breaking other blocks counts as 1 use.
+Axes, pickaxes, and shovels Hitting a mob (hostile, neutral or farm animal) counts as 2 uses.
+Hoes Tilling dirt or grass counts as 1 use.
+Hoes Breaking a block counts as 0 uses.
+Hoes Hitting a mob counts as 0 uses.
+Shears Shearing a sheep counts as 1 use.
+Shears Breaking cobweb, leaves, tall grass, tripwire, wool and vines counts as 1 use.
+Shears Breaking other blocks counts as 0 uses.
+Shears Hitting a mob counts as 0 uses.
+Swords Breaking a block that breaks instantly counts as 0 uses.
+Swords Breaking other blocks counts as 2 uses.
+Swords Hitting a mob counts as 1 use.
+Fishing Rods Breaking a block counts as 0 uses.
+Fishing Rods Casting the line and reeling it in empty, counts as 0 uses.
+Fishing Rods Reeling in an item counts as 1 use.
+Fishing Rods Catching the bobber/hook on a block, then reeling it in, counts as 2 uses.
+Fishing Rods Using the line to yank on a mob counts as 3 uses.
+Carrot on a Stick Breaking a block counts as 0 uses.
+Carrot on a Stick Attacking a mob counts as 0 uses.
+Carrot on a Stick Holding it for a certain amount of time while riding a pig counts as 1 use.
+Carrot on a Stick Using the boost counts as 7 uses.
+All other tools can be used indefinitely.
+Proper use of tools will maximize their durabilities. Assuming a player uses a tool appropriately, the following list shows the maximum durabilities for tools of each material type. Gold - 33 uses.
+ Wood - 60 uses.
+ Stone - 132 uses.
+ Iron - 251 uses.
+ Diamond - 1562 uses.
+Fishing rods - 65 uses.
+Flint and steel - 65 uses.
+Carrot on a stick - 26 uses.
+Bow - 385 uses.
+Item repair.

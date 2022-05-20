@@ -1,0 +1,38 @@
+Chickens are passive animal mobs that have existed in Minecraft since Alpha.
+Chickens are slower than most mobs, but they can flap their wings when falling to prevent themselves from taking fall damage.
+Chickens will follow players who are holding Seeds.
+2 chickens can be bred with Seeds, which is when they will enter Love Mode, and spawn a chick directly.
+Chicks can be spawned from Eggs, which adult chickens will lay every 5-7 minutes.
+This makes chickens the only mob to produce items without being killed.
+Chicks are the baby counterpart of Chickens, and are the third smallest mob in the game.
+Any time an egg is thrown, there is a 12.5% chance that a baby chicken will spawn, or a 0.390625% chance that 4 baby chicken will spawn, or you can be sure a baby chicken will spawn by breeding 2 chickens.
+Chicks will always follow the nearest adult chicken, but cannot swim and will drown in water.
+Like many baby mobs, baby chickens have an oversized head.
+Feeding chickens wheat seeds will produce a baby chicken.
+Like other mobs, chickens will not enter Love Mode for another 5 minutes.
+Chickens naturally generate on grass blocks with 2 blocks of free space above it at light level of 9 or more.
+Chickens can be bred with wheat seeds, producing a baby chicken.
+Thrown eggs have a 1/8 chance to spawn a baby chicken.
+If an egg was thrown at a wall at certain angles, the chicken may spawn in the wall, causing suffocation.
+Baby chickens will grow up in 20 minutes, although the growth can be accelerated by wheat seeds, which reduces 10% of the remaining time.
+Chickens drop 0 to 2 feathers, and 1 unit of raw chicken.
+If a chicken dies while on fire, it drops cooked chicken instead of raw chicken.
+The amount of raw chicken (or cooked chicken) dropped is not affected by the Looting enchantment.
+Chickens drop 1-3 experience when killed by a player or tamed wolf.
+Chickens are 0.875 blocks tall, 0.5 blocks wide, and 0.8125 blocks long.
+Chickens appear to wander around aimlessly, and usually swim in water.
+When falling they will flap their wings quickly and fall slowly, making them immune to fall damage.
+A chicken will lay one egg every 5 to 10 minutes, unless it's a part of a chicken jockey.
+If you are close enough to a chicken when it lays an egg, a popping sound can be heard.
+Chickens are drawn to light when in a dark environment.
+When struck, chickens run around quickly and aimlessly.
+Chickens can swim, visibly flapping their wings as they stay on the surface.
+Chickens can be led around by holding a seed.
+Chickens can be attacked by wild ocelots.
+Baby chickens do not lay eggs.
+Due to their small size, baby chickens can pass through openings even smaller than a full block, though not willingly.
+A baby chicken's height is somewhere in between 0.51 to 0.80 blocks.
+When swimming, baby chickens need only one block of air above their heads.
+Full-grown chickens need two blocks of air above their heads or else they will take damage when they float up and will eventually die.
+When a chicken is killed off a ledge, the corpse also falls more slowly than normal, and the wings still make a flapping animation.
+Chickens are able to hide within hoppers due to their small size, protecting them from lava or water that might be directly on top of the hopper.

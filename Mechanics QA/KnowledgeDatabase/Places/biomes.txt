@@ -1,0 +1,43 @@
+ Biomes are regions in minecraft with specific properties, like forests, oceans or tundras. Each biome will look different from the other, but some biomes also have unique features, like zone specific mobs or specific types of weather.
+Biomes also determine the colour of the sky, water, grass, vines and leaves, though taking those grass and leaf blocks out of the biome will simply change them to the colours of whatever biome they’re placed in.
+When the borders of biomes meet, the colours of grass and water gradually changes into from biome to biome. This change doesn’t happen gradually on leaves and vines though, so trees could have 2 seperately coloured halves when they’re on the edge of a biome, which often looks quite ugly.
+Each biome can also have one or more landmarks, like rivers, lava pits or dungeons, but those are covered in a seperate article, right here.
+Large dunes and vast fields of sand make up most of this biome. About 2-4 blocks below the sand you’ll find sandstone, which can also be crafted with 4 sand blocks in a square shape.
+Dead shrubs and cacti are spread moderately around the desert and even sugarcane can be found growing next to one of the surprisingly many pools.
+You’ll have a good chance to find an NPC village in this biome. Desert Wells can also be found exclusively in this biome and although they can spawn next to a village, they are not part of it.
+It never rains in this biome, though if you stand close enough to another biome, you’ll still be able to see and hear rain and snow fall.
+This biome is, of course, filled with trees (oak and birch), grass and flowers. The landscape consists of small hills and the occasional larger one, though this biome is quite easy to travel through.
+Wolves can be found in this biome, which means this biome isn’t the perfect place for your sheep farm.
+Due to the large amount of trees, this biome is great to start out in. Though hostile mobs can often be hidden from view behind trees, so be extra careful when you go exploring to make sure you don’t get ambushed by a spider in a tree or a creeper behind a trunk.
+This biome has been highly anticipated and became an instant favourite with many builders. Huge trees with 2×2 trunks and long vines occupy this biome and its air, while small bushes cover most of the floor. Ferns can also be found in large amounts on any exposed grass on the jungle floors.
+Vines can be climbed if they’re attached to any block, making the higher trees easier to access for lumber or for building massive tree houses.
+Ocelots (jungle cats) spawn exclusively in this biome and can be tamed and bread using fish, however, they’re very shy and can be difficult to catch in the thick jungle foliage.
+A jungle tree sapling will grow into a jungle tree with a 1×1 trunk. But using bonemeal on jungle tree saplings in a 2×2 square will instantly grow a large jungle tree with a 2×2 trunk and long vines.
+Added in Minecraft 1.7, this rare biome is very similar to a desert and is mostly made up of red sand and different types of clay. You will also find dead bushes and cacti scattered across it.
+This biome can be an excellent source of clay and also sand for making glass, but stumbling upon one in the world can be fairly difficult.
+There’s also a Bryce version of the Mesa biome that features tall spires made out of hardened clay.
+One of the more impressive looking biomes in game. High mountains, massive cave systems, cliffs, valleys, waterfalls and incredible overhangs form this biome, which often creates gorgeous views.
+Due to its high peaks and cliffs, falling poses a great risk if you’re not careful. While climbing a mountain gently from one side, one could fall straight down on the other.
+The large open cave systems and massive overhangs means sunlight can be blocked enough to allow hostile mobs to spawn and hurt or even kill any adventurer caught unaware. All this and the fact there aren’t that many trees, makes this biome more challenging to start out it.
+A rare and bizarre land filled with mooshrooms and huge mushrooms makes this biome look like some kind of alien planet. The landscape is often covered in high hills, though flat mushroom biomes aren’t uncommon either. Instead of grass, this landscape is covered in mycelium. This mycelium allows mushrooms to grow in full sunlight.
+Saplings can’t be planted on mycelium and dirt will be overgrown by mycelium if it’s close enough. So make sure you bring enough supplies if you want to build your home here.
+This biome is the only one in which huge mushrooms can spawn naturally and mooshrooms are the only mobs that can spawn here, this includes underground and in or on player made structures. Mob spawners do still work in this biome, so some care should still be taken when exploring underground.
+These biomes are often very hard to find, placed far away from spawn and any large landmass. Though some known seeds spawn you directly in or next to this biome.
+These massive open water biomes can be up to 25000 blocks wide and easily 30 blocks deep, making it seem like they’re never ending.
+The occasional island may be found when passing through this biome, though there’s rarely an island large enough to sustain any form of life. These small islands do form a great challenge for players who are looking for a more difficult form of survival.
+The bottom of the ocean is made mostly out of sand, clay and stone. From the surface ravines, dungeons and abandoned mineshafts can be found easily, due to the light from torches, though once one dives down, the water becomes darker and darker, lowering visibility and increasing the risk of drowning if you can’t find your way back.
+Large, flat, open fields of grass cover this biome. The occasional hill and tree are scattered scarcely in this biome.
+Small ponds are very common and NPC villages can often be found here as well, which are especially easy to spot due to the lack of any view obstruction.
+Due to the lack of trees to obstruct your sight and the relatively flatness, this biome is often chosen to build in, as it requires less time to clear an area to build in.
+This biome is mostly flat with occasional hills and is filled with trees covered in vines. These trees can spawn in the water. Many shallow pools of dirt, clay and sand cover most of the top layer.
+The overall look is much darker than other biomes. Grass, vines, water and leaves are darker in colour in this biome due to the biome shaders, which makes everything look dark and gloomy.
+Lily pads are spread generously on the water and sugarcane and mushrooms are also quite common. These lily pads will destroy your boat if you crash into one, so be careful when you explore this biome by boat.
+Many players have expressed their disapointment with this biome and discarded it as an annoying and ugly biome. But this biome does offer a great place to build darker themed buildings or villages and can be great for story purposes in adventure maps or for those playing on a role playing server.
+Large pine tree forests covered in snow is what this biome is all about. The landscape is quite hilly, similar to that of normal forest biomes.
+Instead of rain, snow falls gently and silently in this biome, which makes it a more relaxed biome to be in. Snow will only cover the highest blocks, anything below a block won’t be covered. So placing a block 50 blocks high with no other blocks below it, will prevent snow from falling under it, all the way to bedrock.
+Taiga biomes are one of the only biomes in which wolves spawn, so if you’re looking for your very own pack of wolves, this is definitely the biome you’ll want to start in.
+Vast, open fields covered in snow with frozen lakes and rivers make up most of this biome. This biome is often a mixture of vast, open fields of snow and large, massive mountains. Occasional snow fall keeps everything covered in a layer of snow.
+These biomes can be enormous, sometimes making it look like there’s no end to them, so if you spawn in one of these biomes but don’t feel like staying here, you’re often better off creating a new world.
+The shores of these biomes are usually frozen, which could make it look like the whole ocean froze over.
+Sugarcane does spawn in this biome, though they’ll pop out of the ground if the water next to it is frozen, so it can be quite difficult to find sugarcane.
+Wolves can also be found in this biome and are easy to spot due to the lack of any view obstruction, like trees.

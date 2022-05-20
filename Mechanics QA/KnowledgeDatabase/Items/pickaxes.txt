@@ -1,0 +1,10 @@
+Dec value: Wood: 270 Stone: 274 Gold: 285 Iron: 257 Diamond: 278.
+Hex value: Wood: 10E Stone: 112 Gold: 11D Iron: 101 Diamond: 116.
+Durability: Wood: 60 Stone: 132 Gold: 33 Iron: 251 Diamond: 1562.
+Maximum stack: 1.
+Pickaxes are used to mine blocks faster than any other tool and are often required to mine specific blocks. They are are created using 2 sticks and either 3 planks, cobblestone, iron ingots, gold ingots or diamonds. Wooden and stone pickaxes can also be found in the bonus chest. Iron pickaxes can be found in chests in strongholds, abandoned mineshafts and villages.
+All breakable blocks can be broken using a pickaxe, though some blocks can only be broken by a specific pickaxe. Diamond pickaxes are the strongest in terms of durability, but gold pickaxes are the fastest. However, gold pickaxes cannot mine all blocks that diamond pickaxes can mine and they can only be used 33 times before breaking.
+The speed of a gold pickaxe is often only useful when dealing with monster spawners, though if you have a large supply of gold, using several gold pickaxes could help you clear out larger parts of stone in a shorter time.
+Pickaxes can be used as a weapon, though axes are a little stronger. Pickaxes do 1 heart less damage than swords of the same materials, axes do half a heart less damage than swords. Pickaxes will take double durability damage when used as a weapon and because they require more materials to be made, pickaxes are best used for mining only.
+Like most tools, pickaxes can be enchanted. Some enchantments will increase the speed, while others will increase your yield.
+It’s possible to combine two damaged pickaxes of the same type in any crafting interface, which will create a new pickaxe of the same type with the durability of the old ones added together, plus 10%. Note that any enchantment on the old spades will be lost.

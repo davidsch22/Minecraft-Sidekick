@@ -1,0 +1,23 @@
+Wooden Planks are the easiest non-natural block to obtain during the beginning of a world. They can be created by putting a block or more of wood in the crafting grid. When that is done, four wood planks are given per piece of wood. It appears as a series of interconnected planks. It is good for creating a support style for buildings and also making houses and huts and shacks.
+Wood planks are a renewable resource. Despite being easily burnt down, wood is easy to obtain in biomes where trees can be found and thus useful as a building material. Naturally generated wood planks can be found in Abandoned Mine Shafts, Villages and Swamp Huts. Oak wood planks are used in Villages and Mineshafts, and pine planks are seen on houses in swamp huts.
+As of 1.3.1, Wood Planks are a content of Bonus Chests, for a quicker start in Survival Mode.
+Oak Wood Planks.
+Birch Wood Planks.
+Jungle Wood Planks.
+Spruce Wood Planks.
+Dark Oak Wood Planks.
+Acacia Wood Planks.
+Wood planks have a wide array of uses. They are good for giving buildings and homes a cabin-like appearance, even though wood is discouraged to use as a building material, especially in SMP, someone could burn you house down. They're the essential material to making the most basic of tools as well. Aside from tools, however, wood is a vital material to those beginning the game and attempting to survive.   .
+Other uses for wood include: Sticks, signs, doors, pressure plates, slabs, pistons, crafting tables, chests, stairs, bowls, boats, fence (indirectly; fence is crafted from sticks only), jukebox, Note Blocks, bookshelf, beds, and fuel for furnaces, providing 1 1/3 blocks of smelting. (Note: It IS advised to not use wood logs and to use wooden planks because It has same value in smelting) It is not advised to have a fireplace unless you can be assured that your wooden house will not burn down. Try putting non-flammable blocks around your fire area.
+Wood Planks is a common block used in many crafting recipes. Its texture resembles a network of planks, coming in six different shades obtained from the six different tree varieties.
+Wood planks can be broken by hand, but using an axe will speed up the process.
+A crashed boat will drop 3 oak wood planks (no matter the original wood planks used to craft the boat), as well as 2 sticks.
+Oak wood planks can be found in Abandoned mine shafts where they are used as beams supported by oak wood fence posts.
+Oak wood planks can be found in Villages where they are used for various structures including walls, roofs, and floors of many buildings.
+Oak wood planks can be found in Strongholds where they are used for floors and pillars in the Library and Storage rooms.
+Spruce wood planks can be found in the swamp biome where they are used as the primary building material for witch huts.
+Wood planks can be used for building structures, as crafting ingredients, and as fuel.
+Wood planks are used in many crafting recipes. Doors, fences, fence gates, slabs, and stairs must be crafted from wood planks of the same type and will match the wood type used. For other products, wood planks of different types can be mixed freely, with no effect on the result.
+Wood planks can be used as fuel in a furnace. Each wood planks block will provide 15 seconds of smelting, enough time to provide 1.5 smelting operations.
+Wood planks have the ID name minecraft:planks and are further defined by their block data. Wood planks also have a block state which is expected to replace the functionality of block data in a future version.
+If a command is used to create planks with data value 6 or higher, these planks will have the name "Oak Wood Planks" but a missing texture. They can't be used to craft stairs, slabs, doors, fences or gates. If placed, they'll become actual oak planks.

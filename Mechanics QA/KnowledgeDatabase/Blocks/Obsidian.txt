@@ -1,0 +1,46 @@
+Obsidian is the second strongest Block in Minecraft and the strongest block that can be mined. It is only found near Lava beds below sea level, and is created when Water touches a still lava source, causing the lava source to turn into an Obsidian Block. For this reason, it is usually found very deep underground, by layer 10. To mine Obsidian, a Diamond Pickaxe must be used, and it takes 9.375 seconds to mine, or quicker if the Pickaxe is enchanted with any level of Efficiency. It takes 250 seconds to mine by hand, and 50 seconds to mine with any pickaxe under Diamond; though neither will yield a block.
+Obsidian can be created by pouring Water from a Bucket over a pool of lava, provided that the lava is still (or else it will create Cobblestone).
+Obsidian is also the only material that can make a portal to The Nether, as of the October 31st Halloween Update. To make a portal, a frame made of Obsidian must be erected, standing 4 blocks long and 5 blocks high up including the frame to a square 23 by 23 high as of release 1.7, and the remaining space should be left open. The corner blocks need not be included in the rectangle. Then, the bottom Obsidian blocks should be lit on fire with a Fire Charge or Flint and Steel, though Lava will not work. After this is done, the portal opens, granting access to The Nether. Obsidian is also resistant to explosions, with the exception of the Wither's skeleton skull attack. Because of this fact, many players have constructed execution-by-TNT rooms out of Obsidian.
+In addition to the TNT execution rooms, multiplayer servers find Obsidian to be the best defensive structure, as it is nearly impossible to destroy. Making a wall around a city in Obsidian may take a long time, but is well worth the defense when defending from an attack, especially since it renders TNT useless.
+While Obsidian is a strong block in Minecraft, Obsidian in real life is a fragile volcanic glass - but the mistake here comes from Obsidian not being harder than Diamond, but for Obsidian to reach a sharpness equal to (if not, higher) than Diamond. It was for this reason that Obsidian was a popular material used for arrow tips.
+It is possible to destroy Obsidian with TNT. Obsidian's blast resistance is 6,000, while 1 TNT's power is 4. Dividing 6,000 by 4 equals 1,500 TNTs to blow up one block of obsidian, though creating an explosion of this magnitude will crash Minecraft for the majority of players.
+Both Endermen and Obsidian Blocks share a slightly similar texture, hinting at a connection (or a plot point that was later removed).
+Changing the in-game language to Pirate will name the block "Rock o' Tears" possibly a reference to the unimplemented Crying Obsidian.
+It makes a great base/house if a player want it there permanently, though it makes for a very dark room.
+Glowing Obsidian, a type of Obsidian that glows bright red, can be created by activating a Nether Core Reactor (though it technically cannot be mined).
+Obsidian is one of the only two types of Blocks found in all three Minecraft dimensions, the other being Bedrock.
+Obsidian/Gallery.
+Obsidian is a deep purple and black block which is created when lava and water meet. It is known for its high blast resistance and strength and one of its commonest uses is for creating nether portals for connecting the Overworld with the Nether.
+Obsidian is known as the sole block which can only be successfully mined with a diamond pickaxe. Without enchantments, the table below shows the mining time of obsidian.
+Enchanting the pickaxe with 'Efficiency' will speed up the process (by +30% speed/level). Below are the mining times for each level of enchantment.
+With a beacon, the Haste and Haste II effects can be used to reduce mining time further. Using Efficiency V without a haste effect, it takes about 2.55 seconds to mine each block, resulting in being able to mine approximately 23.5 blocks of obsidian in a minute. With Haste, this is reduced to around 2.14 seconds per block, or 28 blocks in a minute. Haste II further reduces the time to mine each block to about 1.875 seconds per block, or 32 blocks a minute.
+Obsidian is formed when flowing water hits a lava source block, and can be found naturally where water from a spring or lake has flowed over a nearby lava pool.
+In the End, solid pillars of obsidian can be found on the surface.
+When a player enters the End, a platform of 25 obsidian blocks is generated for the player to spawn on. This platform can then be mined, and will be regenerated when the player reenters The End.
+In the Nether, obsidian does not form naturally, but is created when a Nether Portal is spawned. This portal can then be mined, providing another way of obtaining obsidian renewably.
+Chests in village blacksmiths may contain it in stacks of 3 to 7, while the ones found in Nether fortresses may contain it in stacks of 2 to 4.
+Obsidian can be used to build explosion resistant structures. At 6,000, Obsidian's explosion resistance is the highest you can obtain in Survival mode, other than anvils which have the same blast resistance. Obsidian cannot be pushed by pistons.
+Obsidian can be used to create a nether portal frame, which can then be ignited using fire. The frame will be a vertical rectangle any size from 4×5 to 23×23. Note that the corners of the frame are not required.
+Obsidian is one of the hardest blocks to destroy in Minecraft. In reality, obsidian is glass-like in texture and quite fragile.
+Destroying an obsidian block with a diamond pickaxe while underwater without standing on solid ground would take 3 minutes and 54 seconds. (Without the pickaxe, it takes 4 minutes and 10 seconds.) Either way, the player will run out of air long before the block is mined. (Unless a potion of water breathing is used).
+Obsidian cannot be moved by pistons.
+Lava is most commonly found on layer 10. This also means obsidian is common here, as underground water springs flows onto the lava.
+It is a common misconception that enough TNT will destroy obsidian. Even though its explosion resistance rating is finite, additional TNT or other explosives will have no more effect on an individual block than only one (it would take 71.25 times the explosive power of TNT to destroy a block of obsidian). It is possible to hack or use /summon an explosion strong enough to destroy obsidian, but no such explosion appears naturally. The "Blue Wither Skull"'s ability to destroy obsidian is a special feature; its explosion is otherwise no stronger than a ghast's fireball.
+Notch once planned to make floating masses of land that required obsidian veins to stay afloat. He later stated that he disliked the idea.
+Naturally found obsidian in a snowy biome.
+Old obsidian plane from Infdev.
+Obsidian wall.
+Crying obsidian.
+Glowing obsidian.
+Dec value: 49.
+Hex value: 31.
+Minimum tool requirement to break: Diamond pickaxe.
+Blast resistance: 6000.
+Maximum stack 64.
+Transparency: No.
+Obsidian is the strongest, obtainable block in game. It is one of the only blocks resistant to explosions and is used to create a nether portal.
+Obisidian can often be found deep underground, as it’s created when water hits a lava source block. If water hits a lava flow, that lava will turn into cobblestone. Obisidian occurs naturally in the End, in which it’s created as huge pillars with Ender crystals on top of it. Obsidian can also be found in chests in the blacksmiths of villages.
+Obsidian will spawn in the Nether, in the form of an active portal. This could potentially lead to infinite amounts of obsidian, though it requires at least 2 players for this to work efficiently. Note that obsidian will only form when water flows on top of a lava source block. If water flows on top of flowing lava, or if lava flows on water, cobblestone and stone will be generated instead.
+The only way to obtain obsidian is by mining it with a diamond pickaxe, which takes almost 10 seconds. It is possible to destroy obisidan with anything else, but this will take over 4 minutes and will not cause it to drop as a resource block, so it’s just a waste of time. Mining obsidian underground can be dangerous. Lava can often be found under the obsidian, which could result in a loss of obsidian or in the dearth of the player. Due to the long time it takes to mine obsidian, getting attacked by other monsters, especially creepers, can result in a quick death.
+Nether portals are created by placing obsidian in a 5×4 rectangle, the corners can be missing. So you need 10-14 pieces of obsidian. Setting the top of the lowest blocks on fire will activate the portal, allowing a player to travel to the Nether. While the obsidian part of the Nether portal are explosion proof, the active part can be de-actived (or re-actived) by the explosions caused by ghast’s fireballs.
+Obsidian blocks are currently only used to create enchantment tables, which have the same explosive resistance as obsidian, but can be mined with even a wooden pickaxe. Obsidian walls and rooms are great ways to prevent damage to their surroundings if anything explodes. However, removing large amounts of obsidian to redecorate can take a long time. Both these properties are often used and abused in griefing and anti-griefing methods.

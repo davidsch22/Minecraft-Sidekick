@@ -1,0 +1,6 @@
+A Pressure Plate is an item that can be used to activate certain features when it is stepped on. It can transmit energy to adjacent (N, E, S, W) blocks, and can via redstone to non-adjacent objects. The most common use of a pressure plate is to open a door (Wooden or of Iron).
+There are currently only two types of pressure plates: wooden and stone. Wooden pressure plates are made from two wooden planks in a horizontal line, and stone pressure plates are made with Stone (not Cobblestone or Stone Brick) in the same fashion. .
+As of the Beta 1.8 update, pressure plates can be placed on Fences, thus representing tables, though they are not functional as pressure plates in this configuration. It takes a pickaxe to break and obtain the pressure plate.
+Dropping an item on a wooden pressure plate will activate it. Dropping an item on a stone pressure plate will not. Weighted Pressure Plates, of Iron or Gold, can be activated in such away but with a certain number of dropped items: the Gold plate requiring 4 on it and the Iron plate requiring 43.
+Pressure Plates in the Minecraft Xbox 360 edition are too oversized to be used as Tables.
+ If a TNT block is placed directly under any other block that has a pressure plate on it, the TNT will be activated when the Pressure Plate is stepped on, making a landmine.

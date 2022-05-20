@@ -1,0 +1,69 @@
+Superflat (sometimes called Flatlands) is a world type replacing the normal varied terrain of the Overworld with customizable layers.
+On a classic superflat world, the terrain consists of one layer of bedrock, two layers of dirt, and one layer of grass; the surface of the world is completely flat and at height y = 4, with the exception of villages and terrain features, if they are enabled. Since the height limit (256) is unchanged, there is then slightly less than one-third more vertical height available to build above-ground structures as compared to a normal world. Mobs spawn as normal, including slimes.
+Because of there being chests in villages, and villages frequently spawning near the spawn point, it is possible to use Superflat as a survival challenge map. However, the high amount of slimes makes this extremely difficult to an inexperienced player, if playing on any other than peaceful difficulty.
+The Nether and the End both generate normally (except in the console edition where the nether is flat). In order to create a Superflat world in SMP, the level-type flag in server.properties must be FLAT, instead of DEFAULT.
+In multiplayer, once a world is created, the server.properties fields have no effect on chunk generation. Instead, just like in singleplayer, the level.dat fields for generatorName, generatorVersion, and generatorOptions are used instead. If you want to alter a world after initial creation, these are the settings to change.
+Upon selecting "Superflat" in the World Type box, a new button appears underneath labeled "Customize". The customize menu starts out with the "Classic Flat" preset of one layer of grass, two dirt layers, and then bedrock underneath. There are two buttons available to customize Superflat worlds, which include the "Remove Layer" button, used for removing unwanted types of layers, and the "Presets" button, used for selecting any of eight currently available presets. If you can understand the preset code syntax you can still create presets of your own by entering the correct block IDs into the 'preset code box', where these changes can be previewed and applied. (Direct Customization is not available.) In addition, superflat worlds can have certain terrain features, besides villages, such as long grass, lakes, and strongholds, which can additionally be customized using the same code box for block layers. These changes also made tweaks to previous world codes, to include the new generation features.
+Presets are shareable. As a preset is selected, a box on top of the screen has a code you are able to highlight and copy. Similar to how new worlds are shared through seeds, presets can be entered into this box to recreate someone else's preset.
+At a future point there is expected to be some way of choosing block types merely by selecting them from a menu. For now, you must type in a correctly-formatted preset code.
+The code is a string of numbers, semicolons, colons, commas, and asterisks. Each code has four main parts, divided by semicolons. These are a version number (used to allow preset codes to be shared even if the code format changes),.
+These are a list of one or more block IDs,.
+These are a biome ID.
+These are a list of structure generation options (may be completely empty).
+The block list is a comma-separated list of block IDs, ordered from layer 0 up; if the entry for a given block has an "*", the number before the "*" is the number of layers to be generated, and the number after is the block ID. A block ID can be followed by a colon to specify a damage value.
+Structure generation options (described below) may have additional parameters, for example "village(size=0 distance=9)". The order in which they are specified may alter the results where they overlap or are incompatible.
+Consider the following preset code: 3;minecraft:mossy_cobblestone,250*minecraft:air,minecraft:obsidian,minecraft:snow_layer;3;stronghold(count=7),village(size=0 distance=9),decoration,dungeon,mineshaft.
+It consists of the following elements 3 — version number.
+Consider the following preset code: 3;minecraft:mossy_cobblestone,250*minecraft:air,minecraft:obsidian,minecraft:snow_layer;3;stronghold(count=7),village(size=0 distance=9),decoration,dungeon,mineshaft.
+It consists of the following elements minecraft:mossy_cobblestone,250*minecraft:air,minecraft:obsidian,minecraft:snow_layer — comma-separated list of block IDs. minecraft:mossy_cobblestone — one layer of Mossy Cobblestone on layer 0.
+ 250*minecraft:air — 250 layers of air, from layer 1 to layer 250.
+ minecraft:obsidian — one layer of obsidian, on layer 251.
+ minecraft:snow_layer — one layer of snow, on layer 252.
+Consider the following preset code: 3;minecraft:mossy_cobblestone,250*minecraft:air,minecraft:obsidian,minecraft:snow_layer;3;stronghold(count=7),village(size=0 distance=9),decoration,dungeon,mineshaft.
+It consists of the following elements 3 — biome ID, in this case Extreme Hills.
+Consider the following preset code: 3;minecraft:mossy_cobblestone,250*minecraft:air,minecraft:obsidian,minecraft:snow_layer;3;stronghold(count=7),village(size=0 distance=9),decoration,dungeon,mineshaft.
+It consists of the following elements stronghold(count=7),village(size=0 distance=9),decoration,dungeon,mineshaft — a comma-separated list of structures. stronghold(count=7) — this will populate the world with seven strongholds at the default distance and spread. In this preset, these will appear in mid-air.
+ village(size=0 distance=9) — since Extreme Hills is an invalid biome for villages, this will do nothing.
+ decoration — biome-specific decoration.
+ dungeon — activates dungeons.
+ mineshaft — activates mineshafts at the default placement frequency. These will appear in mid-air as the preset contains 250 layers of air.
+A block can also be repeated over multiple layers simply by repeating the block's ID, e.g. minecraft:glass,minecraft:glass,minecraft:glass,minecraft:glass would give the same result as 4*minecraft:glass.
+The Player will spawn on the topmost solid layer, and will spawn under water or lava if there are layers of those above the topmost solid layer.
+Note that there are several criteria that must be satisfied before some features can appear The biome number must be correct. For example, at present villages can only appear in biome numbers 1, 2, and 35, plains, desert, and savanna.
+Note that there are several criteria that must be satisfied before some features can appear The correct structure code ('village', 'dungeon' etc.) must be present in the superflat string.
+Note that there are several criteria that must be satisfied before some features can appear Structures must be turned on in the world settings. (This does not affect 'natural' objects such as trees, flowers, mushrooms, giant mushrooms. Obsidian pillars in the End also count as 'natural').
+Note that there are several criteria that must be satisfied before some features can appear There must be suitable terrain for the structure to appear on or in. This applies to most features except for mineshafts and strongholds. Villages are a partial exception; they will not form in mid-air, but will form provided there is at least one solid block layer. If there is only 1 solid layer where they form the gravel roads will fall, trapping indoor villagers (unless it's a desert village since they have sandstone roads).
+For example, to have an 'End' superflat world with obsidian pillars, the biome number must be 9, the superflat string must contain 'decoration', and the top surface block must be End Stone. In this particular case 'Structures' does not need to be turned on in the world options.
+Attempting to use an incorrectly formatted preset code causes the game to default to the Classic preset.
+The resources below can always be found, regardless of the "Generate Structures" option.
+The resources below can only be found if the "Generate Structures" option is enabled. These do not include trading with villagers.
+Village chests may contain these items.
+When making a Superflat world, your spawn is never the same. The spawn is a 20x20 cube, despite your initial spawn.
+The volume of an entire classic flat world, not including villages, bonus chests, or air, is 14.4 million km, and the world is composed of 1.44x10 blocks.
+Villages spawn more frequently in classic flat worlds than in normal worlds, because the entire world generates as a Plains biome.
+Slimes spawn in huge numbers in classic flat worlds. This was because slimes spawn anywhere below layer 40, and in Classic Flat the entire world surface is only four blocks away from the bedrock layer.
+You can create an empty void world using the preset code 3;minecraft:air, which simply creates a layer of air. It also allows the moon and sun to be observed at noon and midnight respectively. However, you aren't able to build on it without a solid block present. To achieve this effect (and have blocks still placeable) you can do the following You could use the /setblock command /setblock ~ ~-1 ~ minecraft:stone to create a floating stone block in midair from which you can build. This is the most efficient and lag free way to create a floating block in midair, but is only possible when cheats are enabled.
+To achieve this effect (and have blocks still placeable) you can do the following You could turn on the "Bonus Chest" option under "More World Options" and place a block next to it using shift-click. This is another lag free way to create a floating block.
+To achieve this effect (and have blocks still placeable) you can do the following You could make the world out of a single layer of sand (code 3;minecraft:sand) or gravel (3;minecraft:gravel). When you update a sand or gravel block by placing/destroying a block next to it, the entire ground will fall down, caused by a chain of updates. This however gives lots of lag, because of the many blocks being updated and the falling block entities being spawned and destroyed.
+To achieve this effect (and have blocks still placeable) you can do the following You could make the world out of a single layer of leaves(3;minecraft:leaves). When you update the leaves by placing/destroying a block next to it, the leaves will decay away slowly, caused by a chain of updates. Completing the whole process takes an hour or so, depending on your render distance. This process can be repeated simply by updating a new leaf block to restart the whole chain. This method typically causes little lag.
+The Ender Dragon can spawn in a superflat map in the overworld in biome 9 (The End).
+Since cloud height isn't affected by the world generation, clouds will be underground in the Tunneler's Dream preset.
+In the "Overworld" preset, or any other that has ores and lava lakes enabled through customization, if the stone layers are removed, ores can spawn in the stone generated around lava lakes in the surface. Since removing stone brings the surface to less than sixteen blocks within bedrock, diamonds can be found at the surface around lava lakes, albeit very rare.
+Villages can spawn in the wrong conditions (no ground to stand on/less than 2 layers), if the "village" structure generation option is set, and will always spawn at least 2 blocks above the void.
+Using presets 3;minecraft:bedrock,2*minecraft:dirt,minecraft:grass;2;village(distance=-10 size=100) (for desert villages) or 3;minecraft:bedrock,2*minecraft:dirt,minecraft:grass;1;village(distance=-10 size=100) (for regular villages) will create a lot of villages tightly grouped together, houses may also spawn combined (or very rarely glitched).
+Removing the 230 layers of stone included in the "Tunneler's Dream" preset will cause a huge network of mineshafts to generate above the ground (if the preset world seed was not edited).
+In the Pocket Edition, there are no villages in Superflat worlds, and the worlds are only playable in Creative mode.
+Slimes spawning in a superflat world.
+An image tweeted by Jeb of a village spawned in a superflat world.
+A village spawned in the original superflat world type.
+A map of a superflat world.
+Some of the new preset world types.
+Overview of the new options.
+New world generation options let you add plants, ores and various structures.
+One of many things possible with the superflat generator options.
+A superflat world that generated with the layers of a previously created world.
+Mineshafts generated above the ground in Superflat.
+A glitch that causes 2 different generations on the same world.
+A grassland village naturally generated in a 1-block-deep bedrock superflat world.
+A desert village under similar conditions.
+Superflat version of the Nether in the Console Edition.

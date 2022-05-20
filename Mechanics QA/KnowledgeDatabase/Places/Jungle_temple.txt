@@ -1,0 +1,19 @@
+Jungle temples are generated structures found in jungle biomes.
+Jungle temples generate naturally in jungles.
+Jungle temples consist of cobblestone, moss stone and 3 chiseled stone bricks. There are 3 floors.
+The bottom floor contains a puzzle, consisting of 3 levers on 3 chiseled stone bricks connected to a hidden piston trapdoor mechanism. Inside the room the trapdoor opens to is a chest.
+Down the hall from the above puzzle, there is a way to a chest. The trap consists of 2 tripwire lines connected to dispensers with 4-14 arrows, hidden behind vines. The first tripwire is in the beginning of way; the second tripwire is in front of the chest.
+Each chest contains 2-6 stacks of items, chosen from the following list (the same as desert temples). Chance listed is per stack, not for the chest as a whole.
+Jungle temples are composed of.
+It is possible to find blocks which generate outside jungle temples, like leaves, which have spawned inside, possibly blocking the chests or dispensers.
+The base of jungle temples is a rectangle with 15 by 12.
+The lobby of the temple.
+The puzzle.
+The unhidden chest.
+The secret door opened, revealing the hidden chest.
+Hostile mobs can possibly spawn in the secret room of the temple, due to the lack of light inside.
+A layer by layer layout of the jungle temple.
+The very rare occurrence of a desert temple generated where a jungle temple would have been.
+Rear view of a jungle temple spawned on the water.
+Frontal view of a jungle temple spawned on the water.
+Tutorial on defeating jungle temples.

@@ -1,0 +1,16 @@
+Steak is a food item obtained by cooking raw beef, which is dropped by Cows. It restores . When a cow dies from heat damage from Fire or Lava, they will automatically drop steak instead of raw beef.
+It's highly advised to use steak as a primary source of food, as the raw material is easily harvested, restores the second-highest amount hunger points out of any easily-obtainable, stackable food and provides the highest food saturation. .
+Steak is a food item obtained from cows.
+When a cow or mooshroom dies while on fire, it will drop one to three steak instead of raw beef. The Looting enchantment will increase the maximum number of steak drops by 1 per level.
+Raw beef can be cooked in a furnace. Each steak removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+To eat steak, press and hold use while it is selected in the hotbar. Eating one restores 8 () hunger and 12.8 hunger saturation.
+Steak can also be used to heal or breed tamed wolves.
+Raw beef and steak shown in the inventory from a preview screenshot.
+A still frame of the player eating a steak.
+Dec value: 364.
+Hex value: 16C.
+Hunger restoration: 4 hunger bar slots.
+Hunger saturation: 12.8.
+Maximum stack 64.
+Steak is obtained by cooking raw beef or by killing cows and mooshrooms with fire. They’ll always drop 1-3 pieces of cooked or uncooked meat. Steaks restore 4 hunger bar slots and 12.8 hunger saturation, this makes beef the best food item in game, together with pork. Mushroom stew also restores 4 hunger bar slots, but only restores 9.6 hunger saturation. However, steaks are easier to farm in larger quantities than porkchops, as cows will drop 1-3 pieces of meat, while pigs only drop 0-2.
+Cows and mooshrooms can easily by farmed by breeding them. Simply feeding them with will put them in love mode. When 2 cows or 2 mooshrooms are in love mode they’ll start to “dance” around each other and after a few seconds a baby cow or baby mooshroom will spawn. After 5 minutes the parent animals can be bred again.

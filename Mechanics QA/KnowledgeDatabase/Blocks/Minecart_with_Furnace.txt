@@ -1,0 +1,11 @@
+Minecarts with furnaces (also called furnace minecarts or powered minecarts) are self-propelling minecarts with furnaces inside.
+Powered minecarts can be broken like any other minecart, by hitting it.
+Furnace minecarts are placed the same as other minecarts. It does not have a visible interface with slots, like a furnace does.
+To move the minecart, first face the direction you want it to move, then simply feed fuel (coal or charcoal) into it with the use button. The fuel will immediately be consumed, and will provide power for 3 minutes. Any piece of fuel, added at any time, will increase the total range by an additional 3 minutes. In creative mode, furnace minecarts do not need to be powered with coal.
+To change direction, press the use button while facing the needed direction. A furnace minecart will not break when it runs out of fuel.
+Minecarts with furnaces on a level track will cover 204m per minute (about 3.4 m/s), or 612m per piece of coal. Pushing multiple minecarts may decrease the range slightly, depending on collisions. Minecarts with furnaces can also pull up to four other minecarts behind them if the carts are first shunted together against a wall and then the furnace minecart is made to change direction.
+A player in a cart adds significant weight, requiring more power to push. If too much stress is put on the furnace minecart then it will stop. Clicking with use button activates it again. Furnace minecarts also cannot push other carts around 180-degree hairpin turns.
+Minecarts with furnaces cannot be pushed or pulled by other minecarts when not powered, and will not accelerate on active powered rails when powered.
+A stack of 64 coal will power the Minecart for 3 hours and 12 minutes, over a distance of just over 39,168 blocks.
+A powered Minecart in action.
+A furnace minecart pulls four other minecarts.

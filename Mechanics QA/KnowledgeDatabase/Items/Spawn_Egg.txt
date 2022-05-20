@@ -1,0 +1,15 @@
+A spawn egg is an item that may be used to spawn mobs directly. It allows the player to spawn a variety of mobs on command, although some mobs are not available. There are 27 eggs available in total without mods or hacking.
+Spawn eggs are not normally obtainable in survival mode. In creative mode, the player can press pick block on an existing mob to obtain their respective egg. Spawn eggs are also available in the creative inventory.
+Spawn eggs can be obtained by ops using /give. The damage value of the egg spawned pertains to the Entity ID of the entity it makes. See this section for all available spawn eggs.
+Any spawn eggs not listed in the table below cannot spawn entities. They will instead make a sound as though an arrow has been shot. These eggs will be the default color, white with gray spots. When a player hovers over the image with their mouse the name of the egg is "Spawn". This egg has no specific properties and can not spawn any mob.
+A spawn egg is used by pressing use on a surface with the egg. The egg's mob will appear with its feet immediately adjacent to the surface. The egg will be consumed in the process in survival mode, but will not be consumed in creative mode.
+Spawn eggs are not thrown; the player must be within normal range of the block. Hostile and neutral mobs (except wolves) spawned while on the peaceful difficulty will spawn but instantly deleted from the world.
+A spawn egg fired from a dispenser will spawn the mob directly in front of the dispenser.
+If a spawn egg is used on a passive mob which has a baby counterpart, it will spawn as a baby.
+A silverfish spawn egg can be used on stone, stone bricks, or cobblestone to create a monster egg.
+Spawn eggs can be renamed from an anvil when used will spawn mobs with that name attached to them as an NBT tag. Their names can only be seen if they are aimed at from four or fewer blocks away. This name will also appear in death messages from the mob killing a player. Any spawn egg can be used on a spawner to change the mob that it spawns.
+Data values on spawn eggs will cause it to spawn the entity of that id. For example; "/give [playername] spawn_egg 1 50" (a data value of 50) would cause the spawn egg to create creepers.
+Various spawn eggs utilizing their old color scheme before 12w01a.
+The first image released by Dinnerbone of a death message containing text with a renamed mob.
+An example of an upside-down mob by renaming the Spawn Egg "Dinnerbone".
+Two mobs spawned with the names "Grumm" and "Dinnerbone," respectively.

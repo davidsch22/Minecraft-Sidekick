@@ -1,0 +1,15 @@
+Axes are tools used to ease the process of collecting wood based items.
+A bonus chest may contain wooden and/or stone axes.
+Weapon Smith villagers sell iron axes for 6–8 emeralds as one of their initial tier trades, and enchanted diamond axes for 9–12 emeralds as one of their third tier trades. The enchantments will be the same as might be obtained from an enchantment table at levels 5–19.
+The axe is used to break wooden items faster.
+An axe can also be used as a weapon, in which role it deals 1 () less damage than a sword made of the same material. Usage of the axe as a weapon will deal double durability damage to the axe.
+The following table summarizes the speed at which different quality axes perform.
+An axe can receive the following enchantments Fortune.
+An axe can receive the following enchantments Silk Touch.
+An axe can receive the following enchantments Efficiency.
+An axe can receive the following enchantments Unbreaking.
+An axe can receive the following enchantments Sharpness.
+An axe can receive the following enchantments Smite.
+An axe can receive the following enchantments Bane of Arthropods.
+Axes in Minecraft Pocket Edition can kill zombies with three hits.
+In the language files, axes are referred to Hatchets.

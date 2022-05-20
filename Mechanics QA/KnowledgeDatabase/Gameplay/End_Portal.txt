@@ -1,0 +1,40 @@
+An End Portal (sometimes called Ender Portal) is a naturally occurring structure that is used to travel into The End. It can only be found in strongholds, and consists of 12 End Portal blocks, organized into a horizontal ring shape five blocks square. Each frame block requires an Eye of Ender to activate the portal.
+End Portals are found within the portal room of a stronghold, hanging horizontally over a pool of lava, with a staircase leading up to the portal. A silverfish spawner sits in the staircase. Some of the portal frame blocks already have eyes of ender in them (usually 1-3), while the rest do not.
+Upon placing an eye of ender in every End Portal Frame block of a specific portal, the portal activates, creating 9 End Portal blocks inside the frame, and allowing the player to access The End. In creative mode, the player can copy the end portal frame using pick block but the portal will only appear if the last eye inserted is facing inwards (the player was standing inside the ring when placing the frame block in which the final eye is placed). The eyes can not be removed from the portal blocks.
+To build a portal to The End, the player needs 12 eyes of ender. Make a ring of portal frames that fits in a 5x5 square, and use the eyes of Ender to activate them.
+Stepping into an activated End Portal immediately opens up a loading screen, and transports the player to The End - this leaves no time to back out, unlike the nether portal while in survival mode. This is to prevent the player from falling into the lava and dying. Upon entering The End, a 5 × 5 horizontal platform of obsidian is spawned centered at block coordinates (100, 48, 0), often in midair, and the player is placed on top of it. There is one condition on which this does not occur however, this is when you are riding a horse and attempt to enter, at which time you find it is solid and has a 1/32 of a block hitbox. Due to the lack of a return portal being generated, the Ender Portal is one way and the End cannot be escaped from without dying or killing the Ender Dragon.
+Entering an end portal does not reset falling velocity. If you have fallen far enough to kill yourself before hitting the portal, you will be transported to the End and die on arrival.
+The black portal blocks emit a light level of 15, which is as powerful as glowstone and is the brightest light level there is. It only takes one block of portal to teleport to The End. Through the use of the /setblock and /fill commands, you can place these portal blocks anywhere, and they will still function as if they were a complete portal.
+Activating the end portal will destroy any blocks located in the center 3 × 3 square, where the resulting end portal blocks will be. They will even destroy bedrock or another end portal frame. It will destroy fluids, though if the source block is not also removed, then it will immediately flow back through. The destruction of the blocks does not make any sound, and applicable blocks do not drop as resources (exceptions being the top part of a door or the extended part of a vertical piston, which both destroy the whole object and drop them as resources), and events sometimes triggered by block destruction will fail to occur: TNT will simply disappear without detonating, and Monster Eggs will fail to spawn a silverfish. However, containers will all drop their contents. Mobs will enter the portal (As well as the exit portal) similar to the player.
+The portal for exiting the End, which appears (at 0,65,0 on the Console Edition) after the defeat of the Ender Dragon, looks similar to the end portal but differs in its design. Instead of a frame of end portal frame blocks, it has a 7-block wide bowl-shaped frame of bedrock, and a central pillar surrounded by torches and topped with a dragon egg.
+The exit portal is made up of the same block and block entity as the End Portal, but due to being located in the End, teleports players to the Overworld instead of the End.
+Note that in the launcher, exiting will open up credits and then spawn you in your spawn point.
+If an exit portal is generated on a spawner, the fire particles will be left.
+Unlike the end portal, the exit portal's frame has a bottom.
+If you ride a minecart into an active End portal, then you will not go to the End, but the moment you exit the cart, you will be sent there.
+End portals are very thin, and only the top face is solid. You can jump through the bottom face, and not the top face.
+You can see through the bottom of an activated end portal because the portal substance is not visible from the bottom.
+The portal does not deactivate if you somehow manage to destroy the frame.
+The non-solid portal blocks can be destroyed in creative mode by punching them.
+When an End portal frame block breaks, it makes the same noise as breaking glass.
+If the player somehow obtains the necessary Ender Portal Frame blocks, it becomes possible for them to build their own portal. However, the portal frame block that last receives the Eye of Ender must be oriented the correct way, placed from inside the circle and facing out. Oddly, the orientation of the other 11 frame blocks does not matter. This only works in the Overworld and The End.
+Player-made portals may be created adjacent to one another, sharing blocks. However, if they are sharing anything except the corners, the last-placed Eye of Ender may not be in a block 1 block diagonal to or up to 2 blocks adjacent to any Frame block not belonging to that portal. They may, however, be freely stacked vertically.
+Unlike nether portals, you are transported the instant you touch the portal. This is to prevent the player from falling into the lava pool below it.
+If the Ender Dragon spawns before you activate the portal, you will see a boss health meter when you jump in.
+Although end portals do not occur in classic flat superflat worlds, spawning an end portal and entering the portal will still allow the player to reach The End normally.
+If you drop a gravity following block into the portal it will cause the end portal area to clear, and will be placed on the end side, however it will also be destroyed when other gravity blocks or the player go through the portal.
+If you're playing in any render distance but far, when the portal blocks reach the "fog" they will turn white, as you can see in the image below.
+If you spawn an Ender Dragon outside of The End, the dragon will drop an exit portal that will take you to The End instead of returning you to the Overworld. (Superflat that is an end biome has an ender dragon at 0,0 and you don't need to hack if you want to do it that way).
+If you stand where an Exit Portal is generated, it will either generate on top of you or suffocate you.
+A 1.9 pre4-style activated portal in a stronghold.
+A 1.9 pre4-style portal as seen in Jeb's live stream. It appears to have slots for eyes of ender.
+A fully repaired 1.9 pre3 portal, how it appeared when portals were first released.
+Breaking the portal does not deactivate it.
+Playing in render distance tiny, with the portal in the "fog".
+An End Portal room intersected by an abandoned mine shaft. Thankfully this has been fixed, otherwise the player will be unable to go to The End.
+The end portal does not reset fall damage.
+You can't see the starry portal blocks from underneath the portal.
+An exit end portal.
+End Portal (block).
+The End.
+Nether Portal.

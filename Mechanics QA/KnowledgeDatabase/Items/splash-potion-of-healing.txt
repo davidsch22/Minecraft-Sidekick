@@ -1,0 +1,5 @@
+Dec value: 373:16389.
+Hex value: 175.
+Maximum stack 1.
+A splash potion of healing will instantly heal every mob and player caught in its blast radius, with the exception of skeletons, zombies and zombie pigmen. Those mobs will be damaged instead. There are 2 types of splash potions of healing: splash potion of healing and splash potion of healing II.
+The normal version will heal you for 3 hearts and the stronger version will heal you for 6 hearts, but only if you’re caught in the middle of its blast radius, standing further away will decrease the health you gain.

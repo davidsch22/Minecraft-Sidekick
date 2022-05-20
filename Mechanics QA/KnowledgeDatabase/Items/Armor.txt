@@ -1,0 +1,104 @@
+If you are looking for Horse Armor, see Horse Armor.
+Armor (Armour) is a special type of item that is used for protection. Armor can be crafted out of Leather, Iron, Gold, and Diamond. There is also Chainmail armor, which could be crafted with Fire (Something the only way to obtain is with the give command) until the 1.8 update. Armor reduces the amount of damage taken by the wielder, however, armor will not protect you from all types of damage such as fall damage or drowning, unless you have the right enchantments. Armor is not only limited to be worn by the player but can also be equipped by undead monsters excluding the Wither (all skeletons and zombies) or be naturally spawned on them. However, horse armor cannot be crafted. Armor goes into 4 special slots inside your inventory. One slot for helmets, chestplates, leggings and boots. Lastly there is Elytra, a pair of wings that allow you to glide.
+There are four different types of craftable armor Chestplates, Helmets, Pants, and Boots. All types of armor can be equipped as well as enchanted, however, only certain armor types can obtain certain enchants without the use of an Enchanted Book.
+There are five types of armor: Leather, Gold, Chain, Iron, and Diamond.
+Leather is used to craft the first tier of armor. It has very low durability, and a full set of leather armor only absorbs 28% of damage, so it is not very practical in battle. However, one unique ability of leather armor is that it can be dyed by combining dyes with it in a Crafting Table. It is also the only armor to have unique names for each armor piece: Instead of being called Leather helmet, Leather Chestplate, and Leather Leggings, They are called Leather Cap, Leather Tunic, and Leather Pants. The boots, however are just called Leather Boots.
+Golden Armor is the second tier of armor. It has slightly higher durability than leather, but is still pretty fragile. A full set of gold armor will absorb 44% of damage, and it is also the most enchantable tier of armor, just as golden tools are the most enchantable tier of tools.
+Main article: Chain Armor.
+Chainmail is the third tier of armor. it is easily accessible in Creative, and can be obtained in survival mode through Trading with villagers, or could be found worn by a Zombie or Skeleton. Chainmail is only slightly stronger than Gold, but has the durability of Iron. Even though Chainmail Armor exists in the files of the Pocket Edition, it is unobtainable without the use of hacks or mods.
+Iron armor is the fourth tier, and second strongest type of Armor in vanilla Minecraft. While Iron Armor has high durability, and a full set will absorb 60% of damage, it is strangely the least enchantable type of Armor. Iron armor can be worn by Mobs, but they will never naturally spawn with it.
+Diamond armor is the fifth and strongest tier of armor in vanilla Minecraft. Diamond Armor is more than twice as durable as Iron or Chainmail Armor, and a full suit will absorb 80% of damage. Also, as with Iron Armor, it can be worn by mobs, but they will not naturally spawn with it.
+Main article; Elytra.
+Elytra is a special piece of armor, since it gives no armor value, but allows you to glide. Jumping off of at leas 5 block tall jumps will active the wings. Elytra can be obtained in the End Ship in an Item Frame in the hull.
+It takes 24 units of any of the forementioned materials to make a full set of armor(4+5+7+8=24). Although it is not required to wear a set of only one type, it is required that each piece consists of one kind of material. This means that you could wear a Leather Helmet with an Iron Chestplate, but you cannot craft a chestplate out of both iron and leather.
+Note that chestplates provide the most protection per unit of material, followed by leggings, followed by helmets, followed by boots.  The more units of material, the more protection per unit of material. The exact ratio varies between different materials.
+Materials can be Leather, Gold, Iron, or Diamond.
+(Note. Fire cannot be legitimately obtained in survival. You must use an external program or /give).
+To craft pants or leggings,.
+To craft boots,.
+To craft a chestplate or tunic,.
+To craft a helmet or cap,.
+The armor breaking animation and sounds sometimes doesn't happen in Multiplayer.
+If you are sitting in a minecart with armor pants on, and open your Inventory, or change point of view, your legs will be in a sitting position, but your armor will be a standing position. However this can be fixed by removing any bottom piece of armor and then replacing them.
+An example of the armor slots in Minecraft: Pocket Edition.
+Add a photo to this gallery.
+Armor is a category of items that provide players and certain mobs with varying levels of protection from common damage types, and appear graphically on the wearer. These items include several different classes of helmets, chestplates, leggings, and boots, which can each be placed in designated armor slots of a player's inventory for use.
+It takes 24 units of a given material to make a full set of armor. Chain armor cannot be crafted.
+Armor can be repaired by placing two pieces of the same type (e.g., iron helmets) in a crafting grid. The resulting item will have slightly more durability left than the original items combined, but any enchantments will be lost. Repairing armor with an anvil will preserve and combine the enchantments. Chain armor can be repaired with anvils by combining iron ingots with it.
+Zombies and skeletons that spawn with armor have a small chance to drop their armor when killed by the player. Zombies, skeletons, zombie pigmen and wither skeletons upon death will always drop armor that they picked up and equipped.
+Leather pants and enchanted leather tunics can be bought from leatherworker villagers.
+Iron helmets, iron chestplates, enchanted diamond chestplates, chainmail helmets, chainmail chestplates, chainmail leggings and chainmail boots can be bought from armorer villagers.
+Chestplates provide the most protection per unit of material, followed by leggings. For leather, iron, and diamond armor, boots are followed by helmets, but for chainmail and gold, the helmet is more efficient. However, boots are always the most durable.
+Duplicate armor pieces are not stackable in inventory slots.
+Armor classes include (from weakest/least durable to strongest/most durable) Leather.
+Armor classes include (from weakest/least durable to strongest/most durable) Golden.
+Armor classes include (from weakest/least durable to strongest/most durable) Chain.
+Armor classes include (from weakest/least durable to strongest/most durable) Iron.
+Armor classes include (from weakest/least durable to strongest/most durable) Diamond.
+Pumpkins can be worn as a helmet. This will not provide any protection, and it will partially block the player's view, but it does prevent endermen from becoming aggressive when players look at them. Mob heads can also be worn as a helmet. They are merely for cosmetic use and have no other functions.
+Whenever a piece of armor absorbs damage for the player, the armor itself is damaged, reducing its durability. After taking enough damage, the armor piece is destroyed.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Direct attacks from mobs and players.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Getting hit with an arrow.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Getting hit with a fireball from a ghast or blaze, a fire charge, or an ender acid ball.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Touching fire, lava or cacti.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Explosions.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Getting struck by lightning.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Getting hit with a falling anvil.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Getting hit by chicken eggs.
+The following types of damage are reduced by armor and, consequently, damage the armor itself Getting hit with a fishing rod lure.
+The following types of damage are not reduced by armor and have no effect on the armor itself Ongoing damage from being on fire.
+The following types of damage are not reduced by armor and have no effect on the armor itself Suffocating inside a block.
+The following types of damage are not reduced by armor and have no effect on the armor itself Drowning in water.
+The following types of damage are not reduced by armor and have no effect on the armor itself Starvation.
+The following types of damage are not reduced by armor and have no effect on the armor itself Falling (including Ender pearls).
+The following types of damage are not reduced by armor and have no effect on the armor itself Falling to the Void.
+The following types of damage are not reduced by armor and have no effect on the armor itself Status effects.
+The following types of damage are not reduced by armor and have no effect on the armor itself Instant damage from a potion of harming.
+The following types of damage are not reduced by armor and have no effect on the armor itself /kill.
+The following types of damage are not reduced by armor and have no effect on the armor itself Standing next to where lightning strikes.
+The following types of damage are not reduced by armor and have no effect on the armor itself Getting hit by snowballs/eggs.
+All sources of damage will damage all armor pieces worn in Pocket Edition, however.
+Armor can be enchanted to provide various enchantments. Enchantments can provide more protection or allow armors to protect certain types of damage that armor doesn't normally protect against, such as fall damage or fire. Damage reduction from enchantments do not decrease the armor's durability. Armor enchantments do not appear on the armor bar.
+An armor's material determines how enchantable it is. The higher a material's enchantability, the greater the chances of getting multiple and high-level enchantments (see enchantment mechanics for details).
+As with several enchantments, several different levels of protection are possible. The maximum level of a protection enchantment is currently IV (4). Protection enchantments from multiple pieces of armor stack together, up to a calculated maximum.
+Each protection enchantment protects against specific types of damage. The amount of damage reduction depends on the Enchantment Protection Factor (EPF) provided by that enchantment.
+The EPFs for each enchantment and level are the result of the following formula.
+When a player or mob wearing armor is subjected to damage, the EPFs of all applicable enchantments are added together, capped at 25, multiplied by a random value between 50% and 100%, rounded up, and capped again at 20. The damage is then reduced by 4% per point of total effective EPF (for example, a total effective EPF of 20 reduces damage by 80%).
+Because of the caps in the calculation, it's possible to max out protection against specific types of damage with only three pieces of armor. For example, two pieces of armor with Blast Protection IV (EPF 11 each) and a single piece with Protection III (EPF 3) would give a total EPF of 25 versus explosions (before the remainder of the calculation). Any additional EPF would be wasted against explosions (but might be useful against other types of damage, if applicable).
+If the damage is of a type that armor protects against normally, this reduction applies only to the damage that got through the armor. For example, a full suit of diamond armor reduces damage from attacks by 80% -- if each piece of armor also had a Protection IV enchantment (EPF 5 each), the enchantments would further reduce damage by 40% to 80% each time, for a total damage reduction of 88% to 96% (i.e., 80%, plus 40%-80% of the remaining 20%).
+The player's current protection level is represented visually by the armor bar. Each defense point (1 ()) represent 4% damage reduction. With all 20 shown full, the player has a total of 80% damage reduction. The armor meter is affected by the particular pieces that are worn, as well as the tier of the armor. Different combinations of armor provide different levels of defense.
+The following table shows the amount of defense points added by each individual piece of armor, as well as the total points added by a full set of armor for each material.
+Any hit from a damage source that can be blocked by armor will remove one point of durability from each piece of armor worn. The following chart displays how many hits each piece of armor can endure.
+The chart below shows the durability per unit of material for each piece of armor, compared to that of the boots. Note that the durability per unit does not depend on the tier of the armor.
+This means that for the same number of leather/iron ingots/gold ingots/chain/diamond, boots can take 1.5 more damage than leggings. Thus, chestplate and leggings offer more defense points per unit, but have a less durability per unit.
+Certain mobs can spawn equipped with random armor pieces. Some mobs also spawn with the ability to pick up armor on the ground and equip them. The frequency of mobs spawning equipped with armor and higher tiered armor is dependent on the difficulty. Armor protects mobs the same way to players, and likewise with armor enchantments.
+The following mobs can spawn with armor Zombie Baby Zombie.
+Zombie Villager Zombie.
+Zombie Baby Villager Zombie.
+The following mobs can spawn with armor Skeleton.
+The following do not naturally spawn with armor, but will pick up any dropped pieces Zombie Pigman Baby Zombie Pigman.
+The following do not naturally spawn with armor, but will pick up any dropped pieces Wither Skeleton.
+These mobs cannot wear armor through survival-mode means, but if equipped with commands, their armor will be visible Giant.
+Helmets can protect mobs from burning in sunlight, depleting its durability as it takes up the damage. Eventually, the helmet will lose all its durability and break. Pumpkins and mob heads also protect mobs from burning in sunlight.
+Horse armor can be equipped on horses to protect them from damage.
+Other mobs do have armor values built in, but they do not provide damage protection and are used instead for aesthetics or other purposes. Sheep's wool is considered as armor.
+ Pigs, horses, donkeys, and mules can wear saddles, which is considered as armor.
+ Snow golems have pumpkins worn on their heads as helmets.
+ Charged creepers have an electric glow around them, which is actually an armor value.
+ The wither develops a shield right during its initial stage. It will develop another shield when it is at low health, which deflects arrows.
+ A tamed wolf's collar is considered as armor.
+First image of an armor in Classic.
+Notch testing with head armor textures.
+Armor rendering overhaul in Indev.
+A zombie wearing a chestplate in Survival Test.
+A zombie wearing a helmet in Survival Test.
+The armor sprite as it appeared in one of Notch's previous projects, Legend of the Chambered.
+Wool chestpiece in Infdev.
+Dinnerbone's first screenshot of dyed armor.
+A guide for leather armor.
+A guide for golden armor.
+A guide for iron and diamond armor.
+Leather armor.
+Trading for chain armor with a villager.
+Comparing the old leather armor texture to the new one.
+A player equipped with a full set of dyed leather armor.

@@ -1,0 +1,27 @@
+Dec value: 296 Hex value: 128.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Wheat only occurs naturally in villages, which can easily be stolen, but will not regrow. Wheat can also be grown by a player by planting seeds on farmland. Seeds are easily obtainable. You could either destroy tall grass, which has a chance of dropping seeds or you could harvest wheat, which drops seeds in any stage. But, wheat will only drop wheat when harvested in it’s final stage, it can also drop more seeds in this stage, up to 3 per wheat.
+Besides farming wheat, wheat can also be used to breed chickens, cows, pigs, sheep and mooshrooms. Feeding 2 mobs of the same species wheat will make them both go in love mode, they will go towards each other and turn in circles around each other. After a few seconds a baby animal will spawn.
+The above mentioned animals will also follow you if you’re holding wheat in your hand, no matter how many animals are already following you. This can be used to make a massive herd of animals follow you wherever you go, and makes it easier to lure animals into their own shelters.
+The basics of wheat farming are incredibily simple. You simply till land by using a hoe on grass or dirt, plant the seeds and wait. Making sure water is within 4 blocks of the farmland will hydrate it, which will speed up the growing process of wheat. Like most plants, wheat requires a light level of 9 or more to grow. There are 7 stages of growth in wheat, the first 6 are quite similar, though different in size and slowly changing to a yellow colour. The final stages is the tallest and is brown and yellow.
+Wheat is an item obtained through farming and crafting. Seeds for growing wheat can be obtained by breaking tall grass (30% chance) or can be found in chests in dungeons. .
+When harvesting wheat, the player will collect 1-2 wheat and 0-3 seeds, which can be replanted to grow more wheat. Creating a wheat field around the player's shelter can be highly beneficial, as it provides a steady source of food (Bread, Cake, etc), and is essential for breeding certain animals, should the player decide to build a farm. Before planting wheat, the user must till the ground with a hoe. Wheat grows most efficiently when planted on a damp tilled dirt block, the 'damp' state is achieved by having a water source within 4 blocks of the tilled dirt block and/or rain.
+Wheat does not appear in the statistics page, as it appears as seeds due to wheat being a re-textured version of seeds when planted.
+1-4 wheat can be found in reward chests in dungeons.
+If you are holding wheat, cows, mooshrooms, and sheep will follow you.
+As of Beta 1.9 Pre-release 2, wheat can be used to breed animals (Sheep and Cows).
+When you click on two animals near each other with wheat, hearts will appear (Sometimes Called Love Mode) and it will make a baby. Although, this doesn't work on all animals, one such animal being the Squid.
+If you use the 'Pick Block' option on a full grown crop,it will give you the 'crops' item. This item is not found in the creative inventory. The crops item is used like seeds so when you place it on tilled dirt, it will grow.
+Villagers have farms which have wheat, potatoes and carrots.
+ Wheat is one of the most common trading items from Villagers.
+Wheat is an item primarily obtained by farming.
+Dungeon chests have a chance to contain wheat in stacks of 1 to 4.
+When a fully grown wheat crop is harvested, it will drop 1 wheat and 0 to 3 seeds. The wheat crop has a total of eight stages from the time it is planted until it can be harvested. If the crop is harvested before it is fully grown, it will only drop seed(s).
+Holding wheat in your hand causes cows, sheep, and mooshrooms that are close by to follow you, until you stop holding the wheat or create too large a distance between them, thus leading them to lose interest.
+Wheat may be used to breed cows, sheep, and mooshrooms by first herding two of them together and then using the wheat on them to begin "Love Mode.".
+Wheat can heal a horse 1 () health or lower its temper by 3% when attempting to tame it. It can also increase a foal's grow by 20 seconds.
+Farmer villagers buy 18-22 wheats for one emerald as part of their first tier trades.
+Wheat is used to make several different types of food, but the benefit you get from each unit of wheat varies widely depending on what you use it for. This chart compares the number of hunger points you can expect to regain for each unit of wheat you use, depending on how you use it.

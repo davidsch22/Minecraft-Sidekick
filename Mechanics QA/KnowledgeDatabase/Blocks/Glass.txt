@@ -1,0 +1,24 @@
+ Glass is a transparent block made by smelting sand in a furnace. Sunlight can penetrate through Glass, making it useful for buildings such as greenhouses and in-door farms, or being used as a view-port. As of 1.8 beta, Glass can naturally be found in NPC Villages. Glass Blocks adjacent to each other are invisible when viewed through Glass, and snow cannot land on Glass Blocks, meaning that it is useful for areas that the player does not want it to snow on. Unlike other Blocks, Glass Blocks cannot be recollected, and are destroyed if the player attempts to mine it.
+In Survival Test Mode, Glass Blocks could be broken very quickly and would drop a Glass Block to pick up. The only way to obtain Glass Blocks at that time was to place them on the map before the level was loaded in the client.
+Mobs cannot spawn on Glass floors or ceilings.
+When Glass is placed over a dropped item, the item is trapped inside the Glass but can be retrieved normally.
+As of 1.2, Torches can be placed on top of Glass, but not on the sides of it.
+Glass Blocks can be picked up with a pickaxe that has the Silk Touch enchantment on it.
+Glass is a decorative fully transparent block.
+Glass will only drop itself if it is broken with a tool enchanted with silk touch; otherwise it will drop nothing.
+Villager librarians will trade 3 to 5 glass for 1 emerald as part of their tier 3 trades.
+Most blocks dependent on a block cannot be placed on glass. The only exceptions are torches and redstone torches, which can be placed on top of glass, but not attached to their sides.
+Glass blocks adjacent to other glass blocks are invisible when viewed through glass.
+When placed underwater, glass will appear to have water flowing down it's sides.
+Dec value: 20.
+Hex value: 14.
+Minimum tool requirement to break: None.
+Blast resistance: 1.5.
+Maximum stack 64.
+Transparency: Yes.
+Glass is a transparent, decorational block. Glass allows light to shine through, which makes it useful as windows, greenhouses and various decorational purposes, like safe lava flows. Glass is crafted by smelting sand in a furnace, it cannot be found naturally in game. It’s impossible to harvest glass blocks, unless you use a tool with the silk touch enchantment.
+Because glass is transparent, many blocks cannot be placed on it, like levers and torches, but glass does allow a power current to pass through it. This includes power currents going down, even if the corner of the glass is touching the corner of the block with redstone.
+Glass is mainly used to create glass panes and glass bottles and as a decorational block, but glass can be used in many other ways. Monsters are unable to see through glass, making glass a perfect block to spy on your surroundings. However, some monsters, like spiders and ghasts, can see you through walls, though the glass will still keep you safe from their attacks.
+Glass can be pushed by pistons, which can be used to create automatic glass doors. Because glass allows light to shine through, many players use glass to create greenhouses for their crops. Glass can also be used to create a safe enclosure for your animals. It’s a cheaper and sometimes better looking alternative to fences.
+The transparency of glass is often used as a trap. It’s easy to miss gaps in a glass floor, especially if lava is flowing under it.
+This can be used to create a deadly minefield. In dark rooms, this trick works the same when water is flowing under it. But although this could be used as drowning traps, most multiplayer servers have the /spawn command enabled, allowing players to simply teleport out.

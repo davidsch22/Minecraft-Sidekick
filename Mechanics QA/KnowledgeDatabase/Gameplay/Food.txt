@@ -1,0 +1,36 @@
+Foods (or Foodstuffs as considered by the Creative inventory) are consumable items that when eaten restore hunger points in Survival, Adventure and Hardcore mode.
+Most foods are eaten by holding use item. Cake must instead be placed on a surface before being eaten. The player must eat food items regularly, or they will begin losing health and die soon after. Food makes a burp noise after it is eaten.
+With the exception of golden apples and milk, food may not be eaten when the hunger bar is completely full. Except for milk, cake, rabbit stew, and mushroom stew, food items and ingredients can be stacked in inventory slots.
+Players have two different food statistics, only one of which is visible: The hunger level (visible), and the saturation level (invisible).
+Saturation is the first statistic to decrease when a player performs energy-intensive actions, and it must be completely depleted before the visible hunger meter begins decreasing. Although the current saturation level is generally hidden, you can tell that your saturation level is completely depleted if the visible hunger meter begins displaying a jittering effect.
+Eating a food item replenishes a fixed number of hunger points and saturation points, based on the item. Some foods have a better ratio of saturation to hunger points replenished than others.
+A player's current saturation level can never exceed their current hunger level. A player at a hunger level of 5, for example, can only be at a maximum of 5 saturation. This is important to remember when choosing which foods to eat for the most efficient use of food: Highly saturating foods/low hunger-restoring foods should be eaten when the hunger bar is more full, especially when the bar has begun jittering. If you eat highly saturating foods when the bar is low, saturation points are likely wasted, since saturation level can never exceed hunger level.
+The "nourishment" table below can help by categorizing foods by their saturation-to-hunger restoration ratios. See the more detailed Foods table for the exact hunger and saturation statistics of each food.
+Nourishment is defined as the ratio of saturation to hunger points restored. Foods with higher nourishment values should be eaten when the hunger bar is more full.
+The following items cannot be eaten on their own. Instead, they are used to craft consumable food items.
+In pocket edition, food restores health instead of hunger and there is no replacement for saturation. This is because the hunger bar has not been implemented yet. The number of health points restored is the number of hunger points restored in the PC version if the food exists in that version.
+The following foods from the PC version are in pocket edition Apple.
+The following foods from the PC version are in pocket edition Bread.
+The following foods from the PC version are in pocket edition Raw Beef.
+The following foods from the PC version are in pocket edition Steak.
+The following foods from the PC version are in pocket edition Raw Chicken.
+The following foods from the PC version are in pocket edition Cooked Chicken.
+The following foods from the PC version are in pocket edition Raw Porkchop.
+The following foods from the PC version are in pocket edition Cooked Porkchop.
+The following foods from the PC version are in pocket edition Mushroom Stew.
+The following foods from the PC version are in pocket edition Melon.
+The following foods from the PC version are in pocket edition Cake.
+The following foods from the PC version are in pocket edition Potato.
+The following foods from the PC version are in pocket edition Baked Potato.
+The following foods from the PC version are in pocket edition Carrot.
+The following foods from the PC version are in pocket edition Pumpkin Pie.
+The following foods from the PC version are in pocket edition Cookie.
+The following foods from the PC version are in pocket edition Raw Fish.
+The following foods from the PC version are in pocket edition Cooked FIsh.
+The following foods from the PC version are in pocket edition Raw Salmon.
+The following foods from the PC version are in pocket edition Cooked Salmon.
+The following two food types are exclusive to Pocket Edition Beetroot.
+The following two food types are exclusive to Pocket Edition Beetroot Soup.
+Each and every type of food is fully renewable (including gold food since Zombie Pigmen drop nuggets and ingots of gold).
+It is impossible to damage another entity while eating.
+The player cannot consume anything in Creative mode except milk and potions.

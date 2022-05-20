@@ -1,0 +1,25 @@
+Bats are passive mobs that spawn naturally in caverns or other large enclosed spaces. Bats are the only passive mob able to fly, and the only flying mob that naturally spawns in the Overworld.
+Bats will spawn in large caverns and caves. They can also be spawned with their Spawn Egg. Bats may spawn in an unlit house if its interior is large enough.
+On superflat worlds, Bats have been observed to spawn in even 1x1 spaces that are unlit, such as in mob traps, possibly because the code that spawns them cannot find any other place to spawn them. This indicates that Bats do not require a large cave to spawn, but large areas do have a much higher chance of causing them to spawn. Bats will not spawn on glass or slabs, but could spawn randomly in your world if the light level is low enough and the Bat doesn't have enough spawning space.
+Bats are the fourth smallest mob in the game visually, being only slightly larger than baby chickens, Silverfish and Endermites. They are hard to see in the cave areas in which they reside. They have dark brown skin, small wings and little feet.
+Bats have the least impact on gameplay out of any mob as they aren't hostile and do not drop any items. They are, however, very difficult to hit when trying to kill them because of their small frames and erratic movement.
+Many bats can spawn in a small area when there is no where else to spawn. Examples of this can be in creative mode if a small usermade overhang is created.
+Bats are the only passive mob that can spawn in caves.
+Bats were added in 12w38a update, also known as the Pretty Scary update. Bats were included into the Pocket Edition in 0.11.0.
+See here.
+Bats are flying passive mobs that spawn in caves.
+Bats can spawn anywhere in the Overworld at a light level of 4 or less on opaque blocks below layer 63. Between October 20 and November 4, they only require a light level of 7 or less to spawn.
+Bats do not drop any items or experience when killed.
+Bats sleep during the day and become active at night. A bat will hang upside down on the underside of any solid block when it is idle, but once the player approaches, the bat will fly away. Bats cannot hang on transparent or non-solid blocks.
+Bats are the 4th smallest mobs in the game.
+Bats will squeak (similar to their real life function of echolocation).
+Although the bat is a passive mob, they still despawn when going too far away, like hostile mobs, ocelots, and squid.
+Bats do not recognize lava as obstruction and can fly into it and catch on fire.
+Bats can detect players even when they are invisible.
+Bats tend to fly to the east when given a choice.
+It is impossible to attach a lead to a bat.
+A colony of spawned bats and a witch.
+A bat hanging from a stone block.
+A bat in a cave.
+A bat up close hanging from a cobblestone block.
+Isolated and flipped.

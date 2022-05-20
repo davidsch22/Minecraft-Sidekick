@@ -1,0 +1,15 @@
+Seeds are an item used in farming.
+Seeds can be obtained from breaking grass, which yields 0 to 1 seed. If harvested with a Fortune enchanted tool the drop rate from grass is increased.
+Harvesting fully-grown wheat yields from 0 to 3 seeds per tile harvested (about 1.5 seeds/tile harvested on average).
+Seeds can be obtained by using a hoe on grass blocks like in Minecraft Indev.
+Seeds can be placed in farmland by right-clicking, where they will grow through eight stages. When left alone, seeds planted on farmland will grow to become wheat which can be harvested by the player. Planted seeds need at least a light level of 9 in the block above them to grow or be exposed to the sky.
+Crops will grow faster if the farmland they are planted in is hydrated. Bone meal can also be used to increase the speed of growth by causing the seeds to randomly increase their stage by 1 to 7.
+Breaking the final stage produces 0 to 3 seeds and 1 wheat. If they are harvested early, they will drop seeds without wheat. The more developed crops are, the more seeds they are likely to drop.
+Farmland may be trampled (reverted to a dirt block) if the player or any mob (passive or hostile) jumps on top of it. If trampled, the crops have the same drop rates they would normally have.
+Seeds are used to breed chickens. When a chicken is fed a seed it enters "love mode." If a chicken in "love mode" finds another chicken in "love mode," the two chickens will "kiss" (or come together) for a moment, and a smaller baby chicken and some experience points will appear. After the baby is spawned, it will follow an adult chicken until it grows into adult form unless it is hit by the player which will cause it to run around but eventually come back to an adult chicken. You can feed a baby chicken seeds to make it grow up faster, where each time you feed it, 10% is taken off the remaining time.
+All the seeds that exist.
+Dec value: 295.
+Hex value: 127.
+Maximum stack 64.
+Seeds are obtained by either destroying wheat, tall grass or ferns. Wheat in it’s last growth stage will drop the most seeds (0-3), while the others growth stages, as well as tall grass and ferns, only have a chance of dropping 1. Seeds are used to farm wheat, which is used to make food and breed animals.
+To farm wheat you simply hoe either a dirtor grass block, which will turn it into farmland. You can then plant the seeds on farmland and the seeds will grow over time. The seeds will require light of level 9 to grow. By hydrating the farmland the seeds will grow faster. This requires water to be within 4 blocks of the farmland.

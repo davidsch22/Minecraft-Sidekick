@@ -1,0 +1,20 @@
+ Armor Stand is an item in Minecraft that was added in update 1.8. Its purpose is in holding Armor which can be done with a simple right click, but it can hold any blocks that you can put on your head (like Pumpkins, Heads, etc.). Using NBT tags, you can make it smaller or you can ad them hands and make them hold items. Because it is an entity, it can be pushed by Pistons, can be picked up by a Minecart and will fall if the block bellow it is broken. Like Signs or Banners, you can rotate them (but only in 8 directions).
+Until 1.8 you could only get Armor Stands using mods (for ex. Bibliocraft).
+You can only place Armor Stands in the middle of a block, but you can move it around a bit using pistons and water.
+The first photo of an armor stand by Searge.
+Add a photo to this gallery.
+Armor Stands are entities that are able to hold and display wearable items.
+An armor stand has 2 () health, so it can be broken by attacking it.
+Armor stands are generally able to hold armor, mob heads and pumpkins, although commands can be used to give them other items. The stand does not have a GUI, so players interact with it directly. Armor stands are also able to be placed in different orientations, similar to banners or signs. Armor stands are entities, allowing them to be pushed by pistons, transported by minecarts, moved by flowing water, and bounced by slime blocks.
+Attacking it a single time, or simply watching it can cause it to seem to vibrate up or down, very slightly.
+Using armor on the stand will place the armor, if done on a bare spot (arms are not readily recognized). Conversely, clicking on armor with a bare hand will remove the armor and place it in the highlighted hot-bar slot.
+Armor can be automatically placed on armor stands with a dispenser, but mob heads and pumpkins can only be added manually.
+Armor stands can be customized further using NBT tags. NBT tags allow the armor stand to have arms, pose, disobey gravity, and other things.
+Armor stands are not damaged by cactus.
+If an armor stand is blown up by TNT, it will break and not drop as an item. Otherwise, any armor on the stand will drop when the stand is broken. Because armor stands are entities, they normally obey gravity, allowing them to fall and rest on non-full blocks such as enchanting tables and snow layers. Armor stands are able to accurately render enchanted and all forms of dyed armor.
+Armor stands are defined by their entity data.
+The first image of the armor stand.
+Armor stands in various positions with various armor.
+Armor stands can wear blocks on their heads. This is accessible with commands such as /replaceitem.
+Armor stands in the 1.8 poster.
+The old armor stand crafting recipe.

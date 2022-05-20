@@ -1,0 +1,39 @@
+A pickaxe is one of the most familiar weapons/tools for a player. Another common Tool for a player is the Sword.
+Pickaxes are one of the most commonly used tools in the game, being required to mine all ores and many other types of blocks.
+Iron pickaxes can spawn inside chests in abandoned mine shafts, strongholds, or a village's blacksmith.
+A bonus chest may contain wooden and/or stone pickaxes.
+Tool Smith villagers sell enchanted iron pickaxes for 9–11 emeralds as one of their second tier trades, and enchanted diamond pickaxes for 12–15 emeralds as one of their third tier trades. The enchantments will be the same as might be obtained from an enchantment table at levels 5–19.
+Pickaxes are crafted using 2 sticks and 3 units of a tool material.
+A pickaxe is used to break stone and metal based materials faster. When a block is broken using a pickaxe, the pickaxe takes 1 damage. Pickaxes have different amounts of uses based on the type Golden: 33.
+Pickaxes have different amounts of uses based on the type Wooden: 60.
+Pickaxes have different amounts of uses based on the type Stone: 132.
+Pickaxes have different amounts of uses based on the type Iron: 251.
+Pickaxes have different amounts of uses based on the type Diamond: 1562.
+Different qualities of pickaxe are required to successfully harvest certain ores and blocks. For example, while stone can be mined with any pickaxe, gold ore must be mined with an iron or diamond pickaxe, or else the player will harvest no ore. Different pickaxes also mine many materials at different speeds (see the speed table below).
+If you hit a mob while holding a pickaxe, it increases your attack damage. Pickaxes take 2 damage when used as a weapon. They deal different damage based on the type Wooden and Golden: 3 ().
+They deal different damage based on the type Stone: 4 ().
+They deal different damage based on the type Iron: 5 ().
+They deal different damage based on the type Diamond: 6 ().
+The following table shows the time it takes to break each type of block. A red background indicates that the block cannot be harvested with that tool.
+ A yellow background indicates that the block cannot be harvested with that tool, but still drops something.
+ A green background indicates that the block can be harvested with the tool.
+A pickaxe can receive the following enchantments Silk Touch*.
+A pickaxe can receive the following enchantments Efficiency.
+A pickaxe can receive the following enchantments Unbreaking.
+A pickaxe can receive the following enchantments Fortune*.
+Note: Fortune and Silk Touch are mutually exclusive.
+Pickaxes have an item data field to determine durability, and use five different IDs.
+Pickaxes use their ID to determine their grade.
+Pickaxes item data is used to determine the damage of the pickaxe. All pickaxes have a data value of 0 when they are fully repaired, and the value increases every time it takes damage. If a pickaxe is used when it only has one use left, it will break instead of increasing the damage. The data value of a pickaxe with only one use is different based on the type Golden: 32.
+The data value of a pickaxe with only one use is different based on the type Wooden: 59.
+The data value of a pickaxe with only one use is different based on the type Stone: 131.
+The data value of a pickaxe with only one use is different based on the type Iron: 250.
+The data value of a pickaxe with only one use is different based on the type Diamond: 1561.
+Any higher value will act as having only one use left.
+Foam Stone pickaxes are official Minecraft merchandise.
+In the game Naughty Bear: Panic in Paradise, you can buy a diamond pickaxe which, according to the game, is made by Kick it up a Notch Pickaxes, referring to Notch.
+In the game The Elder Scrolls V: Skyrim, you can find, a pickaxe called the "Notched Pickaxe", evidently an easter egg.
+In the game Offensive Combat, a stone pickaxe can be used as a melee weapon with the name of "The Notch Carver".
+In the game The Binding of Isaac, an obtainable item named "Notched Axe", also with a drawn 8-bit look, can be used to destroy rocks. The Notched Axe also makes a return in the game's remake, The Binding of Isaac: Rebirth.
+In the game "Borderlands 2", you can find a secret area hidden away by blocks resembling Minecraft Dirt, also once inside you can fight Creeper and the Mother Creeper to get rare Minecraft related weapons.
+A naturally generated pickaxe.

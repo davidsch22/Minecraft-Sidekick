@@ -1,0 +1,5 @@
+Dec value: 373:16393.
+Hex value: 175.
+Maximum stack 1.
+A splash potion of strength will increase the damage players and mobs can do. There are 3 types of splash potions of strength, a 2:15 minute version, a 6 minute version and a 1:07 minute version called splash potion of strength II.This last potion lasts shorter but stronger.
+The further you stand from the potion’s blast radius the shorter this time will be. A normal splash potion of strength will increase your damage output by 1.5 hearts. The splash potion of strength II will increase your damage output by 3 hearts. Note that armour will still block some of this damage.

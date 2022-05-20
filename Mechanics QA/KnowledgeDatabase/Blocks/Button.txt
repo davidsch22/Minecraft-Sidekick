@@ -1,0 +1,29 @@
+ The Button is a non-solid block that can be interacted with by The Player. It can be crafted with wood or stone. Buttons can be found naturally in strongholds right next to iron doors.
+Like torches, buttons can be placed to a side of a dispenser, crafting table, or furnace in the same fashion (done by crouching).
+When used with redstone, it can activate mechanism-related items, such as doors, pistons or TNT. When pressed, it will send a short pulse of power (lasting approximately 1.0 seconds, or 10 ticks) to any redstone powered item.
+Inside Snapshot 12w34a, a Wood variation of the regular button was added, and is created by placing a Wood Plank anywhere in the Crafting Grid.
+In snapshot 14w04a, buttons can be placed on the ceiling and on the floor.
+Wooden Buttons have a longer delay than Stone Buttons. Stone Buttons have a 1 second or 10 tick delay, and Wooden Buttons have a 1.5 second or 15 tick delay.
+A button is a non-solid block which can provide temporary redstone power.
+Buttons can be mined with any tool.
+A button will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.
+A button will also be removed and drop itself as an item if water flows into its space.
+A button will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+A button will be destroyed without dropping itself as an item if lava flows into its space.
+Buttons can be crafted from stone for a stone button, or wood planks for a wooden button.
+Stone buttons are naturally generated in strongholds, next to iron doors.
+A button can be used as a monostable power source (it will automatically deactivate shortly after being activated).
+To place a button, use the "Use Item/Place Block" control (right-click, by default) while aiming at the surface to which it should be attached.
+A button can be attached to the side, bottom and top of any full solid opaque block (stone, dirt, blocks of gold, etc.).
+Buttons are usually in an inactive state, but can be temporarily activated by players. To activate a placed button, use the "Use Item/Place Block" control (right-click, by default). A wooden button can also be activated by a fired arrow.
+Mobs cannot activate buttons directly, but arrows fired by skeletons or dispensers can activate wooden buttons.
+When activated, a stone button will remain active for 10 redstone ticks (1 second, barring lag), while a wooden button will remain active for 15 redstone ticks (1.5 seconds, barring lag). A wooden button activated by a fired arrow will remain active until the arrow despawns after one minute or is picked up.
+While active, a button powers any adjacent redstone dust to power level 15, including beneath the button.
+While active, a button powers any adjacent redstone comparators or redstone repeaters facing away from the button to power level 15.
+While active, a button strongly powers its attachment block to power level 15.
+While active, a button activates any adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+When a button changes state it will provide a redstone update to all redstone components adjacent to itself (including above and below), and to all redstone components adjacent to its attachment block.
+A button's type is defined by its ID name, and its orientation and activation status is stored in its block data. A button also has a block state which is expected to replace the functionality of block data in a future version.
+A button's ID defines what type of button it is.
+A button's block data stores its orientation, and whether it is active.
+The pre-1.4.2 crafting recipe for the stone button required two stone blocks.

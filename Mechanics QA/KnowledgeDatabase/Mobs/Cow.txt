@@ -1,0 +1,41 @@
+ Cows are passive animal mobs in Minecraft. They are sources of leather, beef, steak, and milk.
+When killed, a cow drops up to 2 leather, as well as up to 3 raw beef. If the cow dies while on fire, steak will be dropped instead of beef. A cow can be milked by right clicking with an empty bucket. Due to the fact that cows can be bred an unlimited number of times using renewable wheat, all of the cow's products are renewable.
+Cows roam the Overworld in herds of 4 - 8, although they sometimes roam alone after being from their pack and can be observed jumping up slight inclines and falling to their deaths from tall cliffs and overhangs. Cows often spawn in snowy and plains biomes. Cows will make no attempt to stay out of water, and will bob up and down to stay afloat. They will flee when attacked and tend to walk around, lowing (mooing), like most passive mobs.
+ Calves are the offspring of two adult cows. In order to breed cows, you must give them each one a portion of wheat. There will be many red hearts around each of the cows (this being called "Love Mode"). After entering love-mode, a small calf will appear near the parents. Like adult cows, these calves can be milked, despite their immaturity. Like other baby animals, Calves do not drop any items when killed.
+ Cows in the PC Gamer demo of Minecraft are branded with a 'PCG' logo on their side.
+ In Survival Multiplayer, clicking anywhere on the cow with a bucket will fill it with milk, but only at the maximum distance at which you can use the bucket.
+ As of Beta 1.3_01, the pink of the cow's ear may also be milked.
+ Because of the lack of hierarchy in every box model, the horns of the cow are sometimes misplaced. Notch is planning to fix this.
+ In 1.8 cows seem to be less common than other passive mobs. This may be due to the fact that since 1.8 cows give an abundance of resources including beef, leather and milk whereas other passive mobs give less.
+ It takes one full Minecraft day or 20 minutes for calves to become fully mature cows.
+ There is a 75% chance that a calf will spawn if breeding a cow and a mooshroom.
+ In 1.4, the Cow's sounds were changed slightly, such as new step sounds and idle sounds.
+ If a Player kills a cow and gets its leather, the achievement "Cow tipper" will be unlocked.
+ However, if you also kill a horse, and collect its leather you will also unlock the achievement  "Cow tipper".
+A cow and its calf.
+A cow and a Sheep in a snow biome.
+A Cow next to a Mooshroom.
+A Cow in Minecraft: Pocket Edition.
+Cow's Face.
+Add a photo to this gallery.
+The most common drop of cows, Raw Beef.
+Cooked beef, aka Steak.
+The other drop of cows, Leather.
+Add a photo to this gallery.
+Cows are passive mobs found in the Overworld.
+Cows spawn in herds of 4 on top of opaque blocks with at least 2 blocks of space above them, at a light level of 9 or higher. They mostly spawn in herds while the world is first generating; although if there are no passive mobs in loaded chunks, they can spawn after world generation in normal spawning cycles.
+If cows are given wheat, their love mode will be triggered and they will pair off to create calves, which may grant the player a small amount of experience. The parent cows will then have a delay of 5 minutes before they can breed again.
+The growth of baby cows can be slowly accelerated using wheat. Each use takes 10% off the remaining time to grow up.
+Shearing a mooshroom will turn it into a cow.
+Adult cows drop 0–2 leather, 1–3 raw beef (1–3 steak if killed by fire) and 1–3 experience.
+Cows can be milked by using a bucket on it.
+Like other baby animals, killing a baby cow yields no items nor experience.
+Cows are 1.6875 blocks tall, 0.625 blocks wide, and 1.5 blocks long.
+Cows tend to walk around slowly and aimlessly, mooing and breathing occasionally. They will avoid walking off cliffs high enough to cause fall damage, and usually stay out of water.
+A cow will follow the player if he/she is holding wheat, but will stop if the player travels too far away (approximately 10 blocks).
+In the Console Editions, cows are unaware of cliffs and holes in the ground, leading them to occasionally fall and die.
+Cows resemble Norwegian red cattle.
+Cows in the PC Gamer Minecraft Demo are branded with a 'PCG' logo on their side.
+Notch stated in a tweet that all “breedable” peaceful mobs displayed traits of both genders and could breed with any other individual of their species. This applies to cows, since they have horns and give milk (although female cows have horns).
+The PC Gamer Demo cow.
+A cow begging at the player holding a piece of wheat.

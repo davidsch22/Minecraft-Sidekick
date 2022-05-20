@@ -1,0 +1,10 @@
+Dec value: 75.
+Hex value: 4B.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes Luminance: 7.
+Redstone torches are a potentially infinite source of power, which can be used to power mechanisms. They’re created with redstone dust and a stick, though unlike normal torches, only 1 redstone torch is crafted per stick and redstone dust. Redstone torches emit a dim, red light. Its light level is 7, which means it will not melt ice and snow, but will allow monsters to spawn. Redstone torches are often only used for their light as decoration, rather than genuine light.
+Redstone torches will constantly supply power, which can be transported up to 15 blocks away with redstone dust. By using a redstone repeater the power can be transported beyond those 15 blocks. It takes 0.1 seconds for power to flow through redstone dust, which is the same for repeaters, though repeaters can be set to delay it up to 0.4 seconds.
+Redstone torches can be turned off by supplying it with power, making it act like a switch. This means they can be used as an inverter (NOT gate). This means redstone torches can be used as clocks. Sending a signal from a redstone torch to another redstone torch will turn them on and off, which will turn any mechanism connected to it on and off.
+However, using redstone torches without a repeater can result in very fast clocks, which could potentially crash your game. Luckily, redstone torches will burn out if they’re turned on and off too often within a short time, which is 8 or more times within about 5 seconds. The redstone torch is then disabled for a short time, after which it has to be reactivated. This could prevent your game from crashing, but (abnormally) large mechanisms could still crash your game if they’re activated and deactivated a lot in such a short time. Redstone torches are used in a lot of different circuits, most of which we’ve covered in seperate guides, found here.

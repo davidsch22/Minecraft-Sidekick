@@ -1,0 +1,9 @@
+Dec value: 14 Hex value: E.
+Minimum tool requirement to break: Iron pickaxe.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: No.
+Gold ore is relatively rare to find and can only be found in the bottom 32 layers, with the exception of the bottom 2 bedrock layers. Unlike most other ore blocks, mining gold ore will yield the ore block itself. This block can then be smelted into a golden ingot. Gold ore can be found in veins of 1-9 blocks, though sometimes several veins can be directly next to each other, making it look like a bigger vein. A vein of 1 block is unusual and is the result of a landmark, like a cavern or dungeon, being generated in place of the other ore blocks.
+An iron or diamond pickaxe is required to mine gold ore, a golden pickaxe will not work, even though gold is harder to find.
+Using a pickaxe with the silk touch enchantment allows the player to harvest the gold ore block itself, but this is pointless as mining it without the enchantment will give the same result. Using a pickaxe with the fortune enchantment will not result in extra gold ore blocks, but will decrease its durability.
+Gold ingots are used to create golden tools, armour and swords, as well as clocks, gold blocks, powered rails and gold nuggets. Despite being harder to find, gold armour, swords and tools have the lowest durability, just 33 uses, which is almost half that of wood. Golden armour is often only worn for their looks, while the tools are sometimes created for their speed, which is higher than those of diamond tools.

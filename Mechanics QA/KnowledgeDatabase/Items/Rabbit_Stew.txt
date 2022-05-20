@@ -1,0 +1,13 @@
+Rabbit Stew is a food item introduced in 1.8 that can be eaten.
+Each bowl restores 5 bars of hunger and 12 saturation points. This restores more hunger than any other food type in the game except cake but less saturation than a Golden Carrot. .
+However, if the ingredients of rabbit stew were eaten separately and the calculation for the mushroom used half of the values for Mushroom Stew, they would restore a total of 8 hunger bars and 21.6 saturation points. Without counting the mushroom (which cannot be eaten alone), the separate ingredients would restore 6.5 hunger bars and 18 saturation points. Therefore, crafting rabbit stew results in a net loss of restorative points.
+As with mushroom stew, eating rabbit stew turns it into an empty bowl, but the sound played is the crunchy “eating” sound instead of the slurping “drinking” sound.
+It was added into the game along with raw rabbit, cooked rabbit, raw mutton and cooked mutton.
+You can use either a brown or a red mushroom.
+It has not been implemented in Minecraft: Pocket Edition nor in console editions yet.
+It is one of the healthiest foods in the game.
+Rabbit Stew is a food item that can be eaten by the player.
+Rabbit stew can only be obtained from crafting.
+Rabbit stew can be eaten, and each bowl restores 10 () and 12 saturation points. This restores more hunger than any other food type in the game except cake but less saturation than a golden carrot.
+Eating rabbit stew turns it into an empty bowl.
+If the ingredients of rabbit stew were eaten separately and the mushroom had become half of a mushroom stew, they would restore a total of 16 () and 19.2 saturation points. Without counting the mushroom, the separate ingredients would restore 13 () and 15.6 saturation points. Therefore, crafting rabbit stew results in a net loss of restorative points, though it is a lot quicker than eating all the ingredients separately.

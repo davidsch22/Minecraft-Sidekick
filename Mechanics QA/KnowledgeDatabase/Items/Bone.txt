@@ -1,0 +1,7 @@
+Bones are items primarily obtained as drops from skeletons.
+Bones can be found in chests hidden in desert temples and jungle temples in stacks of 4 to 6.
+Skeletons and wither skeletons may drop 0–2 bones upon death.
+Bones can also be obtained by fishing as part of the junk category. The best chance of catching a bone is achieved without the Lure or Luck of the Sea enchantments, yielding a 1.2% chance.
+Using a bone on a wild wolf has a ⁄3 chance of taming it. Bones cannot tame an angry wolf or a wolf that someone else has already tamed.
+As with sticks and blaze rods, bones are wielded as a tool instead of an item.
+Dyeing.

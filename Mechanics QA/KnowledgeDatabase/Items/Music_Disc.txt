@@ -1,0 +1,15 @@
+Music Discs (previously named Records) are items that can be played in jukeboxes. By default, they play music made by C418; however, custom music can be added with the use of a resource pack.
+The music discs "13" and "cat" are found in 8% of dungeon chests.
+When killed by a skeleton's arrow, a creeper drops a random music disc in addition to any other items.
+Music discs can be found in naturally generated chests in the console edition tutorial world.
+Please note, these tracks have been shortened to 30 seconds, due to an agreement with the author. This does not apply to "11".
+A music disc's type is defined by its ID name.
+The 12 music tracks created for records by C418 can be found in Windows: %appdata%\.minecraft\assets\virtual\legacy\records.
+The 12 music tracks created for records by C418 can be found in Linux: ~/.minecraft/resources/streaming/.
+The 12 music tracks created for records by C418 can be found in OSX: ~/Library/Application Support/minecraft/resources/streaming/.
+All music disc files are in .ogg format.
+One of the disc names, stal, is in Swedish; "stal" means "stole", but can also be "stål" without the ring diacritic, which means "steel".
+Music disc "11", based on its data value, is the 11th disc in the game, is the only music disc that is shattered to pieces (this is why the end is static), lasts for 1 minute and 11 seconds, and outputs 11 when put in a comparator jukebox.
+Chirp uses a sample from the Optigan disc "Bossa Nova Style". It also sounds very similar to the song "The Orb Of Dreamers" from the PlayStation game series LittleBigPlanet, which also uses the sample. You can compare the two here.
+In Console Edition, if you play the music disc "Cat", then after it is finished playing "Cat", it will play "Dog", which is a remix of Cat by C418 and is part of the Minecraft - Volume Alpha soundtrack album.
+Music.

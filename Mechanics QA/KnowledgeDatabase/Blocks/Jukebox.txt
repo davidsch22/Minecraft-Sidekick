@@ -1,0 +1,29 @@
+The Jukebox is an interactive block used to play Music Discs. Music Discs can be obtained as a drop when a Skeleton kills a Creeper, or can be found in dungeon chests. The discs can be ejected by right-clicking.
+Right clicking on a jukebox while a Music Disc is equipped will make it play music corresponding to the type of music disc the player used. Right clicking on the jukebox again will stop the music and eject the disc. Music discs only play once before they must be ejected and reinserted. There are currently 12 types of music discs that can be used on the jukebox. Sound from the jukebox travels roughly 75 blocks, but the distance is apparently different vertically. It supports a range of songs, including Cat and 13.
+It is possible to place torches on Jukeboxes.
+Jukeboxes cannot be moved by pistons.
+Jukeboxes are crafted with the same recipe as a wooden chest, but with a diamond in the middle.
+There once was a glitch where the Jukebox played "Hood Took Me Under" by Compton's Most Wanted/MC Eiht.
+The PS3 Edition's tutorial world contains a Jukebox and all the music disks in the game. Most of the disks are hidden, but the jukebox and one of the disks are located right near where the player starts, in an obvious chest.
+The fact that a Diamond is used to craft a Jukebox is likely a reference to how Phonographs often have Diamond tipped needles.
+The Jukebox is a block used to play music discs.
+A jukebox can be broken using any tool, but an axe is the fastest.
+Pistons cannot push jukeboxes.
+Right clicking on a jukebox while a music disc is equipped will insert the disc and play music corresponding to the type of music disc you used. Right clicking on the jukebox again will stop the music and eject the disc. Music discs only play once before they must be ejected and reinserted. Sound from the jukebox travels roughly 65 blocks in all directions. It supports 12 different songs, see music discs for a full list. They are all able to be found in Minecraft's files.
+The loud volume and long range of the jukebox can be used as an aid in keeping one's bearings in a cave/tunnel, although this is limited to the length of the disc.
+A jukebox can be used as a furnace fuel, lasting for 1.5 smelting operations.
+Active jukeboxes give off a redstone signal when a redstone comparator is placed behind it; its strength depends on the ID of the inserted disc. The following table shows the redstone strength output for each disc.
+The associated block entity is used to identify which record has been inserted.
+C418 has the normal player skin with a jukebox for a head, likely because it was he who made the music for Minecraft.
+The use of a Diamond as part of the crafting recipe might be a reference to how phonographs often have diamond-tipped needles.
+Music.
+Dec value: 84.
+Hex value: 54.
+Minimum tool requirement to break: None.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Jukeboxes are used to play music discs obtained through chests in dungeons or by getting a skeleton to kill a creeper. There are 11 different music discs, though only 1 can be played at a time. Jukeboxes are created using 8 planks and a diamond.
+You can use any combination of plank colours, but this will not affect the result, which always looks the same. Jukeboxes can be destroyed by hands, though an axe is faster. Desroying it will drop the jukebox and any disc that might be inside it.
+To play a song, hold the disc you want to play and right click the jukebox. The disc will be inserted and play untill the song is over. Once the song is over the disc will remain in the jukebox untill you right click it again. There is currently no way to loop music, so you have to eject and inject the discs every time you want to listen to it.
+Music can travel up to about 75 blocks, though it becomes quite faint. Minecraft will take the position of your character in consideration when playing the music. If you stand left of the playing jukebox with your character, music can be heard better from a right channel speaker. This is most noticeable when using headphones.

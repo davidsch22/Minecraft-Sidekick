@@ -1,0 +1,11 @@
+Written books are an item created after a book and quill is signed. The icon of the written book is slightly different from the book and quill's icon, showing the same red book, but without the quill, and appears to be enchanted.
+Written books can be obtained from a book and quill by signing it. After it has been signed, it can not be edited again. The label does not say "Written Book", but what the player titles it. It will say the title on the top line of the label, and "by <player>" on the bottom. <player> is the username of the player who signed the book.
+Written books can be opened by right-clicking, and will display a GUI allowing you to read it or turn the page.
+The contents of a book are an extra set of data attached to the item. This means that when a book is destroyed, its contents are lost with it.
+Two written books can be traded to a librarian villager for 1 emerald as part of their tier 3 trades. The two books must be stacked (and therefore must be identical); despite the trading interface having two slots, the villager will not trade for one book in each slot.
+When written books are obtained with commands (without the correct data tag), the label will only show "Written Book" and will have the text "*Invalid book tag*" when opened. The book is signed and cannot be edited without commands.
+A written book can be edited in 1.8 using tag data tag while in a chest or when a mob is holding.
+A signed book.
+Different types of characters can be used to simulate a different font.
+Book.
+Bookshelf.

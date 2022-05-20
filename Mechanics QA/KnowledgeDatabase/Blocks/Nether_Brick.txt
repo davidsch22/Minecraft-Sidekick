@@ -1,0 +1,13 @@
+ Nether Brick is a common block found in the The Nether, making up Nether Fortresses.
+They were added in the pre-release of Beta 1.9. As such, they are the only readily available source of strong building material in the Nether. Nether Brick can also be used to make a Nether Brick Fence. They are able to be crafted as of 1.5.
+The blast resistance of the block is similar to that of Stone Brick. Unlike Netherrack, fire will not last forever on a Nether Brick.
+Wither Skeleton spawn on them in Snapshot 12w37a. It also seems to make areas darker.
+In Pocket Edition, before 0.12, these were made by smelting the netherrack and creating them at the stoneblock.
+Nether bricks are a block used to form nether fortresses in the Nether.
+Nether bricks can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Nether brick forms the walls and supporting pillars of nether fortresses.
+Nether brick is non-flammable and immune to ghast fireballs, making it a suitable shelter material for the Nether. When walking on it, it makes the same step sound as stone.
+First picture of nether bricks, released by Jeb.
+Same as before but brightened.
+Second nether brick screenshot released by Jeb showing bridges.
+The second screenshot again, but brightened.

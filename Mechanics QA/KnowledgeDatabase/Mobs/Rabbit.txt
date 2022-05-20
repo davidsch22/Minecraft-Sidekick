@@ -1,0 +1,55 @@
+Rabbits or Bunnies are a type of small animal mob added in 1.8 that will spawn in small to medium sized groups in almost any biome.
+Most Rabbits are passive and will naturally spawn with one of 6 different textures.
+ "Brown".
+"Black".
+"Albino".
+"Spotted.
+"Salt & Pepper".
+"Golden".
+There is also one type of Rabbit, called the "Killer Rabbit of Caerbannog", which looks similar to an "Albino" Rabbit, but is hostile and only spawnable by command. .
+There is also one other texture for Rabbits, called "Toast", which is black and white, but looks different from the "Spotted" Rabbit, and is automatically applied to any Rabbit named "Toast".
+Rabbits will wander around randomly unless they see Wolves, mature Carrot crops, or a player holding a Carrot, Golden Carrot, or Dandelion. If a Rabbit is distracted by a player, it will not notice mature carrot crops or wolves, until they are attacked. Otherwise, it will run away from Wolves on sight, and, when left alone, eat mature Carrot crops. The "Killer Rabbit of Caerbannog", or Killer Bunny will hunt down any players or Wolves in sight, and will only be distracted while breeding.
+Similarly to all passive mobs, Rabbits can be fed a certain food to various effects. Feeding a mature Rabbit will put it into Love Mode, causing the mob to exude heart particles. If two Rabbits are in love mode, they will mate, producing a baby Rabbit. (Each Rabbit can only enter Love Mode every five minutes.) A baby Rabbit can also be fed in order to accelerate its growth time.
+Rabbits' feeding materials are Carrots, Golden Carrots, and Dandelions.
+Rabbits are planning to be added in 0.13.0 Alpha of the Pocket Edition. Rabbits in this version are smaller, eat crops, can only be found in forests, and be killed easier.
+The "Killer Rabbit of Caerbannog" AKA Killer Bunny is faster than normal rabbits.
+Rabbits will see players holding food from a farther distance than other mobs.
+The name of the "Killer Rabbit of Caerbannog" is a reference to the movie of Monty Python and the Holy Grail.
+The "Toast" rabbit was added as a tribute to a player who lost their own rabbit of the same name.
+Rabbit/Gallery.
+Rabbits (or bunnies) are mostly harmless, passive mobs.
+Rabbits naturally spawn in plains, extreme hills, forest, taiga, swamp, jungle, birch forest, roofed forest, cold taiga, mega taiga, and savanna biomes. They usually spawn in groups of three; one adult and two babies.
+Killer bunnies do not spawn naturally, and must instead be spawned using commands.
+Rabbits will drop 0–1 rabbit hide and 0–1 raw rabbit upon death. The maximum amount of rabbit hide can be increased by 1 per level of Looting used, up to a maximum of 4. If the rabbit dies while on fire, its meat will be cooked.
+Rabbits also have a 2.5% chance of dropping a rabbit's foot upon death when killed by the player. The chance can be increased by 1% per level of looting used, up to a maximum chance of 5.5%.
+Rabbits hop around aimlessly instead of walking. They will approach players holding carrots or dandelions, and will turn to look at players from a much farther distance than other mobs. Like other passive mobs, they will panic and randomly run around if you hit them. Rabbits will also jump off of cliffs to reach carrots, but will not go into lava for them.
+Rabbits will find and eat mature carrot crops. When eaten, the crops will not drop anything.
+Wild wolves will track down and kill any rabbits, and in turn rabbits will flee from all nearby wolves. Tamed wolves will not give chase, however, unless you were to hit the rabbit first.
+Rabbits can be bred with carrots, golden carrots, or dandelions. If you used carrots for breeding, the rabbits will continue to follow the player and ignore being under the breeding effect as long as you are holding a carrot.
+Baby rabbits will have the same type of fur as the first of the two parents you fed (typically, the one from which it spawns). Baby rabbits will grow up after 20 minutes, although its growth can be slowly accelerated using carrots; each use reduces 10% of the remaining time to grow up.
+Despite its hostile nature, Killer Bunnies can breed with other rabbits, and with each other.
+Rabbits will typically spawn using one of 6 different skins. Skins include regular brown fur, black mottled fur, white fur with red eyes (Albino), black & white spotted fur, salt & pepper fur, and gold (cream) fur.
+There are 2 rare variants of rabbits.
+The killer bunny is a variant of the rabbit that is hostile to all players. Its fur is pure white with blood-red eyes that are horizontal, compared to a normal rabbit's vertical eyes.
+If the killer bunny finds any player within a 16 block radius, it will hop very quickly towards the player, much faster than a normal rabbit. It moves in a style similar to that of a spider. Once it closes in, it will lunge at the player, dealing a fair amount of damage. If the player strikes at the killer bunny, it will run away for a brief moment, then return to lunging at the player. Killer rabbits are also immune to the Thorns enchantment.
+If it cannot find a player, the killer bunny will actively seek out and attack any wolves as well, including tamed dogs. These wolves will, in turn, attack the killer bunny, leading to a vicious fight.
+On peaceful difficulty, the killer bunny will not despawn, despite its hostile nature. It will still attack wolves and pet dogs.
+Naming a rabbit "Toast" (using either a name tag or a renamed spawn egg) will turn it into "Toast". Toast is textured like a black dutch, with a large black & white patch and more black fur around the face than the natural black & white spotted rabbit. Other than its name and skin, Toast behaves exactly like it would if it were unnamed.
+This rabbit is the skin of user xyZenTV's girlfriend's missing rabbit, which Ryan Holtz implemented as a memorial.
+When using the /summon command to spawn a rabbit, the NBT value RabbitType will determine which variation to use. For example, the Killer Bunny can be summoned with the command /summon Rabbit ~ ~ ~ {RabbitType:99}. Likewise, a baby Killer Bunny can be spawned by typing /summon Rabbit ~ ~ ~ {RabbitType:99,Age:(negative number)}.
+Toast does not have a data value; its texture is likely only activated when named.
+Rabbits can also be fed dandelions, possibly because Ryan Holtz fed a rabbit dandelion leaves while mini-golfing.
+The Killer Bunny is a reference to the Killer Rabbit of Caerbannog from the British comedy film Monty Python and the Holy Grail.
+The Killer Bunny was suggested by Twitter user @88bully.
+If you rename The Killer Bunny to Toast, its texture will be changed, but it will still be hostile.
+The Killer Bunny's texture is referred to as "caerbannog.png" in the jar file.
+The first image of a rabbit, tweeted by Ryan Holtz.
+The second image of a rabbit, tweeted by Ryan Holtz.
+The third image of a rabbit, tweeted by Ryan Holtz.
+The fourth image of a rabbit, tweeted by Ryan Holtz.
+The fifth image of a rabbit, tweeted by Ryan Holtz.
+Baby rabbits.
+Old Killer Bunny texture, very similar to a normal white rabbit.
+All of the available rabbit skins.
+The Killer Rabbit of Caerbannog as a baby.
+Old Killer Bunny texture, with blood on its mouth and paws.

@@ -1,0 +1,10 @@
+Dec value: 91.
+Hex value: 5B.
+Minimum tool requirement to break: None.
+Blast resistance: 5.
+Maximum stack 64.
+Transparency: No Luminance: 15.
+Jack-o-lanterns are pumpkins that emit light and are created by placing a pumpkin above a torch in a crafting interface. They’re not found naturally in minecraft. Jack-o-lanterns emit a light level of 15 from all sides, so the face side cane asily be hidden. This makes them a lot more versatile than torches, as torches emit a light level of 14, and torches can break very easily.
+Unlike torches, lanterns can be placed underwater and they will not drop as an item when the supporting blocks around it are removed. Unlike pumpkins, jack-o-lanterns cannot be picked up by endermen.
+Jack-o-lanterns are meant as decoration, but they can also be used to create snow golems and iron golems, instead of pumpkins. Whether you use pumpkins or lanterns has no effect on what the golem will look like. Jack-o-lanterns make for great navigational beacons due to their odd look and high visibility at dark.
+Their face sides are often used in ghost house themed building projects, especially in combination with cobwebs and redstone torches, to add to the spookyness. People often use pumpkins and jack-o-lanterns as fake humans or training dummies, by placing it on top of a fence pole and attaching levers to each side of the pumpkin.

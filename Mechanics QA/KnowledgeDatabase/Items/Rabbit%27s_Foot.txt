@@ -1,0 +1,3 @@
+Rabbit's Foot is an item dropped by rabbits.
+Rabbits rarely drop rabbit's feet upon death.
+First image of the item by Ryan Holtz.

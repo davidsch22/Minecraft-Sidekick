@@ -1,0 +1,66 @@
+Mob heads are decorative blocks.
+Mob heads can be broken using anything, and will drop itself when broken. If a player head has a custom skin, the skin will be preserved when broken.
+If a head is pushed by a piston, or comes in contact with water or lava, it will also break off as an item.
+A wither skeleton has a 2.5% chance of dropping a wither skeleton skull when killed by the player or tamed wolf.
+Skeleton, wither skeleton, zombie, and creeper heads are also dropped by the respective mob if it dies due to a charged creeper's explosion. Player heads can only be obtained with commands or with the creative inventory.
+The main use of heads is for decoration. They can be oriented in 16 different directions on top of a block, and 4 directions on the sides of blocks, similar to signs. They cannot be placed on top of each other.
+The player can also wear heads, similarly to pumpkins. This will overlay the second layer of the player's skin.
+Withers can be created by placing soul sand in a T shape, and putting 3 wither skeleton skulls on top of the three upper blocks. The last block placed must be one of the three wither skeleton skulls. You can put a skull in a dispenser, and it sets the skull on the block diagonal to the bottom of the dispenser from the direction it is facing. Doing this may time to spawn a wither.
+Human heads have an extra usage for map makers, they can be given NBT data so that they appear with the skin of any Minecraft account. This means if you know that a specific account has a head which you want to display, you can edit the NBT data to make it appear.
+The command to give yourself a head skinned as another player is /give @p skull <amount> 3 {SkullOwner:"<PlayerName>"}.
+A player skull will save the skin of the player from the time it was created, meaning if the player changes their skin, the skull will still display the original texture.
+Mojang has created a number of accounts with specific skins, so that map makers can use common heads without the risk that someone will change their skin. These accounts have names in the format MHF_<MobName>, for example MHF_PigZombie is the name of a Minecraft user with a zombie pigman head. MHF stands for "Marc's Head Format". There are also a few blocks and "bonus" heads, for more variety.
+The following names/heads have been made available.
+MHF_Alex.
+MHF_Blaze.
+MHF_CaveSpider.
+MHF_Chicken.
+MHF_Cow.
+MHF_Creeper.
+MHF_Enderman.
+MHF_Ghast.
+MHF_Golem.
+MHF_Herobrine.
+MHF_LavaSlime.
+MHF_MushroomCow.
+MHF_Ocelot.
+MHF_Pig.
+MHF_PigZombie.
+MHF_Sheep.
+MHF_Skeleton.
+MHF_Slime.
+MHF_Spider.
+MHF_Squid.
+MHF_Steve.
+MHF_Villager.
+MHF_WSkeleton.
+MHF_Zombie.
+MHF_Cactus.
+MHF_Cake.
+MHF_Chest.
+MHF_CoconutB.
+MHF_CoconutG.
+MHF_Melon.
+MHF_OakLog.
+MHF_Present1.
+MHF_Present2.
+MHF_Pumpkin.
+MHF_TNT.
+MHF_TNT2.
+MHF_ArrowUp.
+MHF_ArrowDown.
+MHF_ArrowLeft.
+MHF_ArrowRight.
+MHF_Exclamation.
+MHF_Question.
+You can obtain these heads by using the same /give command outlined above, but in place of <PlayerName> use MHF_<MobName>.
+The mob heads use the ID minecraft:skull. Their data is defined by its block data and block entity data. They also have block states which may replace block data in the future.
+For the block, data values determine the block placement.
+For the item and for the tile entity, data values determine the skull type.
+Heads are one of the few blocks that do not have their own textures and take their textures from other objects. As such, when breaking any head, the particle effect of breaking it is the same as soul sand.
+First screenshot released of heads.
+All the heads.
+Heads oriented different directions.
+Heads are the same scale as cobblestone wall posts.
+A picture of player heads, including some Mojang characters.
+An image of some of the heads on accounts that Marc Watson made.

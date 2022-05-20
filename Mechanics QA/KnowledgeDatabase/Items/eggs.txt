@@ -1,0 +1,7 @@
+Dec value: 344.
+Hex value: 158.
+Maximum stack 16.
+Eggs are layed by chickens every 5-10 minutes. They can be used to create cakes but are also a fun projectile “weapon” By right clicking while holding an egg, you will shoot the egg towards where you’re aiming and the egg will break upon impact.
+The egg doesn’t do any damage but does have a small knock back effect. There’s also a small chance (1/8th) a chick will spawn upon impact, which makes eggs somewhat useful to create more chickens. This is especially useful when you’re already breeding chickens to begin with, as the eggs will likely be in a confined area in which you can simply pick them up and shoot them back on the ground.
+A single egg is needed, along with 3 buckets of milk, 2 lumps of sugar and 3 wheat to create a cake. Eggs are thus one of the easier ingredients to farm if you want to bake a lot of cakes. Chickens will generally spawn near your house anyway, so simply picking up the eggs when you’re walking to and from your mines or farms will usually give you enough eggs to bake several cakes.
+If you’re looking for a high amount of eggs, a chicken farm is your best option. Chickens can be bred by feeding them wheat, which will put them in love mode. After 2 chickens are in love mode they’ll start to “dance” around each other and after a few seconds a chick will spawn. After 5 minutes, the parent chickens can be bred again.

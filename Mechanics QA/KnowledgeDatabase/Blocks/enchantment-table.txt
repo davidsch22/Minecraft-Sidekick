@@ -1,0 +1,15 @@
+Dec value: 116.
+Hex value: 74.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 6000.
+Maximum stack 64.
+Transparency: Yes.
+Enchantment tables allow you to use your xp levels to add a special ability to your weapons, tools and armour. Enchanted items have a glowing effect around them, similar to that of a golden apple or splash potion.
+An enchantment table is crafted using 4 blocks of obsidian, 2 diamonds and a book, making it one of the harder to obtain blocks in minecraft.
+Despite being made out of obsidian, the table can be broken with a wooden pickaxe, but it does have the same blast resistance as obsidian, making it indestructable by explosions.
+The enchantment table has a book on top of it which spins slowly if nobody is nearby. Once somebody gets close, the book will open and face the player. If the player moves the book will follow the player. The pages in the book will turn automatically once in a while.
+Right clicking an enchantment table will open its interface, which has 1 inventory spot in which you can place your item. Once you’ve placed your item in the slot, 3 random enchantments will appear with levels based on the surrounding bookshelves.
+The enchantments are written in the Standard Galactic Alphabet, which means most of us cannot read it. But even if you can or if you’d translate it, the words on the enchantment will tell you nothing about the enchantment. The words are randomly chosen and attached to a random enchantment for only that moment. Enchanting anything comes down to luck, though it can be influenced slightly. The maximum enchantment level is 50, though there isn’t a set minimum level for each enchantment, the higher the level of the enchantment, the higher the chance you get a good enchantment.
+The enchantment table will allow you to enchant items up to a maxmimum enchantment level of 5. Bookshelves can unlock higher leveled enchantments when they’re with 1 block inbetween it and the enchantment table. This means you can only placed them in a 5×5 square around the enchantment table, as well as on top of that square, but not under it.
+The space between the bookshelves and the enchantment table also has to be air, anything placed there will block the effect. A total of 32 bookshelves can be placed around it, however, only 30 bookshelves can be active at once. The last 2 bookshelves have no effect, so they can be left out to create a doorway. The maximum enchanting level is capped at 50.
+When bookshelves are placed this way, small particles will fly from the bookshelves towards the enchanting table. More on this can be found in the enchanting guide.

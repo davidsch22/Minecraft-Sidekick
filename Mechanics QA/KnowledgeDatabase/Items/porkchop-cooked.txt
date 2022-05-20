@@ -1,0 +1,8 @@
+Dec value: 320.
+Hex value: 140.
+Hunger restoration: 4 hunger bar slot.
+Hunger saturation: 12.8.
+Maximum stack 64.
+Cooked porkchop is obtained by cooking raw porkchops or by killing pigs with fire. Pigs will drop 0-2 pieces of cooked or uncooked porkchops, depending on how they died.
+Cooked porkchops restore 4 hunger bar slots and 12.8 hunger saturation, this makes porkchops the best food item in game, together with beef. Mushroom stew also restores 4 hunger bar slots, but only restores 9.6 hunger saturation. However, steaks are easier to farm in larger quantities than porkchops, as cows will drop 1-3 pieces of meat, while pigs only drop 0-2.
+Pigs can easily by farmed by breeding them. Simply feeding them with will put them in love mode. When 2 pigs are in love mode they’ll start to “dance” around each other and after a few seconds a piglet will spawn. After 5 minutes the parent pigs can be bred again.

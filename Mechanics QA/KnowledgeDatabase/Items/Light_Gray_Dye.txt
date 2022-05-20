@@ -1,0 +1,10 @@
+Light gray dye is a primary dye.
+Both of the recipes below require 12 units of primary dye to produce 12 units of light gray dye. The first recipe uses 4 ink sac and 8 bone meal. The second recipe uses 3 ink sac and 9 bone meal.
+Like all other dyes, light gray dye can be Applied to sheep to dye their wool, which can then be shorn for 1–3 blocks of light gray wool.
+Like all other dyes, light gray dye can be Applied to tamed wolves to dye their collars.
+Like all other dyes, light gray dye can be Combined with gunpowder to make a firework star.
+Like all other dyes, light gray dye can be Combined with a Firework Star to create a “fade to color” effect.
+Like all other dyes, light gray dye can be Used to dye leather armor.
+Like all other dyes, light gray dye can be Used to dye wool, or stain glass or hardened clay.
+Like all other dyes, light gray dye can be Used to add patterns to banners.
+Light gray dye has the ID name minecraft:dye, with a data value of 7.

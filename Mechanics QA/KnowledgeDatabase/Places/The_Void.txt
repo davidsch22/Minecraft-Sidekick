@@ -1,0 +1,23 @@
+The Void is the term given to the empty space below layer 0.
+Falling into the Void past Y=-64 causes the player's health to be depleted by about 4 () every half second, leading to the player's death in around 3 seconds. Armor does not protect you from dying in the Void, and death always occurs at Y=-199.10. However, if status effects are used the death level alters only slightly. After this, if the player does not press any buttons, they will usually fall until somewhere below Y=-256, with this number varying on each death. If commands are used to make the player invincible or give them infinite health, they will fall until Minecraft crashes. When you fall into the void on a server with anti-flying measures, you are kicked out regardless of having a flying mod. Riding a vehicle into the Void will result in the player being stuck in the vehicle until he/she dies.
+Other entities may also fall through the Void and receive the same damage as the player, with the exception of the wither which appears to take tremendous damage. All entities will disappear at Y=-64. Any entity above layer Y=319 or below layer Y=-64 will be black.
+In Pocket Edition, the player's health is depleted by 4 () every half second at any negative height. At Y=-64 an invisible barrier is erected, preventing the player from falling further.
+Entering the bottom Void is not possible in the Console Editions. The player is unable to break the bottom or top layer of bedrock, even in creative. If the player does somehow manages to do so, attempting to fall into the Void will result in the player standing on it. This also happens at the y-coordinate of 511, where an invisible barrier is erected to stop the player going any higher. The invisible barrier for the bottom is not present in the End. If the player is affected with resistance 5+, regeneration 8+ or instant health you can fall infinitely into the void without dying.
+If the player opens a hole to the Void and blocks off all light sources, it can be seen that the Void does in fact give off light (actually, it is the blocks themselves having a light level higher than 0, not the Void emitting light, as it appears to be). However, the bottom of the bedrock on the last layer is completely black.
+When the player is at a Y coordinate above 62, the Void appears like the sky, and the sun/moon can be seen. When the player is at a Y coordinate below 62, the Void will change color to pure black.
+Flaming arrows will disappear once they enter the Void while normal arrows fired by the player do not immediately disappear.
+If bedrock is destroyed in creative mode and replaced it another block, particles, such as rain, will still fall through that block.
+If the player enters the Void with the night vision effect, everything turns black.
+When falling into the Void, the sky above only renders for the current chunk.
+When viewed on a map, the Void is seen as the pattern used for an unexplored area. This is because there are no blocks recorded in the Void's area, just the same as if the player has not explored or recorded normal areas.
+When falling below Y=0, the second last line of the debug screen disappears entirely.
+The Void actually is not a huge open space. It is similar to the sky, but the player is surrounded by a black box while inside it, creating the illusion that the entire area is black and open. If the F5 is pressed when falling into the Void, the sun or the moon (depending on whether it is day or night) can be seen, as well as the black box surrounding the player. As the black box follows the player, other players and mobs appear black while in the Void (the player is seeing those other entities from inside the black box). The black box starts at Y=-61, and the void above that is actually a huge open space. This is why when the player looks up when falling into the void, it appears as if a large black tunnel is situated above.
+The fog that closes in when standing on the top layers.
+The Void Horizon glitch.
+The Void as of Beta 1.8; it is pure black and uses the same particle effects as those underwater.
+The Void pre-1.8, as seen through a hole found at the bottom of the map.
+The Void pre-Beta 1.8, as seen from within.
+The Void, as seen from within a chasm made via a map editor, pre-Beta 1.8.
+The Void, as seen below the Nether via a chunk error. Lava and other blocks are still here, but are invisible due to a client glitch.
+Entities are rendered and can be lit below bedrock.
+A picture showing water cannot flow into the Void.

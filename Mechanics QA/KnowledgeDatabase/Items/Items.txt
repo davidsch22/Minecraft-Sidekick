@@ -1,0 +1,234 @@
+ Items allow you to perform specific tasks in minecraft, which can range from simply harvesting a block faster, to setting things on fire or changing the colour of wool.
+Like blocks, items can be categorized, which is what we’ve done in this guide to make everything easier to find. Note that some items could theoretically be put in more than 1 category, but we’ve only put each item into 1 category to make it easier.
+Some items, like tools and armour, have a certain amount of uses before that item breaks. The amount of uses is determined by the materials the tools are made of, and often by the tool itself. The durability of the item will be shown as a small bar at the bottom of the tool’s icon in your inventory, which will shrink each time you use that tool to break a block or attack a mob or player.
+It’s possible to repair tools by combining 2 of the same damaged tools in a crafting interface, which will create a new version of that tool with the durability of the old tools combined, plus 10% extra durability, unless the total is more than 100% of the normal tool’s durability. However, any enchantments on the old tools will be lost. Note that you can only combine tools that have been made out of the same materials, so you cannot combine a diamond and iron pickaxe, only 2 diamond or 2 iron pickaxes.
+Below is a list of the items in minecraft, but note that some items are shown as a group, instead of each individual item. All tools, for example, are only listed as their type (axe, pickaxe), not as their individual parts (diamond axe, iron axe, ..).
+Note that, with the exception of paintings, all items that can be placed as a block, like sugarcane, or all items that act like blocks, like wheat, are not listed. They’re listed in the block list instead.
+You can click on each image to get to a seperate page with more info on that item.
+These items can be obtained in game through a single action, whether it’s mining an ore block or killing a monster. They are somewhat useless on their own, but can be used to create useful items and blocks.
+Blaze rods.
+Blaze rods are dropped by Blazes, which can only be found in Nether fortresses. The blaze rods are used to create blaze powder and brewing stands.
+Bones.
+Bones are dropped by skeletons, which can be found in the Overworld, but only at night or in dark places. Bones are used to make bonemeal, which can be used as an instant fertilizer and as white dye for wool.
+Charcoal.
+Charcoal can be obtained by burning logs in a furnace, 1 log will yield 1 charcoal. Charcoal burns just as long as coal and it can be used in any recipe which requires coal.
+Clay ball.
+Clay balls are dropped when you break a clay block, which can usually be found underwater. Clay is used to create clay blocks and bricks, which can then be used to create brick blocks.
+Coal.
+Coal can be obtained by mining a coal ore block, which yields 1 coal per block. Coal veins can be quite large and they’re found at almost any elevation, which makes it quite easy to get huge amounts of coal. Coal is used as a fuel in furnaces and powered minecarts. It’s also used to create torches and fire charges, though charcoal could be used instead of coal.
+Cocoa beans.
+Cocoa beans can currently only be found in chests in dungeons. Cocoa beans are used to make cookies and they can be used as a dye.
+Diamond.
+Diamonds are one of the rarest items in minecraft. They can either be found in chests, like the chest in villages, or they can be mined from diamond ore blocks, which yield 1 diamond per block. Diamonds are mainly used to create the best tools, weapons and armour, but they can also be used to create several other blocks, like jukeboxes and enchantment tables.
+Eggs.
+Eggs are dropped by chickens once every 5-10 minutes, however, the chicken will not drop an egg if you kill it. Eggs are currently only used to create cakes, but they can also be fired by right clicking, which will break the egg on impact. Eggs shot like this will sometimes spawn a chick.
+Ender pearl.
+Ender pearls are dropped by Endermen, which can be found in both the Overworld and the End. They are mainly used to create eyes of ender, which are used to find the End portal. But Ender pearls can also be used as a teleportation mechanism, by firing them.
+Feather.
+Feathers are dropped by chickens when you kill them. Feathers are used to create arrows, though arrows are also dropped by skeletons.
+Flint.
+Flint is sometimes (1/10) dropped when you harvest gravel. Flint is used to create arrows and flint and steel, which allows you to set things on fire.
+Ghast tear.
+Ghast tears are dropped by ghasts, which can only be found in the Nether. Ghast tears are used as an ingredient to create potions.
+Glowstone dust.
+Glowstone dust is dropped when you break a glowstone block, which can only be found in the Nether. Glowstone dust is used to create glowstone blocks, but it can also be used as an ingredient in brewing.
+Gold ingot.
+Gold ingots can be obtained by either smelting gold ore, by crafting it from either a gold block or gold nuggets, or they can be dropped by zombie pigmen. Gold ingots can be used to create tools, armour and weapons, though they’re quite useless due to their low durability. Gold ingots are also used in several crafting recipes, like clocks and powered rails.
+Gold nugget.
+Gold nuggets can be obtained by either turning a gold ingot into nuggets or by killing zombie pigmen. Gold nuggets are used to create golden apples, gold ingots and glistering melons.
+Gunpowder.
+Gunpowder is dropped by creepers and ghasts. Gunpowder is mainly used to create TNT and fire charges, but it can also be used as an ingredient in brewing, as it’ll turn potions into splash potions.
+Iron ingot.
+Iron ingots are obtained by smelting iron ore, though they can also be found in some chests and they’re dropped by iron golems and zombies. Iron ingots are mainly used to create the second best tools, weapons and armour, but they can also be used to create various items, ranging from buckets and couldrons to doors and iron bars.
+Leather.
+Leather is dropped by cows and is used to create armour, though the armour isn’t that great as it hardly offers any protection.
+Melon Seeds.
+Melon seeds can only be found in chests in abandoned mineshafts, though they can also be crafted from a melon slice once you’ve grown melons. Melon seeds are, of course, used to grow melons.
+Pumpkin seeds.
+Pumpkin seeds can be found in chests in abandoned mineshafts and they can be crafted from pumpkins. Pumpkin seeds are, of course, used to grow pumpkins.
+Seeds.
+Seeds are obtained by either destroying tall grass, ferns or wheat in any growth stage. Which one of these 3 you get the seeds from doesn’t matter, the seeds will always be the same. Seeds are used to grow wheat.
+Slimeball.
+Slimeballs are dropped by slimes, but only be the tiny versions. Slimes can only be found below layer 40 and only in 10% of the chunks in minecraft, which makes it quite difficult to find slimes. Slimeballs are used to create sticky pistons and magma cream.
+String.
+String is dropped by spiders and cave spiders, but can also be obtained by destroying cobwebs. It can also be found in some chests. String is used to create bows, fishing rods and wool.
+These items are created using the raw material items and they’re often used in a final step to create useable items, like weapons, potions and various blocks.
+Blaze powder.
+Blaze powder can be crafted from blaze rods, which can be obtained from blazes. Blaze powder is used to create eyes of ender, magma cream and fire charge, but they can also be used as a brewing ingredient.
+Bonemeal.
+Bonemeal is crafted from bones and can be used as a dye and as an instant fertilizer.
+Book.
+Books are made with paper and are used to create bookshelves. They can also be obtained by breaking a bookshelf, which can be found in villages and strongholds.
+Bowl.
+Bowls can be crafted using wooden planks and they’re used to create mushroom stew.
+Brick.
+Bricks are obtained by cooking clay in a furnace, which can then be used to create brick blocks.
+Eye of ender.
+Eyes of ender are crafted with blaze powder and ender pearls. They’re used to find the End portal, which can be done by firing them, after which they’ll fly towards the End portal for a short time.
+Fermented spider eye.
+Fermented spider eyes are made using sugar, spider eyes and a brown mushroom. These fermented eyes are used as a brewing ingredient.
+Glass bottle.
+Glass bottles are crafted using glass blocks and can be filled with water. Water bottles are used to create potions.
+Glistering melon.
+Glistering melons are created using a melon slice and gold nuggets. Glistering melons are used as a brewing ingredient.
+Magma cream.
+Magma cream is created by combining a slime ball and blaze podwer. Magma cream is used as a brewing ingredient.
+Paper.
+Paper is crafted from sugar cane and is used to create maps and books.
+Stick.
+Sticks are crafted from 2 wooden planks and are used to create most tools and weapons. They’re also part of several other recipes, like ladders and rails.
+Sugar.
+Sugar is crafted from sugar cane and used to make cakes, cookies and fermented spider eyes. Sugar can also be used as a brewing ingredient.
+These items will affect your health and general well being in some way. Food will generally restore your hunger bar, which prevents you from starving, though some have different effects. Potions will have several different effects, depending on the potion.
+Beef (raw).
+Beef can be obtained by killing cows, which will drop 1-3 pieces of beef.
+Steak (beef cooked).
+Raw beef can be cooked into steak, which will restore up to 4 hunger bar slots.
+Bread.
+Bread is made with 3 pieces of wheat and will restore 2.5 hunger bar slots.
+Cookie.
+Cookies are made using 2 pieces of wheat and 1 cocoa bean, which creates 8 cookies. Cookies restore just 1 hunger bar slot per cookie.
+Chicken (raw).
+Chicken is obtained by killing chickens, which will always drop 1 piece of chicken.
+Chicken (cooked).
+You can cook the raw chicken, which will restore up to 3 hunger bar slots.
+Fish (raw).
+Fish is obtained by fishing in any body of water with a fishing rod.
+Fish (cooked).
+Raw fish can be cooked and will restore up to 2.5 hunger bar slots.
+Golden apple.
+Golden apples are either crafted using gold nuggets and an apple or they can be found in some chests. Golden apples will restore up to 2 hunger bar slots and they’ll temporarily regenerate your health.
+Melon slice.
+Melon slices are obtained by destroying a melon block, which can yield between 3 and 7 melon slice. Each melon slice will restore up to 1 hunger bar slot.
+Milk.
+Milk is obtained by right clicking a cow while holding a bucket. You can drink milk, but it will not restore any hunger. Instead, milk will erase any effects on your character, including food poisoning and positive effects, like the effects of strength potions.
+Porkchop (raw).
+Porkchops are dropped by pigs, which will drop 0-3 porkchops upon death.
+Porkchop (cooked).
+You can cook the raw porkchops, which will restore up to 4 hunger bar slots.
+Potions.
+Potions are brewed using a brewing stand and several ingredients. Each potion has a different effect, ranging from health restoration and an increased strength, to decreased movement speeds and poison effects.
+Red apple.
+Red apples are dropped by destroyed or decaying leaves of oak trees, but they can also be found in some chests. Red apples restore up to 2 hunger bar slots, but they can also be turned into golden apples.
+Rotten flesh.
+Rotten flesh is dropped by zombies and zombie pigmen. It’s possible to eat rotten flesh, though there’s an 80% chance you’ll get food poisoning.
+Spider eye.
+Spider eyes are dropped by spiders and cave spiders, but only when the player deals the killing blow. They can be eaten and will restore up to 1 hunger bar slot, however, eating a spider eye will deal 2 hearts of damage.
+Splash potions.
+Splash potions are throwable potions, which are made by simply adding gunpowder to a potion. However, splash potions have a weaker effect than normal potions. Splash potions have the same effect as normal potions, but will apply that effect to a radius around its place of impact. The further you stand from this impact zone, the weaker the effect of the potion.
+These items are used to perfrom certain tasks which would otherwise be impossible, like mining obsidian or setting blocks on fire.
+However, some tools are only used to harvest blocks faster.
+Axe.
+Axes are used to break wooden blocks faster, though all wooden blocks can be destroyed by hand. Axes are made using 2 sticks and either 3 diamonds, iron ingots, gold ingots, cobblestone or wooden planks.
+Bucket.
+Buckets are used to hold and transport lava, water and milk. It’s created using 3 iron ingots. Milk is obtained by right clicking cows. Water and lava is obtained by right clicking a water or lava source block. Note that right clicking flowing lava and water will not fill the bucket.
+Fishing rod.
+Fishing rods are used to fish, which can be done in any body of water. Fishing rods are created using 3 sticks and 3 strings. You simply right click to cast your rod and right click again to reel it in, however, you will only get a fish when you reel in your line when the bobber submerges. Fishing rods can also be used to pull mobs, but not players.
+Flint and steel.
+Flint and steel is used to set things on fire, as well as activate TNT and Nether portals. Flint and steel is made using flint and an iron ingot.
+Hoe.
+Hoes are used to till grass and dirt blocks, which turns them into farmland. Farmland can then be used to plant seeds. Hoes are created using 2 sticks and either 2 diamonds, iron ingots, gold ingots, cobblestone or wooden planks.
+Pickaxe.
+Pickaxes are used to mine stone blocks faster, though some blocks can only be harvested with a specific pickaxe, like obsidian, which requires a diamond pickaxe. Pickaxes are made using 3 sticks and either 3 diamonds, iron ingots, gold ingots, cobblestone or wooden planks.
+Saddle.
+Saddles can only be found in chests in dungeons. Saddles can be applied to pigs, which allows you to ride them, though you cannot control their movements.
+Shears.
+Shears are used to shear sheep, destroy some blocks faster, look wool and cobweb, and they’re used to harvest certain blocks, like vines, leaves and tall grass. Shears are made with 2 iron ingots.
+Spade.
+Spades are used to break soft blocks, like sand, dirt and gravel faster, though you can also use your hands instead. Spades are made using 3 sticks and either 1 diamond, iron ingot, gold ingot, cobblestone or wooden plank.
+Weapons are, of course, used to deal damage to players and mobs. The items mentioned below are not the only means of dealing damage, as you could also use a bucket of lava as a weapon, but the items below are specifically designed to be used as weapons.
+Arrow.
+Arrows are used as ammunition for bows and dispensers, which can then be fired and used to harm mobs and players from a distance. Arrows are created using a stick, a feather and a piece of flint.
+Bow.
+Bows are used to fire arrows, which means you can harm mobs and players from a safe distance. Bows are created using 3 sticks and 3 string.
+Fire charge.
+Fire charges can either be used by the player as a type of flint and steel, or they can be used as ammunition for dispensers, which will fire them.
+Fire charges are created using coal (or charcoal), gunpowder and blaze powder.
+Sword.
+Swords are used to deal great amounts of damage than fists or other items, but they do not extend your hitting range. Swords are created using 1 stick and either 2 diamonds, iron ingots, gold ingots, cobblestone or wooden planks.
+There are currently only 2 types of vehicles, boats and minecarts. There’s only 1 type of boat and 3 types of minecarts, though only the normal minecart can be ridden by the player. Pigs can also be ridden by attaching a saddle to them, though they’re uncontrollable.
+Boat.
+Boats are, of course, used to travel across water. They go much faster than a swimming player, though they can be a bit tricky to control in flowing water or narrow canals. Boats are crafted using 5 wooden planks.
+Minecart.
+Minecarts are used to travel on rails, which have to be placed on blocks. Minecarts also require power or some other form of momentum, like gravity or a pushing player to move. Powered rails are the best option for this. Minecarts are created using 5 iron ingots.
+Minecart with chest.
+These minecarts have a chest inside, which allows you to store items and make them travel to their next destination, without you having to follow them immediately. However, like normal minecarts, minecarts with chests will not move unless some form of power or momentum is applied.
+These minecarts are crafted using a minecart and a chest.
+Minecart with a furnace.
+These minecarts have a furnace inside, which can be right clicked while holding either coal or charcoal, which will make it move. These minecarts require no additional power or momentum to move, though they will have to be resupplied with (char)coal once in a while. These minecarts are crafted using a minecart and a furnace.
+These items are used to help you navigate through minecraft.
+Clock.
+Clocks are used to tell what time it is, which can be very useful when you’re underground or anywhere else where you cannot see the sky and/or sun. Clocks will help you to find out if it’s safe to go back to the surface. Clocks are made using 1 piece of redstone and 4 gold ingots.
+Compass.
+Compasses are used to find out your position relative to that of your original spawn point, as the compass will always point to where you spawned when you created the world. This can be very useful to roughly tell where your base is, especially when you travel large distance.
+Note that while a bed changes your spawn point, a compass will always point to your original spawn point.
+Compasses are made using 4 iron ingots and 1 piece of redstone.
+Map.
+Maps are, of course, used to map out the area around you. However, they will only map out the area if you have the map equiped and the scale is quite small. 1 pixel on the map equals an 8×8 square of blocks in the minecraft world. Maps will also only map out the area once, any changes made to the area will not be updated on the map. Maps can be used in the Nether and the End, but only if you make the map in those dimensions. Maps are made using a compass and 8 pieces of paper.
+These items are mainly used to change the appearance of specific things, like sheep or the walls in your house. However, music discs have also been included, as they don’t fit in other categories and they could enhance your house with the music they play.
+Dye.
+Dyes are used to paint sheep and wool into specific colours. There are 16 colours, including black and white, which are obtained in several different ways, ranging from simply mining blocks like lapis lazuli, to combining several colours to create a new colour.
+Music discs.
+Music discs can be played in jukeboxes. They’re obtained when a skeleton deals the killing blow to a creeper, the other damage done to the creeper can be done by anything else. 2 music discs can also be found in dungeon chests.
+Painting.
+Paintings are crafted using 8 sticks and any colour of wool, the colour of the wool does not affect the resulting painting. Paintings can be placed on walls by right clicking the block. Right clicking any block will place a random painting, which can range from a small, 1 block painting to huge versions. The painting you get is always random, though by restricting the size in which they can be placed you can control what paintings you place to some degree.
+These items can only be obtained in creative mode.
+Bottle o’enchanting.
+This is a splash potion which will drop 3-11 experience upon impact. They’re usually used in custom adventure maps to allow the players to enchant their weapons without having to kill mobs.
+Music disc 11.
+This music disc doesn’t play a song, instead, a weird sound track can be heard which starts with footsteps and end with a scream.
+Spawn eggs.
+These eggs will spawn mobs when you right click a block while holding such an egg. The type of mob that spawns will depend on the egg you’re holding. Most mobs have their own egg, though there are a few mobs which have no egg, which means they cannot be spawned without using mods or codes.
+Items are objects which only exist within the player's inventory and hands - which means, they cannot be placed in the game world. Some items simply place blocks or entities into the game world when used. They are thus an item when in the inventory and a block when placed. Some examples of objects which exhibit these properties are item frames, which turn into an entity when placed, and beds, which turn into a group of blocks when placed. When equipped, items (and blocks) briefly display their names above the HUD.
+Items use item IDs while blocks use block IDs.
+Are used for a lot of different purposes, mainly creating other blocks or items through crafting. Mob Drops are used for consuming, cooking, creating other blocks or items, teleporting, playing music, and as ammo, blocks, weapons, armor, and tools. These are obtained by picking up the item that drops after a mob dies. Some mobs will not drop (certain) items when not registered as killed by a player (spiders with spider eyes, and blaze with blaze rods). Adult chickens lay eggs every 5 to 10 minutes.
+ Minerals are used for tools, fuel for a furnace, creating other blocks or items, trading, dyes, and work in redstone contraptions. These are obtained by picking up the item that drops after mining an ore with a pickaxe of the right material, or taking the item that gets created after smelting an ore by dragging the finished product into your inventory.
+ Plants (in non-block form, examples: seeds, and sugarcane (item version)) are used for creating block-type plants when placed on farmland, dirt, sand, and the side of logs, so that they can grow, and give themselves or other items in the game when fully grown and broken, and be manufactured or consumed. These are obtained by picking up the item that drops after breaking a block-type version of the non-block plant in the world, or are found in reward chests.
+ Dyes are used to color certain blocks, items, or sheep to get their respective color of wool when shearing them. They are also used to customize banners. Primary dyes are obtained similar to mob drops, minerals and plants. Examples of these are ink sacs, which are mob drops from squid, lapis lazuli, which is a mineral, and rose reds, which are the output of putting red flower-plants in a crafting grid. Secondary and tertiary dyes are obtained by combining two primary or secondary dyes together in a crafting grid; examples are lime, cyan, purple, gray, and more. Some dyes can be a secondary or tertiary dye, but also be crafted by putting a flower/plant in a crafting grid.
+ Crafting Ingredients are ingredients that have no specific category and no other non-decoration purpose than to create other blocks or items by crafting or smelting, examples are flint, bowls, sticks, paper, clay, brick, nether brick, and nether quartz. These are obtained by a lot of different causes.
+ Brewing Ingredients are ingredients that are necessary to create potions, examples are blaze powder, ghast tears, glistering melons, and more. The main ingredients for potions are water bottles and nether wart, except for weakness potions, which you can create without nether wart. To make a splash potion, which you can throw instead of drink, you need to add gunpowder to a potion. To get better potion effects, you need to either add glowstone dust to make it a tier two, or redstone to extend its duration. These two cannot be legitimately combined together on one potion.
+ Enchanting Ingredients are ingredients that are only used for enchanting related things, examples: enchanted books and bottle o' enchanting (experience bottles). These are obtained by enchanting, or trading with a villager.
+Is used to be eaten by the player to get hunger points and saturation, or eaten by wolves (tamed or not) to give them health, or to make dogs and pigs breed. Some food items will give status effects to the player. Normal Food, such as apples, bread, melons, pumpkin pie, steak and more, will only give back hunger points and saturation, without any other effect.
+ Good Food, such as golden apples can give the player (several) (good) status effects, such as Regeneration, Absorption, Fire Resistance and Resistance.
+ Bad Food, such as raw chicken, rotten flesh, spider eyes, and pufferfish, can give the player (several) bad status effects, such as Hunger, Poison, and Nausea. If you are about to starve and only have this food, you can drink milk afterwards to clear all their status effects.
+Are used for a variety of purposes, mainly to help the player do things, and be coordinated. Axes allow the player to break wood-type blocks faster than mining by hand. They can be crafted from wood, cobblestone, iron, gold and diamond.
+ Shovels allow the player to break sand-type blocks faster than mining by hand. They can be crafted from wood, cobblestone, iron, gold and diamond.
+ Pickaxes allow the player to break stone-type blocks faster than mining by hand, and are required in different types of materials in order to make resources drop from specific stone-type blocks. They can be crafted from wood, cobblestone, iron, gold and diamond.
+ Hoes allow the player to till dirt, allowing them to plant crops, examples are seeds, carrots, and pumpkin seeds. They can be crafted from wood, stone, iron, gold and diamond.
+ Buckets allow the player to transport liquids such as water and lava, and get milk by right-clicking a cow or mooshroom.
+ Shears allow the player to make sheep drop wool, mooshrooms drop red mushrooms, cobwebs drop string, with a Silk Touch enchantment the actual cobweb itself, and make varieties of grass, leaves, vines and dead bushes drop themselves. They can also be used to break and collect tripwire without activating connected redstone dust.
+ Flint and steel allows the player to set most blocks on fire for varying periods of time. Flammable blocks will be burned (destroyed without an item dropping) by this process. They also allow the player to light nether portals on fire, so that nether portal blocks are formed inside. A fire charge has the same (and more) effects, but will be used up after one use, and is a ranged projectile opposed to a tool.
+ Fishing rods allow the player to go fishing to catch several types of fish, treasure, and trash, as well as pull mobs or players closer.
+ Carrot on a stick allows player to control saddled pigs.
+ Informative Tools assist the player in coordinating in the world. Maps are, when looked at, making blocks render in itself that are shown as colored pixels, respective to their rendered block.
+ Compasses are always pointing exactly with their red arrow at the player's original spawn point. (For players with Pre-release Alpha and Beta worlds, may have had this point "shift" as spawn points were coded in the region files, not derived from the seed).
+ Clocks are showing the player what time it is in the over-world. When located in the Nether, or the End they will rapidly spin.
+Are mostly used to kill mobs and players faster strategically. Swords are used to kill mobs and players faster, to block attacks, which reduces most types of damage by half, or to break blocks a little faster.
+ Bows (with arrows) are used to kill mobs or players from a distance.
+ Snowballs are used (in this context) to knock players or mobs back, giving you time to run. They only deal damage to Ender Dragons and blazes.
+ Eggs are used (in this context) to knock players or mobs back, giving you time to run. They do not deal damage to any entities.
+ Fishing rods are used (in this context) to knock players or mobs back, giving you time to run. They do not deal damage to any entities. They can also pull mobs and players towards you, giving people using ranged combat no advantage.
+ Ender pearls are used (in this context) to teleport away from or into combat. When used, the player will take 5 () of fall damage, but Feather Falling and Protection enchantments will reduce this.
+ Flint and steel, fire charges and lava buckets are used (in this context) to light players and mobs on fire.
+ Buckets are used (in this context) to steal a player's lava or water, giving them a disadvantage.
+Are used to reduce damage from mobs, players, lava, and explosions. Armor enchants increase this reduction. Helmets, chestplates, leggings, and boots are a full set of mob/player armor that reduces damage for them. Zombies and skeletons can rarely drop this if they spawned wearing it. When a player throws armor (or any item) at a zombie, skeleton zombie pigman or wither skeleton, and they pick it up, they will drop it upon any kind of death.
+ Horse armor is used to protect a horse from damage similar to player armor, but can only be worn by a tamed horse.
+ Water buckets are used (in this context) to put a player on fire out quickly. They can also be used to break long falls if placed right when you hit the ground, or to get rid of lava in order to make an escape.
+ Milk is used to erase all (good and bad) status effects.
+Are used allow to move players, mobs or items over land or water with relative speed and ease. Minecarts are used to travel much faster across rails, they are also used to store and pick up items or work in and activate redstone circuitry. When placed down they are an entity.
+ Boats are used to travel much faster across water (for example over oceans, rivers and lakes). When placed down they are an entity.
+ Saddles and carrots on sticks are used, and needed, to travel on pigs and/or horses.
+ Leads are used to right-click on most passive mobs, so they will follow you. Mobs will get pulled closer when they're too far away from the player, but, if they can't get to the player, and the distance is too far, the lead will break and drop on the place where the mob is.
+ Wheat, carrots and varieties of seeds are used to make most passive mobs follow you when it's held. In Multiplayer when other players are too close by, they will not, or stop, following the player.
+Are brewed in brewing stands, and are drinkable or throwable items that confer specific effects. Producing them requires resources from the Nether, and sometimes from the overworld. The main ingredients are water bottles and nether wart, which are used to create every potion in the game, with the exception of a potion of weakness because it can be brewed from items other than nether wart, such as redstone. Gunpowder is used to make a splash potion, which you can throw at other mobs and players, instead of consuming it yourself.
+ Glowstone dust is used to make a tier two potion.
+ Redstone is used to extend the duration of a potion. Glowstone dust and redstone cannot be legitimately combined together on one potion.
+Are musical items textured similar to real life discs, that when put in a jukebox, they will play music. They are obtained by allowing a creeper to be killed by an arrow shot by a skeleton, and the music discs 'cat' and '13' can be found in dungeon reward chests. There are twelve different discs in the game.
+Eggs are used to spawn baby chickens when thrown.
+Spawn Eggs are re-textured eggs with dots, they are colored similar to their respective mob, and can be used to spawn most mobs in the game. These are obtainable only in Creative. Right-clicking the same type of spawn egg on a mob that can have babies will spawn a baby mob on that place (wolves and all passive mobs can have babies like this, except squid and bats). Some mobs such as Ender Dragons and giants do not have spawn eggs, so cheats must be used to summon them.
+Are used only for aesthetic purposes. Fireworks are used for beautiful scenery. They can be crafted in a variety of colors, shapes and sounds, and when used will quickly fly up into the air and (visually and audibly) explode.
+ Book and Quills can be used to write down information or stories in a book.
+Are used for miscellaneous purposes. Name Tags are used to name any kind of mob, and keep them from despawning. Naming a mob "Dinnerbone" or "Grumm" will turn it upside-down. Naming a sheep "jeb_" will make its wool color fade into and out of all 16 colors of dyed sheep, although this will not affect its drops. Also naming a rabbit "Toast" will give you a special bunny".
+Item repair.
+Item durability.
+Item (entity).

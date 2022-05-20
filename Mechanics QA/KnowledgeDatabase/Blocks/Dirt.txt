@@ -1,0 +1,41 @@
+This article explains about regular Dirt. For it's grass counterpart, see: .
+ Grass Block For it's purple, Mushroom Island counterpart, see: .
+ Mycelium. For it's Mega Taiga, dark brown counterpart, see: .
+ Podzol. For it's Coarse counterpart, see: .
+ Coarse Dirt.Dirt is the most ordinary surface Block in the overworld, making up the majority of the top layers of Blocks, between Grass or Snow and Stone. It is also found in underground deposits at all altitudes. It can also be found in the bottom of any body of water, along with Sand, Gravel and Clay. It's got exactly the same texture on all six sides. Dirt has little importance in Minecraft, other than for farming, which is essential for many things. Water does not turn it into mud and fire cannot destroy it. .
+When a Dirt Block is adjacent to a Grass Block and is exposed to a light level of at least 4 (e.g. from Torches or sunlight), it will eventually be converted into a Grass Block at random intervals (see Grass for growth details). Mycelium spreads in similar fashion, but requires a light level of at least 9.
+Dirt is not used in any Crafting recipes whatsoever (but some mods have crafting with dirt). Some uses offered by this Block are as a necessity for growing certain plants after being tilled with a Hoe, though Sugar Cane and Saplings don't need tilling. Dirt can also be used as a cheap material for when a player wishes to block off branches of a Cavern, build walls or scaffolds, or any similar task that requires a medium to large number of blocks that are not affected by gravity and are fireproof.
+A bug in Minecraft Beta 1.8 pre-release allowed any Block (including Bedrock) to change into Dirt when a Huge Mushrooms was grown on it. This was later fixed in the second pre-release of version 1.8 so that Huge Mushrooms can only be grown on Dirt, Grass or Mycelium.
+Dirt slabs were added in Survival Test, but were quickly removed. Grass didn't grow on the slabs.
+A dirt block on some grass blocks.
+Add a photo to this gallery.
+ Dirt is a block found abundantly in the Overworld.
+ Coarse Dirt is a variation of dirt that will not grow grass.
+Dirt will drop as an item when broken with any tool or by hand, but a shovel is the fastest way to break it.
+Dirt is found at any altitude, and comprises the majority of the upper terrain layers in most overworld biomes.
+There are approximately 1,850 dirt per chunk in Plains, Forest, Tundra, Jungle, and Extreme Hills biomes. There can be as many as 3,000 in chunks with high mountains. Dirt generates in pockets underground as well. Dirt also generates naturally in the butcher's shop and in some houses in villages.
+Coarse dirt can be found in mega taiga, mesa and savanna biomes.
+When grass, mycelium, or podzol are broken using a tool that is not enchanted with silk touch, it will drop dirt.
+Farmland will drop dirt when broken. It will also turn into dirt if either a mob jumps on it, or if nothing is planted on it and it is not within four blocks of water.
+Coarse dirt can be tilled to become dirt.
+In Pocket Edition, grass path blocks drop dirt when broken.
+Dirt's primary use is for farming, but it can also be used as a highly available building block.
+Dirt and coarse dirt have the ability to grow saplings, sugar canes, and mushrooms, which can be planted directly in dirt under appropriate conditions.
+Using a hoe on dirt will turn it into farmland, enabling wheat seeds, pumpkin seeds, melon seeds, potatoes, and carrots to be planted on it. If you use a hoe on coarse dirt, it will turn into dirt instead.
+When a dirt block is adjacent to a grass block and is exposed to a light level of at least 4, it will eventually be converted into a grass block at random intervals.
+Mycelium spreads in similar fashion, but requires a light level of at least 9.
+Neither mycelium nor grass will spread onto coarse dirt.
+Dirt has only one possible tile name: minecraft:dirt, which it shares with Podzol and Coarse Dirt. The tile data field defines which block is displayed.
+Grassless dirt found in a savanna biome.
+Dec value: 03 Hex value: 3.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: No.
+Dirt can be obtained by digging up either dirt, grass, mycelium or farmland. Though using a tool with the silk touch enchantment will give you grass and mycelium instead of dirt. Using a shovel is the fastest way of harvesting dirt, though due to the speed of even stone shovels, using a diamond shovel is often considered a waste, especially when you’re low on diamonds.
+A few layers of dirt covers almost everything on land, with the exception of desert biomes, though it’s almost always covered by a layer of grass. Any dirt block adjacent to grass blocks in sufficient light will turn into grass block. The same spread to dirt happens with mycelium blocks.
+Dirt can also be found underground, on all depths, and is found on also found on the bottom of almost any body of water.
+Unlike sand and gravel, dirt is unaffected by gravity, which can often lead to random floating dirt blocks.
+Dirt can be turned into farmland by tilling it with a hoe. Farmland is required to plant seeds. Along with grass and sand blocks, dirt can be used to plant and grow sugar cane, as long as a block of water is directly next to it.
+Dirt is not used in any crafting recipes and because farming rarely requires huge amounts of dirt, dirt blocks are often used for terra forming or as a quick blockade against monsters.
+Dirt’s explosive resistance is very low, which means you’re often left with a big hole when an explosion occurs.

@@ -1,0 +1,18 @@
+ Pressure plates are switches activated when a certain weight is put on it. The pressure plate will then send power to the blocks under and next to it, which will activate anything it’s connected to, for as long as the plate is pushed down. Pressure plates are often used to open iron doors, however, mobs can activate the plates as well, which could welcome unwanted guests into your house.
+There are 2 types of pressure plates, stone and wood. They’re crafted using stone and wooden planks. Even though 2 pieces of stone or wooden planks are quite large, only 1 pressure plate is created.
+Dec value: 72.
+Hex value: 48.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Wooden pressure plates can be activated by any weight, which means you or mobs can either stand on it, or you can drop something on top of it. This includes bobbers from fishing poles, allowing you to activate pressure plates from a distance. Water flowing on it will not activate it, but doesn’t destroy it either.
+Wooden pressure plates can be great to build traps with. Any player or mob walking over it will activate whatever you’ve attached it to. However, many players have grown suspicious of any pressure plate not directly next to a door, and even then some players will still not trust it. To avoid players from running away from it, make sure they have no choice but to stand on it. Alternatively, cast your fishing rod on it from a distance, if you sneak and hide well enough they might not even be able to find you.
+Unfortunately, players can easily disable your trap by dropping an item on it from a safe distance. This will either completely disable 1 time only traps, like TNT traps, or it will show how it works, like arrow firing dispenser traps. Wooden pressure plates also allow for timed traps and clock mechanisms to be created. A dropped item will despawn after 5 minutes, so you can keep something in an activated state for 5 minutes or more by using dispensers to drop an item on it. By using an inverter, items dropped on a pressure plate will actually deactivate the process it’s attached to.
+Dec value: 70.
+Hex value: 46.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 4.
+Maximum stack 2.5.
+Transparency: Yes.
+Unlike wooden pressure plates, stone pressure plates can only be activated by mobs and players, this includes mobs and players inside a minecart. This can be used to an advantage. Players will not be able to deactivate traps by simply throwing something on a wooden pressure plate, they’ll have no choice but to stand on it. Note that on many multiplayer servers the /spawn command is usually enabled, which means players can simply teleport away from your pressure plate trap.

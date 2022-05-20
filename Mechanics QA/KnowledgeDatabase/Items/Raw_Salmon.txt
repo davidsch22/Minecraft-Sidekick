@@ -1,0 +1,7 @@
+Raw salmon is a food item that is obtained by fishing.
+The most common way of obtaining raw salmon, like any other fish, is fishing. The chance of one being caught can be increased with the 'Lure' enchantment.
+Raw salmon can be obtained from guardians as a rare drop.
+One raw salmon restores 2 () hunger points and 0.4 saturation. Although it is more efficient to cook it in a furnace to produce cooked salmon, which restores 6 () hunger points and 9.6 saturation.
+Raw Salmon can be used to tame ocelots, like most other fish.
+Cooked Fish.
+Cooked Salmon.

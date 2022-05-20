@@ -1,0 +1,19 @@
+A Giant, or Giant Zombie, is an extremely large, hostile mob. Their model first appeared in Survival Test, but was abandoned. Zombies were originally neutral mobs, and do not attack the player without incite. This is likely due to their near-boss physic and health. They have the same appearance as a zombie, but are several times larger. Their only method of attack is to charge endlessly at the player. Giants have 50 hearts total, half of the EnderDragon's, but still equally deadly. After their removal, they are capable of being spawned with, the /summon command (since 1.7), and third-party programs such as SinglePlayerCommands (SPC). They can ride in minecarts, which will cause a bug. The hitbox on the model itself only includes the Giant's legs; any attacks that make contact above this point will not cause damage, or even hit.
+Giants make a fascinating re-introduction into Minecraft, however, they still cannot be created naturally. In snapshot 13w36a, giants can be summoned via the /summon command and you can also spawn the giant via a mod.
+If you try to spawn a giant from a spawn egg it can crash your game.
+The following video was made by Notch, testing out giants on February 4, 2010.  .
+Giants are over-sized mobs that look like zombies. They currently have no purpose other than decoration.
+Giants drop 5 experience when killed.
+Giants do not spawn naturally, as they require a light level greater than 11 and less than 8.
+Giants can be spawned using commands such as /summon Giant.
+Giants are hostile, living mobs. They are twelve blocks tall and use a six times enlarged zombie model. Giants themselves will do nothing, as they have no AI, though they still have animations and other mobs can interact with them.
+Giants are living mobs, despite having the appearance of being undead.
+Giants are in the Xbox 360 Edition, although they require external modifications for their egg to be placed in the player's inventory.
+Since giants need to have a light level both less than 8 and greater than 11 to spawn, they don't spawn from monster spawners. However, this spawn condition can be bypassed with a custom spawner, if it attempts to spawn an entity with valid spawn conditions riding a giant.
+If you name a giant using a name tag, its name will appear inside its head.
+A giant next to a normal size zombie.
+A giant "riding" a minecart.
+A giant in a cave.
+Two giants summoned wearing equipment.
+A giant burning in a pool of lava.
+A giant getting damaged by a splash potion of harming in night time.

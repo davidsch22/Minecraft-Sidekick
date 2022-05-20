@@ -1,0 +1,28 @@
+The Slime Block is a transparent block with unique properties.
+Slime blocks can be mined instantly with any tool, or without a tool.
+Landing on a slime block won't cause fall damage unless you are sneaking.
+An interesting quirk of slime blocks (and end portal frames and monster spawners) is that they are transparent in their rendering only – unlike all other transparent blocks, they can have torches and redstone placed on them, conduct a redstone current, will suffocate mobs, and more.
+Slime blocks cause movement on top of them to slow down.
+Slime blocks will cause players and mobs to bounce at a height relative to the velocity. The bounce height quickly deteriorates. For example, a fall of 255 blocks only produces a bounce height of about 50 blocks, while a fall of 50 blocks is a bounce height of 22 blocks. The maximum jump height is around 57.5 blocks.
+If the player is holding the jump key, they will perform a normal jump on contact with the slime block without taking fall damage. If the player is holding sneak, they will not bounce at all, although they will take fall damage.
+Placing carpets, rails, trapdoors, redstone repeaters or redstone comparators on a slime block does not stop mobs from bouncing and not taking fall damage. Likewise, placing a pressure plate on a slime block does not stop mobs from bouncing, but the pressure plate will activate. Cake, slabs, and other half blocks stop the bouncing effect.
+Most mobs will bounce off of slime blocks except for chickens, Ghasts and bats. Occasionally horses may get stuck on a block when a player tries to spawn them on top of slime blocks in Creative mode.
+Items, falling sand/gravel, minecarts and boats do not bounce on slime blocks. Particles, however, do bounce.
+Dropped items move quickly when in water that is flowing over slime blocks (although slower than they do over ice). This is particularly useful for transporting resources using water currents because items will keep sliding on slime blocks when they are dropped at an angle, even if water is not placed on top. Due to slime blocks not melting, unlike normal ice, they are a far safer and more efficient alternative.
+When being pushed by a piston, entities (except ender dragons, item frames and paintings) that are ahead will be launched into the direction the block is pushed into. When pulled by a piston, no entities are launched. If an entity is on a moving slime block, it usually falls into or through that block, unless the block is being pushed upward.
+When a slime block is pushed or pulled by a piston, it will attempt to move in the same direction all adjacent blocks that can be pulled by a sticky piston. These blocks may in turn push other blocks. For example, a slime block sitting on the ground will attempt to move the ground block underneath itself, which will in turn have to push additional ground blocks in the direction of motion just as if it were being pushed directly by a piston.
+The same occurs when a slime block is moved by an adjacent slime block. For example, a 2×2×2 cube of slime blocks may be pushed or pulled as a unit by a single piston acting on any of the blocks in the cube.
+A slime block adjacent to a block that cannot be moved by pistons will ignore the immobile block. But if an adjacent block could be moved but is prevented by the presence of an immobile block, the slime block will be prevented from moving. Liquids are an exception: they aren't moved, but neither do they stop a piston from pushing or pulling blocks into their space (usually destroying the liquid, and in a rare case displacing it through the piston).
+Slime blocks are not pulled by a non-sticky piston, nor are they moved if an adjacent (non-slime) block is moved by a piston.
+The maximum of 12 blocks moved by a piston still applies. For example, a 2×2×3 of slime blocks may be pushed or pulled by a sticky piston as long as no other movable blocks are adjacent to it.
+A piston cannot move itself via a "hook" constructed of slime blocks, but self-propelled contraptions can be created with multiple pistons.
+Translucent blocks (blocks with two different transparencies), such as slime blocks, are now able to be implemented due to a new rendering system.
+A minecart leaving a rail onto a slime block will be able to continue on a rail on the opposite side, if it has sufficient momentum leaving the initial rail.
+Any entity landing on the sides of the block will not bounce. In order to bounce, you need to land on the top.
+Slime blocks under soul sand will make you go as slow as ice under soul sand.
+Rabbits will not jump while on a slime block.
+A Zombie bouncing on a slime block. Click to view animation.
+Image posted by Jeb over Twitter posted to Imgur, said as the last picture of 2013.
+The 14w02a Banner showing slime blocks in a slime shape. Obsidian for the eyes and the mouth.
+Testing of bounce heights. X axis is the start height in half blocks. Y axis is the return height in half blocks. Red line at the top is maximum possible bounce height in half blocks.
+Mobs do spawn on diorite, but not on the slime blocks under the same light level.

@@ -1,0 +1,10 @@
+The Minecart with Hopper is a Minecart that picks items up off Minecart Tracks. If there is a hopper (it can be a chest, dropper, dispenser, etc.) above a chest and the Minecart With Hopper goes over it the items will get pulled from the hopper and go into the chest. This is useful for mining. It is also strongly recommended that you have a Hopper input system to put your things in (i.e. Minecart track in your basement connected to a Chest or Furnace for Iron/Gold). You can also put a Hopper connecting to a Chest or a Dispenser.
+Like other Minecarts, they are entities.
+A Minecart with Hopper is a hopper inside a minecart.
+Minecarts with hoppers can be broken by attacking them.
+These minecarts are placed similarly to other minecarts.
+A Minecart with hopper will take in items which are lying nearby (range only slightly larger than the cart itself), or inside a container above the track (aprox. 18.5 items per second). It will also pick up items that are lying on a block directly above the track. It will not push items into containers, but a hopper underneath the track can take items out of it.
+The hopper can be disabled by passing over a powered activator rail, and can be reenabled by an inactive activator rail.
+A minecart with hopper will travel more than 85 blocks without stopping (as opposed to a normal cart going less than 12 blocks) from a dead stop using a 2 powered track starter even with another cart in front of them. However, the distance travelled by a Minecart with Hopper itself is heavily dependent on the hopper's load. Using a 1 powered rail starter track, a minecart with an empty hopper will travel 64 blocks until it stops (as opposed to an empty normal minecart going 8 blocks). The distance travelled diminishes non-linearly with increased hopper load; a minecart with a full hopper will only travel 16 blocks in this setup.
+The first image of hopper carts released by Dinnerbone.
+The 13w03a banner showing a minecart with hopper and a dropper.

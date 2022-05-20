@@ -1,0 +1,5 @@
+Dec value: 377.
+Hex value: 179.
+Maximum stack 64.
+Blaze powder is obtained by crafting it with blaze rods. Each rod will create 2 powders. Blaze rods are dropped by blazes, found in Nether fortresses. Blaze powder is used to create eye of enders, magma cream and fire charges. Blaze powder also used in brewing to create a potion of strength or a potion of weakness.
+Farming blaze powder is quite easy. Blazes can spawn from blaze spawners found in the Nether fortresses, which makes it easy to build a safe room around the spawner to make killing them that much easier.

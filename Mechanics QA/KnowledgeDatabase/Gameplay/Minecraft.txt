@@ -1,0 +1,51 @@
+Minecraft is a 2009 Sandbox Indie and arcade video game title. Notch, the creator of Minecraft, was inspired to create it after he and a few friends played Infiniminer. The first published video of Minecraft was called "Cave Game". Only later on did it become Minecraft. In October 2014, Microsoft purchased Mojang AB and the rights to Minecraft for 2.5 billion dollars, followed by Notch retiring from the company. According to Jeb, Minecraft (PC) has 190,000,000 copies sold as of March 27th.
+Upon starting the game, the user is greeted with a login screen. To play, and to show proof of purchase;.
+The user would have to input his, or her login information: This includes, the user's username, or if the user has signed up for a Mojang account, that user's email and user's password. After logging in, user is greeted with the Minecraft launcher. The Minecraft Launcher allows for customizability, and modifications in Minecraft. It also displays news about Minecraft updates, and bug fixes. The launcher took you to the Minecraft main menu screen. The menu screen comprises the buttons, and texts that allow for easy access to Minecraft's features. The four menu features include (as of version 1.7.9: .
+  Single player mode: allows the user to create custom, and/or load previously created worlds.true.
+9: .
+  Multiplayer mode: allows the user to interact with other users via custom Minecraft servers; or interact using Minecraft's built-in LAN feature (which allows single player worlds to be played with other users).
+9: .
+  Minecraft realms: allows the user to play custom, miniature Minecraft servers. Often servers are created with the intention of a mini-game. (invitation is required from the owner).
+9: .
+  Options: allows the user to customize Minecraft in-game features.
+The player first spawns in the Overworld. The overworld consists of Biomes, such as extreme hills, or the ocean biome. The Overworld is intended to generally resemble the terrain of earths lithosphere. Although the overworld tends to be littered with impossible natural structures.
+The player upon spawning, is free to explore the overworld. However without equipment, such as a sword, or sustenance such as Porkchops, is limited on how much they can trek.
+The player has a hunger bar and a health bar. The hunger bar if full can slowly recharge the health bar, but not vice-versa. If either of the bars reaches zero, the player is at risk of death, either from starvation, lack of health, or other instances of death. The hunger bar normally decreases slowly. However, activities such as sprinting or mining can lower the bar faster than usual. Usually foods such as Porkchops and Steak can fill the hunger bar back to healthy levels, and can be acquired by simply punching the animal to death.
+But for long-term survival, the player is recommended to take or build a shelter. Building a shelter is a critical first part to exploring a world. Shelters are important, as they can protect the player from hostile mobs, and can serve the same purpose as a home in real life. Most shelters take the form of houses such as to the right. Houses are favored often because of their simplicity, and the short amount of time necessary to build. The player usually starts mining after the house is made. Mining is a very important part of Minecraft, hence the name.
+Mining is a key part of Minecraft's gameplay. Mining is important to experience the full extent of what Minecraft has to offer. Mining is also important for long term survival, as you need metal ores to craft armor, better swords, and much more. However, metal ore is only usually found underground.  as most of Minecraft centers around the mining experience. Mining is necessary to acquire the resources needed to build portals that can access the Nether, a hell-like world, and to fully explore the expanse of Minecraft. There are many ways to go about mining in Minecraft. Some ways are more common than others. Below listed are two strategies Minecraft players commonly use, please note these don't cover all the tactics.
+Cave Mining: This is one of the most commonly used mining tactics used by players. Usually cave mining is the easiest, as it requires minimal effort for the player, and entrances to caves are usually found all over the surface. Cave mining usually consists of picking blocks off the walls of the cave, coal and iron are the most common ores, but if the cave goes deep enough, gold ore can be found. Cave mining is also slightly dangerous as the average sized cave has multiple openings and one cave might lead to other caves, or ravines. Players can easily get lost in a labyrinth of caves and ravines. It is very easy to die, and lose items forever without a way to find them. This can be avoided if the player sets landmarks.
+Strip Mining: Strip mining is often used to find valuable ores like diamonds, as it is easier than hollowing out an entire chunk. Strip mining however requires plenty of resources such as stone or iron to build pickaxes, and plenty of patience. Usually the player mines underground then when he or she reaches bedrock starts strip mining. The player usually mines in one straight line, stripping through the ground, hence the name strip mining. Usually these lines are separated by a one block wall, though that's not often the case. Strip mining is not recommended for mining common ores like coal or iron. It is recommended that for major strip mining operations to bring plenty of torches to serve the purpose of preventing hostile mobs from spawning, and to create a guide way in case the player is lost. It is also recommended that if the player is mining between the 0 and 16th layer that he or she bring a bucket of water, as often times the player might run into a lake of lava. It's good to bring a furnace and a crafting table with you so you can smelt items and craft new items without having to run up and get them.
+Minecraft was released on PC on May 17, 2009 but formerly known as Cave Game at first.
+Pocket Edition came on Android on October 7, on iOS on November 17, both in 2011.
+The official version of Minecraft was released on November 18 2011.
+Xbox version came on May 9, 2012.
+PS3 on December 17, 2013.
+WiiU and 3 DS versions are being discussed.
+Xbox One version was released on September 5th, 2014.[1].
+ PS4 version was released on September 4th, 2014.
+ Pocket Edition for Windows Phone was released in December 2014.
+ Minecraft for use with HoloLens was announced at E3 2015.
+Classic Version (PC).
+Demo Version (PC).
+PC Gamer Minecraft Demo (PC).
+Free Version (PC).
+Pocket Edition (For iOS, Android, and Windows Phone Devices).
+Amazon Fire TV Edition (For Amazon Fire TV).
+Xbox 360 Edition (For Xbox 360).
+Xbox One Edition (For Xbox One).
+PlayStation 3 Edition (For PlayStation 3).
+PlayStation 4 Edition (For PlayStation 4).
+PlayStation Vita Edition (For PlayStation Vita).
+Raspberry Pi Edition (For Raspberry Pi).
+4K Edition (For slow PCs).
+As of 1.6, Minecraft requires a special downloadable launcher that can be accessed straight from a PC's desktop.
+Minecraft was originally called "Cave Game".
+Many unused textures such as a Ruby, Gears, and furniture can be seen in the game's texture files.
+Minecraft's price has risen over the years, originally being $20.00 USD and now is $26.95 USD.
+6 messages The Puppet's Wiki Account.
+		526781990 on Minecraft PE 0.11.1 is really good if you want deep underground cave systems, a mushroom forest, a mixed forest, a good place to f...		2015-06-30T03:00:32Z.
+6 messages Randomness555.
+		mooshroom!!!! Minecraft PE 0.11.1. You will see a river near spawn point, cross that river and walk forward until you w=find 2 villages. One...		2015-07-31T20:45:42Z.
+FiliMoon.
+		So awesome		2015-07-18T07:19:29Z.
+See more discussions >

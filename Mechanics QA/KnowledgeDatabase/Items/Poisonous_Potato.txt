@@ -1,0 +1,8 @@
+4 messages .
+4 messages Minecraft246.
+		You're welcome :D		2012-12-17T13:09:25Z.
+See more discussions >
+A poisonous potato is a food item that can poison the player.
+The poisonous potato is a rare drop when harvesting (destroying) potato plants: a fully grown plant has a 2% chance of dropping one in addition to the 1–4 regular potatoes. Poisonous potatoes have a higher chance of dropping under poor farming conditions.
+Poisonous potatoes cannot be planted on farmland or baked.
+A poisonous potato can be eaten, this restores 2 () and 1.2 saturation points, and has a 60% chance of applying 4 seconds of the Poison effect (draining 3 ()).

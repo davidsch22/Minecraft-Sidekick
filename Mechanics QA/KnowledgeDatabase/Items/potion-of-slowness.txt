@@ -1,0 +1,4 @@
+Dec value: 373:8202.
+Hex value: 175.
+Maximum stack 1.
+A potion of slowness will decrease your movement speed to that of sneaking. There are 2 types of potions of weakness. A 90 second version and a 4 minute version.

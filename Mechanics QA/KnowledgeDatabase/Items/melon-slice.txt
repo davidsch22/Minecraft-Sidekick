@@ -1,0 +1,10 @@
+Dec value: 360.
+Hex value: 168.
+Hunger restoration: 1 hunger bar slot.
+Hunger saturation: 1.2.
+Maximum stack 64.
+Melon slices are obtained by breaking melon blocks, which are grown from melon seeds. A melon block will drop 3-7 melon slices. They are are used to create more melon seeds, melon blocks and glistering melons, as well as a source of food.
+Melon blocks require 9 melon slices, so they’re only useful to create if you’re planning on using them as decoration. They can be eaten, but they only restore 1 hunger bar slot and 1.2 hunger saturation. This makes melon slices only slightly better than cookies. However, melon slices are perfect to restore those last 2 or 3 hunger bar slots, as you don’t really want to waste a perfectly fine mushroom stew or steak on that.
+Melon slices are used to create glistering melons by combining the melon slice with a gold nugget in any crafting interface. Glistering melons are used as an ingredient in brewing and will result in a potion of healing when used in the right order.
+Glistering melons are often the only thing melon slices are used for, though a large surplus of melons can quite easily be obtained by farming melons in large patches.
+Farming melons is quite easy, though getting the melon seeds can be tricky as they can only be found in chests in abandoned mineshafts. Melon seeds are planted on farmland, which will then grow into melon stalks over time. Those melon stalks will then spawn a melon block on a block next to them.

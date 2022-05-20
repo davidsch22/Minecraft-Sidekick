@@ -1,0 +1,8 @@
+Feathers are items dropped by chickens.
+Chickens may drop 0-2 feathers when killed.
+In Pocket Edition zombies may drop 1 feather when killed.
+Feathers are used to make arrows. They are also used to make a book and quill and firework effect (Burst explosion).
+Dec value: 288.
+Hex value: 120.
+Maximum stack 64.
+Feathers are obtained by killing chickens and are used to create arrows and book and quills. A chicken only drops 0-2 feathers, which makes gathering feathers in large quantities a bit tricky.

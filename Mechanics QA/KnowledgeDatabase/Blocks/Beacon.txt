@@ -1,0 +1,46 @@
+The Beacon is an item added in the 1.4 update. Beacon Blocks, when added to the top of a pyramid made of either iron, gold, diamond or emerald blocks, can grant the player potion effects for eight seconds but will last indefinitely if the player remains in range of the beacon. They also shoot a beam of light up into the sky that can help with navigating the world when active.
+ Any accepted block type can be used in any layer, regardless of what the other layers are made of. The pyramid should be protected by some means, as griefers may attempt to steal some of the blocks. .
+Beacon Blocks can only function when they are added on the top of a pyramid, and when not being blocked by a solid block on top of the beacon. The GUI consists of a primary, and secondary effect selection screen, a material acceptance selection header, and the player's inventory. The player must place the material (iron ingot, gold ingot, diamond, or emerald) in the header to activate the effects. When the material is placed, the player is free to choose an effect located in the primary effect screen. Whenever the player is in-range of the pyramid, the player will receive the effect. The effect(s) last forever, as long as the player is in range, wearing off 8 seconds after moving out of range. The selection and strength of the effects are enhanced by each layer added to the pyramid, along with the range of the beacon.
+The current crafting recipe for this block is 3 obsidian, 5 glass blocks, and one Nether Star, which are only obtainable by killing a Wither.
+As of Minecraft 1.8 update you can color the light of a Beacon putting Stained Glass or Stained Glass Pane over it.Also, you can mix the colors (for example, if a red stained glass is placed over it, and then a blue one over that, the light will have a purplish color).
+ Beacons had, when they first existed a other texture, next snapshot another texture, another week later even a other texture, after that the final texture was given, which is the texture used now.
+ Beacons are the only block in Minecraft that shoots up a beam of light.
+See here.
+A beacon is a unique block that projects a light beam skyward and can provide status effects to players in the vicinity.
+A beacon can be mined successfully with any tool, or with bare hands.
+Beacon blocks can function as light sources, emitting a light level 15. Like other light sources, they will melt snow and ice. They cannot be pushed by pistons.
+When "activated", beacon blocks provide two unique functions An aesthetic landmark beam reaching into the sky, which can be visible from far away.
+When "activated", beacon blocks provide two unique functions Powers, which give players status effects within a certain range.
+In order to activate a beacon, the beacon must adhere to the following requirements Beacons require an unobstructed view of the sky, though bedrock and transparent blocks (including water and other beacon blocks) will not count as obstruction.
+In order to activate a beacon, the beacon must adhere to the following requirements The beacon is on top of a pyramid constructed from iron blocks, gold blocks, emerald blocks, and/or diamond blocks.
+Pyramids are the structures required to activate beacons. The more levels a pyramid has, the more powers will be available to choose from, and the wider its affected vicinity will be. The type of mineral block used to build the pyramid is entirely cosmetic and has no functional effect. Several different block types can be mixed without affecting functionality. There are four possible pyramid heights. If the pyramid is damaged so that the beacon is deactivated, it will "remember" the powers it was set for, and will reactivate once the pyramid is repaired with no additional resource cost. This applies to piston-altered pyramids as well.
+Multiple beacons can make use of the same specific mineral blocks below them. Combined pyramids do not need to be symmetrical. The image to the right shows a 6-beacon (2 by 3) pyramid. It requires a total of 244 mineral blocks, with a base layer of 10 by 11.
+A beam appears from a beacon if the beacon is activated, extending from the beacon block up to Y=255. The beam is visible from roughly the same distance as a single ordinary stack of blocks. If a render distance of 16 chunks is set, the beam of light is visible from up to 255 blocks away.
+The color of the beam may be changed by placing blocks of stained glass (or stained glass panes) anywhere above the beacon block. The beam will change colors according to the colors of glass placed above it: the first block will set the beam color, while each additional block will set the color by averaging the red, green, and blue components of the current beam color and the block color. The color values are the same as those for the corresponding dye.
+Once the beacon is emitting a beam, it can then be fed 1 iron ingot, 1 gold ingot, 1 emerald, or 1 diamond, in order to provide powers (status effects) to players who remain within a certain range. This is done through the beacon's GUI, which is displayed by pressing use while looking at the beacon block. The item used has no effect on the powers provided.
+In the GUI, place the item to be fed in the empty slot shown, and choose a primary power by clicking one of the choices displayed. Beacons sitting atop 4-level pyramids will also display secondary power choices, one of which can be clicked to provide a second simultaneous boost. When the Done button (green check mark) is clicked, the item will be consumed and the power will be activated. To set a beacon to different powers, another gem/ingot must be consumed.
+The five primary powers are Speed I: Increased movement speed.
+The five primary powers are Haste I: Increased mining speed.
+The five primary powers are Resistance I: Increased armor rating (2-level pyramid required).
+The five primary powers are Jump Boost I: Increased jumping distance and height (2-level pyramid required).
+The five primary powers are Strength I: Increased melee damage (3-level pyramid required).
+Secondary powers are available with a 4-level pyramid Regeneration I: Regenerates health.
+Secondary powers are available with a 4-level pyramid Increase the primary power to level II.
+Every four seconds, the selected powers are applied with a duration of 9 seconds to all players in range. Thus, when powers are changed or a player travels outside the area-of-effect, the powers will persist for 5–9 seconds.
+The beacon forms a squared affected area around itself, the size of which depends on the pyramid size. The affected area extends range blocks (see the table below) from the beacon block horizontally and downward and range + 256 blocks above.
+The player can leave a resource in the beacon block without clicking "Done".
+The texture of the beacon is 16×16, but only renders the 10×10 area in the center.
+First image released by Jeb.
+A beacon can consist of different mineral blocks at the same time.
+The range of the effects depend on the height of the pyramid. The lines show the different ranges. The maximum affected vicinity was 81 by 81 blocks.
+One of the many uses for the beacon.
+The old texture from snapshot 12w36a of the beacon.
+The old texture from snapshot 12w38a displaying the powered and the non-powered beacon.
+The still used texture since snapshot 12w40a of the beacon.
+The top of a beacon's beam.
+A view from inside the beacon.
+Two beams from a beacon, one passing through glass and the other through a beacon block.
+The first image of a colored beacon, tweeted by Nathan Adams.
+The beacon's light changing as it passes through magenta stained glass.
+The full visible light spectrum created by colored beacons.
+A grayscale spectrum.

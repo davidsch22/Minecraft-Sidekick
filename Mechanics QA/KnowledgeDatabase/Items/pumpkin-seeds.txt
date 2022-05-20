@@ -1,0 +1,7 @@
+Dec value: 361.
+Hex value: 169.
+Maximum stack 64.
+Pumpkin seeds can only be obtained by crafting a pumpkin into seeds, by harvesting a pumpkin stalk or by finding the seeds in chests in abandoned mineshafts. Unlike melons, pumpkins can sometimes be found in small patches in any land biome.
+Pumpkins are used to craft jack-o-lanterns or to use them as a helmet, which allows you to directly look at endermen without causing them to attack. They’re also used to create iron golems and snow golems.
+To farm pumpkins you simply hoe either a dirt or grass block, which will turn it into farmland. You can then plant the seeds on farmland and the seeds will grow over time. The seeds will require light of level 9 to grow.
+By hydrating the farmland the seeds will grow faster. This requires water to be within 4 blocks of the farmland.

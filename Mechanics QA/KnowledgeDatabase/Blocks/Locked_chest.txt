@@ -1,0 +1,44 @@
+ The Locked Chest is part of the 1.4 April Fools update by Notch. Their texture is the same as the chest texture (Before Beta 1.8.1). They will also glow with a luminance of 15, identical to Glowstone. They have been removed, and the only way to get them is using the /give command in Multiplayer. Locked Chests can be mined, but they are indestructible if TNT is used. Since 1.4 they have had a purple/Emerald texture. Their data value/ID is 95. The april fools joke is when you open it it says you need a key from the minecraft store. When the person buys it a pop up of a Jurassic Park Velociraptor made by Stan Winston studios (NOTE it's actually the one from the sequel The Lost World Jurassic Park) while a track from Jurassic Park plays that is called Eye to Eye. When the persons gets over 10,000 a message appears saying please exit if you are prone to seizures. Which causes the page to act like a seizure, it was removed completely from the game in Beta 1.7.
+Add a photo to this gallery.
+One of the Locked Chest textures.
+One of the Locked Chest textures.
+Add a photo to this gallery.
+The Locked chest was an April Fools block.
+When introduced, this block was indestructible except for explosions, allowing it to drop.
+Every chunk generated between April 1 and April 5, 2011 had a small chance of having a locked chest in it..
+Clicking use button on the chest would bring up a screen, and clicking on the "Go to Store" button would forward you to the "Minecraft Store". It linked to "https://minecraft.net/store/loop.jsp", but it now redirects you to "https://minecraft.net/store" because the original page was removed. Various items were "sold" in the Minecraft Store (see below). Clicking on the proceed to checkout button triggered a screamer in which a Velociraptor from the movie Jurassic Park growled loudly and flew across the screen.
+Entering items totaling over $10,000 into the cart causes a window pop-up asking if you are prone to seizures. Entering OK makes the screen start flashing. When first released, there was no seizure warning label, Notch later implemented it to avoid lawsuits and posts on the forum.
+On April 2 (the day following April Fools), the store had the addition of a multicolored banner which read "♥ April Fools'! ♥", accompanied by a midi instrumental of Rick Astley's 'Never Gonna Give You Up'. Tobias Möllstam stated that this was "the best script he's written to date.".
+The store page used the font tf2build.ttf from Team Fortress 2 which is downloadable from here.
+Twelve "items" were "available" Steve Co. Supply Crate Key ($3).
+Twelve "items" were "available" Steve Co. Supply Crate Key 5-Pack ($18).
+Twelve "items" were "available" Miner's Helmet ($21).
+Twelve "items" were "available" Name Change ($99).
+Twelve "items" were "available" Creeper Saddle ($42).
+Twelve "items" were "available" Secret Griefer Identity ($155).
+Twelve "items" were "available" Enlargement Pill ($2).
+Twelve "items" were "available" Response From Support ($494).
+Twelve "items" were "available" Three "Coming Soon" items (Priced at $75, $7, and $1499).
+Twelve "items" were "available" "Regular Padlock" for $8. The "Regular Padlock" used the same image as the "Coming Soon" items.
+Locked chests emitted a light level of 15.
+Locked chests could be used as a fuel, lasting 15 seconds (or 1.5 items).
+Locked chests are a reference to the Mann Co. Supply Crates from Team Fortress 2, where a key must be purchased for $2.49 in the in-game shop called Mann Co. Store in order to open the crate.
+This may have been what Notch was talking about in his Twitter post about a "silly secret project".
+Locked chests could generate in mid air or in the tops of trees.
+Locked chests could be placed next to each other to form a 2 block long chest like normal chests do. These two chests are still however "locked".
+The server console outputted "added a chest!" each time a chest was generated.
+The 5-key pack is actually $3 more than 5 single keys.
+The archived page is available in reduced functionality here.
+Locked chests made lava particles when broken.
+The named ID of the locked chest was "minecraft:chest_locked_aprilfools_super_old_legacy_we_should_not_even_have_this" (the longest named ID in Minecraft history). This name was valid from 13w37a to 13w41a.
+If you place stained glass, then change to version 1.6.4 or earlier, the stained glass will become a locked chest.
+Although locked chests were removed in the 1.7 update, there are still translation strings for it in the en_US.lang file.
+A locked chest glowing at night.
+The screen when it goes to "seizure-mode".
+The store as it appeared on April 2, 2011.
+Unlike normal chests, locked chests haven't been modified as seen in 1.2.5.
+The window popup.
+In 1.3.1, locked chests have the blank magenta texture and the emerald block texture.
+In 13w01a, locked chests have the blank magenta texture, emerald block texture, and redstone block textures.
+In 1.5, locked chests use a generic 'missing texture' texture. It was the only block that by default uses a texture with a resolution greater than 16×16.
+The locked chest texture in 1.6, with a checker board like pattern.

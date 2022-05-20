@@ -1,0 +1,19 @@
+Amplified, sometimes stylised as AMPLIFIED, is a world type that consists of many large hills and mountains which dwarf even the extreme hills seen in all other world types. It is unclear if the skylands effect that this world type brings on is intentional, or simply a limitation of the Minecraft world generation. This world is recommended only for a "beefy computer" because due to it having the extreme hills, it will need a lot of power to even generate the world. This world can be particularly hard to survive in since few caves generate in the hills and it's quite easy to fall to your death off a cliff. Certain biomes (i.e. swamplands and oceans) may see little to no change, however.
+This world generation can generate several floating islands, similar to Skylands.
+It is recommended that you have a powerful computer to play amplified as it uses a good chunk of RAM. Amplified can however still be used on computers with low RAM as well, but extreme lag and long loading times can be a problem.
+AMPLIFIED was actually created by accident - Jeb was fiddling around with the terrain and accidentally made the generation take up the entire world height. Notch saw what Jeb had done and convinced him to keep it as a world type.
+Despite villages needing flat ground to generate, they still spawn in this world type regardless of how flat the ground is, causing the villages to spawn in abstract ways.
+Blocky cuboid features and flat surfaces can generate naturally, sometimes due to the world height limit.
+The savanna M biome in Default has a landscape similar to Amplified.
+Swamp and ocean biomes, as well as their variants, generate normally.
+Ravines can reach down to the bedrock layer. Caves, which are less common than in Default, also tend to reach bedrock level.
+The Nether and the End generate normally.
+Survival and construction can be very difficult due to the tall mountains and incredibly steep cliffs.
+Some structures, such as huge mushrooms, can be found in any biome.
+A village spawned in an AMPLIFIED world.
+A Mesa Plateau Biome as seen in an AMPLIFIED world.
+A typical floating island in an AMPLIFIED world.
+A Birch forest in the amplified world type.
+An oak tree cut in half due to the height limit.
+A Jungle biome in the amplified world type, with a mega taiga in the background.
+A Mega Taiga biome in Amplified. Note that it can snow in many places in this biome in Amplified.

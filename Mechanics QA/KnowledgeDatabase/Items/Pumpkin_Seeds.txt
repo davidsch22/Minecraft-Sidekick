@@ -1,0 +1,7 @@
+Pumpkin seeds are an item that can be used to grow pumpkin plants.
+Minecarts with chests in abandoned mine shafts may contain pumpkin seeds in stacks of 2 to 4.
+Pumpkin stems, when destroyed, may drop 0-3 pumpkin seeds.
+In Pocket Edition, they are only obtainable through the Nether Reactor.
+Pumpkin seeds can be planted only on farmland. Over time, they grow into a stem and produce a pumpkin on any adjacent dirt, grass block or farmland block. If a pumpkin is already occupying an adjacent dirt/grass or farmland spot, the stem will not grow more pumpkins until the pumpkin is removed. A single stem can grow an unlimited number of pumpkins. Like other seeds, they need a certain amount of light to grow. Pumpkin seeds are affected by bone meal only with respect to stem growth -- bone meal does not help produce the actual pumpkins.
+The pumpkin stem appears to rise up from the ground as it grows, turning from green to brown. A single stem will connect to any pumpkin in an adjacent square, whether grown there or placed there. If there are multiple pumpkins it can connect to, it will favor the east, then west, north, and south. When the pumpkin is removed, the stem will return to an upright position.
+All the seeds that exist in the game.

@@ -1,0 +1,5 @@
+Dec value: 373:16394.
+Hex value: 175.
+Maximum stack 1.
+A splash potion of slowness will decrease the movement speed of mobs and players to that of sneaking, which is very useful as a quick get away or to ambush players and preventing them from escaping.
+There are 2 types of potions of weakness. A 1:07 minute version and a 3 minute version. The further you stand from the potion’s blast radius the shorter this time will be.

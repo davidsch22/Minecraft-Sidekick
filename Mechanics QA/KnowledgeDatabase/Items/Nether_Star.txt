@@ -1,0 +1,6 @@
+The Nether Star is an item drop from the wither that is used solely to craft beacons.
+The nether star can only be obtained by defeating the wither. One nether star will be dropped each time, regardless of enchantments used to kill the mob.
+Nether stars have the same animated glow that enchanted items and potions have.
+The dropped nether star can not be destroyed by explosions. However, it can still be destroyed by fire, lava, and cacti.
+The nether star dropped by the wither.
+A wither to the left, and a nether star to the right.

@@ -1,0 +1,25 @@
+Swords are melee weapons.
+Some monsters can spawn with a sword, and have a 8.5% (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) chance of dropping them upon death by player: Zombies can drop iron swords, zombie pigmen can drop golden swords, and wither skeletons can drop stone swords. It will usually be badly damaged, and may be enchanted.
+Weapon Smith villagers sell enchanted iron swords for 9–10 emeralds as one of their second tier trades, and enchanted diamond swords for 12–15 emeralds as one of their third tier trades. The enchantments will be the same as might be obtained from an enchantment table at levels 5–19.
+Stronghold slab altars and village blacksmith chests may contain iron swords. Nether fortress chests may contain gold swords.
+Pressing attack while holding a sword will increase your damage to both mobs and players. Upon damaging a mob or player, the sword's durability will decrease.
+Attacking a boat or a minecart with a sword will instantly destroy it and will not decrease the sword's durability.
+Swords are able to block attacks by holding use. This will reduce most damage by 50% and will reduce the player to a speed slower than sneaking.
+The following table summarizes the damage that swords of different materials inflict. Enchantments can change these statistics.
+Critical hits add a damage bonus of 50%, before sword enchantments.
+The formula to find the minimum of the total lifetime damage is Durability × Damage per hit = Lifetime damage minimum. The formula to find the maximum is Durability × Critical Hits = Lifetime damage maximum.
+A sword can also be used to destroy certain blocks more quickly than with fists. Using a sword to destroy any block that doesn't break instantly decreases its durability by 2.
+The following table shows the time it takes to break blocks on which swords have any effect. Colors indicate what will be dropped White: an original block.
+Colors indicate what will be dropped Blue: block's normal drop (e.g. seeds, sapling, apple).
+Colors indicate what will be dropped Red: nothing.
+Swords can receive the following enchantments Fire Aspect.
+Swords can receive the following enchantments Looting.
+Swords can receive the following enchantments Unbreaking.
+Swords can receive the following enchantments Sharpness.
+Swords can receive the following enchantments Smite.
+Swords can receive the following enchantments Bane of Arthropods.
+Swords can receive the following enchantments Knockback.
+The sword's texture came from Notch's abandoned RPG, Legend of the Chambered. The iron sword's texture was created first, as it was from the game, and the other swords followed.
+When blocking, the player's vertical movement speed does not decrease. This applies to flying, falling, swimming up or sinking, and climbing ladders.
+A foam iron sword can be purchased on the merchandise page of minecraft.net.
+If a sword is enchanted with Silk Touch, either using Creative or commands, it can collect cobwebs rather than getting the string drop. This is due to the sword being classified as the proper tool for cobwebs.

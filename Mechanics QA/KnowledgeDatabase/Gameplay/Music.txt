@@ -1,0 +1,6 @@
+Minecraft contains music created by C418. The music plays at various points in game, including the main menu, in creative mode, in the Nether, and during the credits.
+In-game music is cued by the time of day, with a random track being played at sunrise, sunset, noon and midnight.
+Chirp uses the same accompaniment samples as "The Orb of Dreamers" from the LittleBigPlanet series. The samples come from the Optigan disc "Bossa Nova Style". C418 stated that it was coincidental.
+"Calm 3", or "Sweden", is a Passacaglia, with a changing melody over a repeated bass line.
+In Console Edition, the music disc "Cat" includes a second tune at the end, a remix titled "Dog", from Minecraft - Volume Alpha.
+On April Fools' Day 2014, Mojang played a bunch of villager themed pranks on the players, including temporarily replacing the track "Hal 1", or "Subwoofer Lullaby", with a version that had a villager singing along, as well as temporarily replacing all the menu songs with the villagers singing the Game Of Thrones theme song.

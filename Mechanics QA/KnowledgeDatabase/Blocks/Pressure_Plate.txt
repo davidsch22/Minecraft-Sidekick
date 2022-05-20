@@ -1,0 +1,26 @@
+A pressure plate is a non-solid block that can be used to detect players, mobs, items, etc.
+There are two versions of the pressure plate: the stone pressure plate () and the wooden pressure plate (). The only difference between the two are which entities they can detect.
+A stone pressure plate can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing. A wooden pressure plate can be mined using any tool, or without a tool, however axes are the fastest.
+A pressure plate will also be removed and drop itself as an item if the block beneath it is moved, removed, or destroyed.
+A pressure plate will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+One stone pressure plate is generated naturally in each desert temple.
+Wooden pressure plates are generated naturally in villages on top of fences.
+A pressure plate can be used to craft detector rails, to smelt items, or can be used as a redstone component.
+A wooden pressure plate can be used as fuel in a furnace. Each wooden pressure plate lasts 15 seconds, or 1.5 operations.
+A pressure plate can be used to detect entities on top of it (players, mobs, items, etc.).
+To place a pressure plate, use it while aiming at the face of a block adjacent to the destination space.
+A pressure plate can be attached to the top of any full solid opaque block (stone, dirt, blocks of gold, etc.), including full-block mechanism components (command blocks, dispensers, droppers, note blocks, and redstone lamps).
+A pressure plate can be attached to the top of a hopper, fence, nether brick fence, an upside-down slab, or upside-down stairs.
+A pressure plate cannot be attached to the side or bottom of any block, but attempting to make such an attachment may cause the plate to attach to the top of a block under the destination space. For example, if a fence is on the ground, attempting to attach a plate to the side of the fence will cause the plate to be attached to the top of the ground next to the fence instead.
+A pressure plate activates when an entity is on top of it (specifically, when the entity's collision mask intersects the bottom quarter-block of the pressure plate's space, which may include entities flying close to the ground) and deactivates 5 redstone ticks (0.5 seconds, barring lag) after no entities are on top of it, with a minimum activation time of 10 redstone ticks (1.0 seconds, barring lag).
+A stone pressure plate is activated only by mobs (including players), while a wooden pressure plate is activated by all entities (including players, mobs, items, arrows, experience orbs, fishing bobs, etc.) besides snowballs.
+A minecart traveling on rails will activate a pressure plate next to a diagonal track but not one next to a straight track (stone pressure plates are activated only if the minecart contains a mob or player).
+While active, a pressure plate powers adjacent redstone dust, and adjacent redstone comparators or redstone repeaters facing away from the plate, to power level 15.
+While active, a pressure plate strongly powers any full solid opaque block beneath it to power level 15.
+While active, a pressure plate activates adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+Water and lava will flow around a pressure plate without affecting it.
+A pressure plate is not solid (it is not a barrier to entity movement). A block under a pressure plate can provide a solid barrier underneath it (for mobs to walk across, items to fall on, etc.), but when a pressure plate is placed on a block with a small collision mask, such as a fence or nether brick fence, it is possible for entities to move through the pressure plate while still activating it (walking through it horizontally, or falling through it vertically). Thus, a pressure plate on a fence can be used to detect entities without stopping them (more compactly than a tripwire circuit).
+Pressure plates are 0.0625 blocks high (⁄16 of a block) when inactive and 0.03125 blocks high (⁄32 of a block) when active, but because they are not solid they do not affect the position of entities "on top" of them (for example, a player on top of a pressure plate is actually standing on the block beneath it).
+A pressure plate is defined by its ID and block data. A pressure plate also has a block state which is expected to replace the functionality of block data in a future version.
+A pressure plate's ID specifies what type of pressure plate it is.
+A pressure plate's data value specifies whether is it active.

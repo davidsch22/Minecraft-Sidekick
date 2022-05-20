@@ -1,0 +1,4 @@
+Dec value: 351:15.
+Hex value: 15F:15.
+Maximum stack 64.
+Bone meal is crafted from bones, which are dropped by skeletons. Bone meal is used to dye sheep and white wool white, though dying white wool white is, of course, pointless. Bone meal is also used as instant fertilizer. By right clicking most plants while holding bone meal, the plant will instantly grow to its final stage.

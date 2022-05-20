@@ -1,0 +1,33 @@
+(This article is about the Cave Spider mob; for the regular spider, see Spider).
+Cave Spiders are neutral mobs introduced after the release of 1.8, in the console versions and added in Pocket Edition in 0.11.0. They are only found in Caves. Cave spiders are smaller than regular Spiders and are re-textured to a dark blue. They are superior and slightly more dangerous than normal spiders as they can fit through 0.5x1 holes (through half block holes) and can climb up walls, but they do have less health than ordinary Spiders, and may cause themselves to take fall damage.
+A special attack that the cave spider possesses is the ability to poison players. When poisoned, the players health bar turns yellow-green and it gradually decreases. Although the venom does not affect the player's armor, it also won't kill the player, instead it will reduce the players health to half a heart. The venom is not released from the spider on every attack but has a set probability of occurrence. The poisoning can be cured with Milk. In easy mode, Cave Spiders do not poison players.
+Depending on the game-mode and state of the player, several strategies can be used to handle aggressing cave spiders. The simplest and least-costly way is to use water to destroy cobwebs and push the spiders away from the exit of the spawner's location. Another simple option includes setting the cobwebs on fire or using lava (lava being the most dangerous). As cave spiders are found in abandoned mineshafts, the player can easily go to an above layer and destroy the spawner without being harmed. Placing Torches near the spawner to make the Cave Spiders spawn further away will assist in destroying it.
+In easy difficulty, cave spiders are best handled with melee attacks as they are the weakest hostile mob healthwise and deal little damage with no poisoning. In medium and higher, ranged is optional, but is not suggested during a swarm of cave spiders. Swarms are best handled without direct interaction (most basically with fire). Destroying the spawner or deactivating it is the most important task, it is suggested to be dealt with first if a player has resources capable of protecting them from the venom or swarming spiders. Ranged combat is the most dangerous as it can only focus on a single target and Cave Spiders often come in groups. It is especially not advised in multiplayer due to a mineshaft's restrictive passages. .
+The Cave Spider had two names before its cave name. One was Tree Spider and the other was Blue Spider.
+The Cave Spider can fit under half blocks. This makes the building of Cave Spider farms extremely hard.
+They can climb over fences, making Cave Spider farming even harder.
+See here.
+The cave spider is a neutral mob that can inflict poisoning.
+Cave spiders spawn from monster spawners in abandoned mine shafts.
+They drop 0-2 string. They also have a ⁄3 chance to drop a spider eye if killed by a player. They drop 5 experience when killed by a player or tamed wolf.
+Cave spiders inherit most of their behavior from regular spiders They are pacified (made neutral) by bright light (daylight or light levels of 9 or higher). Likewise, subjecting them to darkness will render them hostile.
+Cave spiders inherit most of their behavior from regular spiders They can climb walls when needed.
+Cave spiders inherit most of their behavior from regular spiders They attack by leaping at the player.
+Cave spiders inherit most of their behavior from regular spiders They are not affected by cobwebs or poison.
+However, cave spiders will not spawn with beneficial status effects and cannot spawn as spider jockeys, except in Pocket Edition.
+When bitten by a cave spider on difficulties higher than easy, the bitten entity is inflicted with Poison I for 7 seconds on normal difficulty and 15 seconds on hard.
+The cave spider's texture appears to be at a higher-resolution than its normal counterpart - this is because the textures occupy a smaller space.
+Despite being smaller, they have the same size shadow as a normal spider.
+If cave spiders are allowed to spawn naturally via hacks, they will only spawn if the light level is 7 or below (like most other hostile mobs).
+Picture of cave spider going through a 1×1×0.5 block.
+Cave spider in 1.8.
+Cave spider and its spawner.
+The health bar turns yellow-green when bitten by a cave spider.
+Size comparison between a cave spider and a regular spider in a dungeon.
+Four cave spider spawners generated in close proximity.
+Two cave spider spawners enclosed in an area, able to be safely killed.
+Another cave spider farm.
+A group of cave spiders trying to swim after the player in a mineshaft.
+A cave spider (on the left) and a spider side by side.
+Tutorials/Cave spider farming.
+Poecilotheria metallica.

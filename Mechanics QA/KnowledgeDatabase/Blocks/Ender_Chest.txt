@@ -1,0 +1,15 @@
+ The Ender Chest is a block that allows the player to store 27 items much like a wooden chest however, if two Ender Chests are placed down in different places, the items inside chest A will be in chest B. If the items are taken from either chest, both of the chest will not have that item. While on SMP, players will not share the same storage. This can be used to prevent players form stealing more valuable items, as they cannot access the same a items. This also means two players can store items in the same ender chest.
+If two Ender Chests are placed and two of an item was put in one, when the chest with the items in is opened, there will be one of the item in that chest and one of the same item in the other chests, acting as an image. This feature also works among the different worlds: Overworld, Nether, and the End. Whenever an Ender Chest is destroyed, it will only drop eight obsidian. If you have a silk touch pickaxe and break an Ender Chest with it, it will drop as an Ender Chest, not just 8 pieces if obsidian.
+Due to the fact that any two ender chests in the same world share the same contents, 2 or more ender chests can be used as a "back pack", placing one near your base, loading it with items, and carry a second ender chest with you, essentially increasing your storage space by a chest's worth.
+Ender chests are a type of chest that can store items.
+Ender Chests can only be obtained by mining them using a pickaxe enchanted with silk touch, or it will drop 8 blocks of obsidian.
+Ender chests can be opened by pressing use. If a solid block is placed over an ender chest, it will not be able to open.
+Ender chests can be used like chests, except all ender chests in the world share the same inventory, including in separate dimensions. The ender chests' inventory is also separate for each player. Ender chests contain 27 slots for storage, and can be placed next to other ender chests without joining.
+Ender chests cannot be moved by pistons and will not interact with hoppers, droppers, or comparators.
+An ender chest's particles exist only in the blocks immediately around the chest, so if the chest is placed next to a wall its particles will not be seen on the other side.
+Unlike chests, changes to an ender chest's name are not reflected in its inventory GUI.
+Like the flower pot and item frame, its idea was suggested by a reddit post.
+An Ender Chest in the nether.
+Light from an Ender Chest.
+The original suggestion for the Ender Chest.
+An open Ender Chest.

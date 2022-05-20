@@ -1,0 +1,9 @@
+ Snow Blocks are blocks made from snow. They are crafted with four snowballs, allowing the user to create them through their inventory crafting window. One cannot reverse the crafting process on a crafting grid, but the block may be placed and destroyed with a shovel, yielding the four snowballs it took to create them. If broken without a shovel or a Silk Touch shovel, you will not get the four snowballs back. In the second alternative, you will have the snow block.
+Snow blocks are not destroyed by forces that would realistically melt snow, such as lava, fire, and torches, and are unaffected by water. Snow blocks are an essential key in creating the Snow Golem, where two are needed to be stacked on top of each other, with a Pumpkin being on top of them. Snow melts when there is a light source near them. For say, a torch or glowstone, snow will melt around the light source.
+If snow is broken without a shovel, it will not drop any snowballs.
+Unlike water, snow blocks do not melt in The Nether.
+There is a rare bug in Multiplayer mode that happens when you place a bed on snow and sleep on it. You will receive a black screen on your monitor while other players will see you as if you were sleeping on the snow.
+Snow Blocks are described as "A compact way to store snowballs." in both the Pocket Edition crating tooltip and console edition block descriptions.
+Snow Blocks can be found naturally spawned in Ice Plains Spikes biomes.
+Enderman cannot pick up Snow Blocks.
+Add a photo to this gallery.

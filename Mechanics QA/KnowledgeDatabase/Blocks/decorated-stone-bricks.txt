@@ -1,0 +1,8 @@
+Dec value: 98:3.
+Hex value: 62.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Decorated stone bricks are a variant of the normal stone bricks, but they’re currently unavailable in survival. The other 3 types of stone brick are used in strongholds, but the decorated stone brick was never used. The only way to obtain them is by using creative mode or mods. Like the other stone bricks, decorated stone bricks can be used to create stone brick slabs and stairs.
+Many players use the decorated stone bricks in combination normal stone bricks to add special features to dungeons, houses and other structures. By combining the other 2 stone brick types, the buildings can be made to look old and weathered, which is quite a popular look. On multiplayer (economy) servers, decorated stone bricks are sometimes made available through a shop as the admins can use a code to spawn them.

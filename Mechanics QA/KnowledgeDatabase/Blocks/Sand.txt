@@ -1,0 +1,56 @@
+ Sand is a common physics obeying block that can be found in deserts or next to water. Being a "physics obeying block" means that it will turn into a falling block entity and fall down until it hits a solid block, and turns back into a normal Sand block, or hits a non-solid block and turns into an item. 4 Sand can be crafted into one Sandstone by placing it in a square, or crafted into TNT by combining it with Gunpowder in a checkerboard pattern, and can also be smelted into Glass.
+In chunks generated after Beta 1.2's release, the bottom of all Sand piles had a layer of Sandstone.
+Before 1.8, the spawn point of a world when created would always be on Sand.
+if a block of Sand is placed directly below a block of Soul Sand, it will make walking on the Soul Sand be even slower than it normally would be. This is the same with Ice.
+In the Pocket Edition, particles are released by unstable sand.
+The ground-block of Desert Biomes is Sand.
+Smelting Sand will return Glass.
+Add a photo to this gallery.
+ Sand is a block naturally found on coasts and deserts. Sand has a very low blast resistance.
+ Red Sand is a variation of sand that can be found in mesas. Red sand acts similar to sand, the only differences being color.
+Sand can be broken using any tool, but a shovel is the fastest.
+Sand generates naturally in many biomes of the Overworld, notably deserts, beaches, and rivers, generally in four-block-deep layers supported by stone and sandstone. Red sand generates naturally in mesa biomes and variants.
+Sand, if there is no block below it, will fall until it lands on the next available block. When sand is being affected by gravity and falling, it exhibits a smooth falling animation.
+If falling sand lands on a mob or the player and covers their head, it will suffocate them until they destroy the block, move out or die. If falling sand lands in the space occupied by a non-solid block, (such as torches, slabs, rails, or redstone), it will drop and turn into a sand item. If it falls onto a cobweb it will slowly fall until it has gone through it completely, or until it touches the ground, at which point it will turn into a resource block.
+Sand can be placed on a non-solid block without falling.
+Sand can be used in the construction of airlocks and the creation of mob suffocation traps. Being affected by gravity, it can be quickly and easily removed from ground level.
+Sand and red sand can be used for farming cactus and sugar canes.
+The FallingSand entity is able to take any texture of any block. By altering the BlockID and using the /summon command, the player is able to create a falling block of another texture.
+Sand has the ID name minecraft:sand and is further defined by its block data. Sand also has a block state which is expected to replace the functionality of block data in a future version.
+ Dynamic block entity data  Tile (deprecated): The Block ID. Not limited to only sand, gravel, dragon eggs, or anvils. Although deprecated, this value is always present.
+ Dynamic block entity data  TileID: The Block ID, as above, but now supporting the 1-4095 range. Only prior to 1.8.
+ Dynamic block entity data  Block: The Block ID using the alphabetical ID format: minecraft:stone. Only in and after 1.8.
+ Dynamic block entity data  TileEntityData: Optional. The tags of the block entity for this block.
+ Dynamic block entity data  Data: The data value for the block.
+ Dynamic block entity data  Time: The number of ticks the entity has existed. If set to 0, the moment it ticks to 1, it will vanish if the block at its location has a different ID than the entity's TileID. If the block at its location has the same ID as its TileID when Time ticks from 0 to 1, the block will instead be deleted, and the entity will continue to fall, having overwritten it. (This was the result of Mojang's failed attempt to "fix" infinite sand/gravel/dragon egg/anvil/etc. generators by trying to have the falling sand entity delete the duplicated block the next tick) When Time goes above 600, or above 100 while the block is below Y=0, the entity is deleted.
+ Dynamic block entity data  DropItem: 1 or 0 (true/false) - true if the block should drop as an item when it breaks. A technical block (meaning any block that doesn't have an item form with the same ID as the block) won't drop even if this is set.
+ Dynamic block entity data  HurtEntities: 1 or 0 (true/false) - true if the block should hurt entities it falls on.
+ Dynamic block entity data  FallHurtMax: The maximum number of hitpoints of damage to inflict on entities that intersect this FallingSand. For vanilla FallingSand, always 40 ( × 20).
+ Dynamic block entity data  FallHurtAmount: Multiplied by the FallDistance to calculate the amount of damage to inflict. For vanilla FallingSand, always 2.
+If a block of sand has snow on it and is made to fall, the snow is destroyed and will not drop snowballs.
+Because falling sand is considered an entity it can be launched in a TNT cannon, similar to an ignited piece of TNT.
+Sand will fall at the same rate when submerged in water as it will when in air.
+If a player is standing on a stack of sand or gravel, and the stack falls on a non-solid block, the player will fall fast enough to take damage or even die.
+Sand will fall through torches without breaking if there is air below the torch.
+Sand and gravel take about 0.45 seconds to fall one meter.
+A glitched sand block.
+Another two glitched sand blocks.
+A sand ledge.
+The same sand ledge falling.
+A sand ledge.
+Red sand covering a Mesa biome.
+The different types of sand blocks.
+In Pocket Edition, floating sand emits falling particles.
+Explained physics of falling sand and gravel.
+Dec value: 12.
+Hex value: C.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: No.
+Sand covers almost everything in desert biomes, but is also used for beaches. Sand is usually 3-4 layers thick and often supported by 1-3 layers of sandstone. Harvesting sand will always drop a sand block. Shovels are the fastest tool, but even using your hands is quite fast. Diamond shovels are often considered a waste, especially when a player doesn’t have many diamonds to spare. Iron shovels are very fast and more easily available. Sand can be smelted into glass blocks and is used to create sandstone and TNT. Sandstone cannot be turned into sand.
+Sand is affected by gravity and will fall until it is suported by another block. If sand falls on a partial block, like torches, minecrart tracks or redstone circuits, the sand block will be destroyed and drops on the ground. This can speed up harvesting sand a lot. A simple torch under any block supporting sand will quickly cause all the sand blocks to turn into resource blocks once the supporting block is mined.
+However, sand can be placed on top of partial blocks, which will prevent it from falling, untill that partial block is removed. This trick is often used in traps, usually by using torches as they can be washed away by water and lava. Falling while standing on a block of sand will not prevent the player from getting hurt through fall damage, neither will it reduce the damage. Sand can sometimes be found floating in the air. It’s possible to stand on it, but removing or placing a block next to it will cause it to fall to the ground.
+Falling sand will be slowed down by cobwebs, which could be used as a timer, though better methods are available, like redstone repeater circuits. ‘Sand offers a safe and easy method to fill up lava pools. ‘Placing’ the sand on the sides of blocks above lava, will cause the sand to fall into the lava lake and it’ll sink to the bottom of the lava lake.
+Sand also offers a safe way of getting down from heights, especially when there are no walls available to place other blocks on. By simply letting the sand fall down untill it reaches you, standing on top of it and digging the sand under you, a safe type of temporary elevator can be created.
+Sand is often used in deadly traps. Immobile mobs and players can be suffocated by dropping sand on them. The mob or player will get stuck in the sand and start to suffocate if their head is covered.

@@ -1,0 +1,4 @@
+Dimensions may refer to The Overworld - The starting dimension in Minecraft.
+The Nether - The hellish dimension accessible by entering a Nether Portal from the Overworld.
+The End - The stark, empty plane dimension which contains a large, floating planet-like island made of End Stone.
+Sky Dimension - The unimplemented dimension that contains floating land masses and was planned to be in the Adventure Update.

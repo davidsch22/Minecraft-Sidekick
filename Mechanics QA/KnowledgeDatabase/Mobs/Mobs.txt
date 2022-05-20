@@ -1,0 +1,61 @@
+ Mobs are the creatures in minecraft. They’re able to move and interact on their own, though the input of a player could change their behavior. We generally divide all the mobs into 4 categories, passive, neutral, hostile (aggressive) and boss mobs. However, further division is possible, like player created, tamable, breed-able, dimension specific mobs and more.
+Minecraft has various types of mobs, ranging from a passive chicken to a large, hostile Ender dragon. There are currently 31 different mobs in minecraft, excluding all the baby versions and tamed versions of mobs. Most of these mobs can be found in the Overworld, though some are unique to the End or the Nether.
+Passive mobs are harmless, they will never attack a player, even if the player attacks them. Passive mobs are mainly used as a source of resources, like meat, leather and feathers.
+– Bats.
+– Rabbits.
+– Chickens.
+– Cows.
+– Mooshrooms.
+– Ocelots.
+– Pigs.
+– Sheep.
+– Squid.
+– Villagers.
+Neutral mobs start out in a passive state, but they’ll attack the player if they’re provoked in a specific way. Each mob is provoked in a different way.
+– Endermen.
+– Wolves.
+– Zombie Pigmen.
+Hostile mobs will attack any player within their specific range. They will continue to try to attack the player until either one of them is dead or until the player has moved out of range again.
+– Blazes.
+– Cave Spiders.
+– Creepers .
+– Ghasts.
+– Magma Cubes .
+– Silverfish .
+– Skeletons .
+– Slimes .
+– Spiders.
+– Spider Jockeys.
+– Zombies.
+There’s currently two boss mobs in minecraft, though more may be implemented in the future. Boss mobs are much stronger and move and attack in specific ways. Only 1 boss mob will be spawned per world, though more could be spawned in through mods.
+– Ender Dragon.
+– Wither.
+Player created mobs are mobs which can, but not always are, created by players. Player created mobs can be used as a tool, though they won’t follow you like a tamed wolf or ocelot will.
+– Iron Golems.
+– Snow Golems.
+Each mob behaves in a specific way, some may behave like other mobs, but many mobs have unique abilities. For more detailed behavioral patterns, please check the mob’s individual guide. Most mobs will not move at all if no player is within 32 blocks of them. They’ll simply stand in place and look around. All mobs, with the exception of the Ender dragon can be placed in a minecart, though some of them can be almost impossible to get into the minecart, like ghasts.
+Passive mobs will spawn in light levels of 9 and higher, though in most cases they’ll only spawn on grass blocks. Passive mobs tend to wander around the place they’ve spawned at, so they can often be found in small groups of the same type. If a passive mob is no longer walking on grass, it’ll look for the closest grass block and walk towards it.
+Passive mobs will walk towards light sources at night or when they’re in a dark area. However, passive mobs prefer to stay on grass and may chose it over a light source, depending on the circumstances.
+Passive mobs will never attack a player or other mob, with the exception of ocelots, which will attack chickens. If a passive mob is attacked, it’ll try to flee. However, it often tries to flee by running around in circles, so it’s not very difficult to keep attacking them.
+Neutral mobs act a lot like passive mobs while they’re neutral. When they’re provoked, each mob reacts differently, so please refer to their individual guide for more detailed information.
+Hostile mobs will only spawn in light levels below 8, though some will only spawn in very specific situations, like chance or mob spawners.
+Like passive mobs, hostile mobs tend to wander around the place they’ve spawned at. However, once a player gets in their range, which is within 16 blocks for most hostile mobs, the mob will try to attack the player.
+Some hostile mobs, like the skeleton and zombies, have an advanced AI system which allows them to overcome and avoid different types of obstacles, like walls and lava pools.
+Mobs are living, moving game entities. The term "mob" is short for "mobile".
+Mobs are affected by the environment in the same ways as the player: they are subject to physics, and they can be hurt by the same things that harm the player (catching on fire, falling, drowning, attacked by weapons, etc.). Some mobs may be resistant or immune to certain hazards, such as Nether mobs which are immune to fire. Mobs can ride minecarts and other mobs, and can climb up ladders. When mobs are killed, they drop items which may be useful resources. Most mobs have an advanced pathfinding system that allows them to traverse complex mazes to get to the player.
+Each type of mob in Minecraft has a certain AI (Artificial Intelligence) system with different behaviors and mechanics. Mobs will ordinarily wander around at random if there is a player nearby and usually avoid walking off blocks high enough to cause falling damage. Passive mobs will flee in random directions after being hurt, while hostile mobs will face and chase/attack the Player as soon as they come close. Neutral mobs will remain neutral until a player or mob attacks it, at which point the neutral mob will turn hostile toward and attack the entity that hit it.
+Mobs come to exist by spawning in various ways. They naturally spawn in groups with mobs of the same variety. Players can spawn most mobs by using spawn eggs in creative mode. Most mobs are aware of players within 16 blocks of them, but some can see farther. Mobs will not spawn on transparent blocks, in water (except for squid and guardians), in lava, or on half blocks (slabs, stairs). The exception is monster spawners, from which they can spawn on any block including air. Mobs can not see through semi-transparent blocks such as ice, glass, or glass panes.
+Mobs are listed and classified by their nature below. For more details on a particular mob, click and view their individual page.
+Note: The list below is categorized according to the PC edition. May vary between different platforms.
+Unused mobs are found in the source code, but are not being used at this time. It is still possible to spawn them with the /summon command, but they will have no AI. Removed mobs are no longer in the PC version's game code, and can be found only in certain older versions.
+For issues unique to specific mobs, see that mob's issues section.
+Renaming a mob "Dinnerbone" or "Grumm" using spawn eggs or name tags will flip them upside down.
+When mobs die, they emit puffs of white smoke.
+Mobs can be heard up to 16 blocks away.
+Players can approach a hostile mob without being detected if they ensure that there are solid blocks between them and the mob.
+Players can hide from hostile mob that pursuing the player in 2 blocks tall non-solid block (i.e. sugar cane) even if the mob saw the player going in it (this will not work on spiders).
+After killing a player, or if a player dies while hostile mobs are pursuing the player, the hostile mobs will gather around the player's deathplace, attempting to attack the player. This is because the player has been made invisible and non-solid, but still exists in that position. (evident by the "You Died!" screen still remaining in that position).
+If a hostile mob is tracking a player, the player can separate him or herself and the mob through a wall, relog, and the mob will no longer be tracking the player.
+Mobs will not walk on top of rails unless pushed on to the rails by another mob.
+Mobs can be spawned with armor using the /summon command. The armor does not appear on the body of all mobs, but will still work.
+Baby mobs will still have the same size head as the adult version, but the body is smaller.

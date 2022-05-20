@@ -1,0 +1,25 @@
+ A Brewing Stand is a craftable item in Minecraft used to make potions. When right-clicked, the brewing stand interface shows. The Brewing Stand interface has 4 slots. The bottom 3 slots are for glass bottles. These bottles must be filled with water or a potion. The upper slot is used to brew an ingredient into the potions below. The items which can be used as ingredients on water bottles are: Nether Wart (Awkward potion, the base for other potions), Redstone Dust, Ghast Tears, Glowstone Dust, Gunpowder, Glistering Melon, Magma Cream, Golden Carrot, Blaze Powder, Sugar, Spider Eyes, or Fermented Spider Eyes. .
+Brewing Stands will only yield itself if destroyed with a pickaxe. Brewing Stands also have a light level of 1. While distilling a reagent into the glass bottles filled with water or potion, one ingredient will distill into all three slots - e.g. one Nether Wart will create three Awkward Potions.
+No matter what kind of potion is in the Brewing Stand, it always looks like a red potion when it's not viewed from the Brewing Stand menu. It's possibly a Harming or a Healing poiton.
+If a Brewing Stand is placed on top of a Fence, then the player, and other mobs, can jump onto the fence.
+Having finished brewing a potion of weakness.
+Brewing interface.
+Brewing chart.
+Add a photo to this gallery.
+A Brewing Stand is a block used for brewing potions and splash potions.
+Brewing stands can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Brewing stands cannot be pushed by pistons.
+The main purpose of brewing stands is to allow for brewing potions. Its interface can be opened by pressing use on them.
+Brewing stands emit a light level of 1.
+The bottom three bits are bit flags for which bottle slots actually contain bottles.
+Even when the brewing stand is not in use, there is still smoke coming out of the top of it.
+When a brewing stand is broken, particles from the bottle will appear, even if no bottle is in the stand.
+No matter what potion is in the stand it always looks red.
+Brewing stands will always face east, no matter what direction it was placed.
+Even if there is an empty bottle in the brewing stand, it will still look like there is water in it.
+The first picture of a brewing stand. A giant mushroom is also seen in this picture.
+The GUI of the brewing stand.
+A brewing stand.
+A brewing stand in action.
+Glass Bottle.
+Splash Potion.

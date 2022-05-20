@@ -1,0 +1,14 @@
+A jack o'lantern is a solid block that provides light.
+Jack o'lanterns can be mined with any tool, or without a tool, but axes are the quickest.
+A jack o'lantern will also be removed and drop itself as an item if a piston tries to push it (trying to pull it does nothing) or moves a block into its space.
+If a mob wearing a pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance of a drop.
+Jack o'lanterns have a luminance of 15 and the ability to provide light while submerged under water. Like most light sources, they will melt snow and ice.
+Jack o'lanterns can be used to build snow golems and iron golems as shown below. Snow golems require snow blocks for their bodies, while iron golems require iron blocks. The jack o'lantern must be placed last or the golem will not spawn.
+Jack o'lanterns cannot be placed without a block under them, but once placed, will remain even if the block underneath is mined away. When placed, jack o'lanterns automatically face the player. Jack o'lanterns cannot be placed on a transparent block.
+Jack o'lanterns have the ID name minecraft:lit_pumpkin, and a data value of 91.
+A lit jack o'lantern showing the range of the light.
+A jack o'lantern in the 12w39a snapshot.
+A staircase lit by jack o'lanterns during the daytime.
+A staircase lit by jack o'lanterns at night.
+A zombie and a skeleton wearing a jack o'lantern and a pumpkin, respectively, on Halloween.
+Jack-o'-lantern at Wikipedia.

@@ -1,0 +1,30 @@
+ Furnaces are technical blocks in Minecraft that can be used for cooking foods and smelting ores. When right clicked, the furnace has its own smelting-menu where smelting operations can be done. It consists of one field for the object that will be smelted, one field for the fuel, and one field for the outcome, e.g. the Cooked meat, if a raw meat item was put in.
+Furnaces can naturally be placed in NPC Villages houses. Before the furnace appeared, smelting was accomplished by creating a fire and dropping the ores or raw food into it. The furnace, when right-clicked, has its own smelting menu where smelting operations can be done. It consists of one field for the object that will be smelted, one field for the fuel and one field for the output object.
+There are two squares one on top of the other. The fuel is placed on the bottom square, while the object wished to be smelted is placed in the top square. This will cause an arrow on the left of the squares to start to turn white. Once it is filled, the desired Items will be placed in the adjacent box of the arrow for the player to take.
+Furnaces are only luminous when being used.
+Lava can be used as fuel in a furnace. It can smelt up to 100 items before it runs out. Using lava as a fuel will not consume the bucket holding the lava. This method can be a great option if close to a lava source.
+The furnace ID is initially 61, however, 62 is a lit furnace. The lit furnace does not work without fuel though.
+ Furnaces connected to comparators give off a Redstone signal when active (up to 3).
+The interface of the oven in Minecraft PE (it uses the MATTIS system).
+Add a photo to this gallery.
+Furnace is a block used to smelt blocks and items and convert them into other blocks or items.
+Furnaces can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Two furnaces can be found inside blacksmith shops in villages.
+Furnaces cannot be pushed by pistons.
+The main purpose of furnaces is to allow for smelting. Its interface can be opened by pressing use on it.
+Furnaces emit a light level of 13 when active.
+Furnaces function as multiple devices combined into one block: bloomeries and blast furnaces (for smelting ores), an oven (for baking and cooking), a charcoal pit (for the charring of wood) and a kiln (for baking of clay).
+Torch placed onto a furnace.
+Naturally occurring furnaces in a village.
+Dec value: 61.
+Hex value: 3D.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 17.5.
+Maximum stack 64.
+Transparency: No.
+Furnaces are used to cook food and smelt ores, minerals and some other blocks, like sand. They’re crafted with 8 cobblestone, but they can also be found in villages. Furnaces are also used to create automatic minecarts. A pickaxe is required to break the block without completely destroying it.
+Right clicking a furnace will open its interface. There are 3 spots. The 2 on the left are input and the one on the right is the output of both the inputs.
+The top spot is used for the items you want to cook or smelt, like chicken, pork, ores and stone. The bottom spot is used for fuels, like coal, wooden planks, lava buckets and most wooden blocks. Some fuels are more efficient that others. Coal for example, will last for 80 seconds, while wood only lasts for 15 seconds.
+It takes 10 seconds to smelt or cook 1 item, so it’s advised to always put several items in both slots to maximize the burning time of fuels. Closing the interface will not stop the smelting process, so you can use several furnaces at once while not even being in the same room. When furnaces are burning fuel, light and heat will be emitted. The heat is hot enough to melt ice and snow. The light emited by furnaces is of light level 13, which is 1 lower than that of torches.
+Furnaces are sometimes used as decoration. Obvious forms of decoration are fireplaces and ovens. By placing 1 or 2 furnaces next to each other, facing you, and several other furnaces next to those, facing the wall or each other, a nice looking kitchen cabinet with built in stoves can be created. Furnaces make for a great wall base on houses, just make sure the front don’t face outwards.
+A floor of furnaces makes the floor look industrial and metalic. Though it makes right clicking to eat or shoot arrows almost impossible, it can look great in building projects. Some people use furnaces as cannon ends, especially on (pirate) ships or on castle walls.

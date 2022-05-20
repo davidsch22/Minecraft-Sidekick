@@ -1,0 +1,13 @@
+Dec value: 56.
+Hex value: 38.
+Minimum tool requirement to break: Iron pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Diamond ore is the rarest and most sought after ore in minecraft, only found in the bottom 17 layers, with the exception of the bottom bedrock layers. Diamond ore can be found in veins of 1-10 blocks, but a vein of just 1 block is quite unusual and is only created when an adjacent diamond ore is removed when a landmark, like a cavern or abandoned mineshaft, is generated in its place. Diamond ore can only be mined with an iron or diamond pickaxe, using anything else will simply destroy the block and won’t drop a diamond.
+Using a pickaxe with a fortune enchantment can increase the amount of diamonds that drop from a single ore block to 4, depending on the level of the enchantment. A pickaxe can also be used with the silk touch enchantment, doing so will allow the player to harvest the diamond ore block itself, which can be used for decoration purposes. The diamond ore block can be smelted in a furnace, which will result in a single diamond, which could be necessary if a player is out of diamonds. Players sometimes save the diamond ore blocks they’ve mined with the silk touch enchantment, until they have a pickaxe with the fortune enchantment, in order to increase its yield.
+Diamonds are used to create diamond armor, tools and swords, as well as enchantment tables, solid diamond blocks and jukeboxes. Diamond tools and armor are the strongest, with the highest durability, but golden tools are faster at harvesting. However, gold tools cannot harvest everything.
+Finding diamonds, and surviving the way back, can be really difficult, as they’re in the same altitudes as many lava pools. The easiest and most effective method to find diamonds, is to create a system of tunnels to maximize the amount of blocks you can see.
+The general idea is to take advantage of how diamond ore veins are generated, which is usually in at least groups of 2.
+By digging long paths next to each other, with 3 blocks between them, the maximum amount of blocks, that may contain diamonds, can be seen. Any diamond ore caught in between those 3 blocks isn’t worth trying to find.
+We’ve covered this method in a separate guide, which you can find right here.

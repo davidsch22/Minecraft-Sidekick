@@ -1,0 +1,15 @@
+A Pigman is a pig in a humanoid form. Although not implemented, their skin can be found within the game files, and their counterpart, zombie pigmen, have been part of The Nether since the Minecraft Alpha 1.2.0 Halloween Update. It has the same dimensions as The Player, and has no coding present within the game that spawns it. Although in earlier versions a pigman could be made from a pig getting hit by lightning, the feature has been since removed.
+Minecraft user Miclee made up the idea for Pigmen. He was given the Bacon Cape as a reward. But when Notch was asked for personal capes by other users, the Bacon Cape was taken away from Miclee to prevent further commotion.
+Notch mentioned April 25, 2011 that he might add Pigmen as NPC villages' townspeople. In Beta 1.9 Pre-releases, a different villager mob was introduced. Regular pig models were changed in Beta 1.8 to have a protruding snout. Whether this will be applied to Pigmen or Zombie Pigmen in the future is unknown, although possibly unlikely due to the fact stated above of sharing the same shape as other entities.
+ Pigmen have the same shape as Zombie Pigmen, Zombies, Humans, and The Player.
+ The model used in the source is called a "Biped." A lot of other models uses this as a base, such as the Creeper model.
+ There is much dispute about Pigmen being promised as an addition to the game in a future update. .
+ There is a title screen splash which reads "Oh, ok, Pigmen!".
+ If you can find the skin file in your minecraft.jar, you can wear the Pigman skin like any other skins.
+ In later versions of Pigmen, though not Zombie Pigmen, you could trade rubies(much like emeralds for villagers) for items.  This is actually available as a skin for the Xbox version of the game through one of the skin packs.
+ Zombie Pigman.
+ Villager.
+ The Player.
+ Pig.
+ http://twitter.com/notch/status/62531431175421952.
+</gallery>

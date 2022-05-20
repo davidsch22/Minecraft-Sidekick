@@ -1,0 +1,4 @@
+Grass Path Blocks are the new sidewalks you can find in villages. Before the 1.9 update, these were Gravel sidewalks. For the player to make this, he/she has to right click with a shovel only on a grass block. It first appearing in Minecraft: Pocket Edition in the 1.1.0 update.
+Like its original counterpart, Dirt, it is not used for any crafting materials. However, you can use it as a sidewalk as seen in Villages.
+If a player puts a block on a Grass Path Block, the grass path block will turn into dirt. Additionally, if a player puts a Trapdoor or a Iron Trap door on top of a grass path block, the block will turn into dirt.
+The grass path block kinda looks like a lighter color of Podzol.

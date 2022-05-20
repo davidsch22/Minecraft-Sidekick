@@ -1,0 +1,46 @@
+Villages, also known as NPC villages, are groups of buildings inhabited by villagers that spawn naturally in the world.
+Villages generate naturally in plains, savanna, and/or desert biomes.
+A village is almost always composed of at least one acceptable house and one villager. In some rare cases, villages have spawned with a well and nothing else (This appears to occur very frequently on console versions). Upon creation, a village center is defined as the geometric barycenter (i.e. centroid) of the active doors' locations, and the village's size is the greater of 32 blocks or the distance to the furthest door from the center. Any villager, village golem, or siege-spawned zombie will path back into the village if they find themselves farther than "size" blocks from the center.
+As the villagers move around, the area near them is occasionally checked for new valid doors ("houses"). Thus, the random movement of villagers may also slowly change the center of the village they live in, even if no houses are actually changed. If a new valid door is found more than 66 blocks outside of any existing village's center, a new village is created; if a new valid door is found fewer blocks away than that, the door is added to an existing village and the center is recalculated.
+The minimum population of a village is 0.35 times the number of valid doors (see Tutorials/Village mechanics#Housing). If the population drops below that point (due to death or kidnappings), but there are at least two villagers left who can reach each other, the villagers will mate and breed until the population is above the minimum.
+Adult villagers can be traded with by right-clicking/using interact button on them on PC/console. Currently, trading is disabled in the Pocket Edition.
+When attempting to place villages as close to each other as possible (for an iron golem farm for example) if their centers are to share the same x & y or y & z coordinate then the remaining coordinate must differ by 66 or more. So for example village A at 0 64 0 and village B at 0 64 66 will not merge, but if village B is at 0 64 65 they will. For all other cases if the real distance sqrt(x + y + z) between their centers is greater than or equal to 65 they will not merge. So if we want to build village C above the middle line between village A and B then their x difference is again 0 their z difference is now 33 so using our formula d = x + y + z or 65 = 0 + 33 + y then with a little algebra we find that their y difference must be at least 56 or in other words C's center should be at 0 120 33.
+Symmetrical villages are easy to calculate the centers of, but for more complex villages, such as naturally generated villages, it's a good idea to give yourself a few blocks extra room. Try calculating from the position of the door closest to your build site.
+Note: The integer rounding in the game's internal programming may allow villages to be placed one block closer under certain circumstances, but this formula will function to keep the villages apart every time. Also, if you're planning something really complex, try using the BBox Outline Mod to help visualizing.
+A player's popularity starts at zero, and ranges between -30 and 10, and the following can alter a player's popularity.
+A player's popularity does not reset on death, and players cannot alter other players' popularity. In addition, the popularity is stored per village; a player may have a high popularity in one village and a very low one in another. When a player's acts directly on a villager, particles around that villager will indicate the change in popularity.
+Conversely, because popularity is stored per village, if the entire village is destroyed, any accumulated popularity, positive or negative, is also eliminated. This may be useful in synthetic village designs, such as when only one villager is kept in range of doors to maintain the existence of the village but is moved out of range in order to destroy the village, such as to stop infinite villager breeding.
+Presently, popularity has one effect: if a player has -15 popularity or less, iron golems of that village will become aggressive to that player. If an iron golem is idle, it may become aggressive to the nearest player with -15 or lower popularity. However, "nearest" can be any distance at all, so if the village's chunks are loaded (perhaps by another player), the golems can turn hostile even after the unpopular player has traveled across the world.
+Another feature further encourages players to protect villagers: if a villager dies to a non-mob, non-player source while a player is within 16 blocks, or if a monster kills a villager, then no villager in the village will mate for approximately 3 minutes.
+The number of buildings composing a village can vary, and not every village is composed of all buildings at once. Apart from the well, which is unique and systematic, the number of buildings of each type is randomly generated, and increased in superflat worlds. Structures are picked from a weighted probability list (libraries are more common than butcher shops). There may be fewer buildings of a given type than the maximum allowed. The number of lamp posts has no restriction, as they are generated where no other buildings can be placed. In savanna and plains villages, gravel roads are found between the buildings of the village and often extend beyond them. In desert villages these roads are made of sandstone.
+Village buildings in plains and savanna biomes will be made out of oak wood, oak wood planks, cobblestone, cobblestone stairs, and glass panes.
+The following blocks can be found in plains and savanna villages.
+Village buildings in desert biomes are made out of sandstone, smooth sandstone, sandstone slabs, sandstone Stairs and Glass Panes instead of wooden or cobblestone features. Also, the plains and savanna biome villages have gravel roads while the desert biome villages have sandstone roads. Sometimes desert villages will spawn directly over a Desert Temple. This will cause the temple to have extra or missing blocks.
+The following blocks can be found in desert villages.
+One or more slots in the chest that spawns in a blacksmith shop may be populated with items from the following list. There may be more than one slot containing the same type of item, but the numbers per slot do not exceed these limits.
+Notch originally worked on Villages by himself, but eventually gave the task to Jeb, so that he could work on other things.
+A picture of villages was released by Notch before Beta 1.8 was released. In the early screenshots, villages were partly made of Moss Stone.
+Villages were shown to the public during the PAX 2011 demo, including the interiors.
+Jeb has said that during early tests of villages, the lava in a smithy often set the village on fire.
+An early interview with Notch discussed his plans for the village.
+Farms in the villages avoid overhanging by filling in the area below them with dirt. When the farm overhangs a ravine, this can cause a very tall rectangular dirt structure.
+Occasionally, surface ravines will be generated through villages, causing missing pathways or even entire buildings sunken into the ravine. This also applies to cave entrances and other surface oddities.
+The well acts as the "center" of the village in reference to Minecraft's code. If a well generates in a desert, all buildings and paths will be made of sandstone, even if all other buildings are in an adjacent plains biome. The well also appears to be the point where village-locating tools will point to. This explains why there is always exactly one well in each village.
+Due to the absence of pressure plates, tables are made up of 1 fence and 1 brown carpet instead.
+Roads are made of Grass Paths rather than gravel.
+If a village spawns next to a river/lake, the grass path roads on water will be replaced by wooden bridges.
+The smithy and buildings nearby tend to catch on fire, because the unloaded lava can tick through the walls.
+Villages may generate very close to each other or even rarely double or triple.
+A village.
+A screenshot of a village released by Notch.
+A screenshot released by Notch of a player near two village houses.
+A picture of the village from PAX Prime.
+The 13w22a banner, containing a village.
+A desert village generated partly on a buried desert temple.
+A village generated in a savanna Biome with a desert temple in the background.
+First official screenshot of a village generating with grass path blocks as roads.
+A double village.
+A village with wooden bridge beside world border.
+A village generated in the AMPLIFIED world type. Notice how some of the buildings are built into the mountain, and others on huge cobblestone towers.
+A village generated too close to an ice plains spikes biome, which caused the crops to dry out.
+A village generated without buildings.

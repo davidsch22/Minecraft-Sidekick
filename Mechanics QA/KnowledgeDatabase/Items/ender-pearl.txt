@@ -1,0 +1,6 @@
+Dec value: 368.
+Hex value: 170.
+Maximum stack 64.
+Ender pearls are dropped by killing Endermen, though it’s not a guaranteed drop. They’re used to create eyes of Ender, which allows you to both find and activate the End portal.
+Enderman take damage from being in contact with water, including rain. This often leads to their deaths when they teleport, so Ender pearls can often be found in water and on the ground after rain fall.
+Ender pearls are also used as a method of teleportation. By right clicking while holding a pearl, the pearl will shoot off, much like an egg. Wherever the pearl lands will be the spot you’ll be teleported to, however, you take 2.5 hearts of falling damage every time you teleport. It is possible to die this way. You can minimize the damage you take by wearing boots with the feather falling enchantment.

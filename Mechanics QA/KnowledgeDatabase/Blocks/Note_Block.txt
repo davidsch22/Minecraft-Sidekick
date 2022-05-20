@@ -1,0 +1,26 @@
+The Note Block is a block that can produce sigle music notes when hit or powered by redstone. The type of sound produced is dependent on the block immediately below the note block itself. If the block below it is dirt or grass, it will make a piano sound, if its is on any stone related block it will make a bass drum-like sound. If it is any kind of glass, it will be a drumstick like sound, and if it is on any kind of wood or wooden planks, it will make a Bass Guitar sound. Right clicking it changes the pitch by one semitone, yet activating it with redstone won't change the pitch.
+A Note Block will play a note when hit or when powered by redstone. Redstone current only causes the note to play once, even if it is a continuous current. A note block must have at least one block of air above it to play a sound. Notes can be heard up to 48 blocks away. Each time a note block plays a note, a note particle will fly out of the top, with the color depending on the pitch (but not the instrument). It is possible to make an automatic note block sequence and its relatively cheap to do in survival. Get a Minecart, Powered rail, and detector rail; you can place the rail and power it. Then put the detector rail down and put Redstone leading to a Note Block. Then simply repeat the process until you have all the Note Blocks you want. Then walk into the Minecart (you don't have to ride it.) Then let the Minecart do the rest; you've got a automatic Note Block song!
+In order to wire Note Blocks to play a note, power must be applied to the side of the Note Block using Redstone Dust and a Switch or Redstone Torch, or to the bottom using a redstone torch directly. Simply placing a switch or pressure plate on an adjacent block or providing power to the block beneath the Note Block will not work.
+If one wants to get a richer tone in the song/sound they're creating they can bind different notes together into a chord, just like in most instruments. This will not only get a better sound to the song, it will also be simpler to place the Redstone.
+A configuration of a Redstone and Noteblock Contraption.
+Add a photo to this gallery.
+Note Blocks can only play when there is at least one block of air above them, so you cannot place blocks like torches and signs directly above Note Blocks (including water).
+In the coding, note blocks are referenced as "music blocks".
+You can make a doorbell or even replicate a music track using note blocks.
+A Note Block is a musical block.
+Note blocks are most quickly broken with an axe.
+Note blocks play a colored musical note when hit or when powered by redstone. A note block must have at least one block of air above it to play a sound. Notes can be heard up to 48 blocks away.
+Note blocks will play when next to a powered block. Each time a note block plays a note, a note particle will fly out of the top, with the color depending on the pitch (but not the instrument).
+Pressing use on the block increases the note pitch up a half step, with a total of two full octaves being available to play for each instrument (bass is two octaves lower than the standard range, giving you four octaves of effective range if you combine instruments). The range of notes span from F♯3 to F♯5. After reaching the highest note, pressing use again resets it back to F♯3, as does breaking the block and picking it back up. The exact pitch to pressing assignment is shown below.
+Note blocks cannot be moved by pistons.
+Alternatively, there is a graphical version available.
+You can roughly check the tuning of a block by looking at the note icon.
+The instrument played depends on the material of the block underneath the note block.
+Note blocks can be powered in a variety of different ways following normal redstone principles, however some ways of powering note blocks are more convenient than others or produce unexpected results. When a note block is powered by a switch on its side it does play but is often very difficult to hear since the sound of the switch activating is so loud.
+ Since note blocks need a space above them, note blocks powered by pressure plates or redstone directly above them do not make a sound.
+Note blocks start at the pitch F♯/G♭, which is unusual since the note has no significance in any known musical instrument.
+The sound files for the note blocks can be found in assets/sounds/note, you can see that the piano sound is named "harp" and also that there is an unused sound called "pling".
+You can tune a note block even if there is a block above it, however the note will not be seen nor will any sound be made.
+Jukebox.
+Minecraft Note Block Studio - A music editor for Minecraft.
+Search YouTube for the many songs played on note blocks.

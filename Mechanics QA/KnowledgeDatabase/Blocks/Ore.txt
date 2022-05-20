@@ -1,0 +1,81 @@
+An Ore is a type of Block naturally found in Minecraft. Ore is primarily collected for crafting purposes, to make items such as Tools, Armor, and more. Redstone Ore is used as a type of wiring which can be used to create redstone circuits, Compasses, Clocks, and other items. Coal Ore can be used to smelt other Ores, such as Gold and Iron for storage purposes or building. Since layer 0 is the lowest layer and consists of only Bedrock, no Ore can be found there. It can, however, be spawned very close to the bottom of the map, at layer 1. Certain Ores have the habit of spawning at any layer.
+An Ore Block looks like a usual Stone block with different colored shards or gems embedded into it. They are always the same color on each Ore of a kind, but not different Ores.
+In order to get a drop from an Ore, the player must have the right type of Pickaxe or better. If they do not, the mining will take ridiculously long and the player won't get the Ore drop.
+Overworld Ore is Ore embedded within Stone. The majority of Ores in-game have real-life equivalents. All Ore has realistic depths in which they can be found. However, generation per-biome is not completely as truthful to reality.
+Main article: Coal Ore.
+Coal Ore is a very common Ore that can be found underground or in rock formations such as mountains (at y<132), in relatively large deposits. Coal is mined from Coal Ore and can be used as Furnace fuel, or crafted with a Stick to create Torches. Coal Ore can be successfully mined using any type of Pickaxe.
+Main article: Iron Ore.
+Iron Ore is most commonly found underground in small veins. It can be smelted into Iron Ingots, which can be used to craft many useful items, including Armor, Weapons, Tools and Minecarts, as well as their Rails. Iron Ore can be found at y<68. Iron can only be harvested with a Stone Pickaxe or better.
+Main article: Redstone Ore.
+Redstone Ore is a type of Ore found at y<16. Added in the third Secret Friday Update, Redstone Ore is more common than Coal if at the correct layer. Redstone Ore must be mined with an Iron Pickaxe or better. When destroyed, several piles of Redstone Dust will appear, a property unique to Redstone.
+Redstone Dust is currently used in the construction of various traps, mechanisms, and contraptions dependent on simple circuits. After the 1.9. Pre-Release 3, Redstone Dust can be used for brewing.
+If there is a block or entity update adjacent to a Redstone Ore block, this Ore will transform into a technical block called Glowing Redstone Ore, which emits 9 light level and some particle effects, similar to that of a Nether Portal, only red.
+Main article: Gold Ore.
+Gold Ore can be found at y<34 in small veins. It can be smelted to make Gold Ingots which can make a variety of Tools and Weapons. Gold is a very soft material, similar to in real life, and is generally considered a bad choice for crafting due to its low durability. A Gold Tool only has the strength of a wooden Tool. It wears out much quicker, despite mining at a rapid speed.
+Gold is mainly used in decorations and the crafting of Powered Rails. Nine Gold Ingots can be placed in a crafting square to make a Gold Block, and the Gold Block can turn back into nine Ingots, making for a practical "storage unit". Otherwise, Gold Ore is somewhat overshadowed by other ores. It can only be successfully mined with an Iron or better Pickaxe. A Gold Pickaxe can't even mine it's own Ore.
+Main article: Lapis Lazuli (Ore).
+Lapis Lazuli Ore (sometimes called Lapis or Lazuli) is a rare Ore Block that can be found at y<34. It is common in Abandoned Mine Shafts. When harvested, it turns into four or five Lapis Lazuli dyes, which can be used to dye dog collars blue, Wool or a Sheep to turn it blue, or create a decorative Lapis Lazuli Block. For a drop, the player must mine the Ore with a Stone or better Pickaxe.
+Main article: Diamond Ore.
+Diamond Ore is an extremely rare, valuable Ore only found very deep underground and in sparse veins, which can spawn diagonally. In order to drop a Diamond, this Ore can be mined by using an Iron or better Pickaxe.
+Diamonds can be used to create Diamond Tools, which have the strongest durability and most possible uses in the game. A Diamond Pickaxe is the only Pickaxe which can mine Obsidian.
+Main article: Emerald Ore.
+Emerald Ore is the rarest ore to date in Minecraft, 25 times more so than Diamond Ore. It almost always spawns in only one-block veins. When mined with an Iron Pickaxe or higher, it drops an Emerald; the only implemented use of Emeralds to date is for trading with Villagers. An easier way to get Emeralds is to create a Cow or Pig farm, collect the drops, and go to the nearest butcher. Butcher Villagers only accept them raw, though.
+Main article: Emerald Ore#History.
+Ruby Ore was added during the 1.3 snapshots, but was shortly replaced by Emerald Ore. It was scrapped because Dinnerbone was colorblind at the time, and Dinnerbone can't find the difference between Ruby and Redstone. This Ore is currently non-existant. However, some mods use this old texture.
+Main article: Nether Quartz Ore.
+Nether Quartz is a crystal Ore found in The Nether, appearing in the 13w01a snapshot for the 1.5 update. Nether Quartz is used in making the Redstone Comparator.
+An Ore Vein is a naturally generated structure found underground that is almost always encased in Stone Blocks. Ore Veins look like block structures with bulbous bits randomly coming out along it. Sometimes they are just cube shaped, and some of them look extremely odd.
+Smelting Ores without a Pickaxe with Silk Touch will always yield Ingots.
+Gold is the only Pickaxe that can't mine its own Ore.
+ Many players have mistaken Glowstone for ores, possibly because it drops the dust instead of the whole block. This is the reason why Glowstone is NOT classified as an ore and it is removed from page.
+Ores of Minecraft Wiki - A wiki about Minecraft's Ores (mostly talking about modded ones).
+A selection box of all ores except Emerald.
+Another instance of many close ore veins.
+Several ores together with Obsidian.
+Add a photo to this gallery.
+4 messages Sharple.
+		Actually its Y12, it's safer to dig there.		2012-12-17T03:14:46Z.
+4 messages Minecraft246.
+		I usually dig round layer 5, and my chances of finding the diamonds are slimmer than a cobweb, still.
+Anyway. Where's the highest layer...		2012-12-17T13:08:49Z.
+See more discussions >
+Ore is a type of block in Minecraft.
+Ores are primarily collected for crafting purposes, such as for tools and armor. Redstone is obtained from redstone ore, which can be used to create redstone circuits. Ore can also be combined to create a block of the material's type.
+The following is the distribution of ores according to the altitude (layers are number of blocks above the lowest layer of bedrock). The highest layers that gold, redstone, diamond, and lapis lazuli can be found on are two layers lower. The graph on the right shows the ore distribution.
+Redstone has the same layer and line-size statistics as Diamond, but is generated 8 times per chunk as opposed to 1.
+Coal Ore.
+Iron Ore.
+Lapis Lazuli Ore.
+Gold Ore.
+Redstone Ore.
+Diamond Ore.
+Emerald Ore.
+Nether Quartz Ore.
+All ore blocks except iron and gold require a Silk Touch pickaxe to drop themselves. Coal, diamond, emerald, and nether quartz ores drop 1 unit their corresponding raw materials. Redstone ore drops 4-5 redstone dust, and lapis lazuli ore drops 4-8 lapis lazuli.
+Coal.
+Iron Ingot.
+Lapis Lazuli.
+Gold Ingot.
+Redstone.
+Diamond.
+Emerald.
+Nether Quartz.
+All raw materials except Nether quartz can be crafted from their mineral blocks.
+Any ore block can be smelted to produce a single unit of raw material. Note that this is the only way to obtain iron and gold ingots. This is not recommended for redstone ore because the block drops 4-5 redstone when mined.
+Block of Coal.
+Block of Iron.
+Lapis Lazuli Block.
+Block of Gold.
+Block of Redstone.
+Block of Diamond.
+Block of Emerald.
+Block of Quartz.
+All mineral blocks except quartz are crafted by putting 9 of the raw material items in a square. Quartz blocks are crafted with 4 nether quartz and can be crafted in the inventory.
+Iron and gold drop the actual ore block when mined without the Silk Touch enchantment. All of the other ores drop the usable item when mined.
+Gold ore is the only ore that can't be mined by its own pickaxe.
+Only iron, gold and diamond can be used to make tools.
+A picture of every ore except emerald and nether quartz.
+All of the current overworld ores including emerald ore and diamond ore.
+All overworld ores in a natural cave.
+A vein of coal, and a vein of iron, both in a ravine. Ores like this can be hard to get to, due to the difficulty of climbing the ravine's wall.
+Exposed ore veins.

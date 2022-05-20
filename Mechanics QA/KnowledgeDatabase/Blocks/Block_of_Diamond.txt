@@ -1,0 +1,9 @@
+A Block of Diamond is a Block that first appeared within Indev and can be obtained by crafting nine Diamonds together with a Crafting Table. Diamond Blocks can only be mined successfully with an Iron or Diamond Pickaxe. To get the Diamonds back, simply put the Diamond Block on any block in the Crafting Grid to split it into 9 Diamonds. Diamond Blocks can be used for a pyramid for a Beacon, and for stronghold walls, but because Diamond is hard to obtain in large quantities, this is not practical.
+They serve as decoration, compact storage for Diamonds, and a way to power Beacons.
+Blocks of Diamond in Minecraft: Pocket Edition.
+Add a photo to this gallery.
+Blocks of Diamond (also known as Diamond Blocks) are decorative mineral blocks.
+Blocks of diamond can only be mined using an iron or diamond pickaxe.
+Blocks of diamond can be used to store diamonds in a compact fashion.
+Blocks of diamond can be used to "power" a beacon. The top layer must be at least 3×3 optional lower layers can be adding as 5×5, 7×7, and 9×9 from top to bottom. The layers do not have to be entirely diamond blocks, as they may also contain blocks of iron, blocks of gold, and blocks of emerald.
+One block of diamond and one wooden log is exactly enough to create a 80% set of diamond tools with one or no sticks left over, depending on if you use a sword or a hoe.

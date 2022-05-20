@@ -1,0 +1,28 @@
+Status effects are various conditions that affect an entity, which can be either helpful or harmful. Status effects can be inflicted in various ways throughout the game, most commonly from use of food, potions and beacons.
+The /effect command allows players to inflict effects upon themselves and other players and entities.
+Any entities inflicted by a status effect will be affected in various ways for an amount of time. During the effect, swirly particles emanate from the position of the inflicted entity. Players can open their inventory to see any current status effects afflicted upon them, as well as its strength and duration. The level of the effect determines its power. The higher the levels, the stronger the effect is.
+The maximum level an effect can have is level 255. Like any other normal potion effect, the effect completely wears off at the end of its duration. Unlike normal potion effects, potions with levels above 127 do not cause particle effects.
+Any number of different status effects can be simultaneously active on a player, even in the case of opposing effects, such as Strength and Weakness. However, it is not possible to apply the same effect multiple times, even if the effects are of different levels (e.g. Strength and Strength II cannot both be active at the same time). In the event of applying an effect already active on the player, the new version of the effect overwrites the old effect, giving a new level and full duration, if the new effect is of equal or greater level.
+Note that even with commands, effects cannot be made to last forever. If an effect is set to an excessively large amount of time, such as 182 hours [655200 seconds], it will display as "**:**", but will still continue ticking down and eventually expire.
+All of these status effects can be removed by drinking milk or using /effect command with the time of the effect set to 0. For Singleplayer users with cheats enabled and operators in Multiplayer servers, command /effect <playername> clear can be applied to achieve the same goal.
+There are a total of 23 effects. For technical data, see data values.
+After drinking a bucket of milk while under the Nausea effect, the screen will flash purple for a tick as if you were standing in a Nether Portal. This is because the game uses the same effect for Nausea as it does for the nether portal.
+If you put Speed and Slowness together, you'll be able to sprint.
+If you put Blindness and Night Vision together, screen will turn black and you will only be able to see sun and moon.
+The maximum health the player can achieve using Health Boost and Absorption is 2068.
+If you get max health using method above, and put regeneration level of 255, while healing to 2068 hearts, your view will jolt, even in creative mode, like getting hurt. You are not getting hurt though.
+If you have at least resistance 5, then you are practically invincible. (Apart from the /kill command and the void).
+Endermen inflicted with invisibility can still be seen due to the fact that the eyes still glow and a slight outline can be seen from a distance. Similarly, spider eyes will glow.
+Strength level 127 is strong enough to slay an Ender Dragon with one hit from a player's fist.
+The Wither effect is the only negative effect that can negatively affect both living and undead mobs.
+If you have regeneration 255, the void cannot kill you.
+The Jump Boost status effect does not make slimes, magma cubes or guardians jump higher.
+Regeneration after eating a golden apple before the official update.
+Health Boost and Regeneration II after eating a golden apple in 13w23b.
+Weakness after drinking a Potion of Weakness.
+The maximum amount of health using Health Boost and Absorption.
+Brewing.
+Potions.
+Splash Potions.
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide.
+Minecraft Potions - A Visual Guide.

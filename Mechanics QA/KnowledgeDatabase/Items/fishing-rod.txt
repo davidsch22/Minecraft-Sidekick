@@ -1,0 +1,11 @@
+Dec value: 346.
+Hex value: 15A.
+Durability: 65 casts.
+Maximum stack 1.
+Fishing rods are used to catch fish and are the only way to obtain fish in game. They’re created using 2 pieces of string and 3 sticks, which means it’s often not aquired early in game. A fishing rod has a durability of 65 uses, though some actions cause extra durability damage.
+To catch fish you simply have to right click to cast your line while aiming for any body of water, including a single water block. If the bobber lands in water you’ll have to wait untill it submerges for a second, at this point you have to right click again to reel in your line and pull a raw fish out of the water. If you’re too late or too early, nothing will be caught, but your fishing rod will still take durability damage.
+Fishing rods can be casted anywhere in any sized body of water, but you have a higher chance to catch fish while being outside. Being outside simply means the water is directly exposed to air, so if you make a pool at bedrock surrounded by a large cave, the water will still be outside if no other block is above it at any level.
+Fishing rods can also be casted on solid blocks, though nothing will happen. Doing this will deal double durability damage to the fishing rod.
+Mobs, boats and minecarts can be pulled with a fishing rod, though boats will usually break. This makes for a great mini game, usually refered to as mob fishing. Despite moving as if they take damage, mobs do not take any damage from being hooked. However, your fishing rod will take 3 points of durability damage.
+It’s possible to hook a player, but you cannot reel players in. The bobber will remain stuck, but it serves no real purpose, besides perhaps a way to keep track of a player or simply annoying the player.
+Casting your fishing rod on a wooden pressure plate will activate it, this is often used in custom puzzle maps. Casting your fishing rod against a painting will cause it to pop off and fall down as an item, this item can then be used to activate wooden pressure plates as well.

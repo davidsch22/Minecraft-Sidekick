@@ -1,0 +1,8 @@
+A Minecart with Spawner is a combination of a minecart and a monster spawner.
+Minecart with spawners cannot be obtained in the inventory, and must be placed using commands.
+The monster spawner inside the minecart acts the same way as normal monster spawners; it has the same associated NBT tags.
+The first image of spawner carts released by Dinnerbone.
+The second image released by Dinnerbone.
+Zoomed image of the second release.
+Another image posted by Dinnerbone.
+A spawner cart spawned using /summon.

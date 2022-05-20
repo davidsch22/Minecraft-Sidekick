@@ -1,0 +1,19 @@
+Milk is an item obtained in a Bucket by right clicking a Cow that, unlike other items contained in a bucket, instead of placing it when right clicking, it can be drunk and is considered a food item. Milk is the only food item that will not replenish any hunger by itself, but will instead simply remove all status effects.
+3 buckets of Milk, along with other ingredients, can be used to craft a Cake.
+Milk was introduced in Alpha, but served no purpose until Beta 1.2, when it became an ingredient for cake.
+As of the Adventure Update, milk became an edible food item and a cure for status effects.
+After consuming the milk, the an empty bucket will take its place.
+A bucket of milk is an item obtained from cows and/or mooshrooms.
+Milk can be obtained from cows and mooshrooms by pressing use while looking at them with an empty bucket.
+Holding use with a bucket of milk will start the drinking sound and animation. When consumed it will immediately remove any status effects from the player.
+If you drink milk while having nausea, the nether portal animation will show.
+Water.
+Lava.
+Food.
+Cake.
+Dec value: 335.
+Hex value: 14F.
+Maximum stack 1.
+Milk is obtained by right clicking a cow while holding an empty bucket. While milk is edible, it doesn’t restore your hunger or health bar. Instead, milk will stop any effects on the player, like potion effects and food poisoning. Both negative and positive effects of potions will be cancelled.
+Milk is also used to create cakes. To make 1 cake you need 3 buckets of milk, 2 lumps of sugar, 3 wheat and 1 egg. Drinking milk will not destroy the bucket, so you can refill the bucket with milk, water or lava after you’re done. Milk buckets, like all buckets, will not stack, which could be a bit annoying in pvp fights or fights with several cave spiders.
+Milk will cure the player immediately, but any (negative) effect aplied afterwards will take effect. So it’s often advised to only drink milk after the fight is done or when you’re in real danger. Milk will also “cure” the player from positive effects, like a strength potions, so think before you drink.

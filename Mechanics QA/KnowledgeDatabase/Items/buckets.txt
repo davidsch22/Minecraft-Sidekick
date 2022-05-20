@@ -1,0 +1,6 @@
+Dec value: 235.
+Hex value: 145.
+Maximum stack 64.
+Buckets are metal containers which can be used to hold lava, milk and water. A bucket is created using 3 iron ingots, but they can also be found in dungeon chests.
+Buckets allow you to safely transport large amounts of water and lava, which can be used to create custom moats, death pits and traps. Water buckets are also useful to save yourself from fires and lava.
+Water and lava are picked up by right clicking a source block while holding the bucket. Only source blocks can be picked up, not flowing water or lava. Milk is obtained by right clicking a cow while holding a bucket. Milk is used to make cakes and cure a player from any negative effects like poison and potions, both positive and negative effects of potions will be cancelled.

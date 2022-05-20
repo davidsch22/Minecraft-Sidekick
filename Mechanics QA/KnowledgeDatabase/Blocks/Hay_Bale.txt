@@ -1,0 +1,13 @@
+A Hay Bale (also known as Hay Block) is a block added in 1.6.1. It is created with nine pieces of wheat. It can be used as a decoration block for animal related buildings (e.g Stables, Barns). When placing hay, it will behave much like wood blocks, in that they will orient themselves according to your location relative to them.
+They also serve the purpose of allowing baby horses (foals) to grow faster over time. In addition to this, they heal full grown horses while not having a rider on them. For this reason it is ideal to keep them near horse stables to act as "healing stations" to horses on the edge of towns. .
+Creating Hay from wheat is biologically/technically impossible, as hay is a completely different type of plant than wheat.
+Hay bales are decorative, flammable blocks that can also be fed to horses.
+Hay bales can be mined using any tool, or without a tool.
+While not edible by players, hay bales can be a useful compact food supply for long periods away from other food sources.
+Hay bales can also be fed to horses, donkeys, or mules to heal up to 10 hearts. They are an effective method to heal horses if the player wants to heal them in a short period of time. They also speed up the growth of foals by three real life minutes.
+Hay bales can be placed facing all directions, in the same way as wood and pillar quartz blocks are placed.
+Hay bales burn in the world for just as long as the coal blocks do.
+Hay bales are the first craftable blocks that can be used to feed an actual mob.
+Hay Bales appear green on maps, despite being yellow.
+The image found in the Mojam game file.
+A building showing the possible orientations of hay bales.

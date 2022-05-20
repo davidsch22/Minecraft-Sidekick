@@ -1,0 +1,5 @@
+A Baked Potato is a food item created by putting a normal Potato in a Furnace. Poisonous Potatoes cannot be cooked into a Baked Potato, however. This food item restores .
+A baked potato is a food item that can be eaten by the player.
+Baked potatoes can be obtained by cooking potatoes in a furnace.
+To eat a baked potato, press and hold use while it is selected in the hotbar. Eating one restores 5 () (5 () in Pocket Edition) hunger and 6 hunger saturation.
+Poisonous Potato.

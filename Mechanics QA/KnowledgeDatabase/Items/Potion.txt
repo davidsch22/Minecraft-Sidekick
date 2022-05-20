@@ -1,0 +1,39 @@
+Potions are brewable items that imbue the consumer with specific, time limited effects in Minecraft.
+Witches drop Potions of Healing, Fire Resistance, Swiftness and Water Breathing, but only when they die while drinking that potion.
+Water bottles may be caught as junk when fishing.
+Using a glass bottle on water source block or a cauldron will turn it into a water bottle. Using a glass bottle on a cauldron will also lower the water level of that cauldron by 1/3.
+Almost all potions can be obtained by brewing, starting with the water bottle as the base.
+Potions have a different effect according to their damage value, with the exception of reverted potions being identical to their base potions.
+Potions can be used by pressing and holding use, similarly to eating food. Upon using, they will apply the corresponding status effect to the player.
+Potions have four tiers, those being base, extended, level II, and reverted. On most potions, extended is obtained by adding a piece of redstone to the potion in the brewing stand, while level II requires a glowstone dust. If an extended potion receives a glowstone dust, or a level II potion receives a piece or redstone, it will change to the other effect if available, or become a reverted potion.
+Most potions can also be "corrupted" using a fermented spider eyes, which usually inverts the effect (for example: Healing to Harming). Corrupted potions have the same four tiers as normal potions, and tiers are usually kept after corruption.
+In the Console Edition, there are bars underneath each potion. One means it is weak, the second means glowstone added, the third means redstone added, and the fourth means both (creative only).
+Base potions are potions that are created first to brew into other potions. Base potions have no effect when you drink them.
+Note, that the duration of tier II potion is always half the duration of its base potion, and the duration of extended tier I potion is 8/3 the duration of base.
+This class of potions exist in the game code and are functional, but cannot be brewed. They are extended and empowered versions of existing potions, but the brewing process normally only allows for one of the two to take precedence. Thus, these potions result from custom data values that place both effects on the potion. The data values for these potions are essentially the values of the original potions added by 96 (e.g. the data value for Potion of Strength (8201) + 96 = 8297 (the data value of Potion of Strength II (extended))) See the table below for the complete set of what is included.
+There are 30 unused potions that were left behind in Beta 1.9-pre2. All unused potions have no effect and appear to be re-textures of other potions. Below is a list of their names and values.
+These potions can only be obtained by using the command /give <player> minecraft:potion 1 <damage-value> {CustomPotionEffects:[]}. Adding a multiple of 64 to the value will result in the same potion. As with other potions, adding the value with 16384 will result in a splash version of given potion.
+Values with a * do not require {CustomPotionEffects:[]} at the end of the command.
+Potions can be obtained with any status effect using /give and the tag CustomPotionEffects, which is an array of effects for the potion. See Item format#Potion Effects for more information, and status effect for a list of effects and IDs.
+Potions have a data value of 373, and an ID name of minecraft:potion. They use their item data to determine which potion effect is applied.
+(r) = Reverted Potion Bits 0-3 (1, 2, 4 and 8) determine the potion effect. The highest legitimately available is currently 14 decimal = 1110 binary.
+(r) = Reverted Potion Bits 0-5 (1, 2, 4, 8, 16, 32) determine the potion's name.
+(r) = Reverted Potion If bit 5 (32) is true, the potion is a level II potion (or, in some cases, a reverted potion).
+(r) = Reverted Potion If bit 6 (64) is true, the potion is an extended potion (or, in some cases, a reverted potion).
+(r) = Reverted Potion Potions with bits 5 and 6 set to true cannot be brewed.
+(r) = Reverted Potion Bits 13 and 14 (8192 and 16384) determines whether the potion is a drinkable potion or a splash potion. If bit 13 is true, it's drinkable. If 14 is true, it's a splash potion.
+(r) = Reverted Potion Bits 7-12 and 15 are ignored, so many potions with distinct data values will have the same properties.
+Taking a potion while already under the effects of another potion does not add onto the effects time, but simply resets it. A potion effect will not "downgrade" if a lower level is activated. For example, if a player has Regeneration II, drinking a regular Potion of Regeneration will not have any effect.
+A potion can reach a maximum tier of 127, but using the /effect command, effect levels can reach 255.
+When a player drinks two potions by quickly switching to another potion immediately after drinking one, the second drinking animation will not be shown.
+An Instant Damage potion IV is powerful enough to instantly kill players.
+Potion of Poison II lasts for 22.5 seconds, but it is displayed as 22 seconds because the item hover display only shows rounded-down integer values.
+All potions are renewable. Bottles can be obtained from a witch (as can some potions), and already filled ones can be fished up. All potion ingredients from then on have renewable ingredients, provided blocks of farmland, water and soul sand exist in the world.
+Potion effects and glass bottles.
+Thick Potion with status effects of "Mining Fatigue" (duration 4:00) and "Instant Health II" (brewed in Beta 1.9 Pre-release 2, now unavailable without commands).
+The bubbles appearing when the player drinks potion (potion of strength in this case).
+Night Vision effect at around 1800 hours.
+Invisible sheep. Its wool can still be seen while having an invisibility potion. This is an intended feature.
+What happens when you use the night vision potion while in the Nether.
+A brewing stand with a potion displayed next to it.
+Minecraft Potions - A Visual Guide.

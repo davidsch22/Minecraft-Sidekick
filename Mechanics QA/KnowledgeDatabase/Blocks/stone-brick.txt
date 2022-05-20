@@ -1,0 +1,14 @@
+Dec value: 98.
+Hex value: 62.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Stone bricks are part of Strongholds and only found naturally in these structures. Unlike all its counterparts, these blocks can be crafted by placing 4 stone blocks in a square in any crafting interface. They can be mined with any pickaxe. Mining it with anything else will destroy the block.
+These stone bricks are widely used, from normal buildings to ruins and weathered structures. It’s often used with the cracked and mossy versions to make structures look old and weathered.
+Dec value: 97:2.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Silverfish are capable of entering and hiding in these stones, which doesn’t change the look of the stone, but it has different proporties than regular stone brick. Breaking this new type of stone will set the silverfish free, which will attack you and it’ll call other silverfish who might be hiding in other stones. Luckily, Silverfish only appear naturally in strongholds.

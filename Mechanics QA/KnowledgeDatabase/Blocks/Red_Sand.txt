@@ -1,0 +1,6 @@
+Red Sand is a block added to Minecraft in Update 1.7. and can be found in the Mesa Biome. This block is also affected by gravity, like its Desert Biome counterpart.
+It was first added to Minecraft in Snapshot 13w39a.
+It can be used to make TNT and Glass, but not Sandstone.
+It has a 2.5 blast resistance, like normal sand.
+Apart from color, the textures for the two sands are the same.
+As of Minecraft 1.8 update you can craft Red Sandstone out of red sand.

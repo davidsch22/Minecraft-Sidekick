@@ -1,0 +1,14 @@
+Leads, also known as leashes, are items used to leash and lead passive mobs.
+Using a lead on a mob will tie it to the mob, allowing it to be moved by the player. Multiple mobs can be held by leads at once, but require one lead per mob led. The only mobs that cannot be leashed are bats, villagers and hostile mobs, though the latter two can be leashed using a map or NBT editor. Players cannot be leashed either.
+With a mob on a lead, using it on any type of fence will attach any leads you are holding to the fence with a visible knot. Multiple leads may be attached to one fencepost. A mob will tend to stay within 5 blocks of the fencepost.
+Pressing the use item control on the mob again, hitting the knot, removing the fence post will break the lead(s). Leads will also be broken if the knot is hit by arrows. Whenever a lead is removed or broken, it will drop as an item at the location of the mob – except if pressing use item control on the mob in Creative mode. A lead will not break if the animal that it is attached to dies.
+A lead will stretch a maximum of 10 blocks before breaking.
+A lead will not prevent a mob which would otherwise despawn, such as a squid, from despawning.
+If the player is holding a lead connected to a mob, walks through a nether portal, then walks back through it, the player will still have the leads attached to the mob. However, if the mob walks into a nether portal, the leads are broken and dropped as items in the other dimension.
+The lead is named as “leash” in the texture file.
+If a player goes to sleep while holding a mob on a lead, the lead will remain attached.
+A horse wearing iron horse armor that is leashed to a fence post.
+Three sheep tied to the same fence.
+A shot of all the mobs that could be tied with leads as of 1.6.1, except donkeys and mules.
+With the use of the leash, it is possible to suspend animals in the air by tying the leash on high-up fence posts.
+How to use Grumm/Dinnerbone name tag easter egg and a lead to make a yo-yo.

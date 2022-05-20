@@ -1,0 +1,44 @@
+Magma Cubes, also known as Fire Slimes, are hostile mobs found in the Nether and were released in 1.9 Beta, more commonly found near nether fortresses. When they move, they jump and momentarily unravel into eight layers, giving them the appearance of a spring and revealing a molten core inside.
+Magma cubes will jump slowly in random directions until a player is in range, when they will start to jump faster and attempt to damage the player. A unique ability of these creatures is that they do not drown in Lava, and they do not get hurt by water itself, but they can drown in water.
+Big and small magma cubes both drop magma cream, although tiny ones don't. All magma cubes, however, drop experience orbs.
+Magma Cubes seem to be the Nether equivalent of Slimes. Although they appear similarly, the components of their texture files are quite different.
+It is possible, if a player kills a magma cube and all the smaller ones that result from it, to get 28 experience points from one big magma cube.
+Magma Cubes do not take fall damage.
+Tiny slimes are harmless and are popular pets among Minecraft fans, but tiny magma cubes will harm the player. However, they only damage you when you get on the wrong side of them - underneath. You can still keep these as pets if you are careful.
+All magma cubes, no matter what size, can jump 3 blocks high, while regular slimes can only jump one block high!
+Automatic magma cube farms are hard to build due to the fact Water cannot be put in the Nether legitimately.
+Some fans falsely believe that when a Slime is pushed or spawned inside fire or lava, it turns into a Magma Cube.
+Update 0.11.0 introduced Magma Cubes into the Pocket Edition. .
+Large amount of Magma Cubes.
+A large Magma Cube's size compared to a player.
+Closeup magma cube. They emit the same fire particles as a mob spawner upon landing.
+A group of small Magma Cubes.
+A fully separated Magma Cube. Note the lava core within its body.
+A semi-auto farm using trapdoors.
+Magma Cube Spawn Egg.
+Add a photo to this gallery.
+Magma cubes are hostile mobs with dark red and black skin and red, orange and yellow eyes that can be found exclusively in the Nether. They are considered the Nether equivalent of slimes, with similar behaviors.
+Magma cubes can rarely spawn anywhere in the Nether at any light level, but their spawn rate is higher in nether fortresses.
+Big and small sized magma cubes have a 25% chance to drop a single magma cream, the chances and amount can be increased with the Looting enchantment.
+Magma cubes move by hopping, which they will do each 40 to 120 ticks (2 to 6 seconds).
+Magma cubes will search for a player within 16 blocks (spherical) distance. If no players are found, they wait 40 to 120 ticks (2 to 6 seconds). Then they will change direction, by a random amount up to 57.26° (1 radian) left or right, jump, and repeat the process.
+ If a player is found, the delay before jumping will be ⁄3 as long (13 to 40 ticks), and the magma cube's direction will be set directly toward the nearest player before jumping.
+Magma cubes cannot burn and are not slowed down or damaged by lava. Instead, it seems that they can swim upward extremely quickly in lava. They are immune to fall damage.
+Magma cubes' jump height depends on their size. Their forward speed is twice that of most other mobs. They always make a distinct sound upon jumping up and landing, but no idle sounds.
+Unlike most other mobs, magma cubes have no pathfinding ability, meaning that they will not avoid falling off cliffs, cannot go around walls, even when they are chasing a player.
+Magma cubes attack players by attempting to land on top of them, but can cause damage when the player touches them anywhere. This can make large cubes tricky to fight, as their jump rate is fairly random.
+The health of a magma cube is size squared. The attack strength is size plus 2. The armor points is size tripled.
+A magma cube's jump height and distance also depends on their size; a magma cube will jump a distance approximate to its length times 1.5, and a height equivalent to their size in blocks. This means that a size 4 magma cube will jump four blocks in height and move significantly quicker than a size 2 magma cube, which will jump two blocks in height, while a size 1 (tiny) will move at a very slow rate and jump one block in height.
+When a magma cube is killed, it may split into 1 to 4 magma cubes of the smaller size, and will disappear like other mobs if the smallest size is killed.
+Magma cubes also have an odd attack interval: their attack speed is twice that of other melee-combat mobs. Mobs like Endermen and silverfish attack at a rate of one hit per second, while magma cubes attack at a rate of two hits per second. Essentially, this means that a size 4 magma cube will deal six hearts of damage per second on normal difficulty, dealing three hearts every half-second.
+Magma cubes appear to glow, as their eyes seem to stay bright at some low light levels.
+Large magma cubes can jump 4 blocks high, the maximum height one can achieve in survival.
+Their texture file is called "lava.png".
+Magma cubes are a somewhat rare sight in the Nether, spawning infrequently with only one per spawn. They tend to spawn more frequently in Nether fortresses, however.
+If you have access to slimes in the Overworld, you don't necessarily need to hunt magma cubes for magma cream, as you can craft it using one slimeball and one blaze powder. This still means you must go to the Nether, however, and it may be easier to pick up magma cream while you're there, as opposed to wasting slimeballs and blaze powder.
+Large amount of magma cubes.
+Size comparison between a large magma cube and a player.
+Closeup magma cube. They emit the same flame particles as a mob spawner upon landing.
+A group of small magma cubes.
+A fully separated magma cube. Note the lava core within its body.
+A magma cube jumping out of lava.

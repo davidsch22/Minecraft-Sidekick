@@ -1,0 +1,57 @@
+Natural Blocks .
+    Air                          Dirt                Obsidian              Mossy Stone Brick.
+ Bedrock                   Gravel              Snow.
+ Clay Block       Ice                               Dirt  Snow.      W.     .
+ Cobblestone      Monster Spawner        Stone.
+ Moss Stone             Sand               Stone Brick.
+ Cobweb           Sandstone          Cracked Stone Brick.
+Manufactured Blocks.
+ Bookshelf                    Jack-O-Lantern       White Wool.
+ Brick Block                Ladder       .
+ Fence              Slab.
+ Glass                           Snow Block.
+ Glass Pane                 Stairs.
+   Iron Bars          Wood Planks.
+Ore.
+ Coal Ore           Redstone Ore.
+ Diamond Ore       .
+ Emerald Ore.
+ Gold Ore.
+ Iron Ore.
+ Lapis Lazuli Ore.
+Mineral Blocks.
+ Block of Diamond        Block of Quartz             Enchantment Table.
+ Block of Gold           Brewing Stand                  Furnace.
+ Block of Iron                    Cake                                    Jukebox.
+ Lapis Lazuli Block           Cauldron                            TNT.
+ Block of Emerald               Chest.
+ Block of Redstone             Crafting Table.
+Mechanisms.
+ Button                    Note Block             Detector Rail.
+ Redstone Lamp      Piston                     Redstone Wire.
+ Dispenser              Sticky Piston       Redstone Torch.
+ Doors           Pressure Plates    Redstone Repeater.
+ Fence Gate            Rail             .
+            Trapdoor.
+ Lever                      Powered Rail.
+Plants.
+ Cactus                    Red Mushroom.
+ Dead Bush              Huge Red Mushroom.
+ Dandelion             Stalk.
+ Rose                        Mycelium.
+ Cyan Flower          Pumpkin.
+ Grass Block          Saplings.
+Tall Grass             Sugar Cane.
+ Leaves                    Vines.
+ Lily Pad                 Wheat.
+ Melon                       Wood.
+Liquids.
+ Lava.
+ Water.
+Non-Solid.
+ Fire.
+ Sign.
+ Torch.
+The Nether.
+ Glowstone.
+ Netherrack.

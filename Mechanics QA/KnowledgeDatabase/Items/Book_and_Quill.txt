@@ -1,0 +1,30 @@
+Books and quills are items used to write written books.
+By pressing use item while holding a book and quill in their hand, the player can open a text editor GUI.
+Using this GUI, the player can write a single book up to 50 pages long, with up to 256 characters per page, with line breaks counting as two characters. No page may be longer than 14 lines and each line can have an average of 19 characters, determined by the width of the used characters.
+The player has the ability to copy and paste into books. However, the paste will not work if the text being pasted is longer than a single page. Most Unicode characters are available in books, and they may be pasted in without issue.
+In Single player, the world will pause while a book is being edited.
+You cannot yet move the cursor while writing into a book. Selecting text is also unavailable.
+Text in a book can be styled using codes starting with the § character (section sign), which may be copied and pasted into the book or typed using varying methods based on your keyboard. § + k creates randomly changing characters.
+ § + l creates bold text.
+ § + m creates text with a strike-through.
+ § + n creates underlined text.
+ § + o creates italic text.
+ § + 0 – f (hexadecimal) creates colored text.
+ § + r resets any of the previous styles so text after it appears normally.
+To use multiple formatting codes, the color code must be used first, as it will cancel out all preceding codes. If you use multiple codes, and continue typing past the end of a line, the next line will exhibit only the last formatting code used.
+Books can be signed by pressing the "Sign" button while in the interface. When signed, a book will have the name of the player who wrote it and a title chosen upon signing. After it has been signed, it cannot be edited again.
+The title of the book can be up to 16 characters long, and the player cannot paste into a title. Special characters can be used in the title, if typed from a keyboard which contains them. Alt codes do not work, and the § character cannot be typed even using a keyboard which has it implemented, meaning titles cannot be colored or formatted in-game.
+The in-game restrictions on books are not hard limits. Third party editors can make books have more than 50 pages, more than 256 characters per page, change author names, and have colored titles, among other things. These books will then function properly in vanilla Minecraft, meaning you may encounter such books on adventure maps or multiplayer servers.
+Although the name blank is only 16 characters long, you can give it a longer name using an anvil.
+If you rename a book and quill in an anvil before signing it, it will keep the name from the anvil instead of taking the name from signing.
+If you rename a book and quill in an anvil before writing in it, you will not be capable of writing anything in the book. If something is written in it before it is renamed, then it will function normally.
+The first image of a book seen.
+Title Menu.
+Writing Menu.
+A signed book.
+Display of styles used in a book. "e" and "f" are difficult to see.
+Different types of characters can be used to simulate a different font.
+Bookshop - Book Sharing And Editing Tool.
+Full-Width Text Generator.
+Small Caps Text Generator.
+Revise - External Book Editor.

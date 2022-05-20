@@ -1,0 +1,7 @@
+The flint and steel is a tool used to light fires.
+Chests in Nether fortresses may contain flint and steel.
+When used on top of a solid, fully opaque block or on the sides of a flammable block, the flint and steel sets a fire on the surface on which it was used. Flint and steel has 65 uses. If used on a transparent block (such as glass) or a block which is underwater, it will not start a fire but still will consume durability. Durability is also consumed if used on an already existing fire.
+It also can be used to light nether portals.
+In both survival and creative, using flint and steel on TNT will set it off. Flint and steel can also be used to detonate creepers.
+Flint and steel can receive the Unbreaking enchantment, but only through the use of an anvil.
+In adventure mode, flint and steel cannot light fires, nor can it ignite nether portals (unless it has the tag {CanPlaceOn:obsidian}). However, it can still ignite TNT and creepers.

@@ -1,0 +1,21 @@
+Podzol is a block that was added in Minecraft 1.7 update and 0.9.0 for the Pocket Edition. It has a similar look to standard grass but the top texture seems to be covered with dead leaves. It doesn't spread, so it can't be harvested like regular Grass Blocks. Podzol's data value is 3:2. If it is mined without Silk Touch, it'll turn into regular dirt.
+Podzol does not spread to adjacent blocks like grass.
+Podzol is found in the Mega-Taiga Biome.
+Podzol must be mined with Silk Touch to be harvested.
+The first image posted of Podzol by Dinnerbone.
+Some Podzol in Minecraft Pocket Edition.
+Add a photo to this gallery.
+Template:Compare.
+Podzol is a dirt-type variant block.
+Podzol can be collected using any tool, but the shovel is the quickest. Can only be obtained using a tool with Silk Touch, or it will drop dirt instead.
+Podzol generates only in mega taiga biomes.
+Podzol allows mushrooms to be placed on it no matter the light level, allowing the growing of huge mushrooms, like mycelium. Saplings, all kind of flowers and sugar canes can be placed on it normally.
+Podzol has only one possible tile name: minecraft:dirt, which it shares with dirt. The tile data field defines which block is displayed. Podzol has the Numerical ID 243 in Pocket Edition.
+Unlike other similar blocks, podzol will never spread to dirt blocks, nor will it turn into dirt if a solid block is placed on top of it, no matter how long the block remains on top of it. This is because podzol is a type of soil, and has the same Block ID as dirt, just a different data value.
+Neither grass nor mycelium can spread to podzol.
+Podzol can be picked up by endermen.
+Podzol resembles what the ground of many forests looks like, because a high abundance of trees with leaves keeps the ground relatively shaded, making it hard for grass to grow, and forest floors are also often covered with dead leaves that have fallen from the trees.
+The biome in which podzol can be seen.
+First official image of the block.
+Farmland.
+Grass Block.

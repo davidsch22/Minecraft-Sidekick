@@ -1,0 +1,56 @@
+ Cauldrons are a form of brewing equipment that appeared in 1.9 Beta. The brewing function was later replaced with the brewing stand because of the inconvenient method of brewing with the cauldron. It would have been used to make Potions using Brewing Recipes.
+As of Beta 1.9 Pre-release 3, Cauldrons can now be crafted, and used to store water. Cauldrons can now refill Glass Bottles with the water required for brewing. Each Cauldron holds three bottles worth of water, which is equal to a single bucket. Despite being able to fill up any empty bottles with any regular source block, cauldrons have a new feature that allows them to emit a redstone signal when a redstone comparator is placed beside it. The more water that's inside it, the stronger the signal. It is also used for returning leather armor into their original color if it is dyed. To also note, they are useful in the nether, as cauldrons are the only items you can put water in.
+Cauldrons cannot hold lava or milk despite both being able to be carried in buckets.
+Potions can be brewed in 1.9 Beta Pre-Release 2 by adding a bucket of water along with various other ingredients to a cauldron which then runs them through a mathematical algorithm that can result in one of over two thousand different potions with positive or negative effects.
+When broken, cauldrons do not drop water, only the cauldron itself.
+When the cauldron is being mined with water in it, the mining animation will superimpose itself over the water as well.
+If a cauldron is outside, when it rains the cauldron has the potential to fill with water.
+A witch's hut (a generated structure in Minecraft) has a cauldron in it.
+Using a cauldron is inefficient, since one water block source in a cauldron can only fill three bottles, while a water source placed anywhere can fill infinite bottles.
+As of 1.8 you can use Cauldrons to remove the dye on a Banner, just like leather armor.
+In XBLA edition, if a villager were to jump into a cauldron, they could not escape and would require the cauldron to break in order to free them.
+A Cauldron is a block that can hold water.
+Cauldrons can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing. When a cauldron is destroyed, any water inside it will be lost.
+A cauldron can be crafted from iron ingots.
+A single empty cauldron is generated in each witch hut.
+To fill a cauldron with water, press use on the cauldron with a water bucket. A cauldron also has a chance to fill up with water when rained upon.
+With water in it, a cauldron can be used to fill glass bottles (turning them into water bottles), wash dye off of leather armor or remove the top-most pattern layer of a banner. To use the cauldron, press use on the cauldron with the glass bottle, leather armor or banner.
+A cauldron will extinguish mobs on fire (including players) who fall into it. Each use (including extinguishing mobs) causes the water level in the cauldron to decrease by one-third. After it has been used three times, it will be empty and must be refilled before additional uses. Endermen in a filled cauldron don't take damage from the water in it.
+A cauldron cannot be used to fill an empty bucket, and water bottles cannot be used to refill a cauldron. A cauldron can be filled from a water bucket in the Nether.
+A cauldron can act as a power source for a redstone comparator. With a cauldron behind it (possibly separated by an unpowered solid block), a comparator will output a signal strength proportional to how full the cauldron is: 0 for empty, 1 for one-third full, 2 for two-thirds full, and 3 for completely full.
+Cauldron's fullness is defined by their block data. In future, it is planned to replace block data with block states.
+Arrows "stick" to the water in a cauldron.
+If you try to sneak over a cauldron, you can still fall in.
+Inside a cauldron is 0.3125 (5/16) block tall.
+While a cauldron that contains water is being broken, the water will show cracks as if it were a block.
+If an item is thrown into a cauldron with a hopper underneath it, the hopper will receive the item.
+How potions were brewed in Beta 1.9 Pre-Release 2, if enabled through a mod.
+How cauldrons look with the three different levels of water in them (and empty for comparison).
+A naturally occurring cauldron inside of a witch hut.
+An example of a cauldron used in a redstone circuit.
+Dec value: block: 108; item: 380.
+Hex value: block: 76; item: 17C.
+ Minimum tool requirement to break: Stone pickaxe.
+Blast resistance: 10.
+Maximum stack 64.
+Transparency: Yes.
+Cauldrons are a great decoration block, though they can be used in brewing. They can be filled using a bucket of water, which can then be used to fill 3 bottles of water. This is a rather inefficient method however, as simply clicking a water source block with empty bottles allows for an infinite number of bottles to be filled.
+Because water cannot be placed in the Nether, cauldrons do allow you to brew potions in the Nether. But again, it’s way more efficient to simply bring a load of water bottles to the Nether instead of having to fill up loads of water bottles.
+Cauldrons are created with 7 iron ingots and require at least a stone pickaxe to be broken again, without destroying it. Breaking a cauldron filled with water will simply destroy the water, nothing will be spilled on the ground.
+Despite containing water, cauldrons cannot extinguish players or mobs who are on fire.
+Cauldrons are often only used as decoration, usually as sinks in kitchens and bathrooms. Placing a lever above it makes for a great tap. Players and mobs can get in the cauldron, so some players pretend the cauldron is a bath or shower.
+A funny way to create “caveman soup” is to fill the cauldron with water and push in a chicken. The chicken will not be able to get out and will just swim around a little. The chicken will not drown. If you remove the block under the cauldron and replace it with fire, the whole caveman soup picture is complete.
+For some reason this only seems to work if the cauldron is placed on its own, without other blocks next to it. If the cauldron placed next to other blocks the chicken will able to get out. However, placing a trapdoor above the cauldron, either opened or closed, will keep the chicken in.
+Dec value: block: 108; item: 380.
+Hex value: block: 76; item: 17C.
+ Minimum tool requirement to break: Stone pickaxe.
+Blast resistance: 10.
+Maximum stack 64.
+Transparency: Yes.
+Cauldrons are a great decoration block, though they can be used in brewing. They can be filled using a bucket of water, which can then be used to fill 3 bottles of water. This is a rather inefficient method however, as simply clicking a water source block with empty bottles allows for an infinite number of bottles to be filled.
+Because water cannot be placed in the Nether, cauldrons do allow you to brew potions in the Nether. But again, it’s way more efficient to simply bring a load of water bottles to the Nether instead of having to fill up loads of water bottles.
+Cauldrons are created with 7 iron ingots and require at least a stone pickaxe to be broken again, without destroying it. Breaking a cauldron filled with water will simply destroy the water, nothing will be spilled on the ground.
+Despite containing water, cauldrons cannot extinguish players or mobs who are on fire.
+Cauldrons are often only used as decoration, usually as sinks in kitchens and bathrooms. Placing a lever above it makes for a great tap. Players and mobs can get in the cauldron, so some players pretend the cauldron is a bath or shower.
+A funny way to create “caveman soup” is to fill the cauldron with water and push in a chicken. The chicken will not be able to get out and will just swim around a little. The chicken will not drown. If you remove the block under the cauldron and replace it with fire, the whole caveman soup picture is complete.
+For some reason this only seems to work if the cauldron is placed on its own, without other blocks next to it. If the cauldron placed next to other blocks the chicken will able to get out. However, placing a trapdoor above the cauldron, either opened or closed, will keep the chicken in.

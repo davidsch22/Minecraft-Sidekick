@@ -1,0 +1,27 @@
+A Lever is one of multiple power sources for Redstone. Like the Button, levers can be connected to Redstone Dust to be operated far away from the target block. Levers are placeable on every non-transparent block. Levers are currently able to be placed on slabs, but they have a glitched model. Levers release an infinite signal, unlike their button counterparts, until shut off. If You destroy the block that the lever is on it will be destroyed.
+Levers differ from Buttons in that the charge they provide is stable - once clicked, a Lever will remain on or off until clicked again. Clicking a Lever also causes a visual change as the shaft of the device moves from one side to the other. Their stable nature makes Lever well suited to controlling devices that need to remain in one of two states for an indefinite period, such as minecart tracks or locking mechanisms in advanced circuits.
+When placed on the side of blocks, up is OFF and down is ON. On the top of blocks, ON is south or west, OFF is north or east.
+Notch standing next to the lever he will pull to officially release Minecraft.
+The lever is thrown... and Minecraft is released!
+Add a photo to this gallery.
+Please note that there is a glitch where you activate it two times with out Clicking it.
+A lever is a non-solid block which can provide switchable redstone power.
+Levers can be mined using any tool, or without a tool.
+A lever will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.
+A lever will also be removed and drop itself as an item if water flows into its space.
+A lever will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+If lava flows into a lever's space, the lever will be destroyed without dropping itself as an item.
+Levers can be crafted from sticks and cobblestone.
+Three levers are generated naturally in each jungle temple.
+A lever can be used as a player-switchable redstone power source.
+To place a lever, use the "Use Item/Place Block" control (right-click, by default) while aiming at the surface to which it should be attached.
+A lever can be attached to the top, side, or bottom of any full solid opaque block (stone, dirt, blocks of gold, etc.), or to the top of an upside-down slab or upside-down stairs (but not to the bottom of a right-side-up slab or stairs). When placed on the top or bottom of a block, the lever will configure its orientation to be in-line with the placing player.
+When placed on the side of blocks, down is on and up is off. On the top or bottom of blocks, on is north or west, off is south or east.
+To activate or deactivate a lever, use the "Use Item/Place Block" control (right-click, by default). A lever can be turned on and off as fast as it can be clicked.
+Mobs cannot turn a lever on or off.
+While active, a lever powers any adjacent redstone dust (including beneath the lever) to power level 15.
+While active, a lever powers any adjacent redstone comparator or redstone repeater facing away from the lever to power level 15.
+While active, a lever strongly powers its attachment block to power level 15 (only if the attachment block is a full solid opaque block).
+While active, a lever activates any adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+Every lever has an ID name of minecraft:lever and stores its orientation and activation status in its block data. A lever also has a block state which is expected to replace the functionality of block data in a future version.
+A lever's block data stores its orientation, and whether it is active.

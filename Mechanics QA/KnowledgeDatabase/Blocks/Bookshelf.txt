@@ -1,0 +1,33 @@
+Bookshelves are Blocks that serve as a decoration or an upgrade. Bookshelves are generated in Libraries, inside Strongholds, and within NPC Villages.  A single Bookshelf can be crafted by arranging six Wooden Planks and three Books. Whenever a Bookshelf is destroyed, it will drop three books. Bookshelves are very important for improving Enchantment Tables. When placed close to one, it will begin to send floating white symbols to the book. This grants the player a chance to receive better enchantments, though not guaranteed.
+Bookshelves were added in the 0.26 patch of Survival Test, but they were not able to be naturally spawned until the 0.28 patch. They were left in obscurity, as they could not be crafted until Beta. Bookshelves and libraries were finally implemented in Beta 1.9 pre-release 3, as they could be used to receive higher enchantments on weapons and tools. As of Beta 1.9, destroying a Bookshelf will drop three Books. Bookshelves can also be obtained in a trade with Villagers as of 1.3.1.
+Bookshelves are also in Minecraft Classic.
+A Bookshelf Block will always have the exact same books in the exact same places, meaning that the books are either the exact same, or books in series.
+If at least 30 Bookshelves are in a room surrounding an Enchantment Table, new enchantments will become available at higher levels.
+2 rows of bookshelves. All the books are identical.
+Bookshelves as seen in a NPC village pub.
+Bookshelves surrounding an Enchantment Table.
+Add a photo to this gallery.
+Bookshelves are blocks that primarily serve to enhance enchanting with an enchantment table.
+Bookshelves can be broken fairly easily by hand, but can be broken faster by using an axe. In either case, they will drop 3 books when broken, allowing the reconstruction of the bookshelf with the addition of six wood planks. When broken by an item that is enchanted with silk touch, it will drop itself.
+Villages often generate libraries, and inside each library there are seven bookshelves.
+Strongholds almost always generate an abandoned library. These feature some bookshelves arranged in pillars, and more bookshelves arranged in pillars in the walls. And a balcony with two walls covered in pillars of bookshelves. There are about 224 (3.5 stacks) bookshelves in each library.
+A bookshelf can be bought from a librarian villager for 3 to 4 emeralds as part of their tier 2 trades.
+If an enchantment table is placed near a bookshelf, glyph particles will fly from a bookshelf towards the enchantment table. The enchantment table will then gain access to higher experience-level enchantments.
+To get to the highest level of enchanting (level 30), you will need 15 bookshelves placed within a 5×5 square centered at the table or the block above. No other blocks can be placed in between the table and the bookshelves.
+Bookshelves can be used as furnace fuel to smelt an item for 15 seconds.
+Bookshelves top and bottom textures by default use the same texture as oak wood planks.
+It takes 90 wood planks, 45 leather and 135 paper to make 15 bookshelves in order to get a level 30 enchantment.
+Naturally occurring bookshelves in villages.
+Naturally occurring bookshelves in strongholds.
+Bookshelves obtained via villager trading.
+Dec value: 47.
+Hex value: 2F.
+Minimum tool requirement to break: None.
+Blast resistance: 7.5.
+Maximum stack 64.
+Transparency: No.
+Bookshelves are most commonly used as decoration and can be found in villages and Strongholds. However, they also serve as a way to increase the maximum level of possible enchants you can use with the enchantment table.
+Bookshelves are created using 3 books and 6 wooden planks. The planks can be any combination of the 4 different colored planks, but they have no impact on the result, which will always look the same. Bookshelves can be destroyed by hand, though axes are faster. When destroyed, they only drop 3 books. Like most wooden objects, bookshelves are flammable and will catch fire from any nearby lava or fire block.
+Bookshelves can unlock higher leveled enchantments when they’re with 1 block in between it and the enchantment table. This means you can only placed them in a 5×5 square around the enchantment table, as well as on top of that square, but not under it.
+The space between the bookshelves and the enchantment table also has to be air, anything placed there will block the effect. A total of 32 bookshelves can be placed around it, however, only 30 bookshelves can be active at once. The last 2 bookshelves have no effect, so you can leave those out to create a doorway. The maximum enchanting level is capped at 50.
+When bookshelves are placed right, small particles will fly from the bookshelves towards the enchanting table.

@@ -1,0 +1,19 @@
+Compasses are an item used to point to the world spawn.
+Compasses can be found in chests in stronghold libraries.
+A single compass can be bought from a librarian villager for 10 to 12 emeralds as part of their tier 2 trades.
+The compass needle points towards the world spawn point. The compass will point to spawn when viewed in any way, including as a dropped item, in a player's hand, in an inventory or the crafting table, or in an item frame. The direction the needle points is relative to the player who is viewing it.
+In the Nether or the End, the compass' needle will spin wildly and point in random directions.
+A compass can be viewed under the item statistics page, as long as one has made a compass at some point in the past.
+A compass points to the northwest corner of a block, not the middle. This is because the spawn area is centered around this point, not a block.
+Using /setworldspawn to change the world spawn will change where the compass points to.
+Purchasing a Compass.
+Clock.
+Navigation.
+Dec value: 345.
+Hex value: 159.
+Maximum stack 1.
+A compass is a handy tool that always points to your original spawn point, as long as the player is in the Overworld. A compass will not work in the End or the Nether, it will spin around randomly and becomes completely useless as a navigational tool. Like using a compass in the real world will tell you your location relative to magnetic north, the compass in minecraft will tell you your position relative to your spawn point.
+A compass is crafted using 4 iron ingots and a lump of redstone dust, so it’s often available reasonably early in game. The compass will even work when it’s still being crafted. By placing the required items in the crafting table, the compass in the result slot will point towards your original spawn point. Compasses are used to craft maps, which allow you to map out the area around where you created the map.
+A compass is a great way to keep track of where you and your bases are located, without having to build huge towers or other beacons to show you the way. But you’ll have to remember which base is position in which direction from your spawn point, which is why some players prefer using beacons, signs and other navigational reminders.
+Sleeping in a bed will change your spawn point, but it will not change where your compass will point to, which is always the point you spawned at when you first created the map. This doesn’t make the compass useless though. If your base is positioned east of your original spawn point and your compass is pointing south, you will have to walk roughly south east to get to your base.
+A compass will also work on multiplayer servers, however, all compasses will point towards your own original spawn point even if it’s held by another players. The other players will see their own original spawn point though, so navigating together will only work if there’s one designated navigator.

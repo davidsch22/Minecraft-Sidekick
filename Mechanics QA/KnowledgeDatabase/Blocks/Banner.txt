@@ -1,0 +1,53 @@
+ Banners or Flags are tall decorative blocks, featuring a field that is highly customizable using dyes and Blocks/Items.
+Note that the Banner will be the color of Wool you use. Also, you can't mix colors.
+A banner holds a flag that can take on many different appearances. There are 16 colored blank flags, and numerous patterns each available in 16 colors. A flag can feature up to 6 different patterns.
+Banners, much like signs, can be placed both on the ground, facing different directions, and on walls. They can also be placed in Item Frames, where they simply appear as their item model.
+A layer of pattern can be washed off using a Cauldron, like dyed leather armor.
+[edit].
+A banner may have up to six patterns, which are overlaid with the last-crafted on top.
+The location of the banner in shaped recipes does not matter, as long as the dyes are in the exact location specified.
+You can make up to more than 24 trigintillion (one trigintillion is a one (1) followed by 93 zeroes) if you use commands to get different types of banners of more than 6 patterns!
+For special patterns you can use a Creeper and a Wither Skeleton head for creeper face and skull & crossbones, an Oxeye Daisy for a flower icon, a Vines for serrated border pattern, a Brick block for a brick pattern and an Enchanted Golden Apple for the Mojang logo.
+SmoothScape Creates 200 Flags From Around The World.
+The first photo Jeb posted of Banners.
+A photo of some country flags made using Banners.
+Add a photo to this gallery.
+Banners or Flags are tall decorative blocks, featuring a field that is highly customizable using dyes.
+Banners can be broken with any tool, or without a tool, but an axe is fastest.
+A banner will also break and drop itself as an item if the block the banner is attached to is moved, removed, or destroyed.
+Banners can be crafted from wool and a stick.
+A banner holds a flag that can take on many different appearances. There are 16 colored blank flags, and numerous patterns each available in 16 colors. A flag can feature up to 6 different patterns.
+Banners, much like signs, can be placed both on the ground, facing different directions, and on walls. They can also be placed in item frames, where they simply appear as their item model.
+A layer of pattern can be washed off using a cauldron.
+Banners cannot be moved by pistons.
+Water and lava will flow around banners. Lava can create fire in air blocks next to banners as if the banners were flammable, but the banners will not burn up (and can't be burned by other methods, either).
+Banners have no collision mask (they are completely non-solid), so items and mobs can move through banners. Other blocks (including other banners) can be placed on any edge of a banner's hitbox.
+Banners can be copied with a blank banner to make multiple identical banners.
+Banners can be used as a source of fuel, smelting 1.5 items per banner.
+A banner may have up to six patterns, which are overlaid with the last-crafted on top.
+Any color banner can be used, the color will just be overlayed with the pattern. White banners with black and occasionally red patterns are shown here for simplicity.
+A banner is defined by its ID, block data, and block entity. A banner also has a block state which is expected to replace the functionality of block data in a future version.
+A banner's ID defines whether it is standing on the top of a block or attached to the side of a block.
+A banner's block data specifies the direction it is facing.
+Every banner has a Banner block entity associated with it that holds additional data about the banner.
+A banner is, visually, 2 blocks high and 1 block wide, but only uses the bottom block (or top block when placed on a wall); this allows another block to be placed directly above (or below) it.
+A banner is 20 pixels on the bottom, and 40 pixels on the side.
+Banners sway in the wind. However, banners lie still when in the nether.
+With 16 blank banners, 38 patterns of 16 colors each (608 uniquely-colored patterns), and 0 to 6 patterns per banner, the number of uniquely crafted banners is 16 × ( 608 + 608 + 608 + 608 + 608 + 608 + 608 ) ≈ 809 quadrillion (809,573,616,779,945,488). The number of visually distinct flags is smaller, because one or more patterns may completely cover other patterns, or the entire banner, or be duplicated due to the symmetric set of patterns (e.g. field Or (yellow) + per pale azure (blue) = field azure + per pale Or inverted).
+Although it is impossible to add more than 6 patterns to a banner through crafting, it can be done using commands. When hovered over such a banner in an inventory, only the six bottommost patterns are displayed. By using this method, the number of unique banners is approximately 24 trigintillion (one trigintillion is a one (1) followed by 93 zeroes).
+The Mojang Logo is called "Thing" ingame, which could be considered an alternate translation for mojäng. If you use Google Translate, it translates to "thingys".
+Banner textures are located in \assets\minecraft\textures\entity\banner. There are 34 monochrome textures, each containing all 6 sides of the banner.
+ The texture of the back side is mirrored texture of the front side.
+ Textures are inverted, that's because they're not used as textures, instead they act as masks for re-colored base texture, base.png. That means white is visible, while black is transparent.
+The first image of banners, as tweeted by Jens Bergensten.
+Banners in the official 1.8 poster.
+The result of using gradient different numbers of times, each time increasing the level of gradient by 1.
+All positions and rotations of a banner.
+Showing a banner in an item frame.
+Example of various types of banners.
+Example of banners designed to look like the flags of various countries (as well as a Jolly Roger and a Mojang cape).
+Examples of banners designed as Flags of European Countries.
+Examples of various cross flags including the Union Jack. All flags are technically incorrect but are closest currently possible.
+Koinobori made with banners in Minecraft.
+Example of a cheated-in banner with more than 6 patterns.
+Banner put in helmet slot by using /replaceitem.

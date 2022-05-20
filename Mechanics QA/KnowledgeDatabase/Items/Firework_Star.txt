@@ -1,0 +1,7 @@
+Firework stars are items used to determine the color, effect and shape of firework rockets.
+Firework stars are only obtainable through crafting.
+The only usage of firework stars is to create fireworks.
+Multiple firework stars can be used when crafting a firework rocket, in which case each one will go off simultaneously when the rocket detonates.
+A firework can only have one shape effect for each firework star used in the recipe.
+In addition to the shape effects, you may add either or both of these additional effects.
+Going by descriptions, there are 29 quintillion (2.9*10) unique firework stars (plus 1 if you count the blank one in creative mode) and 19 quadragintillion (1.9*10) unique firework rockets (plus 3 if you count ones made with blank stars), but going by their visual effects, there are only 2.1 trillion (2.1*10) distinct firework stars and 39 sesvigintillion (3.9*10) distinct firework rockets.

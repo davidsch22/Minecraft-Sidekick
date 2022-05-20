@@ -1,0 +1,11 @@
+Clay is a block that can be found below water.
+Clay blocks can be mined with anything, but shovels are quickest. Destroying clay blocks will yield 4 clay balls each. If broken with a tool enchanted with silk touch, it will drop itself instead.
+Clay is commonly found at the bottoms of rivers and lakes in shallow, circular patches, disregarding adjacency to other types of blocks. It can also be found commonly in swamps.
+In real life, clay can actually be reddish brown, not just gray, and can be often found under the surface and away from sand. This color is reflected in the appearance of hardened clay, bricks, and flower pots.
+Clay and clay balls.
+Distribution of clay blocks.
+Most notably in swamps, clay occurs in circular patterns such as this.
+Naturally occurring clay not next to water.
+Naturally occurring clay under a village farm.
+Clay occurring against a basin.
+Brick.

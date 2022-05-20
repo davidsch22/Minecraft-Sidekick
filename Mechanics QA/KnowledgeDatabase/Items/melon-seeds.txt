@@ -1,0 +1,5 @@
+Dec value: 362.
+Hex value: 16A.
+Maximum stack 64.
+Melon seeds can only be obtained by crafting a melon slice into melon seeds, harvesting a melon stalk or by finding the melon seeds in chests in abandoned mineshafts.
+To farm melons you simply hoe either a dirt or grass block, which will turn it into farmland. You can then plant the seeds on farmland and the seeds will grow over time. The seeds will require light of level 9 to grow. By hydrating the farmland the seeds will grow faster. This requires water to be within 4 blocks of the farmland.

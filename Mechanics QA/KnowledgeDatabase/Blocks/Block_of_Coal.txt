@@ -1,0 +1,13 @@
+The Block of Coal is a block that was added in the 13w18a snapshot. Like other blocks of its kind, it is a compact way to store the material. It may also be used as a building block, however, it is less appealing than other compacted ores. When first introduced, it had a recolored "Block of Redstone" texture, soon changed to what is it now. Coal blocks were also implemented in the Minecraft 2.0 April Fools update.
+Though made from 9 Coal (able to smelt 72 items), one block of coal can actually smelt 80 items, making it a more efficient form of long-term fuel. .
+The Block of Coal (also known as Coal Block) is a mineral block that can also be used as a fuel.
+Blocks of coal can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Blocks of coal can only be crafted with regular coal, not charcoal. It is crafted in the same way as other mineral blocks. In the console edition, they are crafted with regular coal but they drop charcoal instead.
+Blocks of coal are often used to store coal in a compact fashion, or otherwise used as a fairly cheap construction block.
+Blocks of coal can be used as fuel in a furnace. One block of coal lasts 800 seconds, which smelts 80 items. This is ten times the duration of a single piece of coal and 1⁄9 times as efficient as singular pieces of coal.
+Cannot be crafted using charcoal due to logical issues with crafting and destroying.
+Blocks of coal cannot be used as fuel for the minecart with furnace.
+A full stack of coal blocks should smelt for 14.2 hours – over 42 Minecraft days. That is a little over fifty times as many items as a lava bucket.
+ However, you will need 576 coal to do this.
+The 13w18a Banner, showing a block of coal, furnace, hopper, and multiple hay bales.
+Minecraft 2.0.

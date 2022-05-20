@@ -1,0 +1,14 @@
+Lapis lazuli is a primary color dye.
+When mined with a stone pickaxe or better, a block of lapis lazuli ore will drop 4–8 pieces of lapis lazuli. With the Fortune Ⅲ enchantment, a single block has a chance of dropping up to 32 pieces.
+Cleric villagers sell 1–2 lapis lazuli for an emerald as part of their second tier of trades.
+Lapis Lazuli can be found inside minecart with chests in abandoned mine shafts in stacks of 4 to 9.
+Like all other dyes, lapis lazuli can be Applied to sheep to dye their wool, which can then be shorn for 1–3 blocks of blue wool.
+Like all other dyes, lapis lazuli can be Applied to tamed wolves to dye their collars.
+Like all other dyes, lapis lazuli can be Combined with gunpowder to make a firework star.
+Like all other dyes, lapis lazuli can be Combined with a Firework Star to create a “fade to color” effect.
+Like all other dyes, lapis lazuli can be Used to dye leather armor.
+Like all other dyes, lapis lazuli can be Used to dye wool, or stain glass or hardened clay.
+Like all other dyes, lapis lazuli can be Used to add patterns to banners.
+1–3 pieces of lapis lazuli are used to enchant items in an enchantment table. This does not apply to the Console Editions.
+Lapis lazuli has the ID name minecraft:dye, with a data value of 4.
+In real life, lapis lazuli is a medium hard stone used for making jewelry and as a pigment.

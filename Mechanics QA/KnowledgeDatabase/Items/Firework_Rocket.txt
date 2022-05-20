@@ -1,0 +1,20 @@
+Firework rockets are items and entities used to create decorative explosions.
+Fireworks can currently only be obtained by crafting. They are not listed in the Creative inventory, unless on Console Edition.
+To launch a firework rocket, use its item on a block. They can also be launched from dispensers.
+Once launched, fireworks will fly out vertically, with random horizontal offset up to 5 blocks. After some time, the firework will explode into a colorful explosion based on the effects of the firework stars added upon crafting, or no explosion if no firework star was used. If multiple firework stars were added to the rocket upon crafting, they will all explode simultaneously.
+The explosion of firework rockets is only aesthetic and has no effect on entities or blocks. There is also a delay between detonation and the player hearing the sound, emulating real fireworks, but this sound travels much more slowly than in the real world.
+Care should be taken during firework assembly so as not to exceed the (unmodded) particle limit of 4k with fireworks. If the limit is exceeded, the oldest particles are removed before displaying new ones, resulting in severely diminished firework quality / duration. At most a firework should have 3 trail stars, more than that could waste diamonds, firework stars, and other fireworks. Particle counts per star are.
+Twinkle effect adds 2 particles to the count.
+Like most other entities, they can be moved by water and explosions, and teleported via portals. They also cannot move through solid surfaced blocks, upon hitting one they will either move to a side or explode based on the duration. If a firework explodes under a block, its explosion will be flattened.
+Fireworks travel different heights based on the amount of gunpowder added. The number will be displayed as a tag on the item's tooltip with the description of "Flight Duration".
+The height it rises is between 12 to 22 blocks with 1 gunpowder, 23 to 39 blocks with 2 gunpowder, and 40 to 60 blocks with 3 gunpowder.
+Fireworks can be made to travel different directions by being dispensed or launched under flowing water. The firework's direction then rapidly arcs to the horizontal and the travel distance increases to a point further than the height.
+As an item, firework rockets have an ID name of minecraft:fireworks and an ID number of 401. As an entity, firework rockets have an entity ID of FireworksRocketEntity and a network ID of 22.
+Shooting a rocket into a cobweb causes it and the explosion particles to slowed down, creating a colorful ball inside the web.
+Similar to the slowdown of cobwebs, it is possible to boost rockets with pistons and slime-blocks.
+If a rocket is launched next to a ladder, the "climbing ladder" sound will play as it goes up as if a player or mob were climbing the ladder.
+Launching a rocket by hand on a wooden pressure plate will activate it. The same doesn't hold for stone plates or when using dispensers.
+There are 20,846,397,359,932,200 unique rocket combinations.
+Jeb's first image of Fireworks, also showing that they can be shot from dispensers.
+1.4.6 Release image.
+An example of a flattened firework explosion.

@@ -1,0 +1,5 @@
+Bottles o' enchanting are a potion-like item which can be used to spawn experience orbs when thrown.
+Villager clerics will sell bottles o' enchanting for 3-11 emeralds as a fourth tier trade.
+A bottle o' enchanting can be thrown by pressing use. On impact with any non-liquid block it will drop experience orbs worth 3–11 experience points.
+Bottle o' enchanting splash animation on impact.
+Players may trade with villagers to obtain bottles o' enchanting in survival mode.

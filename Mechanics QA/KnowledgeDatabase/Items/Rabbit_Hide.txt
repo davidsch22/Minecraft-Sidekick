@@ -1,0 +1,5 @@
+Rabbit Hide is an item dropped by rabbits.
+Rabbits will drop 0 to 1 rabbit hides upon death. The total amount of drops can be increased by 1 per level of looting used.
+The only use of rabbit hide is to be crafted into leather.
+The current texture for rabbit hide was created by reddit user zeldahuman.
+First image of the item by Ryan Holtz.

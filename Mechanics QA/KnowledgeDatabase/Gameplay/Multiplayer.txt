@@ -1,0 +1,27 @@
+Multiplayer is the server-based version of the game that, as the name would suggest, enables multiple players to interact with each other on a single world. Players can work with others to create structures, mine and fight with each other.
+Users can download and run the server package that allows other players to connect to and play on their server. Different game modes can be chosen for a server, which includes Survival, Creative, Hardcore, and Adventure. It should be noted that game modes are individually attributed to each player meaning some can be in creative and some in survival mode. Players can also be promoted to op (system operator) status by the server admin or other ops, which grants them access to server commands such as setting the time of day and teleporting players around.
+While Minecraft is technically the same in both single player and multiplayer, there are some differences. Multiplayer has more of an emphasis on community and collaboration. The multiplayer chat functionality assists this. Multiplayer allows for the player to build contraptions that are intended for multiple players. In addition, there are also many adventure maps and mini games which require multiple players.
+Please note: Several of these commands are configurable (the defaults are shown here).
+In multiplayer, players can press T to chat to others or enter commands. Commands are identified by the server with the use of a forward slash (/) at the beginning of the message. Chat functions include Chat history - A small scroll bar is on the side of the chat bar. You can also scroll using the mouse wheel or PAGEUP and PAGEDOWN. The last 100 chat messages are stored. Holding down ⇧ Left Shift or ⇧ Right Shift and attemping to scroll up or down will slow down scrolling.
+Chat functions include Clickable links in chat.
+Chat functions include Up/down keys for recently sent messages.
+Chat functions include Copy & paste in chat. (CTRL+V is for paste and CTRL+C is to copy. ⇧ Shift+Arrow keys will select text for you).
+Chat functions include The section symbol, §, allows players to change the style of the text. Just like typing §k in chat displays random characters, §l §m §n and §o creates bold, striked, underlined and italic text respectively, while §r resets any set states. These (the section symbol: §) cannot be typed in vanilla clients because they are restricted from being typed. If § is pasted and posted in chat, the player who sent it will be automatically kicked from the server with an "Illegal characters in chat" message, and a disconnect.endOfStream error server-side.
+Chat functions include Pressing the / acts like a command key: it opens the chat with a / in it. In other keyboard layouts, it might be another key. It is possible to change the key in the Controls options.
+Chat functions include Pressing a letter or typing the first few letters of a username and then pressing Tab ↹ enters the first username starting with that letter or phrase. If there are multiple with that letter (or phrase), it will give a list in chat and pressing tab more than once scrolls through the names.
+You can also do this with commands: Type / and the first letter of the command.
+Just typing / and then tab will list all commands.
+Some commands will also have additional parameters added with just pressing tab at that point.
+Certain commands that handle blocks (/blockdata, /fill, etc.) have parameters that need the x, y, and z coordinates of the target block(s). Using the Tab ↹ key when these coordinates are needed will automatically add the coordinates of the block you are looking at.
+Please be very careful when joining a server. As of this moment, Minecraft does not have a "report" function. If you join a server with mature groups of players, they may use offensive language during conversations, so caution must be taken when joining a server. There are some plugins that can let you report players who break the rules of a server. If you see anyone using offensive language during a conversation, you can report them.
+In the full game, the server saves the level in the "world" folder every 30 seconds if chunks have been modified, by default.
+Home-made servers do not strictly require access to minecraft.net, and so can be played on an isolated local network with no Internet connection. They use minecraft.net as a repository of player skins and also a database containing a list of accounts, preventing hackers and griefers from using false names while on such a server. This and other settings are modified by editing the server.properties text file.
+Early SMP.
+Some people building on a server.
+Some people mining on a server.
+Server.
+Server list.
+SMP Server commands.
+Formatting codes.
+Setting up a server.
+Death messages.

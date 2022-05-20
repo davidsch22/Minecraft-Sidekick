@@ -1,0 +1,14 @@
+Dec value: 52.
+Hex value: 34.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: Yes.
+Monster spawners are found in dungeons, strongholds, abandoned mineshafts and nether fortresses. Monster spawners will also appear in peaceful mode, but they will not spawn any mobs, though sometimes a small puff of smoke can be seen when a monster was suposed to spawn. They cannot be picked up when mined, even if you use the silk touch enchantment, so you’ll have to use a mod, codes or a map editor to get mob spawners. However, you can click a spawner with your scroll button in creative mode, which will replace the current hotbar item with a mob spawner.
+Note that mob spawners gained through this method and through edits are usually set to only spawn pigs. A seperate mod is usually needed to be able to change which monster spawns. It’s possible to create enderdragon spawners through this, though like all other large mobs, the mini version inside the cage will be too big for the cage. It’s also impossible to push spawners with a piston, making it impossible to move them without mods.
+The mob that spawns from monster spawner is indicated by the small version of that mob spinning inside the spawner. However, Stronghold spawners will only spawn silverfish and this spawner is always located in the End portal room. Abandoned mineshaft spawners will only spawn cave spiders.
+Nether fortress spawners only spawn blazes. Dungeon spawners can only spawn zombies, skeletons and spiders. There’s a 50% chance a spawner in a dungeon is a zombie spawner and a 25% chance it’s either a spider or skeleton spawner.
+Monster spawners will spawn up to 4 monsters in an 8x8x3 area around it, this includes the other side of walls, as long as the area meets the spawning conditions of that mob. The spawner will only be active if a player is within 17 blocks in any direction from that spawner. The mini mob inside the spawner will spawn faster the closer you get to it and the closer it gets to spawning a mob.
+If you’re out of range, the mob will come to a complete stop.
+The monster spawner will continue to spawn mobs untill 6 or more monsters, of the spawner’s type, are within an area of 17x17x9 around the spawner. This is important for when you want to create a mob farm. The faster you get the monsters away from the spawner, the sooner more of them will be spawned. Clearing the area will also ensure 4 mobs can spawn at once, rather than being obstructed and only being able to spawn 1 mob at a time.
+Disabling a monster spawner is very easy, by lighting up the area, the light levels will be too high for monsters to spawn in. It’s possible to place torches on all sides, except on the bottom, of the spawner. Monster spawners can be destroyed by using a pickaxe.

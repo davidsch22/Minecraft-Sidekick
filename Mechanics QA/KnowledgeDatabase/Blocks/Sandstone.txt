@@ -1,0 +1,30 @@
+ Sandstone is a naturally occurring block found 4-5 blocks below natural Sand deposits, but only in Desert Biomes and Beaches.
+Sandstone can also be crafted, by placing four blocks of Sand in a square, not requiring the 3x3 crafting grid. There are two varieties of Sandstone: Chiseled Sandstone and Smooth Sandstone. Sandstone can be used to craft the other two types of sandstone. Smooth by placing for in the same manner as sand to make it, and chiseled by making into slabs and then stacking them on each other. See crafting below.
+Unlike sand, sandstone is unaffected by gravity and will not fall if placed without a supporting block. This block is almost identical to cobblestone, except that it is a tan color. It also has three different designs, the two newest only available in Creative Mode or if you found a Desert temple. In a previous version of Minecraft, Sandstone could not be destroyed by an explosion caused by TNT or by creepers.
+Sandstone was added in the Beta 1.2 update; their respective slab was added in the next patch, with the introduction of slabs.
+Chiseled and smooth sandstone blocks were added in Minecraft 1.2.4. Sandstone stairs were added in the developmental snapshot 12w21a.
+Sometimes, if a cave passes right below a Desert Biome, the Sandstone at the bottom the sand will stick into the cave and make Sandstone "stalagmites". This is due to the layers of Sandstone beneath Sand not being even, thus they stick out into any caves beneath. As of Update 1.8 they fixed cave generation in Dessert and Mesa biomes, which means that the "stalagmite" generation will become much more rare.
+Add a photo to this gallery.
+Sandstone is a solid block available in yellow and red colors: with yellow commonly found in deserts, and red found in mesas.
+Any sandstone can be mined with any pickaxe. If mined without a pickaxe, the block will be lost.
+Yellow sandstone appears at the lowest levels of sandy areas (deserts, beaches, etc., but not below red sand) and supports the sand above it, but if a lake is generated there, air may replace the sandstone and result in volumes of unsupported sand which will collapse if disturbed. The sandstone layer in sandy biomes forms “stalactites” on the bottom, which penetrate the stone below or hang down into caves or ravines.
+Sandstone can also be found in desert temples, desert wells and villages in deserts. However, chiseled sandstone is not found in desert villages.
+Red sandstone generates naturally at most cave entrances in mesa biomes. The amount that generates is highly variable; some caves may generate a large amount of red sandstone, while others may generate just one block, or even none. Liquid pools will not generate red sandstone, resulting in floating red sand which will fall when updated.
+Unlike sand, sandstone is not affected by gravity, and it will not fall if placed without a supporting block underneath it.
+Yellow sandstone has the ID name minecraft:sandstone, while red sandstone has the ID name of minecraft:red_sandstone. Both types of sandstone are further defined by its block data. They also has a block state which is expected to replace the functionality of block data in a future version.
+The idea of the wither appearing on chiseled red sandstone was suggested by Reddit user ULiopleurodon.
+Natural yellow sandstone.
+Natural sandstone found at the bottom of a stack of sand.
+Natural sandstone blocking sand from entering a cave system.
+Natural sandstone well.
+A player-made pyramid made out of sandstone, smooth sandstone and chiseled sandstone.
+The different kinds of sand-based blocks.
+The first image of red sandstone, as tweeted by Nathan Adams.
+Red sandstone generating at the entrance of a mesa cave.
+Dec value: 24.
+Hex value: 18.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 4 Maximum stack 64.
+Transparency: No.
+Sandstone is found in desert biomes, usually in the 1-3 layers under the sand layers. Sandstone is also used for desert wells, which are random wells found in desert biomes. To obtain a sandstone block, a pickaxe has to be used. Destroying it with anything else will completely destroy the block.
+Sandstone can also be created with 4 sand blocks in a 2×2 square on any crafting interface. Sandstone can be crafted into smooth sandstone and sandstone slabs, these slabs can then be crafted into decorated sandstone.

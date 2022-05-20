@@ -1,0 +1,35 @@
+<Fact event property>
+
+has_effect
+
+has_condition
+
+has_trigger
+
+event_property
+
+events_comparative_property
+
+event_superlative_property
+
+<Fact entity property>
+
+exist
+
+has_value
+
+type_of
+
+be_active
+
+be_composed
+
+contain
+
+entity_property
+
+entities_comparative_property
+
+entity_superlative_property
+
+entity_color

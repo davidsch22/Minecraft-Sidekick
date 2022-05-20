@@ -1,0 +1,7 @@
+Raw Rabbit is a food item added in Minecraft 1.8 and replenishes 1 and a half bars of hunger. It can be obtained by killing a Rabbit and 0-1 are dropped each time. If you put it in a Furnace and cook it, you'll get Cooked Rabbit.  Like Raw Chicken, the amount of raw rabbit that is dropped is unaffected by looting.
+ Raw Rabbit and Raw Chicken are the only two foods that, when dropped by mobs, drop all their meat. Cows and pigs drop 1/4 of their meat.
+Raw Rabbit is a food item that can be eaten by the player, or cooked in a furnace to make cooked rabbit.
+Rabbits will drop raw rabbit upon death. 0-1 are dropped each time. The amount that is dropped is unaffected by the looting enchantment.
+To eat raw rabbit, press and hold use while it is selected in the hotbar. Eating one restores 3 () hunger and 1.8 hunger saturation.
+Raw rabbit can also be used to heal or breed tamed wolves.
+First image of the item by Ryan Holtz.

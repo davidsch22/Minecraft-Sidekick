@@ -1,0 +1,19 @@
+Mushrooms are a fungi Plant-item that currently function as an ingredient in crafting Mushroom Stew. As of Beta 1.6, mushrooms will spread to adjacent squares if it is dark enough, and can be farmed this way. If clicked by the player with Bonemeal, it will create Huge Mushrooms.
+In Creative Mode, mushrooms were a decorative item, having no crafting use and remaining in the ground when planted. In Classic, mushrooms could be placed on any block except another mushroom, and would remain planted when the block below them was removed. During Indev, mushrooms were generated in rare instances under trees or in the shadows of other floating continents in the "Floating" map type.
+In the 1.9 pre-release, if a mushroom is placed next to another mushroom, both mushrooms drop and cause a duplication bug.
+Strangely, mushrooms can grow on trees.
+Brown Mushrooms produce few light (level 1), while red ones don't (possibly not a bug).
+In Minecraft Classic, when Mushrooms are placed on other objects other than dirt, they will disappear. Similarly, This happens to Flowers as well.
+Mushrooms can be used to make mushroom stew. To make mushroom stew take a red and brown mushroom and place them with a wooden bowl on the crafting table.
+As of 1.2.5, mushrooms cannot be placed on grass blocks anymore.
+If two are diagonal from each other by 1 block-length, one being taken will make the other one drop.
+Mushrooms can sometimes spawn in the Nether.
+ There is always a potted mushroom on the windowsill in Witch Huts, but on rare occasions mushrooms will spread onto the floor and on the crafting table.
+ Mushrooms grow on the top bedrock layer of the Nether.
+Using Bone Meal On A Mushroom Can Increase It's Size.
+A Brown Mushroom That Was Made Into A Huge Mushroom.
+A Naturally Spawned Red Mushroom.
+A Naturally Spawned Brown Mushroom.
+Red mushrooms in the Nether.
+Brown mushrooms in the Nether.
+Add a photo to this gallery.

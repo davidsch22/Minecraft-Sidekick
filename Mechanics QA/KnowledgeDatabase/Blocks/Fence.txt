@@ -1,0 +1,42 @@
+Fence blocks are wooden blocks that are partially transparent, and they have a 1.5 block tall hitbox, meaning that they cannot be jumped over from the side by player or by a mob, unless the mob is a horse, has jump boost, or is standing on a slab. They were added in the Secret Friday update. Fences are found in NPC Villages, where they act as small enclosures around some of the houses, on roofs of some houses, pillars for wells, lampposts with a block of black wool placed on it, or in houses with a wooden Pressure Plate placed on top of it, forming a table-like structure. They are a wooden pole when there is no block on any side, but they connect to any adjacent blocks, extending the hitbox horizontally. A gate can be used to continue the look of a fence while allowing access to the other side to players.
+A fence's primary use is enclosing an area. It functionally serves to keep mobs (usually animals) and players either inside or outside. This is because fences are 1.5 blocks tall to players and mobs, although they appear to be only 1 block tall, and are only that tall to other blocks. A wide area can be made monster-resistant by enclosing it in fences and lighting the inside portion heavily. This keeps any monsters from spawning within the fence, and keeps most monsters which spawned outside the fence from coming in; with the exception is spiders, which can climb over it, although this can be avoided by putting a normal block on top of a two block tall fence, as it will hit the bottom of the block and fall down when climbing. In addition, while skeletons are unable to cross a fence, they can shoot over it. Torches can also be placed on top of fences, creating a safe perimeter. Chickens can go close enough to fences to stand entirely on the block the fence is on, allowing it to fall down and escape if said block is air.
+Fences can also be used as railings, especially on the edges of balconies or floating platforms. Since fences cannot be jumped over accidentally, this keeps players and mobs from falling off while still allowing them to easily see past the fence. Fences can be used as an anchor for animals if they are attached to a Lead.
+Fences in a Farm.
+Fences In a mineshaft.
+Different types of fences as well as planks and doors.
+Add a photo to this gallery.
+Standing on top of a fence in multiplayer used to count as an illegal move, causing players to get stuck. This action has also crashed the server in the past. This bug was fixed in the Beta 1.3 update.
+Fences became flammable as of Beta 1.6.
+As of the 1.9 Pre Release, fences will also connect to blocks they are placed next to.
+For some reason, fences will break faster with swords rather than axes.
+Placing a fence under a tilled dirt block will allow any player or mob to trample on that block and not have the plant break.
+If lava is beside or under a Fence, it will not burn away. Only if the Lava is over the Fence will it be destroyed.
+In 1.6.4 by digging a 2 block deep hole, putting a fence in front of your head and by placing a glowstone or redstone block you won't suffocate and the fence doesn't connect to the glowstone or redstone block.
+Fences are wall blocks that cannot be jumped over.
+Wood fences are broken most quickly with an axe, but will drop when broken with any tool. Nether brick fences require a pickaxe to get it back, mining it with anything else will drop nothing.
+Oak fences spawn naturally As the uprights for the supports in abandoned mine shafts, where they are plentiful.
+Oak fences spawn naturally In villages, where they appear in tables, lamp posts, and even enclosures on roofs or behind buildings.
+Oak fences spawn naturally In library rooms of strongholds as railings and chandeliers. In the latter case, there are many torches attached to them.
+Oak fences spawn naturally On the "patios" and in the front window of witch huts.
+Nether brick fences can be found naturally in nether fortresses where they form window bars and gate-like structures.
+In Pocket Edition, dark oak fences spawn as the supports in above-ground mineshafts.
+In Console Edition.
+While fences appear to be a single block tall, and have a hitbox height of one block, their collision box (for entities) is 1.5 blocks tall, meaning most mobs cannot jump over them without the Jump Boost status effect. They are transparent to light and have visual gaps in the model.
+A fence occupies the center space of blocks and automatically connects to any solid block that is placed next to it. Fences will connect to fences of the same type, and wood fences will connect to other wood fences, although wood fences will not connect to nether brick fences.
+Since their hitbox is smaller than a single block, it will allow a mob in the block to breathe even when submerged.
+Fences can be used to attach mobs with a lead.
+Nether brick fences do not exist in Pocket Edition.
+When used as a fuel in a furnace, a wood fence lasts 15 seconds (or 1.5 items).
+If a carpet is placed on top of a fence, a player can jump onto the carpet, while mobs will not (except rabbits).
+If you try to use an item with a right-click function while looking at a fence, the item will not perform its function but will instead appear to be attempting to mine the fence. The fence will never break from this “mining”.
+Getting hit by someone else (or shooting yourself with a knockback enchanted bow while sprinting forwards) while in midair can cause the knockback to propel you over the fence.
+Pressure plates on fences, used to create tables.
+Naturally occurring fences in a village.
+Mobs can jump onto this fence because of the red block. Remove the red block or replace the adjacent fence with a solid block.
+Underwater buildings with walls composed of stacked fences.
+All fence types.
+First screenshot of nether brick fences released by Jeb. The nether brick fences are visible on the side of the nether fortress bridges.
+Brightly lit version.
+Three nether brick fences in the pre-release of 1.9. Some nether bricks can also be seen in the background.
+Fences and nether brick fences connected by fence gates. Notice that they do not form a connection directly between the two types of fences (in the middle).
+Fence Gate.

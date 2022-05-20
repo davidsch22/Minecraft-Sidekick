@@ -1,0 +1,38 @@
+Glowstone Blocks (formerly known as Lightstone, Brittle Gold, Brightstone, Hell's Stone or Brimstone) are golden blocks that glow indefinitely. It can only be found naturally in The Nether, generating on the undersides of Netherrack, commonly near lava, and forms unusual coral-like stalactites. Glowstone emits a strong amount of light that is comparable to the light the torch makes.
+Glowstone clusters can be found either very high, or at almost ground level in the Nether. They may be located over lava or in extremely high places, making it difficult to harvest and gain all of the dropped Glowstone Dust. Glowstone can also be obtained from vilager trading.
+When Glowstone is destroyed, it can drop anywhere from two to four pieces of Glowstone Dust, therefore destroying n amount of Glowstone Blocks won't necessarily mean you can make n Glowstone Blocks from the dust gathered.
+Breaking this block drops Glowstone dust, which may be used to re-craft the glowstone blocks. Unlike torches, it isn't destroyed by water and continues to emit light even when submerged like Jack-O-Lantern and Sea Lanterns. Like all non-sunlight light sources, glowstone blocks will cause nearby snow and ice to melt. Glowstone itself has a crafting recipe for crafting a Redstone Lamp.
+As of the beta 1.6.6 update, the tool used to extract Glowstone (Dust) changed from a sword, when it acted like a glass type block, to a pickaxe, as it became a stone type block. In the same update, the amount of Glowstone Dust needed to craft a Glowstone Block changed from nine to four, and the amount of Glowstone Dust dropped after destroying a Glowstone Block changed from 1 to a range of 2 to 4 (unless with the fortune enchantment).
+After 1.0.0, the tool required to destroy the block was changed back to a Sword, as the block's type was changed back from "Stone" to "Glass".
+A useful tactic for reaching clusters of Glowstone Blocks that are very high up is to redirect a Ghast's fireball at it. This is only recommended if the cluster itself is over ground though, else the resulting dust could easily fall into the lava sea below.
+Before 1.2.5, Mining Glowstone will yield Glowstone dust, but using the Silk Touch enchantment will yield a Glowstone Block.
+The other name for Glowstone, Brimstone, is another name for pure sulfur.
+Glowstone is very useful in underwater building and mining, as they are one of three luminous blocks that work underwater (the others being the Jack-O-Lantern and Sea Lantern).
+A redstone current can be directed up and through glowstone, but not down it.
+Glowstone are light-emitting blocks that appear in the Nether.
+When broken without a tool, or with any tool not enchanted with Silk Touch, a glowstone block drops 2-4 glowstone dust, or more with a Fortune tool (but never more than 4).
+Glowstone only occurs naturally in the Nether, where it generates in coral-like clusters on the undersides of netherrack.
+Villager clerics will sell 1-3 glowstone for an emerald as a third tier trade.
+Glowstone blocks emit a light level of 15, the brightest possible light level in the game. They emit the same amount of light as sea lanterns, jack o'lanterns, redstone lamps and beacons.
+When placing redstone on a glowstone block, being a transparent block, signals can pass from one block to another diagonally. Redstone wire, even though it may appear to connect up the side of a glowstone block and to the wire portion on top, will not send a redstone signal down the glowstone block. This makes glowstone effective for vertical diodes, logic gate designs and space-efficient instant vertical redstone.
+Note that upside-down slabs can be used for the same purpose, and are easier to obtain.
+Since glowstone blocks become block entities when moved by pistons, this momentarily stops them from giving off light.
+Rarely, glowstone can be found touching the ground if the ceiling it was generated on was extremely low (2-3 blocks of clearance).
+When glowstone is placed 9 or more blocks above ground level (out of its lighting range), the glowstone will actually cast a shadow, despite being a light-emitting block.
+When you break glowstone, it makes the same sound effect as breaking glass.
+The melting pattern of glowstone.
+Purchasing glowstone.
+A diode made using glowstone.
+An example of the new glowstone redstone results.
+Dec value: 89 Hex value: 59.
+Minimum tool requirement to break: None.
+Blast resistance: 1.5.
+Maximum stack 64.
+Transparency: No.
+Glowstone is a block only found in the Nether, where it can be found in groups of about 10-25, though larger and smaller is possible. Glowstone always emits a light of light level 15, which is 1 higher than that of torches. Glowstone can be broken with anything and will drop 2-4 pieces of glowstone dust.
+Glowstone dust can then be used to recreate a glowstone block and is also an ingredient for brewing. It takes 4 pieces of glowstone dust to make a glowstone block. Using better tools does not harvest the blocks faster but does cost you item durability. Harvesting glowstone blocks is possible by using the silk touch enchantment. The fortune enchantment does not affect the maximum amount of glowstone drops.
+Glowstone blocks are used to make redstone lamps, along with 4 pieces of redstone. Glowstone blocks are considered as transparent blocks, which means they don’t block diagonally connected redstone when you place it above the redstone. This makes glowstone quite useful to hide redstone while keeping it as compact as possible.
+Due to the general shape of the Nether, harvesting glowstone can be very tricky. It’s often hanging high above the ground, sometimes hanging above or in lava flows. Most people simply build a large pilar by standing on a block and placing more blocks on top of it while jumping, though this is very risky in the Nether, as a single attack of a Ghast’s fireball can knock you off, or break the surrounding netherrack and glowstone blocks, which could be supporting a lava pool. It’s often advised to make at least a fireball proof shield around the glowstone if you’re exposed to any attack of a ghast or blaze. All stone types are resistant to the ghast’s fireball explosion.
+If you’re feeling more adventurous, the ghast’s fireballs can be redirected by hitting them.
+Shooting them towards glowstone blocks will break them, making it a little easier to harvest them while still paying attention to the ghast’s attacks. Though it’s advised to build a stone platform to stand on, as the fireballs will both destroy the netherrack and set some of it on fire, which have to be put out manually.
+Unlike torches, glowstone can be placed underwater and because it looks better than jack-o-lanterns, glowstone is most commonly used in underwater landscaping. Glowstone is also used a lot as lampposts by placing it on top of one or more fence posts. They also serve as great beacons to direct you home, especially at night, though torches often work just as good and more easily available.

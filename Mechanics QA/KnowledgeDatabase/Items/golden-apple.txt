@@ -1,0 +1,11 @@
+Dec value: 322.
+Hex value: 142.
+Hunger restoration: 2 hunger bar slots + 4 seconds of health regeneration.
+Hunger saturation: 9.6.
+Maximum stack 64.
+Goldens apples are obtained by either crafting them using red apples and 8 gold nuggets, or by finding them in chests in dungeons and strongholds. They are unique as a food because they restore both your hunger bar and your health bar. .
+A golden apple will restore 2 hunger bar slots and 9.6 hunger saturation, which is the highest of all foods compared to the amount of hunger bar restoration. Golden apples will also restore your health for 4 seconds, which equals about 2 hearths in normal circumstances.
+The golden apple’s health restoration is far inferior to that of potions of regeneration, but golden apples are much easier to obtain, especially early in game. Golden apples are often used as a last resort, usually when the player’s health is low and the normal health regeneration needs an extra push.
+Golden apples can be farmed, but it’s often a tedious process. Apples only drop from decaying or destroyed leaves of oak trees. So you have to either find or grow oak trees and destroy their leaves or wood. This process can be done on a larger scale by simply growing oak trees, possibly with bone meal, on a large scale and chopping down all the wood blocks. You could then either wait for all the leaves to decay or help a hand by destroying the leaves.
+Gold nuggets are fairly easy to farm. Gold ore can be found in the bottom 32 layers of the world, so finding it can take a while. They’re usually found while looking for diamonds, but the same techniques used in diamond farming can be used to farm gold. Once you’ve aquired gold ore, the gold can be smelted into gold ingots, which can be turned into gold nuggets. .
+Another way is to kill zombie pigmen. They can drop 1 gold nugget and sometimes drop a gold ingot. That gold ingot can then be turned into gold nuggets.

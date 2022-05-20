@@ -1,0 +1,9 @@
+Paper is an item crafted from sugar cane.
+Chests in stronghold libraries may contain paper in stacks of 2 to 7.
+Librarian villagers will buy 24-36 paper for an emerald.
+Dec value: 339.
+Hex value: 153.
+Maximum stack 64.
+Paper is created from sugar cane, which can be found on grass, dirt and san blocks directly next to water in any biome, though it often breaks in snow biomes when the water freezes.
+Paper is used to create maps and books. Books can then be used to create bookshelves, which are used as decoration and used to increase the maximum enchantment level you can use in enchantment tables.
+Sugar cane is quite easy to farm as you only need to plant a single sugar cane and wait for it to grow. Note that it can only be placed on dirt, grass and sand directly next to water. Sugar cane growth cannot be sped up with bone meal, but it requires no light.

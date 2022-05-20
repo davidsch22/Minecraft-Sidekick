@@ -1,0 +1,5 @@
+Solid block (including blocks that are transparent) is the term for a block which the player cannot walk through. Most block types are solid, while most plant types are not. Cacti, wood, pumpkins and leaves are all examples of solid plant blocks. Ladders are solid as it is possible to stand atop them without descending. Both water and lava are not solid, and can be passed through.
+Most solid blocks are 1 meter high, but certain blocks have non-standard block heights, some of which allow the player to automatically move onto them without jumping on the surface.
+Here is a list of blocks with non-standard heights, from tallest to shortest in height.
+Liquids.
+Opacity.

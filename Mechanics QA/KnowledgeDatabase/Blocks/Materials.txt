@@ -1,0 +1,16 @@
+Materials in Minecraft classify blocks into different types, more or less indicating what the block is "made of".
+The following materials exist in Minecraft. Each material gives certain properties to the block, although individual blocks can and often will override them.
+Endermen will teleport depending on materials which block movement. They choose a random destination and then seek downwards until they find a block with a movement-blocking material.
+Various things that spawn on the "surface" similarly check material movement-blocking to find the surface.
+Paintings, banners, signs, cakes, and mob heads are placed on any solid material. This is why signs can be placed on each other without any visible connection.
+Player spawning checks for obstruction based on material solidity.
+Lava checks for a burnable material nearby when attempting to start fires. The fire itself uses its own list of flammable materials, which is why fire will start next to some wood blocks but will never consume the block.
+Water and lava spread and currents generally depend on whether the block's materials blocks movement, while placement from a bucket depends on the block's solidity.
+Fence gates must be placed above a block with a solid material.
+When broken, ice will turn to water if above a block with a liquid or movement-blocking material.
+Cacti break depending on the solidity of an adjacent block's material.
+Farmland turns to dirt if a solid-material block is placed on top.
+Rain and snowfall fall through blocks that have a non-liquid material that does not block movement.
+Dungeon, lake, and Nether portal generation checks for solid materials, rather than solid blocks.
+Solid-material blocks cannot be placed at Y=255, while non-solid-material blocks can.
+Note blocks check materials to determine the instrument. They check for a material of stone, sand, glass, or wood, while any other material is given the default piano sound.

@@ -1,0 +1,15 @@
+ Iron Ore is a semi-common ore found almost everywhere in a Minecraft World, appearing at both above and below sea-level. This includes caverns and mountains, making it very easy to find. It is a crucial material to gather during the early stages of the game, since it can be made into an iron pickaxe, and is capable of mining all Ores, including diamond. It can be described as a grey block with spots on it, similar to coal, but with bronze/beige spots. Every block you break is worth one iron. .
+Iron can only be mined with a Stone, Iron, or Diamond Pickaxe; using a Wooden or Gold Pickaxe will not yield any ore. Once it is mined, the user will gain an ore block that you can place, but they will not be able to make any items using the ore block. They must smelt it down into Iron Ingots using a furnace then create what they want, making iron the only ore that requires smelting other than gold.
+Iron is used to make weapons and armor with a higher durability than those made with stone, leather, or gold. Iron can also be used to make minecarts, rails, compasses, and buckets. Iron tools can be used approximately 251 times.
+In Survival Test, iron ore gave you iron blocks, requiring no smelting.
+Iron ingots have the same texture as gold ingots, but with different colors.
+Iron Armour gets weaker enchantments than other Armour when enchanted using an Enchantment Table. This may have been implemented because iron breaks enchantments and spells in many different stories.
+See here.
+Iron ore is a mineral block found underground. It is the most common mineral that can be used to make tools and armor.
+Iron ore will drop as an item if mined by a stone pickaxe or better. If mined by any other tool, it will drop nothing.
+Iron occurs only around from bedrock to slightly above sea level (layers 1-63). However, almost all of the iron ore will be at the lower levels. On average, there are about 77 iron ores per chunk.
+Veins can vary in size, but the most common is 2×2×2. Iron always comes in veins of 4 to 10 unless dirt, gravel, a cave, or another ore overlapped into it. Each block in the vein, which otherwise would be stone, has a random chance of being iron ore instead.
+There's no particular beige iron ore in real life. Colors of common real life iron minerals range from black or red to gold-yellow but none of them are truly beige.
+A vein of iron ore.
+A total of 20 iron ore blocks were obtained from this vein, which is most likely composed of two smaller veins.
+Iron ores exposed in a ravine.

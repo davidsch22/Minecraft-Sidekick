@@ -1,0 +1,10 @@
+Dec value: 90.
+Hex value: 5A.
+Minimum tool requirement to break: Unbreakable.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Portal blocks are created when a Nether portal is activated. Any player standing in it for long enough will be teleported to and from the Nether. Portal blocks cannot be obtained in survival mode, but it is possible to get them in creative mode. To get the portal block, point towards one and click your mouse’s scroll button.
+Though these blocks can be placed, placing other blocks next to it will cause them to disapear, so make sure you first make the outlining of whatever it is you need these for, before placing these blocks. It’s easy to break these blocks and the sound of shatering glass can be heard, just like Glowstone blocks and regular glass.
+Placed portal blocks will still teleport the player to the Nether, even if it’s only 1 block.
+Mobs will never be teleported. These blocks are sometimes used in traps, by making a player fall into a whole which causes the victim to fall into the portal without a way out.

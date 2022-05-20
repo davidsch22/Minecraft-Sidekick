@@ -1,0 +1,12 @@
+Dec value: 16.
+Hex value: 10.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: No.
+Coal ore is the most common type of ore available in minecraft. It can be found anywhere on the map, at almost all altitudes. It’s the only ore type that can be found above sea level. Coal ore can often be seen in exposed mountain sides, which is often the first place players look when starting a new map.
+A minimum of a wooden pickaxe is required to get a coal drop from coal ore blocks. Using anything else will destroy the block without a drop. The fortune enchantment gives a chance of multiple coal lumps to drop from a single block, depending on the enchantment level.
+Using the silk touch enchantment, a player can harvest the coal ore block itself. This can be used for decoration purposes. A coal ore block can be smelted in a furnace, but it will simply give a coal lump, which is a waste of the finite durability of the silk touch enchantment.
+Coal deposits can range from just a few blocks to massive deposits of more than 30 blocks.
+Due to the huge amount of available coal, players will often ignore coal after they’ve gathered a few stacks.
+Coal is used to cook and smelt, food and blocks in a furnace. Each lump of coal lasts for 8 uses. Coal can also be used to craft torches, providing the player with a place-able light source. Coal is also used to power powered minecarts. Instead of using coal, charcoal can also be used in everything coal is used.

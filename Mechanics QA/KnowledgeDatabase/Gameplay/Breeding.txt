@@ -1,0 +1,46 @@
+Breeding is a feature which was introduced in Beta 1.9 Prerelease 2. If a player holds a certain food and right-clicks an animal, it enters what is known as love mode. By giving two of the same animal the specific material and insuring that they are close together, the animals will produce a baby animal. Animals in love mode will be attracted to each other, but love mode only lasts for a small period of time (roughly one minute).
+Foods correspond with certain animals. Wheat for sheep, cows and mooshrooms, carrots for pigs, seeds (or Nether Wart) for chickens, fish for ocelots and any kind of meat for wolves. (Note that the wolves need to be tamed).
+Animals cannot enter love mode if they recently had a baby.  Breeding a cow and a mooshroom will create either a normal cow or a mooshroom, it is 50/50 chance. Chickens can not only be bred with seeds, but in an artificial way of throwing (right-clicking) eggs. They may also be spawned by a dispenser throwing eggs. Chicken eggs have a 1/8 chance of hatching into a chicken. By means of breeding can be useful for farming. Sheep can have different colored babies depending on the parents' color if two sheep with the same color make a baby of that color.
+Villagers can also breed and make baby villagers, but it only happens naturally and cannot be forced unless in creative mode, in which case the player can use a spawn egg on a normal villager. Villager breeding is dependent on the number of occupied structures there are within the village's perimeter. Despite making more sense to leave tracking to the buildings as a structure, the tracking is set on the number of doors compared to the amount of villagers currently living. Villager breeding is extremely rare, however as many villagers need to be deceased in order for it to occur, leaving them extremely weak with only 33% of villagers remaining.
+In Beta 1.9 Prerelease 3, Notch added baby animals. The baby animals are smaller variations of their parents. They have smaller bodies, normal sized heads (same as the adults), high pitched cries and walk faster. They currently don't drop anything. The infant that is born will usually follow the parents. The baby animals grow into a fully-sized animal after one day in-game (20 real minutes).
+A baby calf, piglet and chick.
+Notch's first attempt at breeding.
+Villager love.
+Add a photo to this gallery.
+Breeding is a game mechanic that allows animals of the same species to breed with each other to make new animals. Each type of "domestic" animal has a food item used to lead and breed it. (There are a couple of special cases, described under "Mechanics" below.) Animals will follow a player holding its food (once it notices the player), and will continue following the player until it is out of range, the player stops holding the item, or it begins the breeding process. If two nearby animals of the same species are fed, they will spawn a single baby animal of their type. Any animal may only breed once per item given (two parents must be fed to breed), and will be unable to breed for some time afterwards. Note that animals are uninterested in food lying on the ground.
+Using wheat or other items (carrots, and seeds) to breed animals that give food (cows, mooshrooms, pigs, chickens) is a way of getting more efficient food than bread or carrots.
+The specific items for each breedable animal are as follows.
+One item per parent is needed to breed a single baby. Each animal which is fed its food will enter "love mode", preparing to breed with another animal that is in "love mode". Animals that are "in love mode" emit hearts constantly and will path find towards animals up to eight blocks away of the same species that are also "in love mode." The two animals will "kiss" for about two and a half seconds, and then a baby animal of the same species spawns either in between the parents or on the same blocks as the parent that was spawned first, which ends love mode for the parents. Once the parents breed they also drop a small amount of experience. They will not be able to enter love mode again for 5 minutes. However, they can still be herded with the appropriate material, as can the baby.
+After the baby animal has spawned, it will follow its parents for 20 minutes before growing to full size. The growth of baby animals can be slowly accelerated using the animal's breeding item. Each use takes 10% off the remaining time to grow up, with the exception of horses where different breeding items speed up the growth by different amounts.
+When sheep are born, they will usually be the color of one of their parents, chosen at random. However if the parents have 'compatible' colors (meaning that their corresponding dye items could be combined into a third dye), the lamb will be a mix of the parents' colors (see Wool Dyes). This holds true even if one or both of the parents have just been sheared before breeding and have not yet grown their coats back. This is a handy way to obtain wool of a color for which you do not have a dye.
+Villagers do not have a food item; they will breed of their own accord (and in their own time) depending on the available houses, or at least "registered doors". (See the village page for full details.) When they breed, they will produce a smaller Villager but unlike most baby animals, these don't have big heads, similar to cats. Baby Villagers will run around the village and will "play" tag. In the new 1.8 update, Villagers need Trading or food from farms to breed. A baby villager killed by a zombie may produce a Baby Zombie Villager, depending on difficulty.
+A player may want to know how many mobs he/she will need in their farm to reach a certain goal, for example: to make a full-powered enchanting table with bookshelves (45 leather needed) or for full leather armor (24 leather), in case you have cow farm. So there is a formula to calculate how many mobs you will need to have at your farm, by the starting number and if you wait until all the mobs become mature (this does not apply to villagers).
+Xn+1 = Xn + floor(Xn/2) where Xn is the number of mobs at generation n.
+Alternatively, if you start with X mobs and want to reach a population of at least Y, it can be achieved in ceil(log(Y / X) / log(1.5)) generations.
+Baby animals are smaller variations of their parents, having small bodies, relatively big heads, higher pitched sounds, and faster walking speeds. They do not drop resources or experience if killed, and lambs cannot be sheared. However, baby cows and mooshroom calves can be milked. Baby animals will follow one of their parents until they grow up. (If the parent dies or there is none, they will pick a nearby adult of their kind.) Tame puppies and kittens will follow their owner if the parent is absent or sitting, and puppies will attack aggressive mobs just as a mature dog would. When killed before becoming an adult, baby animals (excluding baby zombies and baby zombie pigmen) drop nothing.
+Baby animals grow into full sized animals after twenty minutes (one game day, beds notwithstanding). Their growth can now slowly be accelerated using the animal's breeding item, where each use takes 10% off the remaining time to grow up. There are a few variations Sheep can grow faster if they eat grass.
+There are a few variations For dogs (tamed wolves), the puppy does not gain its full health automatically (even when it grows to full size), but must be fed to increase its HP.
+There are a few variations Foals (baby horses) can be fed to speed their growth.
+Mooshroom calf.
+Calf.
+Lamb.
+Piglet.
+Chick.
+Puppy.
+Baby zombie.
+Baby zombie villager.
+Baby zombie pigman.
+Baby zombie pigman without skull.
+Kitten.
+Foal.
+Villager children.
+Animals of the same species are able to breed with each other regardless of whether they are a parent to the animal they are bred with.
+Baby cows or sheep will follow you if you are holding wheat, and the wheat can be fed to them to speed up their growth.
+Baby wolves seem to be naturally attracted to the player.
+Using the spawn egg of a mob which has baby variants on that mob will spawn the baby variant. However, this will not work on zombies or zombie pigmen before TU18 was issued.
+When sheep are bred in the Pocket Edition, the lamb is either one sheep's color or the other - combination colors don't work.
+A family of dogs in a tundra biome as well as a kitten.
+All mobs that can be bred.
+A rather easy to build and maintain breeding facility.
+Tutorials/Animal farming.
+Tutorials/Battery farming.

@@ -1,0 +1,1 @@
+Plants are Minecraft's representation of plant life. They do not move, but some can grow and spread under the right conditions. Most plants can be planted and farmed. All plants occur naturally in the Overworld, with the exception of nether warts.

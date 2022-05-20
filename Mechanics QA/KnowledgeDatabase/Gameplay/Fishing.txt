@@ -1,0 +1,25 @@
+Fishing is the process of obtaining fish using fishing rods.
+Use to cast the line into a body of water. Your position doesn't matter: You can be in the water, sitting in a boat, or standing on adjacent land.
+The bobber must be watched closely. Small splashes can be seen around the bobber. When a fish is getting ready to bite, a small trail will head towards the bobber (unseen if Particles are set to Minimal). When it dips below the surface, immediately right-click again to reel in the line. The window for reeling in when a fish bites is about half a second. If a bite is missed, the line can be left in the water to wait for another bite.
+A successful reel-in causes a fish or other item to fly through the air towards the player. Normally, it will fly directly to you, but if there are blocks in the way, it may bounce off at an angle.
+A successful reel-in also produces an experience orb worth 1–6 experience points at the location of the player doing the fishing.
+Fish can be caught just as readily in small, shallow, and/or player-created pools.
+The line will disappear if the player wanders more than 32 blocks away from the bobber, or if the player stops holding a fishing rod.
+The fishing rod will take 1 point of damage when catching an item, 2 points when reeling in the hook when it is on the ground, and 3 points when reeling in the hook when it is hooked into an entity. Reeling in from water without catching anything or causing the hook to disappear by moving away or switching to a different item will not damage the rod.
+The current algorithm Using a regular fishing rod, a random integer from 100 to 900 is selected. The game then counts down each tick to 0 at which time the fish's water particles appear. At 20 ticks per second, this amounts to a random wait time between 5–45 seconds. Using the lure enchantment on a fishing rod decreases the random integer picked by 100 per level (thus, a wait-time reduction of 5 seconds per level).
+ The countdown tick itself is affected by various conditions If the bobber is not directly exposed to sun or moonlight, the tick has a 50% chance of not decrementing the count, so the wait time is doubled.
+The countdown tick itself is affected by various conditions If the bobber's block is being rained on, each tick has a 25% chance of counting down 2 instead of 1, so the wait time will be cut by about 20%.
+ Upon reeling in you may receive a raw fish, salmon, pufferfish, clownfish, junk, or treasure.
+The older algorithm (up through 1.6.4) Each tick has a 1/500 chance of catching a fish, unless it's raining, in which case it's a 1/300 chance instead. Rain reduces the average time between catches from 346 ticks to 207 ticks, a 40% decrease.
+The player can occasionally catch treasure or junk instead of fish. An unenchanted fishing rod has an 85% chance of catching fish, a 10% chance of junk, and a 5% chance of treasure. Each level of the Luck of the Sea enchantment decreases the chance of junk by 2.5%, and increases the chance of treasure by 1%. Each level of the Lure enchantment decreases the chance of both junk and treasure by 1%. The best rod (by chance only) for treasure has Luck of the Sea III, the best rod for catching fish has both Luck of the Sea III and Lure III, and the best rod for junk is unenchanted.
+When incorporating the speed bonus from the Lure enchantment, the combination that yields the highest fish or treasure per second is Luck of the Sea III and Lure III. Lure III becomes the optimum choice for junk-per-second. This is a bit counter-intuitive, but the speed bonus from Lure overcomes the chance decrease that comes with it.
+The rod can be used 65 times before breaking, or more so if the Unbreaking enchantment is applied.
+Casting in water and reeling it up without a catch, reeling before the cast is complete, or missing a bite and leaving the line in the water does not reduce durability.
+A double-durability penalty applies if the hook is reeled in while in a solid block.
+A triple-durability penalty applies if hooking an entity.
+Durability cost occurs on reel-in, rather than on impact, so penalties can be avoided by switching to another item or dropping the rod instead of reeling in.
+If you cast the bobber into a waterfall, the bobber will float up the waterfall until it reaches the top where it will stay until the player pulls it back in or until a fish is caught on the line. If a fish is caught on the line, the bobber will then fall off from the waterfall making it much easier to visualize when to reel in.
+If you are underwater, or if you stand right next to the bobber, you can still catch fish.
+If you cast the line into an End Portal, the line and bobber will disappear, although it doesn't teleport back to the Overworld.
+You can switch from one fishing rod to another, at any time, even after hooking a fish or snagging something. This means that you can hook a fish with one rod, and reel it in with another. When you reel it in the new rod will take the durability cost.
+You can obtain the Cow Tipper achievement from reeling in leather.

@@ -1,0 +1,11 @@
+Tall Grass (called Grass in the inventory) spawns on grass blocks in certain biomes. Bonemeal can be used on a grass block to grow tall grass and occasionally flowers on it and in its vicinity. Since Beta 1.6, the only way to legitimately obtain seeds is to destroy tall grass blocks.
+Harvesting Tall Grass is the primary way of obtaining wheat seeds, the secondary way being harvesting fully grown wheat.
+Tall grass cannot be directly set on fire from lightning. However, fire from nearby blocks can spread to it. Oddly enough, the top of tall grass can be lit but it will not burn this way.
+When touched by water, tall grass will break with the possibility of dropping seeds. A quick way to gather seeds is to route water to the top of a grass-covered hill and let it flow down.
+The color of tall grass is biome dependent and is usually the same color as the grass.
+Sometimes, grass can spawn on sand, but it will appear more malnourished.
+Using bonemeal on a block of tall grass will create doubletall grass.
+Grass can be collected with shears.
+A common glitch causes Tall Grass, when destroyed to appear as flowers for a brief second.
+What tall grass looks like in-game.
+Add a photo to this gallery.

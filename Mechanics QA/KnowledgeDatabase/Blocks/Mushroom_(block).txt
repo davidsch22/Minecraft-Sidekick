@@ -1,0 +1,7 @@
+Mushrooms are a solid block.
+Huge mushroom blocks are most quickly broken with an axe. They can only be retrieved with a Silk Touch tool. When broken using a Silk Touch tool, it will drop a variant with the cap texture on all sides, no matter what part of the mushroom is broken.
+Mushroom blocks generate as part of huge mushroom structures.
+In Pocket Edition, you can choose from four types mushroom block: a version with only red cap, a version with only brown cap, a version with only stalk, and a version with only pores. In all other editions, the block is not available in Creative.
+Huge mushroom blocks can be used as fuel, lasting 1.5 smelting operation per block.
+Mushroom blocks use block ID to determine the type and block data to determine the texture positions. They also have block states which may replace block data in the future.
+The decoded change-list.

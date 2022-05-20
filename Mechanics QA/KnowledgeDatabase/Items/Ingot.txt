@@ -1,0 +1,6 @@
+Ingots are come in two varieties (as of 14w25b): Iron and Gold.They can be made by smelting an iron or gold ore in a Furnace. They can be used to make armor, tools and transport, such as a Minecart. Ores used to be smelted by throwing the ores into a Fire on the ground, but since furnaces were added in, they are easier (and safer) to smelt.
+Crafting a golden ingot.
+A golden ingot.
+An iron ingot.
+A furnace.
+Add a photo to this gallery.

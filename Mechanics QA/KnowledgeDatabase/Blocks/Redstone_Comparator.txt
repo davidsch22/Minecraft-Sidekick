@@ -1,0 +1,59 @@
+Redstone Comparators are a special redstone block that is  similar to redstone repeaters. Redstone comparators have a third torch on them, allowing for complex redstone features. Redstone comparators have three ports, with two being for input, the third for output. Redstone comparators also measure how many things an entity holds or weighs allowing for very interesting adventure maps. They also detect how many items are stored in a container block (such as a chest, hopper, dropper, or dispenser).
+A tutorial on YouTube is available, showing on how to build with a redstone comparator.
+The difference between a redstone comparator and a redstone repeater. The comparator is on the left.
+Add a photo to this gallery.
+A redstone comparator is a block used in redstone circuits to maintain, compare, or subtract signal strength, or to measure certain block states (primarily the fullness of containers).
+To remove a redstone comparator, mine it. A redstone comparator can be broken instantly with anything, and drops itself as an item.
+A redstone comparator will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.
+A redstone comparator will also be removed and drop itself as an item if water flows into its space.
+A redstone comparator will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+If lava flows into a redstone comparator's space, the redstone comparator will be destroyed without dropping itself as an item.
+A redstone comparator can be placed on the top of any opaque block with a solid full-height top surface (including upside-down slabs and upside-down stairs), as well as on hoppers. To place a redstone comparator, use the Place Block control.
+The redstone comparator has a front and a back — the arrow on the top of the comparator points to the front. When placed, the comparator will face away from the player. The comparator has two miniature redstone torches at the back and one at the front. The back torches turn on when the comparator's output is greater than zero (the arrow on top also turns red). The front torch has two states which can be toggled with the Use Item control down and unpowered (indicating the comparator is in "comparison mode").
+The front torch has two states which can be toggled with the Use Item control up and powered (indicating the comparator is in "subtraction mode").
+The redstone comparator can take a signal strength input from its rear as well as from both sides. Side inputs are only accepted from redstone dust, redstone repeaters, and other comparators. The redstone comparator's front is its output.
+It takes 1 redstone tick (2 game ticks, or 0.1 seconds barring lag) for signals to move through a redstone comparator, either from the rear or from the sides. This applies to changing signal strengths as well as simply to turning on and off. Redstone comparators usually will not respond to 1-tick fluctuations of power or signal strength — for example, a 1-clock input will be treated as always off from the side, and always on from the rear.
+The redstone comparator has four functions: maintain signal strength, compare signal strength, subtract signal strength, and measure certain block states (primarily the fullness of containers).
+A redstone comparator with no powered side inputs will simply output the same signal strength as its rear input.
+A redstone comparator in comparison mode (front torch down and unpowered) will compare its rear input to its two side inputs. If either side input is greater than the rear input, the comparator output turns off. If neither side input is greater than the rear input, the comparator simply outputs the same signal strength as its rear input.
+A redstone comparator in subtraction mode (front torch up and powered) will subtract the signal strength of the highest side input from the signal strength of the rear input (minimum 0 signal strength).
+For example, if the rear input signal strength is 7, the left side is 2, and the right side is 4, then the output will be a signal strength of 3, because 7 - MAX(2,4) = 3.
+A redstone comparator will treat certain blocks behind it as power sources and output a signal strength proportional to the block's state. The comparator may be separated from the measured block by a solid block, but if the solid block is powered then its signal strength will override the signal strength of the measured block (whether greater or less).
+A redstone comparator used to measure the state of a container outputs a signal strength in proportion to how full the container is (0 for empty, 15 for full, etc.).
+Containers which can be measured by a comparator include Furnace.
+Containers which can be measured by a comparator include Brewing Stand.
+Containers which can be measured by a comparator include Hopper.
+Containers which can be measured by a comparator include Minecart with Hopper on top of a detector rail.
+Containers which can be measured by a comparator include Dispenser.
+Containers which can be measured by a comparator include Dropper.
+Containers which can be measured by a comparator include Chest.
+Containers which can be measured by a comparator include Trapped Chest.
+Containers which can be measured by a comparator include Minecart with Chest on top of a detector rail.
+Containers which can be measured by a comparator include  Large chest.
+Containers which can be measured by a comparator include  Large trapped chest.
+When a comparator measures a large chest or large trapped chest, it measures the entire large chest (54 slots), not just the half directly behind the comparator. A chest or trapped chest which cannot be opened (either because it has an opaque block or ocelot above it) will always produce an output of 0 no matter how many items are in the container.
+The Minimum Items for Container Signal Strength table (right) shows the minimum number of 64-stackable items required to produce specific signal strengths from various containers. A number followed by an "s" indicates the number of full item stacks required (not displayed if a full stack is not required), and a number followed by an "i" indicates the number of additional items required (not displayed if no items are required beyond some number of item stacks). For items which stack up to a maximum of 16 (snowballs, signs, ender pearls, etc.), divide the "i" number by 4 and round up. For non-stackable items, count any "i" number as one additional item.
+For example, to produce a signal strength of 10 from a hopper requires a minimum of 3 full stacks plus 14 more items (or 4 16-stackable items).
+When a container is empty, the output is off.
+When it is not empty, the output signal strength is calculated as follows.
+signal strength = truncate(1 + ((sum of all slots' fullnesses) / number of slots in container) * 14).
+fullness of a slot = (number of items in slot) / (max stack size for this type of item).
+Example: 300 blocks in a dispenser (which has 9 slots), where each block stacks to a maximum of 64, produces output with a signal strength of 8.
+1 + ((300 items / 64 items per slot) / 9 slots) * 14 = 8.292, truncated is 8.
+Note that a non-stackable item is counted as a full slot (1 item in a slot, with a max stack size of 1: 1 / 1 = 1.0), and items which stack up to 16 (such as ender pearls and snowballs and eggs) are similarly considered a full slot at 16.
+It can be useful in redstone circuits to use containers with comparators to create signals of a specific strength. The number of items required in a container to produce a signal of desired strength is calculated as follows.
+items required = max(desired signal strength, roundup((total slots in container * 64 / 14) * (desired signal strength - 1) ) ).
+Example: To use a furnace (which has 3 slots) to create a strength 9 signal, you need 110 items.
+max(9, (3*64/14)*(9-1)) = 109.714, rounded up is 110.
+Some non-container blocks can also be measured by a redstone comparator.
+A cake outputs a signal strength relative to the amount of cake remaining. Each slice is worth 2 signal strength, with 7 total slices, for an output of 14 for a full cake.
+A cauldron outputs different signal strengths depending on how much water is inside. From completely empty to completely full, the output values are 0, 1, 2, and 3.
+A command block stores the "success count" of the last command executed, which represents the number of times the most recently used command of this command block succeeded. A "success" is defined by the command's success conditions: if a red error message is returned in the chat, the command was not successful.
+Most commands can only succeed once per execution, but certain commands (such as those which accept players as arguments) can succeed multiple times, and the comparator will output the number of times it succeeded (maximum 15).
+A command block continues to store the success count of the last command executed until it executes its command again, thus the comparator will continue to output the same signal strength even after the command block is no longer being activated (it doesn't turn off when the signal to the command block turns off).
+An end portal frame outputs a full signal of 15 if it contains an eye of ender and zero otherwise.
+A comparator can measure the state of an item frame's contents. In order for a comparator to measure an item frame's contents, it must be placed behind the block the item frame is attached to, facing away from the item frame. An item frame comparator will output 0 if the item frame is empty, or 1 to 8 for any item depending on its rotation (1 at initial placement, plus 1 for each right-click rotation to a maximum of 8, then wrapping back to 1).
+A jukebox outputs a signal strength which indicates which record is currently playing. For which records produce which signal strengths, see the Minimum Items for Container Signal Strength table above.
+A redstone comparator is defined by its ID, block data, and block entity. A redstone comparator also has a block state which is expected to replace the functionality of block data in a future version.
+A redstone comparator's block data specifies its orientation, mode, and powered status.
+Every redstone comparator has a Comparator block entity associated with it that specifies the comparator's current output power level.

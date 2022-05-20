@@ -1,0 +1,26 @@
+Mob Spawners, also known as Monster Spawners, are Blocks with a transparent, black, cage-like lattice structure found in various locations. Inside the Block, there are flames that don't give off any light, and a miniature spinning version of the Mob it spawns, which slowly increases speed until the next group of Mobs is spawned. When mined with a Pickaxe, they drop experience. It cannot be obtained with Silk Touch. The only way to obtain is by using command line cheats.
+They are one of the few blocks not usable/placeable in Creative Mode. It is possible to get this Block through the /give command, but it will only spawn Pigs, even with the correct details. However, in Minecraft: Pocket Edition, starting with Update 0.9.0, Monster Spawners can be placed in Creative Mode, and the Mob spawned can be set by using a Spawn Egg on it.
+A Mob Spawner will create Mobs provided there is space for the Mob to be generated and the light level within the spawning radius remains below seven. Mobs are created within an 8x8x3 high area centered on the spawner Block's lower northwest corner. Note that mobs can spawn in any dark space within range, even if the spawner is fully lit. The spawner will only spawn Mobs if the player is within 16 blocks of it.  A common trend among seasoned players is to create Mob traps around Mob Spawners for an easy way to gather that Mob's resources.
+Dungeons — The most common area to find Monster Spawners. The spawners found in these areas spawn Zombies, Spiders, and Skeletons. Zombie Spawners will appear 50% of the time while the other two have a 25% chance of appearing each.
+Abandoned Mine Shafts — These areas contain many useful items as well as Cave Spider spawners.
+Strongholds — These areas contain the portals to The End, along with a single spawner that spawns Silverfish.
+Nether Fortresses — Extremely large structures found in The Nether, the spawners they hold spawn Blazes.
+Note: Monster Spawners can also be obtained through mods and hacks, such as TooManyItems. They cannot be obtained when mined by an item with the Silk Touch enchantment. They can also be obtained with /give.
+Spawners can be used to make very effective Mob grinders, as they spawn more Mobs faster when a player is in the vicinity. The best way is make a large dark room around the spawn, and place the floor 3-5 blocks below. On the floor place Water to funnel the mobs that will spawn into a drop in the floor, which will lead wherever the player wants. Once they are all gathered in the desired location, the player can kill them manually or with a Redstone contraption and harvest the experience as well as the items.
+Mob Spawners have an ID of 52, and is named "Monster Spawner" in-game.
+Mob Spawners typically spawn regular enemies and cannot be changed. With the use of mods and add-ons, however, the player can become capable of changing Mob Spawners. Spawners do not naturally spawn Endermen because of their ability to hold Blocks.
+ Spawners also do not naturally spawn Creepers because of their ability to explode.
+Even though a Mob figure is much smaller than the actual Mob, Ghasts and Giants are too big for the spawner to be seen.
+Monster Spawners can spawn up to four mobs at once.
+Very rarely, a Monster Spawner can be found in out-of-the-ordinary locations.
+In Minecraft XBLA (Before the Christmas update 2012), mob spawners would only show Pigs, but would spawn things other than Pigs.
+Blaze Spawners are the only type of spawners that found naturally in the Nether.
+If you use the seed "Indev" when first creating a map, and then dig straight down from where you spawned, you will quickly find a Dungeon with a Zombie Spawner.
+Monster Spawners were added to Minecraft Pocket Edition during 0.9.0.
+A dungeon with no spawner. (Assumed that the spawner was destroyed).
+A monster spawner in a dungeon. The torches were added.
+A Cave Spider mob spawner.
+3 Pig Spawners.
+A chicken spawner.
+A zombie spawner in a dungeon.
+Add a photo to this gallery.

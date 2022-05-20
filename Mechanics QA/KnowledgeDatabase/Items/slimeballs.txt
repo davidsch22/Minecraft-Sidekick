@@ -1,0 +1,5 @@
+Dec value: 341.
+Hex value: 155.
+Maximum stack 1.
+Slimeballs are dropped by slimes, which makes slimeballs one of the rarest items in game. They used to create sticky pistons and magma cream, an ingredient for brewing.
+Farming slimeballs is a time intensive job, as slimes only occur in 10% of the chunks in the lowest 40 layers of the world. Tiny slimes are the only slimes that drop slimeballs (0-2 of them), so larger slimes first have to be killed in order to form smaller slimes.

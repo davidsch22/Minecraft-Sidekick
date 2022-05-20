@@ -1,0 +1,31 @@
+Redstone torches are an item crafted from one redstone dust and one wooden stick. When placed on its own, it appears as a glowing red torch, noticeably fainter (it can't melt Ice or prevent mob spawning) than a normal torch and without the fire animation. It is used as an endless power source, or as an inverter within redstone circuits.
+A redstone torch can provide a power source for "wires". Wires in turn are used to operate doors, pistons, or any redstone-effected block from a distance. The torch can power the wire for a length of 15 blocks, and takes 1 tick in Minecraft world time (approximately 0.1 seconds) for power to flow through it.
+The redstone torch will constantly power a set of wires while placed, and is used as a "block-based" switch sometimes. It acts as an inverter, or NOT-gate (and is labeled as such in the game's source code), in redstone circuits, and turns off when any adjacent switch, lever, wire or pressure plate is turned on.
+When a redstone circuit comes to a torch, the torch becomes a redstone torch.
+A redstone torch is a non-solid block that can be used as an invertible redstone power source.
+Redstone torches can be broken instantly using anything, and drop themselves as an item. To remove a redstone torch, use the attack control.
+A redstone torch will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.
+A redstone torch will also be removed and drop itself as an item if water flows into its space.
+A redstone torch will also be removed and drop itself as an item if a piston tries to push it or moves a block into its space.
+If lava flows into a redstone torch's space, the redstone torch will be destroyed without dropping itself as an item.
+Redstone torches can be used as crafting ingredients or redstone components.
+Redstone torches can be used to craft activator rails, redstone comparators, and redstone repeaters.
+Redstone torches can be used to power blocks and transmission components such as redstone dust, activate mechanism components such as pistons, or invert redstone signals like a NOT Gate.
+To place a redstone torch, use the Place Block control while aiming at the surface to which the redstone torch should be attached.
+A redstone torch can be attached to the top or side of any full solid opaque block (stone, dirt, blocks of gold, etc.), including full-block mechanism components (command blocks, dispensers, droppers, note blocks, and redstone lamps).
+A redstone torch can be attached to the top only of a hopper, cobblestone wall, fence, glass, nether brick fence, an upside-down slab, or upside-down stairs.
+Redstone torches cannot be attached to the bottoms of any blocks.
+Attempting to attach a redstone torch to an invalid surface can cause it to "snap" to a valid surface adjacent to the same space. For example, if a fence is on the ground, attempting to attach a redstone torch to the side of the fence will cause the redstone torch to be attached to the top of the ground next to the fence instead.
+A redstone torch is active unless the block it is attached to is powered. Effectively, a redstone torch inverts the signal applied to its attachment block: power level 0 is changed to 15 and power levels 1 to 15 are changed to 0 (for an alternative that produces a greater range of output power levels, consider a redstone comparator in subtraction mode).
+Walls, fences, glass, slabs, and stairs cannot be powered so redstone torches attached to them cannot be deactivated. Hoppers can be activated but cannot be powered (in the sense that they would power redstone dust next to them), so redstone torches attached to hoppers also cannot be deactivated.
+A redstone torch takes 1 redstone tick (2 game ticks, or 0.1 seconds barring lag) to change state and won't change state unless the signal change to its attachment block is at least 1.5 redstone ticks long (unless the change is caused by the redstone torch itself in a "short-circuit"). For example, a redstone torch won't turn off if its attachment block receives a 1-tick or shorter pulse.
+While active, a redstone torch powers adjacent redstone dust to power level 15, including beneath the redstone torch if it is attached to the side of a block.
+While active, a redstone torch powers adjacent redstone comparators or redstone repeaters facing away from the redstone torch to power level 15.
+While active, a redstone torch strongly powers a full solid opaque block above the redstone torch to power level 15 (but not next to or below it).
+While active, a redstone torch activates adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+While active, a redstone torch produces "reddust" particles.
+A redstone torch never affects the block it is attached to, even if it is a mechanism component. For example, a redstone torch attached to a redstone lamp will not activate the lamp.
+A redstone torch will "burn-out" when it is forced to change state (by powering and de-powering the block it's attached to) more than eight times in 60 game ticks (three seconds, barring lag). After burning-out, a redstone torch will produce a "smoke" particle and a hiss similar to an extinguished fire, deactivate, and will then ignore attempts to change its state until the number of state changes in the last 60 game ticks drops to fewer than eight — after that it will re-activate when it receives a block update (an adjacent block changing its state) or a redstone update which wouldn't normally deactivate the redstone torch. There is no limit on how often a single redstone torch can burn out.
+A redstone torch is defined by its ID and block data. A redstone torch also has a block state which is expected to replace the functionality of block data in a future version.
+A redstone torch's ID specifies whether it is active or not.
+A redstone torch's block data specifies its orientation.

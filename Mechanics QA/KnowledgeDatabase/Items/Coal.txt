@@ -1,0 +1,20 @@
+ Coal lumps are items mainly obtained by harvesting coal ore blocks. Their main uses are as a fuel or crafting torches.
+ Charcoal is an alternative to coal obtained from smelting wood. It can do everything coal can, except be traded with villagers or crafted into a block of coal. Coal and charcoal also cannot stack together.
+The main difference between coal and charcoal is in the methods of obtaining.
+Coal ore mined using a pickaxe will drop 1 unit of coal. If the pickaxe is enchanted with Fortune, it may drop an extra unit per level of Fortune, up to a maximum of 4 with Fortune III.
+A wither skeleton may drop a coal lump upon death.
+Coal can be found in stacks of 3 to 8 in the chests in stronghold store rooms and in minecart with chests in abandoned mine shafts.
+When used in a furnace as a fuel, a coal lump or piece of charcoal lasts 80 seconds (8 operations).
+Coal and charcoal are also the only fuels accepted by powered minecarts. They provide approximately four minutes of transit each.
+In Pocket Edition, in survival, if you put charcoal in a furnace you may be able to stack coal on the charcoal, and the coal with automatically change into charcoal. This also works backwards.
+Villager fishermen, armorers, tool smiths and weapon smiths buy 16-24 coals for one emerald as part of their first tier trades. Butchers buy 16-24 coals for one emerald as part of their second tier trades.
+Coal and charcoal share the same ID name, which is minecraft:coal, but charcoal has a data value of 1.
+Dec value: 263.
+Hex value: 107.
+Burning time: 80 seconds.
+Maximum stack 64.
+Coal can be obtained by mining coal ore blocks, which can be found all over minecraft in large quantities. Each coal ore block will drop only 1 lump of coal. A pickaxe is required to harvest coal. It can also be found in chests in strongholds and abandoned mineshafts.
+Coal is used to create fire charges and torches, as well as acting as a fuel in furnaces and powered minecarts.
+Coal is one of the less efficient fuels, depending on the circumstances. While coal can be found almost anywhere, charcoal and wooden planks are often much easier to farm in larger quantities, which often make them more time efficient.
+Lava buckets are pretty much always more efficient than anything else in minecraft, though only late in game, when the player has already acquired large amounts of iron and has no other use for it. Up to that point, either coal, charcoal or wooden planks are your best choice. Even though blaze rods burn longer than coal (120 sec. vs 80 sec.), blaze rods are often take much longer to acquire in large quantities, even if you use a blaze farm.
+The efficiency of charcoal and wooden planks have been explained in further detail in the charcoal article. The full article on fuel efficiency can be found here.

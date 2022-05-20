@@ -1,0 +1,32 @@
+ Wool is a block obtained from sheep that can be dyed 16 different colors. Wool blocks are weak, flammable, and do not offer much resistance against explosions.
+As of the Beta 1.2 update, white, light gray, gray, and black wool can be obtained naturally by shearing sheep, and as of the 1.4 patch, brown and pink sheep can spawn naturally throughout the world. Sheep have a 82.8% to be white, 5% chance to be black, 5% chance to be gray, 5% chance to be light gray, 3% chance to be brown, and a 0.2% chance to be pink. Pink is the rarest wool color naturally.  White wool can also be created by combining 4 pieces of string together, which can be found in dungeons or obtained by killing Spiders or breaking cobwebs. Killing sheep will yield 1 wool, while shearing will yield 1-3 wool and keep the creature alive for future shearing. With three wool and three wooden planks, you can make a bed.
+Wool was added for the creation of paintings, carpeting, colorful structures, and in-game pixel art. Wool is also a suitable material for docks, as wool blocks will stop boats and absorb some impact from the collisions in a manner similar to soul sand.
+In Creative Classic mode, wool blocks were known as cloth blocks that came in a set of 16 colors, although the palette was slightly different from the one available in Beta. Three shades of gray were added in Classic 0.0.20a.
+Except for white cloth, colored cloth blocks were unobtainable during Classic's Survival Test and Infdev unless they were pre-placed into the map file. They were completely removed from the code in Infdev. Placing these blocks on the map would cause the game client to crash, since the blocks no longer existed.
+When colored wool was introduced again in Beta 1.2, cloth blocks were renamed wool blocks.
+Making wool from string is not recommended as string is much harder to obtain without the aid of an efficient mob trap. The new string to wool recipe is 4 string in a 2x2 square. The old one was 3x3. There are 16 colors of wool.
+Colored wool is made from dye and any color wool. The position of the wool and dye in the crafting square doesn't matter.
+By right clicking on a sheep with dye, the sheep will be colored in the color of the dye. When sheared, they drop 1-3 blocks of the colored wool, allowing more than crafting colored wool or killing the dyed sheep, which gives only 1 unit.
+Wool/Gallery.
+Wool (previously known as cloth) is a block derived from sheep that can be dyed in any of the 16 different colors.
+Wool can be broken using any tool, but shears are the fastest.
+1 to 3 wool is harvested by using shears on an adult sheep. If unshorn, sheep will drop 1 wool upon death. The wool dropped will be the same color as the sheep's wool. The drop rates are not affected by the Fortune or Looting enchantments.
+White, light gray, gray, black, brown, and pink wool can be found naturally on sheep. The rest of the colors require dyeing sheep.
+Black wool can also be found naturally in villages as part of a streetlight-like structure where they lie on top of three fence posts, surrounded by 4 torches.
+Shepherd villagers sell each separate color of wool for a price of 1 to 2 emeralds for one wool as part of their tier 2 trades.
+Wool blocks are weak, highly flammable, and offer little resistance against explosions. Their primary usage is as a decorative block.
+Shepherd villagers buy 16 to 22 white wool for 1 emerald as part of their tier 1 trades.
+Any color of wool or wood may be used for beds and paintings but it has no effect on the product's final appearance.
+The damage values for wool and their respective dyes are the inverse of each other. This is also true for stained glass and stained clay.
+White wool can be crafted together with bone meal, but this simply wastes the bone meal.
+On the Console Edition tutorial world, the Minecraft Logo seen in the sky is made of light gray and black wool.
+Wool is referred to cloth in the game code.
+Dec value: White: 35; Orange: 35:1; Magenta: 35:2; Light blue: 35:3; Yellow: 35:3; Lime: 35:5; Pink: 35:6; Gray: 35:7; Light gray: 35:8; Cyan: 35:9; Purple: 35:10; Blue: 35:11; Brown: 35:12; Green:35:13; Red: 35:14; Black: 35:15.
+Hex value: 23.
+Minimum tool requirement to break: None.
+Blast resistance: 4.
+Maximum stack 64.
+Transparency: No.
+Wool is a block obtained by shearing sheep. Sheep are naturally either white, brown, black, light gray, gray or pink, though white is the most common colour. But, wool can be painted into other colours, there are 16 different colours, including white. It’s possible to paint the sheep, making the coloured wool renewable, however, it’s only possible to paint white wool blocks. Coloured wool cannot be changed back to white. However, it is possible to dye sheep white again by using bonemeal on them.
+Wool is used to create beds and paintings, but the colours you use do not affect the result. Note that you can use any combination of wood and wool colours to create the beds and paintings. Wool can also be crafted using 4 pieces of string, though string is much harder to aquire in larger amounts. Black wool is found in villages, where it’s used as lamp posts.
+Wool is highly flammable and fire will spread very fast, quickly turning any large surface of wool in an ocean of flames. Fire does not spread onto sheep, though of course they do catch fire when they walk into fire.

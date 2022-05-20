@@ -1,0 +1,9 @@
+Dec value: 375.
+Hex value: 177.
+Hunger restoration: 1 hunger bar slot, but 2 hearts of damage.
+Hunger saturation: 3.2.
+Maximum stack 64.
+Spider eyes are obtained by killing spiders and cave spiders, but the spiders have to be killed by the player for the eyes to drop. They can be used as food, as an ingredient for brewing and they can be crafted into fermented spider eyes, which is also an ingredient for brewing.
+Spider eyes can be eaten, but they will always cause poisoning, which will cause 2 hearts of damage. The spider eye will restore 1 hunger bar slot and 3.2 hunger satisfaction, so it is possible to restore your hunger bar far enough to allow you to regenerate your lost health.
+As an ingredient, spider eyes are used to create potions of poison and potions of weakness, by combining it with other ingredients in the right order.
+Spider eyes can easily be farmed as spiders can be found everywhere. Dungeons occasionally have spider spawners, and abandoned mineshafts have plenty of cave spider spawners. This makes creating a spider farm very easy.

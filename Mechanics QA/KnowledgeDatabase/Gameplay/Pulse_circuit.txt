@@ -1,0 +1,288 @@
+A pulse circuit is a redstone circuit which generates, modifies, detects, or otherwise operates on redstone pulses.
+A pulse is a temporary change in redstone power that eventually reverts to its original state.
+An on-pulse is when a redstone signal turns on, then off again. On-pulses are usually just called "pulses" unless there is a need to differentiate them from off-pulses.
+An off-pulse is when a redstone signal turns off, then on again.
+The pulse length of a pulse is how long it lasts. Short pulses are described in redstone ticks (for example, a "3-tick pulse" for a pulse that turns off 0.3 seconds after it turns on) while longer pulses are measured in any convenient unit of time (for example, a "3-second pulse").
+The rising edge of a pulse is when the power turns on – the beginning of an on-pulse or the end of an off-pulse.
+The falling edge of a pulse is when the power turns off – the end of an on-pulse or the beginning of an off-pulse.
+Some redstone components react differently to short pulses A piston or sticky piston usually takes 1.5 ticks to extend. If the activation pulse ends before this (because it's only 0.5 ticks or 1 tick long), the piston or sticky piston will "abort" – it will place the pushed blocks at their pushed position and return to its retracted state instantly. This can cause sticky pistons to "drop" their block – they push a block and then return to their retracted state without pulling it back.
+Some redstone components react differently to short pulses A redstone comparator will not transmit a half-tick pulse, only pulses with durations of 1 tick or more.
+Some redstone components react differently to short pulses A redstone lamp cannot be deactivated by an off-pulse shorter than 2 ticks.
+Some redstone components react differently to short pulses A redstone repeater will increase the length of pulses which are shorter than its delay to match its delay (for example, a 4-tick repeater will change any pulse shorter than 4 ticks into a 4-tick pulse).
+Some redstone components react differently to short pulses A redstone torch cannot be deactivated by a pulse shorter than 1.5 ticks.
+When building circuits, it can sometimes be helpful to observe the pulses being produced to confirm their duration or spacing.
+A pulse can be measured with 1-tick precision with an oscilloscope (see schematic, right).
+An oscilloscope simply consists of a line of 1-tick repeaters (aka a "racetrack"). An oscilloscope should be constructed to be at least as long as the expected pulse, plus a few extra repeaters (the more repeaters, the easier it will be to time capturing a pulse). For periodic pulses (as from clock circuits), an oscilloscope should be at least as long as the clock period (both the on and off parts of the pulse).
+An oscilloscope can be frozen to aid reading by positioning the oscilloscope on the screen so that it can be viewed when the player escapes to the game menu (by default, with esc), or.
+An oscilloscope can be frozen to aid reading by taking a screenshot with F2, or.
+An oscilloscope can be frozen to aid reading by running repeaters into the side of the oscilloscope and powering them simultaneously to lock the repeaters of the oscilloscope.
+An oscilloscope is not capable of displaying fractional-tick pulses directly (0.5-tick pulses, 1.5-tick pulses, etc.), but for fractional-tick pulses greater than 1 tick, the pulse length may appear to change as it moves through the oscilloscope. For example, a 3.5-tick pulse may sometimes power 3 repeaters and sometimes 4 repeaters.
+Half-tick pulses do not vary between powering 0 or 1 repeaters (they just look like 1-tick pulses), but half-tick and 1-tick pulses can be differentiated with a redstone comparator – a 1-tick pulse can activate a comparator, but a half-tick pulse cannot.
+Multiple oscilloscopes can be laid in parallel to compare different pulses. For example, you can determine a circuit's delay by putting the circuit's input signal through one oscilloscope and the circuit's output through another and counting the difference between the input and output signal edges.
+Oscilloscopes are useful but sometimes require you to be in an inconvenient position to observe them. If you just need to observe the simultaneity of multiple pulses it can be useful to use pistons or note blocks and observe their movement or note particles from any angle. Redstone lamps are less useful for this purpose because they take 2 ticks to turn off.
+A circuit is monostable if it has only one stable output state ("mono-" means "one", so "monostable" means "one stable state").
+A circuit's output can be powered or unpowered. If an output stays in the same state until the circuit is triggered again, that output state is called "stable". An output state which will change without the input being triggered is not stable (that doesn't necessarily mean it's random – it may be an intentional change after a designed delay).
+If a circuit has only one stable output state then the circuit is called "monostable". For example, if a powered state will inevitably revert to the unpowered state, but the unpowered state won't change until the input is triggered.
+When someone says "monostable circuit" in Minecraft, they usually mean a pulse generator or a pulse limiter. However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A pulse generator generates a pulse.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A pulse limiter reduces the duration of long pulses.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A pulse extender increases the length of short pulses.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A pulse multiplier produces multiple output pulses in response to a single input pulse.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A pulse divider produces an output pulse after a specific number of input pulses.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific An edge detector produces an output pulse when it detects a specific edge of an input pulse.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A pulse length detector produces an output pulse when it detects an input pulse of a specific length.
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A block update detector produces an output pulse when a specific block is updated (for example, stone is mined, water turns to ice, etc).
+However, any redstone circuit which produces a finite number of pulses is technically a monostable circuit (all the circuits in this article, in fact, as well as some others), so instead of saying monostable circuit, it can be helpful to be more specific A comparator update detector produces an output pulse when a specific comparator is updated by an inventory update.
+Clock circuits also produce pulses, but they aren't monostable because they have no stable output states (they are "astable") unless forced into one by external interference (for example, when they're turned off). Logic and memory circuits aren't monostable because both of their output states are stable (they are "bistable") – they won't change unless triggered by their input.
+A pulse generator (aka "pulsegen") creates an output pulse when triggered.
+Most pulse generators consist of a switch (button, lever, etc.) and a pulse limiter, but a switch could also be added to a pulse extender to generate a longer pulse.
+Schematic Gallery: Pulse Generator.
+1×3×3 (9 block volume), 1-widecircuit delay: 1 tickoutput pulse: 1 tick.
+The circuit breaker is the most commonly used pulse generator due to its small size and adjustable output.
+Variations: The output repeater may be set to any delay, which will also lengthen the output pulse to equal the delay. When oriented north-south, the output repeater may be replaced by any mechanism component, causing the mechanism component to receive a 0.5-tick activation pulse.
+1×4×3 (12 block volume), 1-widecircuit delay: 0 ticksoutput pulse: 1.5 ticks.
+A dust-cut pulse generator limits the output pulse by moving a block so that it cuts the output dust line.
+1×4×3 (12 block volume), 1-wide, silentcircuit delay: 2 ticksoutput pulse: 1 tick.
+A NOR-gate pulse generator compares the current power to the power from 2 ticks ago – if the current power is on and the previous power was off, the output torch flashes on briefly.
+This design uses a trick to limit the output pulse to a single tick. A redstone torch cannot be activated by a 1-tick pulse from exterior sources, but a torch activated by a 2-tick exterior pulse can short-circuit itself into a 1-tick pulse. To increase the output pulse to 2 ticks, remove the block over the output torch. To then increase it to 3 ticks, increase the delay on the repeater to 4 ticks.
+2×3×2 (12 block volume), flat, silentcircuit delay: 2 ticksoutput pulse: 1 tick.
+When the lever is turned off, the locked repeater allows a pulse through.
+Variations: The locked repeater can be set to any delay. This increases the output pulse length, but also the circuit delay.
+An off-pulse generator has an output which is usually on, but generates an off-pulse when triggered.
+1×3×3 (9 block volume), 1-wide, silentcircuit delay: 1 tickoutput pulse: 1 tick (off).
+When triggered, the bottom torch turns off, but the top torch doesn't turn on until 1 tick later, allowing a 1-tick off-pulse output.
+A pulse limiter (aka "pulse shortener") reduces the length of a long pulse.
+An ideal pulse limiter would allow shorter pulses through unchanged, but in practice the range of input pulse can often be determined (or guessed) and it is sufficient to use a circuit which produces a specific pulse shorter than expected input pulses.
+Any rising edge detector can also be used as a pulse limiter.
+Schematic Gallery: Pulse Limiter.
+1×3×3 (9 block volume), 1-widecircuit delay: 1 tickoutput pulse: 1 tick.
+The circuit breaker is the most commonly used pulse limiter due to its small size and adjustable output.
+Variations: The output repeater may be set to any delay, which will also lengthen the output pulse to equal the delay. When oriented north-south, the output repeater may be replaced by any mechanism component, causing the mechanism component to receive a 0.5-tick activation pulse.
+1×5×3 (15 block volume), 1-wide, instantcircuit delay: 0 ticksoutput pulse: 1.5 ticks.
+A dust-cut pulse limiter limits the output pulse by moving a block so that it cuts the output dust line.
+The dust-cut pulse limiter doesn't "repeat" its input (boost it back up to full power), so a repeater may be needed before or after it (adding delay).
+The dust-cut pulse limiter is an "ideal" pulse limiter (see above). Pulses shorter than 1.5 ticks (its maximum output pulse) will be allowed through unchanged.
+3×3×2 (18 block volume), flatcircuit delay: 1 tickoutput pulse: 1 tick.
+Uses the same principle as the circuit breaker pulse limiter – power the output through a block, then remove the block to keep the output pulse short.
+Variations: The bottom repeater can be set to a longer delay to produce output pulses of 2 or 3 ticks.
+features vary (see schematics).
+A NOR-gate pulse limiter compares the current power to the power from 2 ticks ago – if the current power is on and the previous power was off, the output torch flashes on briefly.
+The "1-wide" and "1-tick" designs use a trick to limit the output pulse to a single tick. A redstone torch cannot be activated by a 1-tick pulse from exterior sources, but a torch activated by a 2-tick exterior pulse can short-circuit itself into a 1-tick pulse. Remove the block over an output torch to increase the output pulse to 2 ticks.
+2×4×2 (16 block volume), flat, silentcircuit delay: 3 ticksoutput pulse: 1 tick.
+Uses repeater locking to shut pulses off after 1 tick.
+Variations: The output repeater can set to any delay. This increases the output pulse, but also increases the circuit delay.
+If the input doesn't have to be at the same height as the output, you can move the torch so that it's attached to the top of the block it's currently above, and run the input into that block (making the circuit only 2×3×2).
+1×4×2 (8 block volume), 1-wide, flat, silentcircuit delay: 3 ticksoutput pulse: 3.5 ticks.
+When the input turns on, the dropper pushes an item into the hopper, activating the comparator until the hopper pushes the item back.
+The initial block is required to activate the dropper without powering it (which would deactivate the adjacent hopper, preventing it from returning the item to turn off the output pulse).
+Because the output comes from a comparator used as an inventory counter, the output power level will only be 1 (with a stackable item) or 3 (with a non-stackable item) – add a repeater for a higher power level output.
+Variations: If the input and output don't need to be at the same height, you can reduce the size of the circuit by putting the hopper on top of the dropper (making the circuit 1×3×2).
+An off-pulse limiter (aka "inverted pulse limiter") has an output which is usually on, but which shortens the length of long off-pulses.
+Any inverted falling edge detector can also be used as an off-pulse limiter.
+features vary (see schematics).
+An or-gate off-pulse limiter combines the input with a delayed inverted input to limit off-pulses.
+The "instant" version doesn't repeat its input (boost it back up to full power), so a repeater may be needed before or after it (adding delay).
+Variations: The bottom repeater of the flat version can be adjusted to any delay, increasing the length of the off-pulse to match the repeater's delay (this doesn't actually increase the circuit delay).
+The bottom redstone dust in the "instant" version can be replaced with a repeater to increase the length of its off-pulse.
+1×4×2 (8 block volume), 1-wide, instantcircuit delay: 0 ticksoutput pulse: 2.5 ticks (off).
+When the input turns off, the piston begins to retract. 1 tick later, the torch turns on, which re-activates the sticky piston by quasi-connectivity, causing it to extend again.
+2×5×2 (20 block volume), instantcircuit delay: 0 ticksoutput pulse: 0-0.5 ticks (off).
+The redstone block keeps the circuit powered while off. Powering the circuit moves the redstone block, but apparently the game interprets the power as still being on, so the result is a 0-tick off-pulse. Removing power from the circuit pulls the redstone block back into place, which results in a 0.5-tick off-pulse. This circuit pulses too quickly for torches or repeaters.
+A pulse extender (aka "pulse sustainer", "pulse lengthener") increases the duration of a pulse.
+The most compact options are Up to 4 ticks: Repeater.
+The most compact options are Up to 8 ticks: Repeater-Line Pulse Extender.
+The most compact options are 1 second to 4 minutes: Dropper-Latch Pulse Extender or Hopper-Clock Pulse Extender.
+The most compact options are 5 minutes to 81 hours: MHDC Pulse Extender.
+Schematic Gallery: Pulse Extender.
+1×1×2 (2 block volume)1-wide, flat, silentcircuit delay: 1 to 4 ticksoutput pulse: 1 to 4 ticks.
+For any input pulse shorter than its delay, a redstone repeater will increase the duration of the pulse to match its delay. For example, a 3-tick repeater will turn a 1-tick pulse or a 2-tick pulse into a 3-tick pulse.
+Additional repeaters will only delay the pulse, not extend it (but see the repeater-line pulse extender below).
+2×N×2flat, silent, instantcircuit delay: 0 ticks (instant) or 4 ticks (delayed)output pulse: up to 4 ticks per repeater.
+For the instant version, the input must be a pulse at least as long as the longest-delay repeater in the line (usually 4 ticks) – if not, use the delayed version.
+2×6×2 (24 block volume)flat, silentcircuit delay: 5 ticksoutput pulse: 5 ticks to 256 seconds.
+Each item in the middle hopper adds 8 ticks (0.8 seconds) to the output pulse. The output pulse can be fine-tuned by increasing the delay on the 1-tick repeater by up to 3 ticks, decreasing the delay on the 4-tick repeater by up to 3 ticks, or by replacing the 4-tick repeater with a block to decrease the delay by 4 ticks (these adjustments affect the total pulse duration, not per item, allowing pulse durations of any tick amount from 5 ticks to 256 seconds).
+Variations: If the input pulse might be longer than half the output pulse, add a block before the dropper to keep it from deactivating the hopper. A 1-wide version is possible by using two droppers (but only adjustable in increments of 8 ticks).
+features vary (see schematics)circuit delay: 1 tickoutput pulse: 4 ticks to 256 seconds.
+A hopper-clock pulse extender is a hopper clock with one of the sticky pistons replaced with a regular piston so that it won't pull the block of redstone back, but instead wait for the input to trigger a new clock cycle.
+A hopper-clock pulse extender with a single item in its hoppers produces a 4-tick output pulse. Each additional item adds 8 ticks to the output pulse (unlike the dropper-latch pulse extender, the output of a hopper-clock pulse extender can only be adjusted in 8-tick increments).
+While waiting for the input to turn on, the sticky piston is actually in a state where it is powered but doesn't know it (like a stuck-piston BUD circuit) until "woken up" by the input changing its power level. This will only work as long as the input power level is different than the resting output of the powered comparator (unintuitively, it will even work if the input power level is less than the comparator output). In addition, any other block update or nearby redstone update can trigger the powered sticky piston, so care should be taken to keep other circuit activity away from the sticky piston.
+Earliest Known Publication: 4 May 2013.
+features vary (see schematics)output pulse: up to 8 ticks per repeater.
+An sr latch pulse extender works by setting the output on with a latch, then resetting the latch after some delay.
+Both of the circuits below use a trick to double the delay produced by the repeaters, by first powering the output from the latch, then from the repeaters. This means that any 1-tick adjustment to the repeater loop will produce a 2-tick adjustment in the output pulse.
+2×N×2flat, silentcircuit delay: 0 ticksoutput pulse: up to 14 ticks per comparator.
+The delay depends on the input's signal strength – for input signal strength S, the delay will be (S-1) ticks per comparator. The signal strength of the output will gradually decay, so should usually be boosted with a repeater.
+6×6×2 (72 block volume)flatcircuit delay: 3 ticksoutput pulse: up to 22 hours.
+"MHC" stands for "multiplicative hopper clock" (a hopper counter multiplies the clock period of a hopper clock).
+When the input turns on, the torch will turn off, allowing both clocks to cycle into a state where the bottom clock will continue to hold the torch off until it's completed one full cycle. The number of items in the top hoppers determines the top clock's cycle period, and its block of redstone will move every half-cycle, allowing the bottom clock to move one item.
+The half-cycle is equal to the number of items in the top hoppers times 4 ticks (or 0.4 seconds per item) – up to 128 seconds for 320 items. The bottom clock will keep the output on for a number of half-cycles equal to twice the number of items in the bottom hoppers, minus 1. Thus, the output pulse equals 0.4 seconds × <top items> × (2 × <bottom items> - 1).
+5×7×2 (70 block volume)flatcircuit delay: 5 ticksoutput pulse: up to 81 hours.
+"MHDC" stands for "multiplicative hopper-dropper clock" (a dropper counter multiplies the clock period of a hopper clock).
+When the input turns on, the torch will turn off, allowing both clocks to cycle into a state where the bottom clock will continue to hold the torch off until it's completed one full cycle. The hoppers can hold up to 320 items (X) and the droppers can hold up to 576 items (Y). The duration of the output pulse will be X × (2Y-1) × 0.8 seconds.
+1×4×2 (8 block volume)circuit delay: 3 ticksoutput pulse: up to 27 minutes.
+This pulse extender uses a command block to slow the hopper transfer rate. The exact command will depend on the direction the pulse extender is facing, but for a pulse extender facing the positive X direction it will look something like this: blockdata ~2 ~ ~ {TransferCooldown:X}, where X is the number of game ticks (up to 32,767) to hold the item in the hopper (20 game ticks = 1 second, lag permitting).
+When the command block is powered directly it activates the adjacent dropper, pushing the item into the hopper to power the output, and simultaneously changes the hopper's cooldown time to delay when it pushes the item back to the dropper.
+A pulse multiplier turns one input pulse into multiple output pulses.
+There are three primary strategies for designing pulse multipliers Split the input pulse into multiple paths that arrive at the output at different times.
+There are three primary strategies for designing pulse multipliers Enable a clock to run while the input pulse is on.
+There are three primary strategies for designing pulse multipliers Trigger a clock that will run for a finite number of cycles, independent of the input pulse length.
+Schematic Gallery: Pulse Multiplier.
+A split-path pulse multiplier produces multiple pulses by splitting the input signal into multiple paths and having them arrive at the output at different times. This usually requires first reducing the length of the input pulse with a pulse limiter to reduce the delay required between each output pulse.
+1×6×3 (18 blocks), 1-widecircuit delay: 1 tickoutput pulses: 1 tick and 2 ticks.
+This circuit is useful for double-pulsing a dispenser, to quickly dispense then retract water or lava. First it powers a block on one side of the dispenser, then the other side.
+An enabled-clock pulse multiplier runs a clock for as long as the input stays on, thus producing a number of pulses relative to the input pulse length.
+2×3×2 (12 blocks), flat, silentcircuit delay: 1 tickoutput pulses: 1 tick.
+This pulse multiplier does not repeat its input signal, so may need a repeater before or after (increasing the circuit delay).
+This circuit will produce 5 pulses when enabled with a stone button, or 7 pulses when enabled with a wooden button. For other number of pulses, consider a pulse extender to lengthen the input pulse.
+2×3×2 (12 blocks), flat, silentcircuit delay: 1 tickoutput pulses: 2+ ticks.
+The output pulses will be 1 tick longer than the delay set on the repeater (so, 2 to 5-tick output pulses). For even longer pulses, replace the dust next to the repeater with another repeater.
+This pulse multiplier does not repeat its input signal, so may need a repeater before or after (increasing the circuit delay).
+The table below shows the number of output pulses produced with various combinations of button inputs and repeater delays (for more pulses, consider a pulse extender to lengthen the input pulse).
+2×4×2 (16 blocks), flat, silentcircuit delay: 2 ticksoutput pulses: 3+ ticks.
+The output pulses will be 1 tick longer than the delay set on the repeater (so, 3 to 5-tick output pulses). The repeater can't be set to a 1-tick delay or the right torch will burn-out (which could be useful for limiting the number of pulses to 8 maximum).
+A triggered-clock pulse multiplier consists of a clock circuit that is allowed to run for a specific number of cycles once triggered. Strategies for designing a triggered-clock pulse multiplier include using a latch to turn the clock on and have the clock itself reset the latch back off after one or one-half clock cycles, or using a pulse extender to run a clock.
+3×4×2 (24 blocks), flat, silentcircuit delay: 3 ticksoutput pulses: 1 to 320 2-tick pulses.
+This pulse multiplier produce one 2-tick pulse for every item placed in the bottom dropper (with a 2-tick off-pulse between each on-pulse).
+After it has finished its pulses, it requires a reset time equal to 0.4 seconds × pulse count. If it is reactivated during this time, it will produce fewer pulses.
+If the input pulse is longer than the output pulses, the powered dropper will prevent the clock from turning off because the disabled hopper can't push its item back. If a long input pulse is possible, place a solid block between the input and the dropper so that it activates without being powered.
+Earliest Known Publication: 4 September 2013.
+2×9×2 (36 blocks), flat, silentcircuit delay: 5 ticksoutput pulses: 2 to 777 1-tick pulses.
+This pulse multiplier allows a wide range of pulses, with no reset time required.
+The first and last items placed in the middle hopper should be non-stackable items (to give the output enough signal strength to run the subtraction clock). Up to three stacks of stackable items may be placed between the two non-stackable items.
+The circuit will produce four 1-tick pulses for every item placed in the middle hopper (with a 1-tick off-pulse between each on-pulse). The total number of pulses may be reduced by 1 by changing the 4-tick repeater to 2 ticks, or reduced by 2 by replacing the 4-tick repeater with a block, or increased by 1 by changing the 1-tick repeater to 3 ticks.
+If the input pulse is longer than the output pulses, the powered dropper will prevent the clock from turning off because the disabled hopper can't push its item back. If a long input pulse is possible, place a solid block between the input and the dropper so that it activates without being powered.
+A pulse divider (aka "pulse counter") produces an output pulse after a specific number of input pulses – in other words, it turns multiple input pulses into one output pulse.
+Because a pulse divider must count the input pulses to know when to produce an output pulse, it has some similarity to a ring counter (an n-state memory circuit with only one state on). The difference is that a ring counter's output state only changes when its internal count is changed by an input trigger, while a pulse divider produces an output pulse and then returns to the same unpowered output it had before its count was reached (in other words, a pulse divider is monostable but a ring counter is bistable). Any ring counter can be converted into a pulse divider just by adding a pulse limiter to its output (making it monostable).
+Schematic Gallery: Pulse Divider.
+2×(3 + pulse count/2)×3output pulse: 3 ticks.
+This is a hopper-loop ring counter with an incorporated pulse limiter on the output.
+Each input pulse turns the redstone dust off for 1 tick, allowing the item to move to the next hopper. When the item reaches the dropper it will turn on the output briefly, until the redstone dust turning back on activates the dropper to push the item to the next hopper.
+To count an even number of pulses, replace another hopper with a dropper. Putting the second dropper right before the first dropper will change the output pulse to 6 ticks.
+The output will only be signal strength 1 or 3 (with a stackable or non-stackable item in the hoppers) so may need to be boosted with a repeater.
+Variations: Removing the dust from on top of the dropper and replacing the dropper with a hopper increases the output pulse to 4 ticks but makes the entire circuit silent.
+3×4×2 (24 block volume)flatoutput pulse: (4 × pulse count) ticks.
+The dropper-hopper pulse divider can count up to 320 pulses.
+Each input pulse pushes an item from the dropper to the hopper next to it. When the dropper is finally emptied its comparator will turn off, allowing the item in the bottom-left hopper to move to the right, starting the reset process. When the top hopper has finished moving items back to the dropper, the item in the bottom hoppers will move back to the left, ending the reset process.
+Once it has begun its output pulse, the pulse divider goes through a reset period of (4 × pulse count) ticks (the same length as the output pulse). Any new input pulses during the reset period will not be counted, but will only extend the reset period. Because of this reset period, this pulse divider is best when the typical interval between input pulses is greater than the reset period, or you can run a line back from the output to suppress inputs while it is resetting.
+The output will only be signal strength 1 or 3 (with a stackable or non-stackable item in the bottom hoppers) so may need to be boosted with a repeater. The output pulse length is also proportional to the pulse count, so may need to be shortened with a pulse limiter.
+3×6×2 (36 block volume)flatoutput pulse: (2 × pulse count) ticks.
+The dropper-dropper pulse divider can count up to 576 pulses.
+Each input pulse pushes an item from the left dropper to the right dropper. When the left dropper is finally emptied its comparator will turn off, allowing the item in the bottom-left hopper to move to the right, starting the subtraction 1-clock driving the reset process (although the subtraction clock will pulse the dropper, the circuit's output will only alternate in signal strength, staying on the whole time – subtraction clocks can be tricky that way!). When the right dropper has finished moving items back to the left dropper, the item in the bottom hoppers will move back to the left, ending the reset process.
+Once it has begun its output pulse, the pulse divider goes through a reset period of (2 × pulse count) ticks (the same length as the output pulse). Any new input pulses during the reset period will not be counted, but will only extend the reset period. Because of this reset period, this pulse divider is best when the typical interval between input pulses is greater than the reset period, or you can run a line back from the output to suppress inputs while it is resetting.
+The output will alternate between signal strength 1 and 3 so may need to be boosted with a repeater. The output pulse length is also proportional to the pulse count, so may need to be shortened with a pulse limiter.
+3×5×2 (30 block volume)flat, silent, 3-wide stackable (alternating)input: 2 off-ticks, use a pulse limiter if necessaryoutput pulse: 2 off-ticksdelay: 3 ticks (per unit in stack).
+The inverted binary divider / counter uses the latching feature of redstone repeaters to create a two-state (binary) counter. Multiple counters can be stacked to construct an n-bit counter, giving 2 input pulses per output pulse. It is called 'inverted' because it counts the number of off pulses, rather than on-pulses. Note that it triggers every two off-ticks, so holding the input low will cause it to count multiple times then burn out a redstone torch. You may want to use a pulse limiter on the input signal to prevent this.
+Used purely as a pulse divider / counter this circuit is somewhat inefficient, since it would have to be stacked nine times to be able to count almost as many pulses (512) as the dropper-dropper divider. However, the stacking binary design means that the pulse count value can be easily read out by simply taking an output line from each stack element. In combination with (N)OR gates, this can be used to trigger an output after an arbitrary number of pulses, or to create a divider for any number when combined with the reset circuit below.
+2×5×3 (30 block volume)silent, 2-wide stackable (alternating).
+Functionally the same as the flat (3×5×2) binary counter, but takes one extra vertical block and one less horizontally, which may be an advantage when stacking them together. Requires an extra torch compared to the flat circuit.
+Adding this to the binary counter circuit allows it to be reset at any time; this can be used to create a counter for any desired number, or even a programmable counter (with extra circuits to select the number). This can be applied to either version, though the schematic shows it connected to the 'tall' version.
+Like the counter itself, the reset circuit is active low; it requires at least three off-ticks to perform the reset, although the actual reset will not take place until the rising edge (end) of the off-pulse. (A standard button followed by an inverter will work fine, as seen in the screenshot).
+An edge detector outputs a pulse when it detects a specific change in its input. A rising edge detector outputs a pulse when the input turns on.
+ A falling edge detector outputs a pulse when the input turns off.
+ A dual edge detector outputs a pulse when the input changes.
+An inverted edge detector is usually on, but outputs an off-pulse (it turns off, then back on again) when it detects a specific change in its input. An inverted rising edge detector outputs an off-pulse when the input turns on.
+ An inverted falling edge detector outputs an off-pulse when the input turns off.
+ An inverted dual edge detector outputs an off-pulse when the input changes.
+A rising edge detector (RED) outputs a pulse when its input turns on (the rising edge of the input).
+Any rising edge detector can also be used as a pulse generator or pulse limiter.
+Schematic Gallery: Rising Edge Detector.
+1×3×3 (9 block volume)1-widecircuit delay: 1 tickoutput pulse: 1 tick.
+The circuit breaker is the most commonly used rising edge detector due to its small size and adjustable output.
+Variations: The output repeater may be set to any delay, which will also lengthen the output pulse to equal the delay. When oriented north-south, the output repeater may be replaced by any mechanism component, causing the mechanism component to receive a 0.5-tick activation pulse.
+1×5×3 (15 block volume)1-wide, instantcircuit delay: 0 ticks ("Unrepeated") or 1 tick ("Repeated")output pulse: 1.5 ticks.
+A dust-cut rising edge detector works by moving a block so that it cuts the output dust line after only one tick.
+Because of the output's fractional length, a 1-tick repeater may be needed to force a sticky piston to drop its block.
+2×4×2 (16 block volume)flat, silentcircuit delay: 1 tick ("Unrepeated") or 2 ticks ("Repeated")output pulse: 1 tick.
+A subtraction rising edge detector works by using the subtraction mode of a redstone comparator to shut off the output pulse.
+This design uses a trick to limit the output pulse to a single tick. A comparator can't produce a 1-tick pulse by subtraction from an exterior source (such as if the repeater was set to a 1-tick delay), but if the external source would usually produce a 2-tick pulse or more, the comparator can short-circuit itself into a 1-tick pulse by incorporating it into a subtraction 1-clock (the block and parallel dust after the comparator), but only allowing the clock to run for one cycle.
+Variations: Remove the final block and dust to increase the output pulse to 2 ticks. Then increase the delay on the subtraction repeater to increase the output pulse length further.
+Earliest Known Publication: 7 January 2013 (basic concept) and 3 May 2013 (1-tick output refinement).
+2×4×2 (16 block volume)flat, silentcircuit delay: 3 ticksoutput pulse: 1 tick.
+Uses repeater locking to shut pulses off after 1 tick.
+Variations: If the input doesn't have to be at the same height as the output, you can move the torch so that it's attached to the top of the block it's currently above, and run the input into that block.
+1×4×2 (8 block volume)1-wide, silentcircuit delay: 3 ticksoutput pulse: 3.5 ticks.
+When the input turns on, the dropper pushes an item into the hopper, activating the comparator until the hopper pushes the item back.
+The initial block is required to activate the dropper without powering it (which would deactivate the adjacent hopper, preventing it from returning the item to turn off the output pulse).
+Because the output comes from a comparator used as an inventory counter, the output power level will only be 1 (with a stackable item) or 3 (with a non-stackable item) – add a repeater for a higher power level output.
+Variations: You can reduce the size of the circuit by putting the hopper on top of the dropper.
+3×3×2 (18 block volume)flatcircuit delay: 1 tickoutput pulse: 1 tick.
+Uses the same principle as the circuit breaker – power the output through a block, then remove the block to keep the output pulse short.
+Variations: To increase the output pulse length, increase the delay on the repeater powering the piston.
+Other variations start with the piston powered. The output of the "offset" variation is weakly-powered and will require a repeater or comparator to do anything other than activate a mechanism component.
+Moved-Block RED (In-line).
+Moved-Block RED (Offset).
+Earliest Known Publication: 14 March 2013 and 29 March 2013.
+1×4×3 (12 block volume)1-wide, silentcircuit delay: 2 ticksoutput pulse: 1 tick.
+A NOR-gate rising edge detector compares the current power to the power from 2 ticks ago – if the current power is on and the previous power was off, the output torch flashes on briefly.
+All of these designs use a trick to limit the output pulse to a single tick. A redstone torch cannot be activated by a 1-tick pulse from exterior sources, but a torch activated by a 2-tick exterior pulse can short-circuit itself into a 1-tick pulse. Remove the block over an output torch to increase the output pulse to 2 ticks.
+A falling edge detector (FED) outputs a pulse when its input turns off (the falling edge of the input).
+Schematic Gallery: Falling Edge Detector.
+1×4×3 (12 block volume)1-wide, instantcircuit delay: 0 ticksoutput pulse: 2 ticks.
+When the input turns off, the piston immediately retracts the block, allowing the still-powered repeater to output a signal for 2 ticks. When the input turns on again, the piston cuts the connection before the signal can get through the repeater.
+1×3×3 (9 block volume)1-widecircuit delay: 1 ticksoutput pulse: 1 ticks.
+For some directions and input methods, the repeater may be needed to be set to 3 ticks to operate mechanism components.
+Earliest Known Publication: 27 May 2013.
+1×4×2 (8 block volume)1-wide, silentcircuit delay: 1 tickoutput pulse: 4 ticks.
+When the input turns off, it takes 1 tick for the torch to turn back on, giving hopper A a chance to push its item to the right and activate the output.
+This circuit requires time to reset (to push the item back into hopper A), so the fastest input clock it can handle is a 4-clock.
+Because the output comes from a comparator used as an inventory counter, the output power level will only be 1 (with a stackable item) or 3 (with a non-stackable item). Add a repeater for a higher power level output.
+Variations: This circuit can be snaked around in many different ways as long as the input dust is able to deactivate the first hopper.
+Earliest Known Publication: 22 May 2013.
+2×3×2 (12 block volume)flat, silentcircuit delay: 2 ticksoutput pulse: 1 tick.
+When the input turns on, the output repeater is locked before it can be powered by the block behind it. When the input turns off, the output repeater is unlocked and is briefly powered by the block behind it, producing a 1-tick output pulse.
+Variations: Increase the delay on the output repeater to increase the output pulse length (up to 4 ticks), but also the circuit delay.
+2×5×2 (20 block volume)flat, silentcircuit delay: 1 tickoutput pulse: 1 tick.
+This design uses a trick to limit the output pulse to a single tick. A comparator can't produce a 1-tick pulse by subtraction from an exterior source (such as if the repeater was set to a 1-tick delay), but if the external source would usually produce a 2-tick pulse or more, the comparator can short-circuit itself into a 1-tick pulse by incorporating it into a subtraction 1-clock (the block and parallel dust after the comparator), but only allowing the clock to run for one cycle.
+Variations: Remove the final block and the dust next to it for a 2-tick pulse, then increase the delay on the repeater for a 3 or 4-tick pulse.
+2×4×3 (24 block volume)silentcircuit delay: 1 tickoutput pulse: 1 tick.
+This circuit compares the current power to the power from 2 ticks ago – if the current power is off and the previous power was on, the output torch flashes on briefly.
+This designs uses a trick to limit the output pulse to a single tick. A redstone torch cannot be activated by a 1-tick pulse from exterior sources, but a torch activated by a 2-tick exterior pulse can short-circuit itself into a 1-tick pulse.
+Variations: Remove the block over the output torch to increase the output pulse to 2 ticks, then increase the delay on the repeater to increase the output pulse further.
+A dual edge detector (DED) outputs a pulse when its input changes (at either the rising edge or the falling edge of the input).
+Schematic Gallery: Dual Edge Detector.
+The block of redstone moves when the signal turns on and when it turns off. While it is moving it cannot power the redstone dust, so the output torch turns on until the block of redstone stops moving.
+In the 1-wide version the block over the output torch short-circuits it into a 1-tick pulse – remove the block and take the output directly from the torch to increase the output pulse to 1.5 ticks. To get an output on the same side as the input, the torch can be placed on the other side of the bottom blocks (but without the block above it, which would clock the piston). The piston and block of redstone can be moved to the side of the dust, rather than on top of the dust, producing a shorter but wider circuit.
+Earliest Known Publication: 28 January 2013.
+features vary (see schematics).
+The simple version splits the difference between a rising edge detector and a falling edge detector to produce an output of 1 tick on each edge. The instant version adds an unrepeated rising edge detector to reduce the rising edge circuit delay to 0 ticks.
+features vary (see schematics).
+A locked-repeater dual edge detector uses the timing of repeater locking to detect signal edges.
+The nor-gate design uses a trick to limit the output pulse to a single tick. A redstone torch cannot be activated by a 1-tick pulse from exterior sources, but a torch activated by a 2-tick exterior pulse can short-circuit itself into a 1-tick pulse. Remove the block over the output torch (and the dust on the block it's attached to) to increase the output pulse to 3 ticks.
+Earliest Known Publication: 16 April 2013 (NOR-gate locked-repeater FED) and 1 May 2013 (OR-gate locked-repeater FED).
+features vary (see schematics).
+A subtraction dual edge detector powers a comparator with an ABBA circuit, cutting the pulse short with subtraction.
+Earliest Known Publication: 3 August 2013.
+An inverted rising edge detector (IRED) is a circuit whose output is usually on, but which outputs an off-pulse on the input's rising edge.
+Schematic Gallery: Inverted Rising Edge Detector.
+1×3×3 (9 block volume)1-wide, silentcircuit delay: 1 tickoutput pulse: 1 to 3 ticks (off-pulse).
+An OR-gate inverted rising edge detector compares the current and previous input – if the current input is on and the previous input was off, the output turns off for a brief period.
+Variations: The "adjustable" version takes up the same space, but its output pulse can be adjusted from 1 to 3 ticks. The "flat" version can also be adjusted from 1 to 3 ticks.
+OR-Gate IRED (Adjustable).
+OR-Gate IRED (Flat).
+Earliest Known Publication: 1 June 2013.
+1×4×3 (12 block volume)1-wide, instantcircuit delay: 0.5 ticksoutput pulse: 1 tick (off-pulse).
+This is a moving-block inverted dual edge detector with a repeater added to suppress the output on the falling edge.
+1×3×3 (9 block volume)1-wide, silentcircuit delay: 3 ticksoutput pulse: 4 ticks (off-pulse).
+When the input turns on, the dropper pushes the item up into the hopper, deactivating the comparator until the hopper pushes the item back down.
+The initial block is required to activate the dropper without powering it (which would deactivate the adjacent hopper, preventing it from returning the item to turn the output pulse back on).
+Because the output comes from a comparator used to measure inventory, the output power level will only be 1 (with a stackable item) or 3 (with a non-stackable item) – add a repeater for a higher power level output.
+Variations: The input block can be moved to the side of or underneath the dropper, and the hopper can be moved to the side of the dropper.
+An inverted falling edge detector (IFED) is a circuit whose output is usually on, but which outputs an off-pulse on the input's falling edge.
+Schematic Gallery: Inverted Falling Edge Detector.
+features vary (see schematics below).
+The input has two paths to the output, timed so that the output will blink off briefly when the input turns off.
+1×4×2 (8 block volume), 1-wide, instantcircuit delay: 0 ticks, output pulse: 2.5 ticks (off-pulse).
+Earliest Known Publication: 4 June 2013.
+2×3×2 (12 block volume), flat, silentcircuit delay: 2 ticks, output pulse: 1 tick (off-pulse).
+When the input turns on, the output repeater is locked before it can turn off. When the input turns off, the output repeater is unlocked and is briefly un-powered by the block behind it, producing a 1-tick output off-pulse.
+An inverted dual edge detector (IDED) is a circuit whose output is usually on, but which outputs an off-pulse when its input changes.
+Schematic Gallery: Inverted Dual Edge Detector.
+1×3×3 (9 block volume), 1-wide, instantcircuit delay: 0 ticks, output pulse: 1.5 ticks (off-pulse).
+Variations: The piston and block of redstone can be moved to the side of the dust, rather than on top of the dust, producing a flat 2-wide circuit.
+The sticky piston can be oriented vertically if the redstone dust is run around the side in a 2×2×4 configuration.
+3×4×2 (24 block volume), flat, silentcircuit delay: 2 ticks, output pulse: 3 ticks (off-pulse).
+Uses the timing of repeater locking to detect pulse edges.
+Sometimes it is useful to be able to detect the length of an pulse generated by another circuit, and specifically whether it is longer or shorter than a given value. This has many uses, such as special combination locks (where you have to hold down the button), or detecting Morse code.
+2×6×3 (36 block volume)silent.
+To test for a long pulse, we use an AND gate between the beginning and end of a line of redstone repeaters. These will only allow the signal to pass through if it has a signal length longer than the delay of the repeaters. A pulse that does get through will be shortened by the delay amount, possibly down to 1 tick.
+2×5×2 (20 block volume)flatSimilar to the design above, but using a piston-based AND gate which shuts off the output as soon as the input turns off.
+A pulse length differentiator has two outputs and one input. Long pulses go through one output, while short pulses go to the other. It also keeps the tick length of the signals, which is why all the repeaters are set to one tick (i.e., a 1-tick signal will stay a 1-tick signal). This is useful in a telegraph machine, in order to split up dashes and dots.

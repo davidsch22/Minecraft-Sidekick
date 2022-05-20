@@ -1,0 +1,28 @@
+Abandoned Mineshafts are generated structures that generate in the Overworld.
+Abandoned mine shafts generate naturally in the Overworld, they are usually found underground but some can be found in the ocean. They are generated before chunk features such as ores. As with other features, multiple abandoned mine shafts can generate near each other and intersect, producing larger complexes. They can also intersect with other cave systems. Corridors will often generate a floor of wooden planks if they cross over empty space.
+In the Pocket Edition, they can spawn on the surface in mesa biomes. These are composed of dark oak planks and fences, rather than oak.
+Abandoned mine shafts consist of A starting point - a large room with a flat dirt floor, an arched ceiling and up to four exits (one in each direction, although, sometimes it generates in a way for up to five entrances).
+Abandoned mine shafts consist of Corridors - 3×3 block corridors featuring supports made from oak fences and wood planks (sometimes complementary with torches), broken rails, minecarts with chests (containing resources) and cave spider spawners surrounded by cobwebs.
+Abandoned mine shafts consist of Crossings - intersections with wooden pillars, sometimes two floors tall.
+Abandoned mine shafts consist of Staircases - diagonal sections of tunnel.
+Each chest contains 3-6 stacks of items, chosen from the following list. Chance listed is per stack, not for the chest as a whole.
+At bedrock layer, abandoned mine shafts will cut through the top bedrock layer(s).
+Mine shafts can generate on top of other mine shafts. If you see two different ones intersecting each other anomalously, they are two different shafts, even if they somehow meet up perfectly elsewhere.
+Mineshafts are less common near the origin of the world (0,0).
+In LEGO Minecraft Micro World- The Village, an abandoned mine shaft is beneath the village.
+An abandoned mine shaft using fences as supports.
+A cave spider spawner in a mine.
+A mine shaft in superflat.
+A chest cart located in an abandoned mine shaft.
+The loot from a mineshaft's minecart chests.
+An above-ground mineshaft in Pocket Edition.
+Exposed gold ore in an above-ground mineshaft.
+The dirt room of an above-ground mineshaft.
+An above-ground mineshaft generated from a nearby mesa into a jungle.
+A mine shaft intersecting with a ravine.
+A dirt room with a ravine going through it.
+An abandoned mine shaft at bedrock level.
+A dungeon, stronghold and an abandoned mine shaft all in one area.
+A stronghold and an abandoned mine shaft intersect.
+Floating rails.
+A mineshaft's chest cart spawned in a dungeon chest.

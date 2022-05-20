@@ -1,0 +1,5 @@
+Dec value: 265.
+Hex value: 109.
+Maximum stack 64.
+Iron ingots are obtained by smelting iron ore, killing iron golems and zombies, though it’s a rare drop from zombies. They can also be found in chests in dungeons, strongholds, villages and abandoned mineshafts. Iron ingots are used to create a large variety of items, ranging from armour and tools to rails and pistons.
+Farming iron ingots is very easy. Iron can be found underground, anywhere below sea level (layer 64). Caverns give you a wide view of the area, which could speed things up a little. The same techniques used in diamond farming can be used in iron farming, though if you use those techniques you might as well dig low and look for both iron and diamonds.

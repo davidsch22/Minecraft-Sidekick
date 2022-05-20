@@ -1,0 +1,7 @@
+Dec value: 348.
+Hex value: 15C.
+Maximum stack 64.
+Glowstone dust is obtained by breaking glowstone blocks. Each block will drop 2-4 pieces of glowstone. Nothing is required to break these blocks and nothing will speed up this process.
+Glowstone dust is used to create glowstone blocks, which act as a strong light source, and it’s used as a brewing ingredient. It will also increase the strength of potions.
+Farming glowstone dust could be a bit tricky. Glowstone blocks are easily found in the Nether, though getting to them can be a challenge, especially if ghasts are shooting fireballs at you.
+The easiest way to get to the glowstone is by simply building a pilar under you, by placing blocks under you after you jump up. Make sure to listen for the ghasts attack, if it fires, look up and hit the fireball back. Once you’re at the glowstone, either quickly harvest it all, while still listening for attacks, or build a blast shield to protect you from the fireballs.

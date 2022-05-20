@@ -1,0 +1,20 @@
+Flower Pots are decorative blocks that was added in version 1.4.2, "Pretty Scary Update" for Halloween. You can place many types of plants in a flower pot. flowers, ferns, cacti, dead bushes, saplings and mushrooms all can go in flower pot. Flower pots can only be placed on top of a solid block.Place a flower pot like any other block, only it must be on a solid block. Once placed, place a plant on top of the flower pot for it to hold it. That's it! Enjoy.
+Saplings will not grow when inside a flower pot, as they grow trees whose blocks are larger than flower pots.
+A cactus will not harm players when grown inside a flower pot.
+Pistons will destroy a flower pot when pushing one.
+Flower pots appear differently in their texture when recieved through the /give command.
+Flower pots also appear naturally in Witch huts, with mushrooms planted in them.
+A flower pot in a Witch hut.
+Add a photo to this gallery.
+A flower pot is a decorative block that allows plants in it.
+Flower pots can be mined using any tool, or without a tool.
+A flower pot will also drop itself as an item when pushed by a piston.
+One flower pot spawns in every witch hut, containing a red mushroom. This is not the best source in the game, though, as witch huts spawn only rarely.
+A flower pot can be used to hold various plants. Plants that can be placed in a pot include any one block high flowers, saplings, mushrooms, and cacti.
+Flower pots can be placed on upside-down slabs and upside-down stairs. They can not be placed on normal slabs and stairs. Flower pots are 3/8 block high and can be stepped on. It is not possible to walk from the top of a flower pot onto a full sized block without jumping. It is possible to jump from a flower pot onto a fence.
+The flower pot is based on a suggestion from Reddit, like Ender chests and item frames.
+When placed in a flower pot, cacti will not harm the player or destroy items.
+Flower pots break falling sand and gravel blocks.
+When aiming at the side of a transparent block behind or above a crafting table the pot will not be placed on said block but on top of the crafting table instead.
+The first image of flower pots, released by Dinnerbone.
+Five flower pots in a player-created village.

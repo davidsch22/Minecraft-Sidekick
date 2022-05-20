@@ -1,0 +1,9 @@
+Stained glass is the dyed version of glass that can be used for decoration purposes. It functions exactly the same as normal glass, except it cannot be used in the same crafting recipes.
+Stained glass will not drop anything when broken, unless a tool enchanted with silk touch is used, in which case the glass will drop itself.
+Most blocks that require placement on a solid block cannot be placed on stained glass.
+The only exceptions are torches and redstone torches, which can be placed on top of stained glass, but not attached to their sides.
+The first image of stained glass released by Mojang. Behind the glass is a cat and Grum.
+The original look of the stained glass blocks.
+Stained glass.
+Stained glass changing the beacon color.
+Minecraft 2.0.

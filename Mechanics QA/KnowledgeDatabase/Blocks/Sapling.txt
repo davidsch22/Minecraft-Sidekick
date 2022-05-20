@@ -1,0 +1,20 @@
+A sapling is an item that can be grown into trees.
+Saplings can be broken using any tool, and will always drop itself.
+When leaves are broken by any tool except shears, they will have a 5% chance of dropping a sapling. Jungle leaves instead have a 2.5% chance of dropping a sapling.
+The Fortune enchantment increases the rate to 6.25% (2.78% for Jungle leaves) at level I, 8.33% (3.125% for Jungle leaves) at level II, and 10% (4.17% for Jungle leaves) at level III.
+Oak saplings have a chance of spawning in village blacksmith chests.
+Saplings come in six varieties, those being oak, birch, spruce, jungle, acacia, and dark oak.
+A sapling can be used as fuel in a furnace. It smelts for 5 seconds, or half an operation.
+Saplings can grow into trees when placed on dirt, podzol or a grass block. Oak, birch, and (normal) spruce can also grow on farmland, and 2×2 trees only check for dirt or grass under the northwestern-most sapling. The sapling requires a light level of at least 9, and require a certain amount of space around the sapling, based on its type Oak needs at least 5 spaces above.
+The sapling requires a light level of at least 9, and require a certain amount of space around the sapling, based on its type Birch needs at least 6 spaces above.
+The sapling requires a light level of at least 9, and require a certain amount of space around the sapling, based on its type Spruce needs at least 7 spaces above when placing a single sapling Giant spruce needs at least 16 spaces above when placed in a 2×2 square.
+The sapling requires a light level of at least 9, and require a certain amount of space around the sapling, based on its type Jungle needs at least 7 spaces above when placing a single sapling Giant jungle needs at least 13 spaces above when placed in a 2×2 square.
+The sapling requires a light level of at least 9, and require a certain amount of space around the sapling, based on its type Acacia needs at least 7 spaces above.
+The sapling requires a light level of at least 9, and require a certain amount of space around the sapling, based on its type Dark Oak needs at least 7 spaces above and must be placed in a 2×2 square.
+Bone meal can be used to speed up the growth of the sapling, and to grow the tree without sufficient light.
+Saplings have two growth stages (with no visible difference between them) before growing into trees. When a tree is to be grown, a height is chosen and then the ground and space are checked; if the ground is bad or there is not space for the chosen height, the tree will not grow.
+Any kind of sapling can be placed in a flower pot.
+A sapling has the ID name minecraft:sapling and is further defined by its block data. A sapling also has a block state which is expected to replace the functionality of block data in a future version.
+If the player stands on the same block as a placed sapling, the tree will still grow over the player, which will cause suffocation as it pushed the player out of the block.
+Saplings can grow without the required amount of light if bone meal is used.
+All saplings with their respective wood.

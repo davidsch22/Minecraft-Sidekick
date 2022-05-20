@@ -1,0 +1,7 @@
+Dec value: 373:16385.
+Hex value: 175.
+Maximum stack 1.
+A splash potion of poison will add a damage over time effect on all mobs and players caught in its blast radius, wit the exception of skeletons, spiders, cave spiders, zombies and zombie pigmen. These mobs will remain unaffected.
+The damage will be done untill the player reaches half a heart of health, mobs will be killed. The effect of the potion will remain untill its time runs out, so when the player gains health, the poison will take effect again, untill the player reaches half a heart again.
+There are 3 types of splash potions of poison, a 33 second version, a 90 second version and a 16 second version called splash potion of poison II. This last potion lasts shorter, but is stronger. The further you stand from the potion’s blast radius the shorter this time will be.
+A splash potion of poison will cause half a heart of damage every 1.5 seconds. A splash potion of poison II will cause 1 heart of damage every 1.5 seconds.

@@ -1,0 +1,8 @@
+A Sea Lantern is a light source that only appears underwater. The block gives off a light level of 15. The Sea Lantern has an animated texture. It is one of the three blocks that give off light underwater, the others being the Jack-O-Lantern and Glowstone.
+Sea lanterns are underwater light sources that appear in ocean monuments.
+Sea lantern itself can only be obtained when mined with a tool enchanted with Silk Touch. When broken using anything other than a Silk Touch enchanted tool, it drops 2–3 prismarine crystals. The Fortune enchantment increases the amount of prismarine crystals dropped. This method of obtaining sea lanterns is wasteful though; the 4 prismarine shards and up to 3 of the prismarine crystals used to craft it are non-retrievable.
+Sea lanterns generate naturally in ocean monuments as their light source.
+Sea lanterns emit a light level of 15, the brightest possible light level in the game. They produce the same amount of light as glowstone, redstone lamps, jack o'lanterns, and beacons.
+The animation shows a very faint 'rippling' effect.
+The first picture of sea lanterns, along with prismarine.
+A brightened version of the preview image.

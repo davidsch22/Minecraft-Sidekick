@@ -1,0 +1,9 @@
+Eggs are items that can be used to craft food items, or used as a throwable entity.
+Chickens lay eggs every 5-10 minutes and these can be collected while on the ground.
+Players are able to throw eggs at mobs and give the same effect as if the mob were being damaged by a weapon. They deal 1 () to Ender Dragons (except when hit in the head), but no damage to other mobs. Eggs can also be fired from dispensers and are affected by gravity. Throwing eggs at neutral mobs will provoke them.
+When thrown, an egg has a ⁄256 chance of spawning a chick. If this occurs, there is a ⁄32 chance of spawning three additional chicks (on average, 1 out of every 256 eggs will spawn 4 chicks). In other words, whenever an egg is thrown, there is a ⁄256 chance of spawning 1 chick and a ⁄256 chance of spawning four chicks.
+The expected value of the number of chicks an egg produces is ⁄256 or 0.137. This means that on average, spawning a single chicken requires 7.3 eggs, a stack of 16 eggs will spawn 2.1875 chicks, and a full inventory including the hotbar (36*16=576 eggs) will spawn approximately 78.75 chicks.
+If the player is standing near a chicken when it lays an egg, a "pop" can be heard. However, this does not occur in Pocket Edition.
+Eggs will break midfall if hit by another projectile; the chance of spawning a baby chicken is not affected.
+Throwing an egg at a Nether portal will break the egg when it hits the portal.
+If a player is killed with eggs, it will say "[victim] was pummeled by [killer]". This message is unused because eggs don't cause damage. Ender pearls and snowballs will also display this message.

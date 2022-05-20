@@ -1,0 +1,8 @@
+Dec value: 113.
+Hex value: 71.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: Yes.
+Netherbrick fences are part of Nether fortresses in which they’re used as gates and long window bars. They can easily be mined with any pickaxe. Diamond pickaxes are recommended for their speed, as even an iron pickaxe will take a while to break this block. Netherbrick fences can also be created by using 6 netherbricks, which create 6 fences.
+Because they’re made of stone, they have a blast resistance of 30 and cannot catch fire. This makes them useful both as stronger farm borders, as well as a good defence against ghasts, while still being able to see the ghasts through the gaps. Note that ghasts will not fire at you through these gaps, but they will look at you.

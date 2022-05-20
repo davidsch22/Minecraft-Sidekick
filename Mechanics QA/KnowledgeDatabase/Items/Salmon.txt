@@ -1,0 +1,6 @@
+A Salmon is a type of fish in Minecraft added in version 1.7. It can be obtained by fishing. When cooked it will produce Cooked Salmon, the most viable form of eating this type of fish.This fish may be 80% rare while fishing.
+The most common way of obtaining raw salmon, like any other fish, is .
+fishing. The chance of one being caught can be increased with the 'Lure' enchantment.
+Raw salmon can be obtained from guardians as a rare drop.
+The Cooked Salmon is a fish in Minecraft added in version 1.7. It can be obtained by cooking a Raw Salmon in a Furnace. It restores two and half hunger.
+When holding a Salmon, Ocelots will follow the Player. Ocelots can also be tamed with Salmon.

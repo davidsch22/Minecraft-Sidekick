@@ -1,0 +1,21 @@
+For other types of seeds, see Seeds (disambiguation).
+Melon Seeds are items used to breed Chickens or plant Melon plants by right clicking on Farmland with them, that, strangely, are found in Dungeon or Abandoned Mine Shaft Chests. Melon plants take a while to grow to maturity, but once they do, they will randomly produce Melons in any adjacent space on top of a solid block. Melon plants need enough light to grow or they will pop out of the ground and drop 0-2 Melon Seeds, depending on the maturity of the plant, and will not grow any Melons if there is an opaque block directly above them.
+Automatic Melon Farms can be created by planting Melon Seeds where the Melons only have one place to grow, and placing Pistons or Sticky Pistons run by a Redstone Clock next to where the Melons would grow, and Flowing Water flowing into a Hopper on the other side.
+A slice of melon.
+A melon block.
+Add a photo to this gallery.
+Minecraft Blocks & Items - Melon Seeds.
+A tutorial by MCSpotlight on Melon Seeds.
+Add a photo to this gallery.
+Melon (Block).
+Melon (Slice).
+Pumpkin Seeds.
+Melon seeds are an item that can be used to grow melon plants.
+Melon seeds can be found in minecart with chests of abandoned mine shafts in stacks of 2 to 4.
+Melon stems, when destroyed, may drop 0-3 melon seeds.
+In Pocket Edition, melon seeds are only obtainable through the Nether Reactor or from crafting.
+Melon seeds can be planted on farmland. Over time, they grow into a stem and produce a melon on any adjacent dirt, grass or farmland block. If a melon is already occupying an adjacent dirt/grass or farmland spot, the stem will not grow any more melons until the melon is removed. A single stem can grow an unlimited number of melons. Like other seeds, they need a certain amount of light to grow. Melon seeds are affected by bone meal only with respect to stem growth -- bone meal does not help produce the actual melons.
+The melon stem appears to rise up from the ground as it grows, turning from green to brown. A single stem will connect to any melon in an adjacent square, whether grown there or placed there. If there are multiple melons it can connect to, it will favor the east, then west, north, and south. When the melon is removed, the stem will return to an upright position.
+All the seeds that exist in the game, as of 12w34a.
+Melon.
+Pumpkin Seeds.

@@ -1,0 +1,17 @@
+ Glass Panes are transparent blocks which can be used as an alternative to Glass. Glass panes were released in 1.8. They are also similar to iron bars and fences. Prior to 1.9 Pre-Release 2, when destroyed, the player could pick it up again. .
+They cannot currently be placed horizontally. Glass panes are present in buildings of villages. When placed without anything on the sides of it it will appear in the shape of an ┼ but when something is placed on the sides of it it will become flat or into a ┌ shape or a ┬ shape depending on the items surrounding it. .
+Glass Panes are much brighter than Glass Blocks, thus making them more suitable for high-visibility structures.
+If two glass panes are placed with one empty space in between, a Spider (which is 2 blocks wide) can still fit through.
+Glass Panes are transparent blocks which can be used as an alternative to glass blocks.
+Glass panes can only be obtained by mining them using a tool enchanted with Silk Touch, otherwise they drop nothing.
+Glass panes generate naturally as windows in Villages.
+Glass panes are much more efficient than glass, as they can make windows of 267% the area of glass blocks, because only 6 glass blocks are required to make 16 glass panes.
+Glass panes, along with iron bars, can be used in wireless redstone setups due to a block update glitch.
+If placed without anything on the sides, they will appear in the shape of a  from the top, but when something is placed on the sides, it will become flat or turn into a  shape or a  shape depending on the items surrounding it. The collision box is identical to the shape of the pane, allowing both items and players to fit through 2x2 glass pane holes.
+Glass panes are never horizontal.
+If two glass panes are placed with one empty space in between, a spider (which is 2 blocks wide) can still fit through.
+Glass panes are called "thinGlass" in the game's code, but all glass pane texture files within minecraft.jar begin with the prefix "glass_pane" (e.g. "glass_pane_top.png").
+The screenshot that Jeb posted on his Twitter.
+Glass Panes in the 1.8 Pre-Release.
+Panes are thin, so it's possible for players or creatures to fit in a 1x1x2 space, which makes them useful for creating trophy displays, like this Creeper here.
+Water will not flow through the holes in the panes, but the player can fit inside them.

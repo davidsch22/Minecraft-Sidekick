@@ -1,0 +1,171 @@
+Mechanisms are complex systems of blocks used to perform certain tasks, such as opening a door from afar or revealing a hidden staircase. These systems are built from simple components and normally involve some kind of user input, like breaking a torch, which generates some kind of result, like a door being revealed. Mechanisms can range from simple switches that open and close doors from a safe distance, to complex devices such as combination locks that prevent intruders from entering your fort.
+This page is a work in progress, so feel free to add your own components and mechanisms as you build and the game develops. Pictures are encouraged, but not required.
+These are the basic, modular parts which can be combined to form any complex mechanism. Please note that individual items in the game are not considered components.
+Water Channel.
+A channel in which Water can flow. Often used to break torches, causing things to fall.
+Tube.
+A long three by three structure that can be used for launching TNT or shockwaves.
+Piston Switch.
+Block 1 above ground level with redstone on top. Piston that moves across to stop circuit. Used so pressing a Button or Lever will stop another circuit.
+Pipe.
+A pipe of Hoppers or clock-fed Droppers used to transport items.
+See Redstone circuits for an overview of simple components and Tutorials/Advanced redstone circuits for more complicated redstone mechanisms.
+Useful devices made from the combination of components.
+Basic Mining explosive device: Make a railway of redstone power rails ending in an activator rail, and send TNT minecarts along the rails to dig a large mine.
+Advanced MED: build a circuit that involves a piston being shut off by a button, then build an obsidian tube with a hole in the middle to store carts. Be sure not to make the tube too tall, or else the minecarts will blow at the bottom. Then make a single rail at the top of the tube, surrounded by walls, so you can push the cart in. When it's at the bottom, get down to the button and watch it ride the rails. This also works as a minecart storage unit.
+Table trap: Make a pressure plate-fence table and put TNT underneath it. Dropping food on the table will activate it.
+Minecart Storage System: A storage system that allows a user to call a minecart and return them.
+Mob Farm Using Tripwire And Pistons. 5364 Drops/Hour and Over 1 Stack of TNT In 20 Minutes.
+Visitor Counter: A piston, redstone and pressure plate door that counts which way someone went through a door.
+X-Ray Device (NOTE! On some servers you are not allowed to use this)!
+This device uses Glowstone and Pistons.
+Note: Redstone Blocks and TNT also have this effect. (Just be sure to not detonate the TNT with the redstone).
+Pitfall Trap Using Pistons (Good for SMP).
+Redstone Lamp LightHouse.
+A redstone wired sequence of Redstone Lamps to mimic the lighting of a working lighthouse. Video below.
+Potion Dispenser.
+Make a dispenser dispense Splash Potions.Place a dispenser one block over the floor level. Then place a Fence on the side the dispenser will shoot the potion out from. Then put a Pressure Plates on top of the fence.
+Here is a video on how to make this.
+Hidden Floor Staircase.
+Hidden staircase in the floor revealed by breaking a torch.Make an inverted Sand or Gravel staircase in the floor of a room(one block wide), supported by torches. Make a Water channel or Water channels adjacent to the torches so that when they are filled, the torches break and the stairs will fall. (IMPORTANT: make sure that that the Sand or Gravel will cover the Water hole after it falls to avoid flooding) Make a Sand switch which opens a reservoir allowing Water to flow down a short channel to a pit. The pit allows the Water to drop beneath the floor and run to the torches holding the staircase.
+Hidden Wall Staircase.
+Hidden staircase in the wall revealed by pulling a Lever, pressing a Button etc..As there are many ways of making this, and it is quite hard to understand,a video has been provided.
+Redstone Lamp Floor.
+A redstone wired sequence of Redstone Lamps to mimic the lighting of a working floor. Video below.
+Rapid Pit Bomber.
+A Dispenser attached to a redstone clock mechanism and Hopper to feed it items. In front of the dispenser, place a Powered Rail on a Block of Redstone and fill a Chest above the Hopper with Minecart with TNT. This will rapidly dispense those rail-riding explosive atrocities onto a powered rail and into a massive crater of their own.It can tunnel down to bedrock given enough carts.
+Combination Lock.
+A door which is opened by using levers to input a certain combination. The levers are wired to an "AND" gate, with hidden redstone circuitry to open the metal door.
+Keyed Lock.
+An iron door that will only open when the player has the key (an item that has been renamed).
+Wireless Redstone.
+Transmit a redstone signal over a great distance with no wires and no delay.
+Cobblestone Farm.
+A farm which uses a clock circuit, water, lava and pistons to farm cobblestone.
+B= Any solid block R= Redstone W= Water L= Lava T= Redstone Torch E= Redstone Repeater P= Piston.
+Layer 1.
+Layer 2.
+Clock Circuit: Google search "Clock Circuit in Minecraft" and pick one that works, then wire it to the redstone repeaters. Sorry, I could not get the picture of the one I used onto the wiki page.
+The Clock Circuit should blink on and off, and eventually you will have 44 blocks of stone. (11 for each Piston) Rapid Smoker (Doesn't work past 1.2.5)!
+A device that rapidly produces smoke. To build dig a 1x1 hole in the ground and place a ring of cobblestone 1 block above the surface, with the hole of the ring above the hole in the ground. Now place Lava in the middle of the cobble ring, then place Water next to the Lava on the surface. Now put two repeaters set to 1 tick next to the Water. Place 2 pieces of redstone infront of the repeaters next to the Lava, then hook up a repeater clock and connect it to the redstone. It should look like this. .
+And you now have a rapid smoker! Item Activated Door.
+A door that only opens when an item is dropped into a pit of Water.Make three-deep a pit near an iron door. Build a level channel away from the base of the pit. Place a wood Pressure Plate in the channel no more than 8 blocks from the base of the pit. Wire the plate to the door (not through the channel). You will have to run the wire back up to the surface, or very nearly so, but it can be concealed under well-placed walls. Cover the channel and place a block of Water at the top of the pit, allowing Water to flow down the channel. Any item thrown in the pit should flow down to the plate and cause the wire to activate, thus opening the door.
+Flashing Indicator Light.
+A blinking red torch activated when a Pressure Plate is stepped on. Can be used to tell if mobs are sneaking through your caves.Make a Pressure Plate wired to the input of a red torch. Wire the output of the first torch to the input of a new red torch. Run the output of the new torch to its own input, creating a blinking loop. Wire the output of the new torch to the input of any other torch to carry the blinking effect.Example.
+The loop on the right will flicker on and off when the plate is stepped on.
+Warning: This burns out quickly if a single torch is used, so take this fact in mind.You can also use a redstone repeater to slow down the process on the loop back to the torch so it does not burn out.
+Multiple torches hooked up.
+Sound could be added to make an alarm by wiring note blocks to the flashing torches.
+Block Destruction as a Trigger.
+It is possible for an electronic output to be generated as a result of a block being destroyed. To achieve this, place a Redstone Torch on the side of a block facing away from you. Next, set up an inverter between the block and your mechanism. When the block is destroyed, the torch will fall, the lack of input will be inverted, and the mechanism will activate. This can be used to make traps, as shown in this video.
+Redstone Tower.
+The bottom torch powers the block above it, powering it and all redstone torches attached to the block. Each level (block with torch on top) acts like its own repeater. This also can go upward until the map ends while still producing power. If you want to dispose of this quickly or are making experiments just use Gravel or Sand for the block type. GlassSwitch.
+The glass allows the redstone current to pass through while the other moveable blocks do not. This can be used to operate doors, bridges, etc. The best part is you can use multiple Buttons and make doors that open from both sides using the same circuit. The tutorial can be viewed here.
+. There are also images with pistons. 2 Wire Control.
+With a lot of repeaters and AND-gates it is possible to control multiple outputs with only 2 wires. It can be very tricky to get the timing right. You need a pulse generators in both wires to get a pulse with a defined length and in most cases the output pulse needs to be made longer. As shown in this video you have a top wire and a bottom wire with repeater. On one side you have repeater between the Buttons on the top wire and none (or as needed) in the bottom wire. At the other side none (or as needed) on the top wire and matching repeater (to the others top side) on the bottom one. between which you place AND-gates (matching the Buttons). The Idea is that the signals only meet at one AND gate at the same time.Video tutorial.
+Example use.
+Redstone "Clock".
+When working redstone, when activating the wire, it only does its job once. Sometimes this is good, like with doors, but sometimes this isn't good, like with note blocks. A simple way to repeat the current is the "clock" as follows.
+Dig four 1 block holes in the shape of a cross without the center. Place redstone torches in the holes. Place blocks on top of the red stone torches. This is not part of the process, but is need when actually powering something. Place one block of redstone in the center of the cross. This will cause the redstone to restart rapidly, which can be useful when working with note blocks.
+1x2 flush with the wall piston door. Fitting in a 2x4x4 space.
+1x2 Hidden Piston Door.
+Piston doors can be as easy as 4 Sticky Pistons attached to blocks that move inwards revealing a 2x2 passage way, or as complicated as the one seen in the original Piston revealer that Mojang released. (as seen here.
+These "Jeb doors" can also be referred to as flush-inset Piston doors. Here is an example of one of these, with a redstone torch key system added on. Once broken down, it's not extremely difficult to build.
+For an easy Piston door with no Sticky Pistons.
+For a Piston door with no Pistons visible.
+For a 3x3 spiral door see: Automatic Opening Door Tutorial.
+Piston gates, or portcullises, consist of a large set of fences that will be pushed up when the gate is opened, and down when closed.
+Here is a very small and resource efficient build with a fluid opening motion.
+This design allows one to get a great view on the surroundings and enables you to connect and stop on any floor you want. The video also contains horizontal Piston transport.
+or.
+This design is even more compact than the previous one, however it blocks sight. Great for building elevators in shafts. Note: As of 1.2.5﻿ update you need to set the pistons to 3 instead of 2. The first is still to be set on 4.
+Two-way elevators can be built, but they are slower and much more complex than the previous ones. They also require a lot more space and resources. The below is a slightly modified design by CxoLethe.
+The two-way elevator can be built the following way.
+The engine shown below of this text uses wool between the pistons and the fence gates/trapdoors. However, instead of wool any other block can be put there, as long as pistons can push it.
+The schematics for the wiring assuming that you know how to make a 1 tick long impulse. A 1 tick long impulse can be obtained using a pulse limiter. In both of the schematics, empty squares represent air blocks, and repeaters all have the minimum delay possible.
+A screenshot of an implementation of this design.
+Also, a larger two-way elevator.
+A launchpad is similar in design to a TNT cannon, but instead of launching horizontally, it launches vertically either straight up or at an angle, depending on the design. There are many ways to create them, but some methods are more efficient than others. For instance, a simple design would be the cross pattern, as shown below.
+This is what it would look like from above.
+~ = WaterS = Water source block@ = Building block% = Building block with Redstone on top& = Building block with pressure pad on top.
+To load it, place TNT on the flowing water blocks.
+The above design can easily be expanded in size and improved, but it is one of the easiest designs so far. Another simple design, yet much more powerful, is here.
+Another powerful design, using dispensers to place the tnt is built as following Layer 1.
+Another powerful design, using dispensers to place the tnt is built as following Layer 2.
+Another powerful design, using dispensers to place the tnt is built as following Layer 3.
+Another powerful design, using dispensers to place the tnt is built as following Layer 4.
+Another powerful design, using dispensers to place the tnt is built as following Layer 5.
+The dark blocks on the last two on the right represent dispensers, facing the center. If you want this to be reusable, place a water source between them. A pressure plate delay is enough for each dispenser to shoot twice. An interactive version is here: [1].
+A redstone a battery is a device to constantly output redstone power without requiring a power source.
+It's a contraption that, when activated, cannot be deactivated unless broken.
+The simplest one is as following.
+If you want to make a battery with a delay on portions of it, use a clock, but don't deactivate the signal.
+This will still work as a battery, but half of it will have a small delay upon starting.
+This is a way to make an automatic piston.
+Possible schematic.
+.=Nothing, r=Redstone block, d=Redstone dust, s=Sticky piston, p=Pressure plate, #=Removable redstone dust.
+The pressure plate is to reset and to single-step it.
+To shut it off, remove the removable redstone dust.
+Dayforever tower: This circuit requires a command block. Build a 3x3 vertical hollow tube high enough so that when a villager falls it will die..at the bottom of the shafts interior,dig 2 blocks down.then place a command block at the bottom of the hole. Enter the command /time set 0 place a block on top of the command block. Then place a pressure plate (stone or wood).than at the top cover the tube.then build a room barely big enough to fit a villager in it,on top of the tube but the roof is a dispenser. Put 9 full stacks villager spawn eggs in the dispenser. And then put a daylight sensor on top of the dispenser.then rig a piston and daylight sensor on the room like this: R=Room floor. P=piston. D=daylight sensor. B= block.
+bbb brbpd bbb.
+Then your Done. It should work like this a daylight will trigger the dispenser spawning a villager.at night the piston(powered by the daylight sensor.) Will retract the floor beneath the villager and it will fall, hit the pressure plate,setting the time to day, and die. Then the floor will close and another villager will spawn and the cycle will repeat.
+The following are circuits designed to prevent changes to your structures without the use of Admin Powers.
+There are multiple ways of protecting a wall. Firstly being the easiest which is to protect the bottom of a two high wall, players going through it would break both and ergo the bottom as well, this trips the circuit giving you a positive redstone circuit.
+(X) stands for a floor / wall of any material that redstone can be placed on. (-) stands for redstone. Below is a 2D cut of a piece of the wall. The principle of it is that when the lower block is broken the circuit is then connected.
+Iron doors are good and strong, however their ability to be broken is their major problem. One of the best ways of avoiding this is as follows.
+To avoid the problem with a torch being placed to open the door easily place an iron door in a position so that its ON state blocks the entrance, then by powering it from beneath, you can stop it from being opened.
+To then avoid someone breaking the door, place a block of Water above it, then another torch a block away behind the door. When the door is broken, the Water falls down and breaks the torch, giving you a negative which can be used.
+X stands for ground. w stands for Water. I stands for torch. - stands for wire.
+Also, instead of Water, try Lava.
+However, due to the slowness of Lava (and Water), it may be beneficial to make a Sand or Gravel block drop, dislodging a piece of wiring or a torch, or having another iron door behind the trapped door that will slow them further. The possibilities are endless.
+Redstone circuits can be used to redirect the flow of Lava or Water in the following manner.
+These systems can be useful in many complicated mechanisms, or simply for aesthetic value.
+(These are useless in 1.5 because of the addition of the Daylight Sensor, which performs the same function in a one block space) With the improvement of villager AI in the most recent snapshots (post-1.1), compact, sensitive, and resettable day/night detectors can be created by utilizing their differing day/night pathfinding systems. (Note: This does not work in minecraft 1.2.4, due to the fixing of the bug that caused NPCs to be confused on not-full blocks).
+This is a video showing how the smallest version is built and used.
+A one-time use light sensor can be created using flowers and mushrooms, detailed in http://www.minecraftforum.net/viewtopic.php?f=1020&t=165642.
+See Tutorials/Block update detector.
+This is a quick video tutorial on how to make a compact block swapper.
+A vertical switch can be made using pistons and sand blocks. The uses are limited by the tower of sand placed in front of the piston. When the piston is activated, the sand gets pushed into a hole. At the bottom of the hole, place a powered repeater with the output facing where the sand will drop. By adding a second repeater two blocks in line from the first one, you will have a broken circuit which is activated by the sand block when it lands.
+Additional pistons can be used to push the sand away at the bottom to reset the mechanism. By adding a Torch where the Sand falls when the mechanism is reset, you do not need to remove the blocks manually. There is still no way to generate Sand dynamically, so you are dependent on the tower of sand at the top. This tower can be as high as you want, up to the build ceiling. The number of sand blocks available could be increased by having a second sand tower supplied by another piston when the first tower is empty.
+Side view: |= Air, S=Sand/Gravel, P= Piston, B=Button or other input, x=any block, <=Repeater, T= Redstone Torch.
+Top- (left) and Front view (right) (only reset mechanism at bottom with sand block).
+Here is a tutorial on how to use scoreboards and testfor commands to run redstone devices.
+Make a 20 x 20 x 4. Put a layer of Water on the bottom. Put TNT on top of the Water, except for one pathway which you can get across with any block unaffected by gravity. Put Pressure Plates on top of them.
+This is an updated, better, expandable bank system. This video also has an older bank system showing how to make one without using powered rails (broken link).
+This is a simple bank system using powered rails, which should be helpful for Minecrafters less experienced with redstone.
+This form of landmine causes mobs to fall through a wide Sand pit being supported by TNT. the mobs will then fall into the pit and will be killed by the TNT. NOTE: This is NOT guaranteed to kill spiders, as they can climb out of the pit. Simultaneously detonated TNT can kill a full-health player in diamond armor.
+First, dig a 3x3x3 hole in the ground.Put a layer of torches on the bottom, then a layer of TNT, then a layer of either sand or Gravel. Now, put Pressure Plates on top of the pit.To confuse players, put Pressure Plates around a large area.It should look like this.
+1=Torch.
+2=TNT.
+3=Sand/Gravel.
+4=Pressure Plate.
+5=Obsidian(Optional,to keep players from breaking the wall to get out).
+6=Any block.
+NOTE: This is better to use on a beach or in a desert, because it is full of Sand.
+Since pistons came out, upwards item transportation became possible, and combining this with ice makes a high-speed item transportation machine. Ice under Water streams makes the items go a lot faster, so if you are living in a tundra biome, you get a big speed boost. If you aren't living in a tundra biome, it is still possible for you to make the machine (using Silk Touch or without the ice).
+The new silent BUD switch design updates not only when there is an update going on adjacent to it, but also updates when there is redstone wire placed 1 block away from the BUD switch.
+It is possible to make a boat-based RS-NOR latch and save up 4 redstone. Instead of the 6 redstone the old design uses, this design uses 2 pistons, therefore 2 redstone. Has a few disadvantages as well as advantages.
+Basically as compact as it gets, this design is a very compact design of a 1 wide ABBA switch.
+This Requires 1.4.1 of Minecraft. The new Redstone repeater latch can be used to create a "finish line" mechanism, to determine the winner of a race. At the end of the course, put a pressure plate for each lane. From there, make a wire for each lane, leading to a piston or lamp which will indicate the winner. Run a latch from each wire to the others. You may want to suspend blocks over the beginning of the wires, so your racers don't run over the mechanism. Extending this to more than two racers will be somewhat more complex, and probably require another level of circuitry.
+!=switch @=redstone <,>,^,=repeater (<=Left) (>=Right) (^=up),%=piston.
+This requires 1.3 or later. Since now a piston takes about 1 tick to extend, you can make a tiny monostable circuit that is activated by a pressure plate. Then you build a sticky piston with a block attached one block away from the monostable circuit,in which the sticky piston is connected to another pressure plate, one block away from the other.Then you connect the blocks on the bottom layers with repeaters. The output is the block that is pushed by the sticky piston. In Diagram it looks like this (3x4x3).
+This works with any mob that you can place a lead on.
+Simply place a lead on a mob and attach it to a High-up Fence post, the mob will dangle and bounce on the lead. If you place the fence post too close to the ground the mob will die from fall damage. Even if you don't, if the mob bounces, it will die when it touches a solid block unless it lands in water.
+To do this, you will need.
+x amount of Redstone Repeaters x amount of Redstone 1 Block of Redstone 1 Redstone Torch.
+A diagram is shown to do this.
+8= Redstone Repeater o= Redstone dust B= Block of Redstone x= Redstone Torch.
+Note that you can use any amount of redstone repeaters and dust, and you can place the block and the torch anywhere. But, for this to work, you need to break the torch quickly, since when the current went back to the first repeater, it will stop transmitting power. Also, all repeaters should be on the highest delay.
+Bear in mind that this design is broken as of Minecraft 1.3.
+If you use a sticky piston to push a stair towards you and you have no where to go,you will go up the stair at a very fast speed. So you can use this as an elevator. First,Build two high walls(keep one meter in the middle) to keep you from falling out of the elevator.Like this: a=Air g=wall.
+Next,put sticky pistons on every floor like this.
+s=sticky pistons.
+After that,put stairs like this.
+t=stairs.
+When you have done this,put stones and redstone above the stone around the elevator.
+l=leveler o=stone r=redstone.
+layer 1.
+layer 2.
+Until every piston will be charged if the redstone is charged. Note:the leveler on layer 1 is connected with the red stone line on the other side. Finally,dig a door on the 1st and 2nd layer and put a piston on the edge of the top of the elevator connected with redstone.
+Redstone circuits.
+Traps.

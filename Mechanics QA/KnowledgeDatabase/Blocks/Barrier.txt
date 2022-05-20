@@ -1,0 +1,16 @@
+A barrier is an invisible block that can serve as a better alternative for Bedrock as it is indestructible. Though invisible to players in survival, players in creative while holding a barrier block in their hand will show the barrier blocks as a red slashed circle facing the player's view, although when the player switches to another block the symbol/sign disappears and becomes completely transparent. This effect is in creative only even if players in survival are holding a barrier block, it can't make the barriers to become visible.
+Like a few blocks such as the command block for example can only be obtained via commands. By doing   (Note: you do not have to put minecraft with barrier) gives you a barrier block. These blocks are unobtainable in survival unless cheats are enabled and are used.
+• It is the only Block that is Invisible In-Game.
+• The Barrier Block can help a map builder design a world. For example, he/she can use the block to restrict players from entering that zone, unless of course they're in Creative Mode.
+A barrier is an invisible block which appears transparent, but has mixed properties.
+Barriers cannot be broken in survival mode.
+Barriers are not listed in the creative inventory (similarly to command block) and can only be obtained using commands, such as /give <player> minecraft:barrier <amount>.
+The block in the player's inventory shows up as a red box with a slash through it, but when placed is completely invisible.
+Barriers are transparent to light, but interact with blocks and mobs like a solid block. All dependent blocks can be placed on a barrier, such as trapdoors or redstone, and it will suffocate mobs. Mobs cannot spawn on barriers.
+In creative mode, if a player is holding a barrier block in their hand, all placed barrier blocks display the barrier icon as a particle. This effect is client-side, and if a player holds a barrier block in survival, the particle won't show up. Barrier blocks will not be shown if the particle setting is set to "minimal". Barriers cannot be pushed by pistons.
+The "No" symbol used is actually an inverted version of the ISO standard.
+Barriers support any block, and can transmit a redstone signal.
+A pig standing on a barrier.
+Animation of barrier's render (with the "No" symbol and not). (Note: To see the animation, click on the image).
+Barrier in debug mode.
+Barrier being regenerated as it breaks in debug mode.

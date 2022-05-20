@@ -1,0 +1,50 @@
+Slabs are highly blast resistant half blocks used for building that generate naturally in Strongholds and Villages and are crafted in sixes with any of 8 different materials by making a horizontal line of 3 full blocks of the material being used in a Crafting Table. Slabs of the same type can be stacked to make full blocks, which sometimes look the same as the regular block, but sometimes look different.
+Stone slabs were introduced to the game on October 24, 2009, in Survival Test 0.26.
+Sandstone, Wood, and Cobblestone slabs were added in the Beta 1.3 update on February 22, 2011.
+Stone Brick and Brick slabs were added in the Beta 1.8 update on September 15, 2011.
+Red Sandstone slabs were added in Minecraft 1.8 update (Snapshot 14w32a, August 6, 2014).
+Despite the fact that sneaking lowers players' eye level to 1.5 blocks high, doing so does not allow the player to walk over a single slab with one block of air above it.
+Back in the beta version, Notch made a test on Dirt Slabs. These were never added in the game.
+Unless Water is flowing directly down on a Slab, a slab will block water flow regardless of the space above it.
+Before 1.3.2 Wooden Slabs' ID was a variant of Stone Slabs', so you needed a pickaxe to break wooden slabs. However, this still occurs on the Pocket Edition.
+In the Joke Update Minecraft 2.0, a new slab known as the Etho Slab was added. The name was a reference to the Minecraft YouTuber, EthosLab. This slab version of TNT would have a larger blast and if a player is close enough, will spawn an anvil above them.
+The bottom of Ender Crystals appear to be Bedrock Slabs.
+Single Slabs not blocking Redstone.
+Double Slabs blocking Redstone. (Note: the old texture of double Stone Slabs).
+Dirt Slabs or "Tiles".
+A Fan Made TNT Slab (Not in actual Game).
+Different wooden plank slabs.
+Add a photo to this gallery.
+Slabs are half-versions of their respective blocks.
+Stone-type slabs require a pickaxe to mine. Wooden slabs can be mined with anything, but an axe is quickest.
+Stone slabs can be found naturally in villages lining the roof of blacksmith shops and inside some of the buildings where they form counters. They are also found in strongholds where they are used in some of the stairs, ledges and torch pillars. Sandstone slabs can be found naturally in desert villages, desert wells, and desert temples. Double stone slabs can be found in villages, in the butcher's shop and in blacksmiths.
+Wooden slabs must be crafted entirely from one type of wood, but by the same token, they keep the type and color of the wood used, thus "Birch Wood Slabs" and so forth.
+Slabs are treated as a whole block by other blocks and liquids. Two slabs of the same type can be placed one on top of one another to make a full-size block, but different slab types cannot be mixed in this way.
+Redstone can be connected to the wire on the side of the slabs. Redstone placed on top of an upside-down slab can receive signals from an adjacent block of redstone one block lower but cannot transmit signals to it. This is why "ladders" made from upside-down slabs, as pictured to the right, can transmit redstone signals up, but not down.
+Mobs see a slab as a full block. Therefore, by placing an upside down slab above a slab with a block in between, there will be sufficient space for the player to walk through. Mobs, however, will see one block of space in between and won't get through (Fixed by 1.8.1). This does not apply to baby zombies and spiders, because they are only one block tall, and to slimes, as they will hop towards the player even if there is something obstructing the way. Mobs can also spawn on top of upside down slabs and on double slabs, but not on lower slabs.
+Due to the way blast rays propagate from an explosion, bottom-half slabs provide extremely effective absorption to explosions directly on top of them.
+Despite how sneaking lowers the player's eye level half a block, doing so does not allow the player to walk over a single slab with one block of air above it because of the player's true height. A player cannot walk from a block of soul sand to a slab without jumping. The player can walk off a slab while sneaking.
+If you set a slab on the top half side of any block under water, it will displace as much of it as a whole block. Not only can you grab a quick breath of air, but you can see as clear through the water as looking over the land above the surface than in it itself.
+Minecarts on powered rails will not be repelled from a slab. They will, however, be repelled by a slab with a minecart on top.
+The slab blocks use IDs and data values to differentiate between types. They also have block states which will replace data values in the future.
+The full stone, sandstone, quartz and red sandstone slabs have a top texture on all sides.
+minecraft:double_stone_slab.
+minecraft:double_stone_slab2.
+minecraft:stone_slab.
+minecraft:stone_slab2.
+minecraft:double_wooden_slab.
+minecraft:wooden_slab.
+Slabs let a small amount of light pass through their edges. This light is only visible with Smooth Lighting is turned on, and does not affect mob spawning or other light-dependent processes. The exception of this is that any light directed through a slab does not affect any block's light values north of the source.
+Brick slabs.
+Stone Brick slabs.
+Double stone slab (left) compared to smooth full half-slab.
+Naturally occurring stone slabs in a butcher shop.
+Naturally occurring stone slabs in a village Blacksmith.
+First image of upside down slabs as shown on Jeb's Twitter.
+Slabs used to create the impression of half-aligned full blocks.
+All six types of wooden slabs.
+Trapdoors on slabs.
+Example of slab shelving by placing slabs below other slabs.
+Smooth sandstone double slabs compared to smooth stone double slabs.
+A wooden "stone" slab house with a netherrack fireplace.
+Light passing through the sides of a brick slab from above. A normal block would render complete darkness.

@@ -1,0 +1,8 @@
+Nether Brick Fences were added to The Nether as a part of Nether Fortresses. Currently, Nether Brick Fences cannot be set on fire, unlike wooden fences.
+Nether Brick Fences act in the same way as normal Fences, meaning that they look one block high, but are really 1.5 blocks high, so they cannot be jumped over.
+Nether Brick Fences are naturally found in Nether Fortress where they form window bars and gate-like structures.
+ Nether Brick Fences do not connect to Wooden Fences when placed next to each other. They do, however, connect to Fence Gates just like Wooden Fences.
+ By alternating between Nether Brick Fences and Wooden Fences, you can create a barrier that players can walk through but mobs have severe trouble with.
+It is not possible to place Pressure Plates on top of them as one would with Wooden Fences.
+Unlike Wooden Fences, 6 Nether Bricks can craft 6 Nether Brick fences, whereas 6 Sticks will only produce 2 Wooden Fences.
+Unlike Wooden Fences, Nether Brick Fences need a Pickaxe to be mined and obtained.

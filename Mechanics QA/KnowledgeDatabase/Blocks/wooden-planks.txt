@@ -1,0 +1,10 @@
+Dec value: Oak: 5 Pine: 5:1 Brich: 5:2 Jungle: 5:3.
+Hex value: 5.
+Minimum tool requirement to break: None.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: No.
+There are 4 differently coloured planks, each belonging to a different tree type. It is obtained by either crafting it from a log, which can be found in almost any biome. It can also be found in abandoned mine shafts, villages and stronghold, though these planks are always oak. Wooden planks are mainly used to build with, due to its abundance and renewability.
+Wooden planks are flammable, which could potentially lead to an enormous ocean of fire. Once enough wooden planks are burning, putting out the fire will be close to impossible. Water and rain will extinguish fire, though it may be hard to get to every burning plank. Wooden planks can be used as a fuel, which lasts just as long as wood, 15 seconds, but because 1 piece of wood can be turned into 4 wooden planks, using planks is a lot more efficient. Many players use wood untill they find coal, as coal lasts for 80 seconds.
+However, wood can be turned into charcoal, which lasts for 80 seconds in a furnace, compared to the 60 seconds of 4 planks.
+But it takes a while to get a large amount of charcoal, so many players ignore charcoal all together and simply use planks untill they’ve found coal, which can be found in enormous quantities. Wooden planks are also used in many crafting recipes, making it one of the most commonly used crafting material. The recipes can be found below. It doesn’t matter which colour of wooden planks you use to craft something. Different coloured planks can also be used together in the same recipe.

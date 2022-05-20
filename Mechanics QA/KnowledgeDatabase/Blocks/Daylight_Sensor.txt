@@ -1,0 +1,24 @@
+A daylight sensor is a block that outputs a redstone signal based on sunlight (or lack thereof).
+Daylight sensors can be broken fairly easily by hand, but can be broken faster by using an axe. Inverted daylight sensors cannot be collected, they will drop a regular daylight sensor.
+A daylight sensor can be used as a redstone power source and as fuel for a furnace.
+A daylight sensor can be used as fuel in a furnace. Each daylight sensor lasts 15 seconds, or 1.5 operations.
+A daylight sensor can be used to produce redstone power in proportion to the daylight or night time.
+A daylight sensor is 0.375 blocks high (3/8ths of a block). Daylight sensors cannot be moved by pistons, and water and lava will flow around daylight sensors without affecting them.
+To place a daylight sensor, use the "Use Item/Place Block" control (right-click, by default).
+A daylight sensor can be "inverted", which reverses the power levels produced by the daylight sensor. To invert a daylight sensor, use the "Use Item/Place Block" control (right-click, by default).
+A daylight sensor activates when exposed to sufficient daylight (daylight detector mode) or when its sky light level drop to 0 (night time detector mode).
+An inverted daylight sensor activates when exposure to daylight is low enough (inverted daylight detector mode).
+Sources of block light (torches, glowstone, etc.) cannot activate a daylight sensor.
+An active daylight sensor powers adjacent redstone dust, including below it, and redstone comparators facing away from the daylight sensor, to a power level that depends on the time of day, the weather, and the daylight sensor's sky light level (see tables below).
+An active daylight sensor powers adjacent redstone repeaters facing away from the daylight sensor to power level 15.
+An active daylight sensor activates adjacent redstone mechanisms, including above and below, such as pistons, redstone lamps, etc.
+A daylight sensor has no effect on other adjacent blocks (for example, it cannot power a block the way a repeater can).
+To remove a daylight sensor, use the "Attack/Destroy" control (left-click, by default). A daylight sensor takes 0.3 seconds to remove (or faster with an axe) and will drop itself as an item.
+If a daylight sensor has an opaque block above it, then it will emit a weaker signal, or none at all, as it is directly proportional to the sky light.
+If a daylight sensor is completely cut off from the sky (its block is at sky light 0), either because it is encased in opaque blocks or because it is too far from sky exposure, then its signal pattern changes: it produces power at night instead of the day, and weather is irrelevant to the signal strength.
+Using a daylight sensor will invert it. The inverted sensor acts contrary to the daylight sensor emitting full redstone strength during night time, weak strength during the day and no redstone strength at high noon. The effects of shade are applied before inverting, so shade increases the signal strength when it isn't already full, and prevents it from reaching zero.
+The inverted daylight sensor cannot be obtained as an item. Removing an inverted daylight sensor will simply drop a regular daylight sensor.
+A daylight sensor is defined by its ID and block data, and it also has a block entity. A daylight sensor also has a block state which is expected to replace the functionality of block data in a future version.
+A daylight sensor's ID specifies its mode (regular or inverted).
+A daylight sensor's block data stores its power level.
+Every daylight sensor has a DLDetector block entity associated with it which stores only its entity id and position (the minimum data for a block entity). Although the daylight sensor's block entity stores no additional data, the block entity ensures that the daylight sensor is updated every game tick.

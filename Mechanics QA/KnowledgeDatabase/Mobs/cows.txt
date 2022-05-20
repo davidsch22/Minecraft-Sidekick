@@ -1,0 +1,7 @@
+Cows are by far the best passive animal to hunt for survival, especially in the early stages of the game.
+Upon death, cows will drop 0-2 pieces of leather, 1-3 pieces of raw beef and experience orbs worth a total of 1-3 experience points. Like other meat dropping animals, the cow’s meat is cooked when they die by fire.
+Cows will also supply the player with milk when they’re right clicked while holding a bucket. There’s no limit or timer on how often you can milk a cow.
+Cows can spawn in large groups of up to 10, though they’re usually in separate groups of about 5. However, you can often find a few of these smaller groups near each other. Cows can also be ‘created’ by sheering a mooshroom. A mooshroom is a red cow with mushrooms on its back that only spawns in rare mushroom biomes.
+Cows can only jump up 1 block and will try to do so when a block is in their way. Their AI isn’t very advanced, as they’ll walk into fires, but they will avoid high falls.
+When you attack a cow it’ll run, making it tricky to hit him again. It often runs in circles however, so you won’t have to walk too far to hit it again.
+Cows can be bred by feeding them wheat. Holding wheat in your hands will thus make them follow you. They are one of the best animals to breed, as they have the highest possible loot yield per use of wheat. Cows can be bred with mooshrooms, the offspring will be either a baby cow or baby mooshroom.

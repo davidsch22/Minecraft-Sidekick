@@ -1,0 +1,20 @@
+ Stone Bricks  are decorative blocks that were implemented in the 1.8 Beta update. Stone Bricks are one of the main materials used in Stronghold structures. In version 1.2, there was only one type of stone brick that was only in Creative Mode.
+Stone Bricks are commonly used for building structures such as castles.They are also used as flooring in other structures. Stone Brick is only obtainable when destroyed by a Pickaxe - having the same characteristics as Stone and Cobblestone. .
+ Stone Bricks is one of the materials that are used in strongholds.
+ Cracked Stone Bricks is a stone bricks variant which is also found in strongholds.
+ Mossy Stone Bricks is another variant, which is yet also found in strongholds.
+ Chiseled Stone Bricks is yet another variant of stone bricks. It is found in jungle temples.
+Stone bricks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+Regular, cracked, and mossy stone bricks generate as part of strongholds, making up most of the walls, ceilings, and floors.
+Three blocks of chiseled stone bricks generate as part of each jungle temple.
+As stone bricks offer no real advantage over cobblestone, their main use is decoration.
+Any mixture of regular, cracked, mossy, and chiseled stone bricks can be used to make stone bricks stairs and stone bricks slabs.
+Silverfish have the ability to enter and hide in any variant of stone bricks, creating a monster egg of the corresponding type.
+All variants of stone bricks have the ID name minecraft:stonebrick, and a numerical ID of 98.
+Strangely, when smelting cobblestone blocks, the cracked form of stone, they turn into the smooth variant. Yet when smelting perfectly normal smooth stone bricks they turn into a cracked variant. This could be a reference to two different processes: how rocks expand when heated, and causing fissures which could make the stone bricks crack; or simply melting the cobblestone so it reforms into igneous stone.
+First view of the stone bricks that Notch posted.
+Naturally occurring stone bricks - regular, cracked, and mossy - in a stronghold.
+An image from 1.8 pre-release.
+Chiseled stone bricks, as revealed in the 1.2 pre-release.
+Iron Bars.
+Monster Egg.

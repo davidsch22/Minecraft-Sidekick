@@ -1,0 +1,47 @@
+ Pigs are passive animal mobs that spawn in grassy areas. When a saddle is used on them (by right clicking), they become able to be ridden by the Player, but they can only be controlled by using a carrot on a stick. The Saddle can be removed by killing the saddled pig. They have height of 1.1875 blocks, length of 1.25 blocks and Width of 0.625 blocks. As of Beta 1.5, a Pig will morph into a zombie pigman when struck by lightning. As of 1.8, pigs now have a snout, and hitting one will cause it to flee for a short while. It will eventually calm down. When killed with fire, an adult pig will drop 1-3 cooked porkchops.
+Pigs are good for Porkchop gathering. First, the Player should make a fenced area 4 blocks wide and 1 block deep with a fence gate, then lure a pig into the farm with carrots. After getting at least two, breed them as often as possible, by right-clicking on them with carrots in your hand, and kill one every time there are three or more than 4 adults.
+Main article: Saddle.
+For one to ride a pig, one must first find a saddle.
+in a Dungeon, Desert Temple, or Jungle Temple, as they are uncraftable. You must then put it on the pig by left-clicking and once done, the pig will be mountable with an orange saddle. You are unable to control the pig's movement, however you can control the direction the pig is walking when holding a Carrot on a Stick. You can also increase the speed by right-clicking on a block.
+You can also obtain an achievement by riding a pig, and having it take fall damage by, quote, "You just died!".
+Pigs can be fed carrots, and they enter Love Mode. When two pigs are in love mode within 16 blocks of each other, they can make a baby pig. Piglets will follow their parents. It takes one full Minecraft day (or 20 minutes) for the piglet to grow into a fully-grown Pig.
+Because the Pig can be saddled, the pig has two image files, one saddled and one not.
+The hostile mob known as the Creeper was made from a failed pig model, as Notch made it taller, rather than longer and exchanged color from pink into green.
+Both a Piglet and Pig have the same head size, but they don't have the same width and length.
+As of 1.2.3, adult Pigs stopped following the piglet.
+The Pig has 4 family members: Zombie Pigmen, Piglets, Pigmen, and normal Pigs.
+As of 1.2.4. you cannot put Saddles on Piglets anymore.
+Like Sheep, Squids, and Cattle, Pigs are wall-eyed.
+Piglets, like all baby animals, make a higher pitched noise than the adult.
+As of 1.4 pigs are now bred with carrots.
+Pigs didn't always have a protruding snout.
+Pigs act a lot like horses, because of them being able to be saddled and carrots put them in "Love Mode".
+If pigs are struck by lightning, they become a Zombie Pigman, just like how if a Creeper is struck by lightning, it'll become supercharged. Also, if a villager is struck by lightning, it becomes a witch.
+If a player rides a pig and than falls off a cliff and the pig takes more than 4 HP fall damage, the Player will get the achievement "When Pigs Fly" (photo bellow).
+Pigs used to drop only 0-2 raw porkchops upon death, but it was eventually raised to 1-3 porkchops upon death.
+On the bottom of the pig, there are "Milk Givers".
+See here.
+Pigs are rideable passive mobs.
+Pigs spawn on grass blocks at a light level of 9 or more. Herds of pigs spawn upon world generation.
+Pigs drop 1 to 3 pieces of raw porkchop (1-3 units of cooked porkchop if killed while on fire). Baby pigs don't drop anything. Pigs also drop 1-3 experience when killed by a player or tamed wolf. They also drop saddles if saddled.
+Pigs are 0.875 blocks tall, 0.650 blocks wide and 1.3 blocks long.
+Pigs typically roam the Overworld in groups of 3 - 4.
+Pigs act similarly to other passive mobs; they will wander aimlessly, avoiding falling off cliffs high enough to cause fall damage, and will usually stay out of water. Pigs will follow any player who is carrying a carrot or carrot on a stick, and will stop following if the player moves over approximately 5 blocks away from the pig. Pigs will also randomly oink.
+When struck by lightning, pigs turn into zombie pigmen.
+Pigs can be bred using carrots. It takes about 5 minutes before the parents can be bred once more, which applies to all farm animals. It takes at least one full Minecraft 'day' (20 minutes or more) for piglets to mature. The appearance of a piglet is roughly similar to that of an adult pig, having the same sized heads, but noticeably smaller bodies. Piglets mostly stay around their parents until they mature, although the parents cannot protect the piglet(s) from harm. In Pocket Edition, pigs can also be bred with potatoes and beetroots.
+The growth of baby pigs can be slowly accelerated using carrots. Each use takes 10% off the remaining time to grow up.
+Saddled pigs are controllable with a carrot on a stick. They start slow but end up going 4.00 m/s. Pigs do not respond to carrots after entering a body of water. Pigs "eat" the carrot in a span of time which is shown by a durability bar on the carrot on a stick. Using the carrot on a stick will cause them to have a burst of speed but take the durability off it by one quarter of the health. It is not necessary to hold the carrot on a stick while the pig is having the burst of speed. Damage is taken by the part that was hit; fall damage is taken by the pig. However, it does not cause any knockback nor any decrease of movement speed.
+Saddled pigs in minecarts behave strangely If the player mounts the pig and uses the opposite controls for direction, the speed of the minecart will be boosted to the same speed as a minecart travelling on powered rails.
+Saddled pigs in minecarts behave strangely The minecart, ridden or not, will not come to a stop unless it hits a block. Other entities and unpowered gold rails will only slow it to a minimum speed.
+Saddled pigs in minecarts behave strangely Also, if you sit on a saddled pig in a minecart that isn't on a track, you are able to control the minecart and drive it around like a car (although it is very slow).
+One of the splashes which shows up on the title screen reads "Ride the pig!".
+The house-music artist deadmau5 released a song titled "Get In The Cart, Pig", in a direct reference to Minecraft.
+Player riding a pig with the carrot on a stick and the saddle.
+The original pig model before it was made into a creeper.
+Default pig texture.
+Default saddle-for-pigs-texture.
+A baby pig compared to an adult pig.
+Despite the piglet's body size they have the same head size as an adult pig.
+Player riding pig while the pig is riding a minecart.
+First image of player-controlled pigs released by Dinnerbone.
+Pigs following the player (who is holding a beetroot) in Pocket Edition.

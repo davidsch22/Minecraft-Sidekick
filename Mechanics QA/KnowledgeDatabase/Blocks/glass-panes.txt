@@ -1,0 +1,10 @@
+Dec value: 102.
+Hex value: 66.
+Minimum tool requirement to break: None.
+Blast resistance: 1.5.
+Maximum stack 64.
+Transparency: Yes.
+Glass panes are thin sheets of glass. They can be created with normal glass, but can also be found in villages. However, they cannot be picked up, even when using a tool with the silk touch enchantment. If a glass pane is placed on its own, without any other blocks next to it, the glass pane will look like a cross.
+Placing another block next to it will cause the glass pane to attach itself to that block, which flattens the pane.
+However, more blocks can still be attached to it to create cross and T shapes. It only takes 6 glass blocks to create 16 glass panes, so you can cover a larger area in glass, though some may prefer the look of glass blocks.
+Glass only fills up a space vertically. If spread out horizontally, gaps will appear in between the blocks. These gaps are large enough for players and small mobs to fall through, acting like a trap. The thinness of glass allows you to stand partially in the same block, this gives glass panes the largest angle for the view outside, which is especially useful on higher structures.

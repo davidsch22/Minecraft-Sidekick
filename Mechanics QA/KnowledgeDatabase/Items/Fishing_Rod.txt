@@ -1,0 +1,23 @@
+Fishing Rods are tools that are mainly used for obtaining fish.
+A fishing rod can be crafted from three sticks and two pieces of string. This makes fishing rods a renewable resource.
+Enchanted fishing rods can be obtained as a "treasure" item from fishing, and unenchanted ones as a "junk" item.
+Fisherman villagers sell one enchanted fishing rod for 7-8 emeralds as their second tier trade. The enchantments will be the same as might be obtained from an enchantment table at levels 5–19.
+The fishing rod's main use is for fishing.
+The fishing rod can be used to hook mobs and other entities, the fishing rod can then be reeled in, which drags them towards the player at a fast rate. This counts as an attack, so entities will react as if attacked. Fishing rods deal damage to the ender dragon, but no damage to other mobs. Secondary damage can come from fall distance if the entity is hooked from sufficient height (though some mobs do not take fall damage). Enemies can also be dragged into lava. Reeling in while hooked to an entity will cost 3 points of durability. Ghast's fireballs and endermen can be hooked with the fishing rod.
+The fishing rod can be used to grab onto boats and minecarts and pull them towards the player, but a boat will often break in the process. The hook can also be used to activate wooden pressure plates or even knock down paintings from a distance.
+Using a fishing rod while in a minecart aimed at the minecart's front wall will cause the minecart to stop immediately and the player to exit it. No damage is done to either player or cart.
+In Pocket Edition, hooking an entity mounted on another entity will break the connection between the rider and it's ride.
+Use on villagers will lower the player's popularity and cause any naturally-spawned iron golem nearby to attack. Players cannot be pulled in PvP.
+A fishing rod can receive the following enchantments Lure.
+A fishing rod can receive the following enchantments Luck of the Sea.
+A fishing rod can receive the following enchantments Unbreaking.
+Skeletons can be pulled into their own arrows.
+When casting the rod into a portal, the bobber may stick to it like a normal block, go through and travel in the nether, or stop on the next block behind the portal.
+If you stand directly in front of a column and cast your line onto a block above you, the line will fall downwards.
+If the bobber hits a painting, the painting will break.
+If you cast the line into an End Portal, the line and bobber will disappear.
+The player can get into bed after casting a line, and the line will remain in the water till the player wakes up and reels it in.
+If the player has not yet gotten the Cow Tipper achievement and catches a piece of leather with a fishing rod, said achievement will be granted.
+The fishing rod's bobber entity is named "unknown.".
+13w36a snapshot banner.
+Trail of bubbles indicating a fish is about to bite.

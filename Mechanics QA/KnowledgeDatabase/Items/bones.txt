@@ -1,0 +1,7 @@
+Dec value: 352.
+Hex value: 160.
+Maximum stack 64.
+Bones are dropped by skeletons and can be used in their raw state to tame Wolves. However, bones can be turned into Bone Meal which can be used as a fertilizer and as a dye.
+Bones can be turned into bone meal, which can be applied to many plants, which will instantly grow to their last growing stage.
+Bones are required to tame wolves, which will then change into a dog with a collar. To tame a wolf you simply right click it while holding a bone. It may take several bones before it changed into a dog, which can be seen by the hearts hovering over the dog and the red collar around its neck.
+Skeletons can easily be farmed, though it often requires a skeleton spawner which can only be found in dungeons. Full details on how to set up a skeleton farm can be found here.

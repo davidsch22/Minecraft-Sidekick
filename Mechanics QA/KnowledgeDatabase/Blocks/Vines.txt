@@ -1,0 +1,49 @@
+Vines are plant blocks that were added in the Adventure Update and can be placed on walls and ceilings. Vines can commonly be found in swamp biomes and jungle biomes hanging on leaves and the sides of trees and the ground. Vines are used primarily as a substitute for ladders, as they can be climbed. Since Beta 1.8.1, they take as long to break as leaves and drop nothing; However, they are collectable by using shears. Vines grow at a somewhat fast paced rate, which enables them to be farmed. Covering the side of a wall with just one vine will produce a full wall of vines in about three days, Minecraft time. They are usually found in jungles.
+Vines are non-solid, meaning that the player is able to walk through them.
+Vines, when held, and viewed through third-person view or held by another player, have a gray texture.
+Vines make the same noise as grass when stepped on.
+Like most plant blocks, vines are flammable.
+In 1.2, vines became climbable, as long as they are touching another block. Despite this, the player can still climb down vines that are not connected to a block. If the player is sneaking, they are able to climb up vines that are not connected to blocks.
+Interestingly, Mobs cannot see the player through vines, allowing the player to sneak up on mobs or quicky hide when they need to get a horde of mobs off their back.
+It's also worth noting that the player can fire Arrows through vines, while skeletons cannot. This is a good strategy to use when fighting multiple skeletons.
+Vines (also called Ivy) are non-solid blocks, ⁄16 of a block in thickness, that can only be placed against a solid block onto walls.. They also can be supported by a solid block as a ceiling.
+Vines can be destroyed with anything, but mining them using shears is the only way to collect them. Efficiency on shears does not work for vines. The mining speed can be increased with an axe, but an axe cannot collect vines.
+Vines are naturally generated in jungle trees of both sizes will have vines on their trunks and canopy edges. However, player-grown 2×2 jungle trees will only generate vines on their trunks, and 1×1 trees will have no vines at all. Vines are also naturally generated in oak trees in swamplands. Vines are generated naturally in jungle temples.
+On each block tick, the vine block has a 25% chance of attempting to spread in a randomly-selected direction. Vines will spread to adjacent blocks under certain conditions Downwards If the block below is air, each side (north, south, east, and west) with vines has a 50% chance to spread downwards.
+Downwards If the block below is vines, each side of that block without vines on the ticked block will lose its vines, and any other side has a 50% chance of losing its vines, as long as this doesn't result in all sides losing their vines. See MC-61758.
+Vines will spread to adjacent blocks under certain conditions Upwards: If the block above is air and there are fewer than 4 other vine blocks in a 9×9×3 area surrounding the ticked vine block, each side (north, south, east, and west) with vines has a 50% chance to spread upwards if that side is backed by a block that vines can be placed on.
+Vines will spread to adjacent blocks under certain conditions Horizontally: If the current vine block isn't covering the target direction and there are fewer than 4 other vine blocks in a 9×9×3 area surrounding the ticked vine block, then If the block in the target direction is air, then it will try .
+If the vine block has vines to the right and that side of the air block is backed by something vines can be placed on, spread to the right side of the air block.
+If the block in the target direction is air, then it will try .
+If the vine block has vines to the left and that side of the air block is backed by something vines can be placed on, spread to the left side of the air block.
+If the block in the target direction is air, then it will try .
+If the vine block has vines to the right, and that side of the air block is backed by another air block, and the right side of the vine block is backed by something vines can be placed on, spread around the corner.
+If the block in the target direction is air, then it will try .
+If the vine block has vines to the left, and that side of the air block is backed by another air block, and the left side of the vine block is backed by something vines can be placed on, spread around the corner.
+If the block in the target direction is air, then it will try If the air block in the target direction has something vines could be placed on above it, spread to the top side of the air block.
+Horizontally: If the current vine block isn't covering the target direction and there are fewer than 4 other vine blocks in a 9×9×3 area surrounding the ticked vine block, then If the block in the target direction is opaque and fills its whole cube, spread to that side of the ticked vine block.
+Vines can be placed on the side of any block that fills its whole cube and blocks entity movement. They cannot be placed on the bottom side of a block, despite being able to spread there on their own, and a vine block without vines on any of the horizontal sides will disappear if it gets an update from a neighboring block.
+Vines block mobs' line of sight, so it is possible to sneak up onto mobs by hiding behind vines. Because of this, endermen can safely be viewed through vines and skeletons will not attempt to shoot targets behind vines.
+Vines can be climbed, but only when a solid surface can be pressed against while standing in the vine block. Generally this means a solid block the vines are growing on, but it is possible to climb hanging vines if there is a nearby barrier of some sort.
+Vines absorb all fall damage, even without a solid surface nearby. Sneaking on vines causes the player to hang, even if the vines are not adjacent to any surface.
+Determines the face against which the vine is anchored. Note that (except for Top) these are testable as bit flags, unlike most of the other directional data for other block types. Multiple sides can contain vines. The "top" attachment is assumed to be present if data is 0 or there is solid block above. 1: south.
+ 2: west.
+ 4: north.
+ 8: east.
+When the Adventure Update was showcased at PAX, vines hadn't been given a name, and a mouseover would not show a title. This implies that they didn't have an official name at the time.
+A screenshot by Jeb of a floating island with vines.
+Griefing with vines in the Beta 1.8 pre-release.
+Growing player-placed vines.
+Vines hanging from trees in the swamp biome.
+Vines in a jungle biome.
+Vines growing in a cave.
+Dec value: 106.
+Hex value: 6A.
+Minimum tool requirement to harvest: Shears.
+Blast resistance: 1 Maximum stack 64.
+Transparency: Yes.
+Vines grow naturally on trees in swamp and jungle biomes. They can also be found in caves and small ravines, usually in jungle biomes. Vines will continue to grow untill they’re blocked by another block. Vines can also grow on the sides of other blocks, which are then climbable, like ladders, but don’t have a collision box that allows you to stand on them.
+Vines will sometimes grow sideways or on the ceilings, though this doesn’t happen that often. Placing a vine on a block next to a ceiling block will place the vine on the side of the wall block and the bottom of the ceiling block.
+Vines can be harvested by using shears, which can then be placed on solid blocks. The easiest way to get rid of hanging vines is to destroy the vines hanging onto other blocks. If a large number of vines are attached to other blocks, water can be used to flush them all down. This will destroy all of them. Destroying or harvesting a vine will destroy all the vines it was supporting, so it’s advised to start harvesting at the bottom of the vine.
+Because vines attached to solid blocks are climbable, vines offer a very cheap alternative to ladders, the only disadvantage being the lack of a collision box, but by sneaking you will stay in place. A great thing about vines is that they block line of sight. This allows you to hide from many monsters, as well as getting in the first strike. Note that some monsters, like skeletons and zombies, have a more advanced AI, so they will be able to see you.
+Arrows will shoot through vines, which makes it very easy to snipe mobs without them seeing you. If you sneak you might even be able to catch a player off guard.

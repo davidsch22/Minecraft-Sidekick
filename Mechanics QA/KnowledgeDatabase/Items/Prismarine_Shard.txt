@@ -1,0 +1,2 @@
+Prismarine Shards are items obtained by defeating guardians or elder guardians.
+Prismarine shards are dropped upon death of guardians or elder guardians. 0–2 shards are dropped each time. This can be increased to a maximum of 5 with the Looting enchantment.

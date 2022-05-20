@@ -1,0 +1,8 @@
+Dec value: 350.
+Hex value: 15E.
+Hunger restoration: 2.5 hunger bar slots.
+Hunger saturation: 6.
+Maximum stack 64.
+Cooked fish is obtained by cooking raw fish, which can be obtained by fishing with a fishing rod in any body of water, including just 1 block of water.
+Cooked fish will restore 2.5 hunger bar slots and 6 hunger saturation, so it’s usually better to cook the fish, which can easily be done while you’re catching more fish. Raw fish will restore 1 hunger bar slot and 1.2 hunger saturation. Unlike chicken, there’s no chance to get food poisoning.
+By right clicking while holding a fishing rod, you’ll cast out your line and bobber. The bobber will usually land in the water and after a few seconds it’ll submerge. At this point you have to right click again and a raw fish will be pulled towards you. This process can be tedious, but it’s a life saver in some situations.

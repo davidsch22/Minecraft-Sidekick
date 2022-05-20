@@ -1,0 +1,44 @@
+Slimes are rare Mobs that naturally spawn in 3 different sizes: Big, Small, and Tiny, and split into smaller Slimes when killed. They can be found in only specific Swamp Biomes, as a rare mob deep underground, or in Superflat worlds. Big and Small Slimes are both hostile, and Big Slimes always split into 2 Small slimes when killed, whereas Small Slimes can split into 2, 3, or 4 Tiny Slimes. Tiny Slimes are passive, and are popular pets among minecraft fans, because they will follow you around, and do not require taming, but they can despawn unless they have a nametag.
+Before 1.4.2, Slimes could spawn in any biome.
+As of 1.5, Slimes' spawn rate is determined by the movement of the moon.
+1.8 Recently fixed the fact that Slimes could drown.
+Slimes can climb Ladders.
+Slimes larger than size "Big" can be summoned with commands.
+Tiny Slimes are considered passive by many people, but the game registers them as hostile, despite their inability to attack, push or harm the player in any way.
+Add a photo to this gallery.
+A Slime is a hostile mob that spawns underground and in swamp biomes.
+Slimes spawn in the Overworld in specific chunks below layer 40. They can also spawn in swamp biomes between layers 50-70 in light levels of 7 or less.
+Slimes will not spawn within 24 blocks (spherical) of any player, and will despawn over time if no player is within 32 blocks and instantly if no player is within 128 blocks.
+Slimes require two vertical non-opaque blocks (e.g., air, signs, torches) to spawn in, with an opaque block underneath. The space they spawn in must also be clear of solid obstructions and liquids. Big slimes require a 3×2½×3 space to spawn, small slimes require a 3×2×3 space, and tiny slimes require a 1×2×1 space (or 1×1×1 if the upper block is not opaque).
+Slime size is affected by regional difficulty: chances range from 33% for each size at low difficulty to 16% tiny, 33% small, and 50% big with higher difficulty.
+In swamps, slimes may spawn at night between the heights of 50 and 70 provided the light level is 7 or less. They spawn most often on a full moon, and never on a new moon.
+More precisely, the game checks if the light level is equal to or less than a random integer (from 0 to 7), then if the fraction of the moon which is bright is greater than a random number (from 0 to 1). If these conditions are met and the altitude is acceptable, there is a 50% chance of spawning a slime.
+Slimes spawn throughout the world (except mushroom islands) below layer 40 regardless of light level, but only in certain chunks, 1 in 10 of all chunks. These "slime chunks" are determined pseudo-randomly by combining their chunk coordinates with the seed of the world.
+That is, using the chunk coordinates to help generate a seed, a random number between 0 and 9 will be generated, and if that number is 0, the chunk will be able to spawn slimes. To convert world coordinates to chunk coordinates, divide by 16 and round down.
+Slimes drop experience points equal to their size.
+If a slime's size is 1, it will also drop 0-2 slimeballs.
+Only sizes 1, 2, and 4 spawn naturally. With use of /summon, slimes can potentially range from size 1 to 256.
+Slimes move by hopping, which they will do each 10 to 30 ticks (⁄2 to 1 ⁄2 seconds). Unlike other mobs, slimes will not stop moving when no players are nearby. Their exact routine is as follows.
+The Slime will search for a player within 16 blocks (spherical) distance. If no players are found, they wait 10 to 30 ticks (⁄2 to 1 ⁄2 seconds). Then they will change direction, by a random amount up to 57.26° (1 radian) left or right, jump, and repeat the process.
+ If a player is found, the delay before jumping will be ⁄3 as long (3 to 10 ticks), and the Slime's direction will be set directly toward the nearest player before jumping.
+A slime's health is equal to their size squared, and its dimensions are 0.6 blocks times its size in each dimension. When a slime attacks, it will deal damage equal to its size, except for size 1 (smallest) slimes, which cannot do damage.
+A slime's jump distance also depends on their size; a slime will jump a distance slightly farther than its length.
+When the player kills a slime and the slime's size is larger than 1, it will die and spawn 2-4 new slimes equivalent to its size divided by 2, rounding down.
+A slime's attack speed is twice that of other melee-combat mobs. Mobs like zombies and spiders attack at a rate of one hit per second, while slimes attack at a rate of two hits per second.
+The (pre-1.4) slime spawning algorithm is discussed in greater detail in this forum topic, but note that the algorithm has changed many times and older information may no longer be accurate.
+Slimes do not prevent you from sleeping.
+Slimes will only attack the player, even if a skeleton accidentally shoots it.
+Slimes hop much faster when pursuing a player.
+From one large slime, the maximum experience a player can get from killing it and all the slimes that split from it is 28 XP; 4 XP from the largest, 8 XP from the 4 it splits into, and 16 XP from the 4 each of those split into.
+Big slimes cannot climb vines or ladders.
+Tiny: 0.6 block cube.
+Small: 1.2 block cube.
+Big: 2.4 block cube.
+Slimes in a cave.
+Big Slime covering a minecart.
+Slimes as seen on a Superflat world in version 1.1.
+A pack of slimes but the NPC Village is still there.
+Slimes spawn in swamps.
+An edited slime changed to size 127.
+A size 10 slime.
+Magma Cube – a similar entity that spawns only in the Nether.

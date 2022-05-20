@@ -1,0 +1,4 @@
+Wooden Slabs are a half-block made entirely of any kind of wood (match type). Slabs are decorative blocks that can make houses or structures look better. They can be used as a longer alternative to stairs, as the player and mobs automatically walk on the top of half-blocks without jumping. They can also be used as an alternative to fences, as you can create a one-and-a-half hit-box similar to fences by placing a slab on top of a regular block.
+Wooden Slabs are crafted with 3 wood planks in a horizontal line. This creates 6 wooden slabs.
+Oak Wood Slab.
+Add a photo to this gallery.

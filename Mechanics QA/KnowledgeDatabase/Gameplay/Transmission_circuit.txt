@@ -1,0 +1,166 @@
+A transmission circuit is a redstone circuit which allows redstone signals to move from one place to another.
+Redstone signals can be transmitted from one place to another with redstone wire – a line of redstone dust. Redstone wire can transmit a signal only 15 blocks – after that it will need a repeater to boost the signal back up to full strength.
+When crossing each other, redstone wires must be kept isolated so they don't interfere with each other.
+1×3×4 (12 block volume)1-wide, instant, silentcircuit delay: none.
+The fastest method for crossing wires is by building a bridge to take one wire over the other.
+Variations: A common variation is to drop the center block one level, and cut a three-block passage into the ground under it for the north-south wire.
+2×3×3 (18 block volume)silentcircuit delay: 1 tick.
+A repeater bridge takes up less vertical space than a redstone bridge, but it adds 1 tick of delay to both wires.
+While horizontal transmission can be relatively straightforward, vertical transmission requires trade-offs.
+Schematic Gallery: Vertical Digital Transmission.
+Up or Down1xNxN1-wide, silentcircuit delay: 1 tick per 15 blocks.
+Redstone dust will propagate a signal to adjacent redstone dust one block up or down as long as no opaque block "cuts" the signal. This allows "staircases" of blocks to carry redstone signals up (actual blocks of stairs aren't required, but can be used if placed upside-down).
+Variation (Circular Staircase): By turning 90 degrees in the same direction each time the wire goes up a block, a "circular" staircase can be created in a 2×2 footprint. This variation is 2-wide tileable in both horizontal directions as long as the rotation direction is alternated in each direction (clockwise, anticlockwise, clockwise, etc.), or 2×4 alternating tileable with repeaters.
+Up Only1x2xN1-wide, silentcircuit delay: 1 tick per 15 vertical blocks.
+Transparent blocks which support redstone dust do not "cut" redstone dust, so "ladders" of these blocks can be made zig-zagging back and forth upwards. Glowstone and upside-down slabs are the most commonly used supporting blocks, but upside-down stairs and hoppers also can be used. Redstone ladders are 2×2 alternating tileable for short runs, or 1×4 alternating tileable with repeaters.
+Up Only1x1xN1-wide, silentcircuit delay: 1 tick per 2 vertical blocks.
+Redstone torches can power blocks above them, allowing transmission upwards. Torch towers are 1×1 tileable.
+Up Only1x2xN1-wide, silentcircuit delay: 1 tick per vertical block.
+Redstone torches can power redstone dust beneath them, allowing transmission downwards. Torch ladders are 1×2 tileable upwards but 2×2 alternating tileable downwards.
+Down Only1x2xN1-wide, silentcircuit delay: 1 tick per 2 vertical blocks.
+Down Only1x1xN1-widecircuit delay: 1.5 ticks per 5 vertical blocks (rising edge) and none (falling edge).
+A sticky piston pointing downwards can push a block of redstone into the space above redstone dust which is placed on top of a solid block. This can be repeated straight down, i.e. another sticky piston placed underneath that solid block, pointing downwards, then another redstone block, a space, redstone dust on a solid block, and so on, allowing 1×1 downward transmission.
+Because of the difference in rising and falling edge behavior, off-pulses are extended by 1.5 ticks per piston and on-pulses are shortened by 1.5 ticks per piston and may possibly be erased altogether. This makes piston towers less useful for rapidly changing states.
+Up Only1x3xN1-wide, silentcircuit delay: 2 tick per 17 vertical block.
+A vertical transmission circuit can be made by combining both torch tower and redstone ladder, resulting in a ladder with maximum height and minimum delay, as seen in the schematic. Additionally, the first torch can be moved to the middle replacing the top slab and the torch with redstone wire, and adding another top slab before the second torch which adds one block of height (as seen in the picture).
+Another important aspect of signal transmission is making sure a signal doesn't go the wrong way. A "diode" is a redstone component or circuit which allows signals through in one direction but not the other.
+1×1×2 (2 block volume)1-wide, flat, silentcircuit delay: 1 tick.
+Both the redstone repeater and the redstone comparator transmit signals in only one direction, but add 1 tick of delay.
+1×2×2 (4 block volume)1-wide, flat, silentcircuit delay: 1 tick.
+By strongly-powering a block, a signal can transmit in only one direction. None of the output lines can affect each other.
+1×2×3 (6 block volume)1-wide, instant, silentcircuit delay: none.
+Some transparent blocks can support redstone dust: hoppers, glowstone, upside-down slabs, and upside-down stairs. These blocks have the property that redstone dust on them can propagate signals diagonally upwards, but not diagonally downwards (transparent blocks which cannot support redstone dust cannot be used for this purpose). Thus, simply jumping the signal up one block to one of these transparent blocks creates a diode circuit.
+Upside-down slabs are the transparent block most commonly used for this purpose, but glowstone is used where light would be useful (to suppress mob spawning, etc.), upside-down stairs can be used where a full-side solid surface is required without light (for example, alongside a water channel transporting items over ice), and hoppers may be used in this way where they are already being used for item transport.
+To get the output back to the same level as the input, run the line over an opaque block before dropping it.
+To "repeat" a signal means to boost it back up to full strength. When redstone signals are transmitted through redstone dust, their signal strength fades and must be repeated after 15 blocks. Repeater components and circuits keep signals going over long distances.
+1×1×2 (2 block volume)1-wide, flat, silentcircuit delay: 1 to 4 ticks.
+The common method of repeating a signal is to use a redstone repeater.
+When transmitting signals over long distances, it is more efficient to use a block before and after the repeater – this method of repeating a signal averages 18 redstone used per 18 blocks (15 redstone dust, and 3 redstone per repeater) and 1 tick delay per 18 blocks.
+1×3×2 (6 block volume)1-wide, instant (falling edge)circuit delay: 1.5 ticks (rising edge), 0 ticks (falling edge).
+A sticky piston can push a block into position to power the output.
+A piston repeater cannot handle pulses shorter than 1.5 ticks – with shorter pulses, the block of redstone will be "dropped" (not retracted) and will continue to power the output until a later input pulse ends.
+Because of the differences in rising and falling edge delays, pulses will be shortened by 1.5 ticks per piston repeater (possibly erasing short pulses).
+Variations: When transmitting signals over long distances, it is more efficient to place a block before the piston. This method of repeating a signal averages 17 redstone used per 19 blocks (1 for the piston, 1 for the torch, and 15 redstone dust) and 1.5 tick delay per 19 blocks.
+The moving block can be replaced with a block of redstone, which allows the removal of the lower block and redstone torch, reducing the circuit size to a 1-high 1×3×1 (3 block volume).
+1×3×2 (6 block volume)1-wide, silentcircuit delay: 2 ticks.
+The double-torch repeater was the standard repeater circuit used before redstone repeater blocks were added to Minecraft.
+In transmission lines, one double-torch repeater will be required every 18 blocks (the 3-block circuit, plus 15 blocks of redstone dust), using 18 redstone per 18 blocks and adding 2 ticks delay per 18 blocks.
+1×2×1 (2 block volume)1-high, 1-wide, flat, silentcircuit delay: 1 tick.
+When crossing long distances, redstone torches can be used singly, simply allowing the signal to be inverted an even number of times during its journey. Single-torch repeaters use slightly less redstone than redstone repeaters (16 redstone per 17 blocks) but are slightly slower (1 tick delay per 17 blocks).
+An instant repeater is a circuit which repeats a redstone signal change with no delay. A sequence of instant repeaters and redstone dust lines is known as instawire (or "instant wire").
+1×3×2 (6 block volume)1-wide, instantcircuit delay: none.
+Behavior (Rising-Edge): While the input is off, the block of redstone keeps the lower sticky piston activated by connectivity. When the input turns on, the upper sticky piston begins to extend the block of redstone. The instant the block of redstone starts moving, the lower sticky piston deactivates and begins to retract block A, the reason the upper piston is extending -- this turns the upper sticky piston's extension into a 0-tick extension/retraction (the "insta-drop": the sticky piston "drops" its grip on the block and leaves it behind when it retracts), leaving the block of redstone above the lower sticky piston and powering the output. All of this happens instantly (in the same redstone tick), effectively allowing a rising edge to pass through the circuit with no delay. Now that the block of redstone is above the lower sticky piston, the lower sticky piston extends again, and two ticks later block A is back in position causing the upper sticky piston to extend again, ready to retract block A when the signal turns off.
+Behavior (Falling-Edge): When the input turns off, the upper sticky piston begins to retract the block of redstone, immediately cutting off power to the output, effectively allowing the falling edge to pass through the circuit with no delay. While the block of redstone is moving, the lower sticky piston deactivates, but then activates again when the block of redstone stops moving and can activate the lower sticky piston by connectivity again.
+Earliest Known Publication: 14 February 2013.
+1×5×4 (20 block volume)1-wide, instantcircuit delay: none.
+Behavior (Rising-Edge): When the input turns on, the lower sticky piston begins to extend, causing the upper sticky piston to retract, allowing the powered redstone dust below block A to connect to the output. All of this happens instantly (in the same redstone tick), effectively allowing a rising edge to pass through the circuit with no delay. The moving block of redstone also instantly depowers the dust below it, but by the time that turns off the repeater's output, the block of redstone has arrived to continue powering the output.
+Behavior (Falling-Edge): When the input turns off, the lower sticky piston begins retracting the block of redstone, immediately cutting off power to the output, effectively allowing the falling edge to pass through the circuit with no delay. The block of redstone then arrives at its retracted state and tries to power the output dust again, but it also powers the piston above it and block A arrives to cut the output before the repeater can output the signal from the block of redstone.
+Variation (2-Wide): The two upper levels (including the dust on top of the block the repeater is facing) can be moved one block over and down, and the last block on the lower level and its dust removed, to make a 2-wide version which is shorter in height and length (but larger in volume: 2×4×3, 24 block volume). In this version, to reduce the amount of redstone used, the block of redstone can be replaced with a regular block if redstone torches are placed under both its extended and retracted position.
+Earliest Known Publication: 3 January 2013.
+A two-way repeater (aka "2WR", "bi-directional repeater") is a circuit which can repeat a signal in either direction.
+Two-way repeaters have two inputs that also act as outputs.
+Typically the problem to be solved in design is repeating the signal in either direction without repeating the signal back into the same input which could create a clock or a permanently-powered repeater loop.
+Each circuit description below lists a transmission speed which is the rate at which multiple circuits can transmit signals when placed at maximum distance from each other. Most circuits have their inputs offset from each other by one or two blocks – moving the wires in-line with each other will reduce the transmission speed (because the signal has to move sideways to get to the correct input).
+Current designs also have a two-way reset time – when input from one side is turned on, and then input from the other side is also turned on, then the first input turned back off, there is a short time while the transmission on the first side remains off until the circuit can reset itself to allow the second input through. Thus, the reset time can be seen as a spurious off pulse in a line that should be on.
+Schematic Gallery: Two-Way Repeater.
+2×5×2 (20 block volume)flat, silenttransmission speed: 8 blocks/tickcircuit delay: 2 ticksfastest clock signal: 2-clocktwo-way reset time: 4 ticks.
+When a signal comes in from either side, it blocks the other input by providing a strength 15 signal to its comparator's side.
+It's possible to override or block this circuit with additional inputs from the comparators' other sides.
+Variations: Transmission speed can be increased by lengthening the circuit. Possibilities include placing opaque blocks before and after the repeaters, adding a segment of analog comparator wire before the repeaters, or using slab diodes to allow placing blocks before the comparators.
+Comparison 2WR.
+2×7×2 (28 block volume).
+9 blocks/tick.
+Comparison 2WR.
+2×9×2 (36 block volume).
+10 blocks/tick.
+Comparison 2WR.
+2×13×3 (78 block volume).
+10.5 blocks/tick.
+Earliest Known Publication: 16 February 2013.
+2×6×3 (36 block volume)silenttransmission speed: 9.5 blocks/tickcircuit delay: 2 ticksfastest clock signal: 3-clocktwo-way reset time: 3 ticks.
+The output on each side is produced by the redstone torch under the block, held unpowered by the input torch from the other side. When the other input signal turns on, the output torch turns on – this also turns off the input torch holding the other output torch off, but each output torch also holds the other output torch off, keeping the circuit from becoming permanently powered.
+Variations: If it's not necessary to get the signal back to the lowest level (such as if this is built in a 1-deep hole), then this circuit can be considered to be 2×4×3 (24 block volume) and thus only four blocks long.
+Earliest Known Publication: 9 August 2012.
+4×4×3 (48 block volume)instanttransmission speed: instantcircuit delay: 0 ticksfastest clock signal: 2-clocktwo-way reset time: 2.5 ticks.
+When an input turns on, it (a) turns off the torch on the side of the block and (b) powers the block in front of the input, activating the sticky piston on the other side. When the piston starts moving its block, this instantly allows the powered dust underneath to connect to the output. By the time the power from the torch and repeater have turned off, the block has arrived at its extended position where it connects the power from the other torch and repeater to the output.
+Earliest Known Publication: 18 February 2013.
+2×5×2 (20 block volume)flattransmission speed: 12 blocks/tick (18 blocks per 1.5 ticks)circuit delay: 1.5 ticks (rising edge) and 0 ticks (falling edge)fastest clock signal: 3-clock (but shortens pulses)two-way reset time: 1.5 ticks.
+When an input turns on, a sticky piston pushes a block of redstone into position to power the other line, but that also reconfigures the dust on the other side to prevent it from powering the other sticky piston.
+Because of the difference in rising and falling edge delays, pulses will be shortened by 1.5 ticks per two-way repeater.
+Earliest Known Publication: 8 September 2013.
+3×4×3 (36 block volume)silenttransmission speed: 8 blocks/tickcircuit delay: 2 ticksfastest clock signal: 3-clocktwo-way reset time: 4 ticks.
+This design offers few advantages over the other designs, but may be of historical interest.
+3×4×2 (24 block volume)flat, silenttransmission speed: 15 blocks/tickcircuit delay: 1 tickfastest clock signal: 1-clocktwo-way reset time: 3 ticks.
+When a signal comes in from either side, it blocks the other input with a repeater lock.
+This circuit will be locked in a permanent powered state if signals enter from both sides simultaneously.
+Variation (Offset Input): The circuit shown in the schematic to the right keeps the transmission lines in-line with each other, but reduces the signal strength by 1 in side movement in both input and output before continuing the transmission, so the circuits must be placed with only 11 dust between them to work. Placing a block behind each of the input repeaters and moving the input/output lines closer to the repeaters' outputs means that signal strength is only lost in side movement at input, allowing an additional dust between the circuits (and thus a more efficient transmission), but requires that the transmission lines alternate which side they run on.
+Earliest Known Publication: 21 December 2012.
+For simple redstone structures, digital ("on/off") transmission will be sufficient.
+For complex redstone structures, with banks of inputs or outputs, more sophisticated forms of transmission may be required, such as analog, binary, or unary transmission.
+When numbers are represented by different types of transmission, they are said to be encoded.
+An analog encoding (aka "hex wire") is a transmission which outputs the same signal strength it receives as input. Because power levels can vary from 0 to 15, an analog transmission can convey 16 states in a single wire.
+flat, silentcircuit delay: 1 tick per 4 blocks.
+tl;dr: best option for short distances and tricky turns.
+The simplest analog wire is a line of redstone comparators. However, like repeaters, comparators can draw a signal from an opaque block and push a signal into an opaque block, thus it is usually more efficient (in resources, and in signal delay) to place comparators every four blocks.
+The signal strength of an analog comparator wire (ACW) can be reduced or suppressed at some point along its length by feeding another signal into one of the comparators in subtraction mode. The signal can be overridden by feeding a stronger signal into one of the opaque blocks.
+Because the redstone dust is not adjacent to any power or transmission components, only opaque blocks, it will not configure itself to point in any particular direction. This will cause the dust to also power any opaque blocks or mechanism components to the side of the analog wire. Transmission components (redstone dust, redstone comparators, etc.) should not be placed adjacent to the wire's dust because that would cause the dust to configure itself in a way where it doesn't power the rest of the analog wire.
+Earliest Known Publication: 9 January 2013.
+flat, silentcircuit delay: 1 tick per 14 blocks.
+tl;dr: fastest option for long distances.
+Signal strength can also be retained by using repeaters to repeat every possible signal strength at the correct distance from the output to convey the correct signal strength.
+A single segment of analog repeater wire (ARW) consists of exactly 15 repeaters connecting an input line to an output line. To connect multiple segments together without additional comparators, the segments must be arranged so that the output dust of the last repeater is the same as the input dust of the next segment (i.e., block B of the previous segment is block A of the next segment). This causes the segments to overlap in distance by one block and causes each segment to be offset to the side from the previous segment by two blocks.
+Variations: To keep the segments in-line, or to turn against the direction the repeaters are facing, raise the final repeater by one block and drop the next segment underneath it.
+Another option is to use a comparator and an opaque block between the segments, and alternate the direction the repeaters are facing. This keeps the height to 2 blocks but increases the circuit delay to 2 ticks per 17 block.
+Earliest Known Publication: 21 November 2012.
+flat, silentcircuit delay: 1 tick per (18-N) blocks (see below for N).
+tl;dr: complicated, infrequently useful.
+If fewer than 15 states need to be transmitted, it may be more efficient to encode those N states in the higher levels of signal strength, and then repeatedly subtract the transmitted value from 15 after (17-N) dust, an even number of times.
+Variations: The chests can be replaced with any other full container. The chests can also be replaced with regular power components (redstone torches, powered levers, etc.) if the redstone dust next to them is raised or lowered by one block, or if the subtraction comparator and its power source are moved so that the redstone dust runs straight into the comparator's side with the comparator perpendicular to the line still facing into the same block.
+Earliest Known Publication: 26 January 2013.
+The vertical options for analog transmission are similar to the horizontal options.
+silentcircuit delay: 1 tick per 1 vertical block.
+A redstone comparator can power a block with dust on it, and that dust can power another comparator at its level, etc. Vertical ACW travels two blocks sideways for every 1 block moved upwards (or three blocks with an additional block between the dust and the comparator), but can also be bent at each block into a 3×3 "circular staircase".
+silentcircuit delay: 1 tick per 14 vertical blocks.
+Vertical ARW is an analog repeater wire built on redstone ladders. It only transmits signals upwards and only in segments of 14 vertical blocks (use vertical ACW to close any gaps). Like horizontal ARW, the last dust of the previous segment must be the first dust of the next segment unless a short run of vertical ACW is used to connect the two segments.
+Vertical ASW basically just consists of redstone staircases or ladders with occasional breaks for subtraction.
+A binary encoding consists of multiple digital lines run in parallel, with each line representing a different digit in a single binary number. For example, three lines might individually represent binary 001 (decimal 1), binary 010 (decimal 2), and binary 100 (decimal 4) -- allowing them together to represent any value from decimal 0 to 7 (by summing the represented values of the powered lines). An individual digital line of a binary transmission is referred to by the value it can add to the total number (for example, the 1-line, the 2-line, the 4-line, the 8-line, the 16-line, etc).
+When a binary encoding is intended to carry only decimal numbers (encoding only values 0 to 9), it is known as Binary-Coded Decimal (BCD).
+A 4-bit binary encoding contains the same amount of information as an analog line. ….
+8-bit (a.k.a "byte bus") and 16-bit binary encodings are also used in the construction of computer recreations.
+A one-hot encoding consists of multiple digital lines run in parallel, where a value is represented by which line is on (for example, the number 5 might be represented by having only the fifth line on, and all other lines off). A common alternative to one-hot encoding is one-cold encoding, where a number is represented by which line is off instead of which line is on.
+While a strict one-hot encoding would always have precisely one line hot, a useful alternative is to eliminate the "0" line and represent the number 0 with no lines hot.
+One-hot and one-cold encoding are rarely used for transmitting values over distance, but may be used for inputs (e.g., which button is pressed) or outputs (e.g., which dispenser is activated), with conversion to or from a more efficient transmission encoding in between. They are also used as a transitional encoding — for example, it is relatively complicated to decode from analog to binary directly, but relatively simple to first decode from analog to one-cold, then encode from one-cold to binary.
+A unary encoding consists of multiple digital lines run in parallel, where a value is represented by the number of lines on (for example, the number 5 might be represented by having 5 of 16 lines powered). A unary encoding might use a convention that lines must be powered starting from one side (allowing values to be determined from the transition from powered lines to unpowered lines) or that they can be powered in any combination (requiring logic circuits or calculations to determine the represented value).
+Unary encoding is rarely used for transmitting values over distance, but may be used for inputs (e.g., the number of players standing on pressure plates) or outputs (e.g., the number of doors opened along a passageway).
+Command blocks allow redstone signals to be transmitted to any loaded chunk, without a direct connection.
+Setblock transmission works by using the setblock command to create and remove power components at a receiver.
+For the setblock transmitters below, the two command blocks should be given commands to create and remove power components at the receiver location. For example, if X, Y, and Z are the absolute or relative locations of the setblock receiver "on": setblock X Y Z redstone_block.
+For example, if X, Y, and Z are the absolute or relative locations of the setblock receiver "off": setblock X Y Z stone.
+Other power components can be used to activate the receiver, but most will require additional data to specify their orientation (for example, to specify the direction a lever is attached). Additionally, any non-power component can be used to deactivate the receiver (even air). Avoid using blocks which are transparent or produce light (like redstone torches) as that can increase lag due to block light calculations in up to hundreds of blocks around the receiver.
+When a setblock command is executed, the affected block won't change until a half a redstone tick later (one game tick). Thus, the minimum circuit delay for setblock transmission is 0.5 ticks.
+1×3×1 (3 block volume)1-high, 1-wide, flat, silentcircuit delay: 0.5 ticks (rising edge) and 1.5 ticks (falling edge)fastest clock: 3-clock.
+Because of the difference in rising and falling edge delays, on-pulses will be lengthened by 1 tick and off-pulses will be shortened by 1 tick.
+Variations: Many other arrangements of the torch and command blocks are possible.
+1×3×3 (9 block volume)1-wide, silent, tileablecircuit delay: 1.5 ticksfastest clock: 3-clock.
+Unlike the redstone torch setblock transmitter, this transmitter doesn't change the lengths of input pulses.
+Variations: The torch can be moved to the side of the input block, and the command blocks moved to the side of the repeater and the block it's facing, to make the circuit 2-wide but flat.
+1×3×2 (6 block volume)1-wide, tileablecircuit delay: 2 ticksfastest clock: 2-clock.
+Noisy, but small and can run on a faster input clock.
+Variations: The command blocks can also be moved above or to the side of the block of redstone's positions. The piston can also be pointed downwards (but not upwards), with the command blocks alongside the block of redstone's positions.
+2×4×2 (16 block volume)flat, silentcircuit delay: 1.5 ticksfastest clock: 2-clock.
+Larger, but can handle a faster input clock without noise.
+1×1×1 (1 block volume)1-high, 1-wide, flat, silent, tileable.
+A setblock receiver is simply a single block of space for a transmitter to create or remove a power component.
+Scoreboard transmission works by setting values for scoreboard objectives. Scoreboard transmission can be used to transmit simple binary values (as shown below), but scoreboard objectives can store values between -2,147,483,648 and 2,147,483,647 (inclusive) and multiple scoreboard objectives can be active at once (though transmitting and receiving many values will require arrays of transmitters and receivers). A single scoreboard transmitter can activate multiple receivers at once and different transmitters can set the scoreboard objective to different values, activating specific sets of receivers and simultaneously deactivating all other receivers. Scoreboard receivers can also respond to ranges of values, instead of just specific values.
+Scoreboard transmission requires the creation of a dummy scoreboard objective to store the transmission's current value ("WirelessBus01" is an example and can be anything).
+/scoreboard objectives add WirelessBus01 dummy.
+Binary scoreboard transmitters are similar to setblock transmitters, except they require different commands (WirelessBusFakePlayer is an example and can be anything, but only one fake player is required for all wireless buses) "on": scoreboard players set WirelessBusFakePlayer WirelessBus01 1.
+Binary scoreboard transmitters are similar to setblock transmitters, except they require different commands (WirelessBusFakePlayer is an example and can be anything, but only one fake player is required for all wireless buses) "off": scoreboard players set WirelessBusFakePlayer WirelessBus01 0.
+Unlike setblock receivers, scoreboard receivers must be run on clock circuits.
+1×3×3 (9 block volume)1-wide, silentcircuit delay: 1 tick.
+The scoreboard receiver uses a fast clock to test the objective's value. The command blocks should have the following commands R: setblock ~ ~-1 ~ redstone_block.
+The command blocks should have the following commands S: setblock ~ ~1 ~ stone.
+The command blocks should have the following commands W: scoreboard players test WirelessBusFakePlayer WirelessBus01 1 1.
+Variations: The setblock clock can be replaced with any other fast clock.
+Summon transmission works by summoning an item onto a wooden pressure plate.
+Unlike setblock and scoreboard transmission, summon transmission doesn't require an "off" command block, depending only on the summoned item's despawn time to deactivate the receiver.

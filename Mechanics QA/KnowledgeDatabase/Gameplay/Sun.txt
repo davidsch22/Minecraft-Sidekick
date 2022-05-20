@@ -1,0 +1,20 @@
+The Sun is a sprite appearing in every version of Minecraft (except Classic) that lights up all top-most blocks while it is in the sky. When the player creates a new world the sun starts on the eastern horizon at dawn. As time passes, it will slowly move westward across the sky and over the western horizon while the moon rises on the eastern horizon. Daytime lasts 10 minutes (in real time). Grass blocks will spread quickest when exposed to sunlight, which is at the high-point of the day, at about time 4300. The deeper underground the player is, the less sunlight will illuminate the ground, and ultimately there will be no sunlight at all. A gap or a vertical shaft in the ceiling of a cavern will allow sunlight to filter in.
+In Pocket Edition, shadows on entities are influenced by the sun's position.
+Sunlight, in game, is the name given to the light which illuminates all blocks which do not have a shadow cast over them by a non-transparent block positioned vertically above them in the sky, or if it's raining. Clouds do not cast shadows, and shadows are not affected by the position of the sun in the sky. However, during inclement weather (rain and snow), clouds affect the amount of sunlight in the world. During these storms the ambient light value during the day will be reduced to 12 from the usual 15, and in thunderstorms the light level will be reduced to 7, allowing hostile mobs to spawn.
+Sunlight (or torchlight) can be used to turn dirt blocks into grass blocks, as long as there is an illuminated grass block adjacent to the dirt.
+Hostile mobs will not spawn in sunlight, although existing mobs are affected in different ways by the light. Skeletons and zombies will be set on fire upon entering an area illuminated by sunlight; however, the mobs will try to avoid contact, and will not burn if the mob is in water or in rain. These mobs will also be safe from the sun if they are under shade. Spiders turn neutral while in direct sunlight, until attacked by the player. Endermen will teleport away from players in sunlight. All other hostile mobs, such as creepers, slimes, and silverfish are completely unaffected by sunlight.
+Certain Nether mobs will burn, but otherwise all are also unaffected due to their immunity to fire. Some Nether mobs such as zombie pigmen and magma cubes can spawn in all light conditions. In addition, boss mobs do not take damage from sunlight.
+When the sun rises and sets, the blocks change their light level depending on what angle the sun is at (giving the effect of gradually getting lighter at dawn and gradually getting darker at dusk).
+The sun is larger during sunrise and sunset.
+The position of the sun in the sky does not affect lighting and shadows, so a device such as a sundial would be impossible. However, sun-induced shadows are in Pocket Edition, making this sort of thing possible.
+In creative, it is possible to reach very high y-values using the flying feature. At a y-value of about 576.620, the moon will appear opposite the sun, or, at night, the sun becomes visible opposite the moon, making it seem almost as if the player is in space.
+If the player is underwater and looks at the sun, it looks the same as the sun at sunset.
+Example of the sun rising in the horizon.
+Example sunset seen from the top of a jungle tree.
+Example of sunset with a “round” sun in Beta 1.9 pre-release 5.
+The sun viewed from high up, making it seem like the player is in space.
+Before Beta 1.8, sunsets required chunk updates (When looking at the snow biome(in the NW corner), the chunk is updating to become darker(you may need to zoom in)).
+In Pocket Edition, when looking toward the sun. The sky gets slightly darker and the sun slightly larger. (You may need to click the image to see it better).
+The sun would look like this, if the player looks away or if the world is heading into night.
+Sunlight influences shadows on entities in Pocket Edition.
+The previous screenshot from the opposite angle.

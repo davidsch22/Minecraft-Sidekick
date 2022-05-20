@@ -1,0 +1,1 @@
+The Wet Sponge is an item that can only be found in an Ocean Monument. It is basically a Sponge. However, as the name suggests, is wet, and will emit water dripping particles. Heating a wet sponge in a furnace will return it to a dry sponge. .

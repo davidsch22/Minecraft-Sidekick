@@ -1,0 +1,16 @@
+Dec value: 27.
+Hex value: 1B.
+Minimum tool requirement to break: None.
+Blast resistance: 3.5.
+Maximum stack 64.
+Transparency: Yes.
+Powered rails will slow down or speed up all minecart types that ride over it. If the rails are powered, it will speed up the minecart, if it’s turned off, it will slow the minecart down. Powered rails are crafted using 6 gold ingots, a stick and a piece of redstone dust.
+A single powered rail is capable of completely stopping most minecarts, though more are needed when the minecart is going (very) fast. This is very useful way to stop minecarts at the end of a track, at a station or collection place for example. Note that items dropped on the tracks will also stop the minecart instantly, unless a player is riding it.
+Powered rails will only speed up a minecart if it’s either moving or blocked in one direction. The blocked minecart will be powered and send to the only direction it can go, which is useful when you need to send your minecart back to another station or back into the mines.
+Minecarts stopped by powered rails on a slope don’t require a blockade to move. Once the tracks are powered the minecart will be send downhill, as the gravity pulls it, which will then cause the activated powered rails to boost it in that direction.
+Powered rails can be powered from any direction, but the easiest way to power these rails is by either placing a redstone torch or activated lever under or above the block it’s on, or by attaching a detector rail to it. The minecart will ride over the detector rail, which will activate the powered rail long enough. Note that placing detector rail on just one side will only speed up the minecart when it goes over the detector rails first, if it comes from the other side, the minecart will most likely come to a stop.
+Powered rails will also transfer their power to other powered rails attached to it, up to 8 other rails from the source.
+The maximum speed of a minecart is about 8 blocks per second, but they can build up momentum beyond this, which will allow them to travel further once they’re no longer powered. In comparison, walking speed is 4.3 blocks per second, sprinting is 5.6 blocks per second and boats travel at 6 blocks per second. Traveling 200 blocks would take 25 seconds at full speed (8 blocks per second) and 28.5 seconds at 7 blocks per seconds.
+Momentum is build up when minecarts speed up, either by being powered by powered rails or by going down hill. While minecarts can’t go faster than 8 blocks per second, the minecart still receives power boosts, which increase its momentum build up.
+This momentum allows minecarts to travel further before coming to a stop, as well as allowing them to go up higher slopes.
+However, going up a slope uses up a lot of momentum, but it’s possible to go up slopes of more than 5 blocks high, without having to place another, sometimes expensive, powered rail on that slope.

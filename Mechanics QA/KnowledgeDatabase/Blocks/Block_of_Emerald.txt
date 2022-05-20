@@ -1,0 +1,7 @@
+ Blocks Of Emerald are decoration blocks that are crafted with Emeralds. Emerald blocks are plainly used for storing emeralds, but can also be used as decoration. Blocks of emerald first appeared in Snapshot 12w22a, after popular demand when Emeralds were added to the game. To make an Emerald Block, you must first obtain nine Emeralds, then, on a crafting table, put the emeralds in a 3x3 square. This block has a particularly different design than the other blocks, like the Lapis Lazuli Block. Its face has the appearance of an Emerald with the corners filled in with green. Blocks Of Emerald can also be used to form the pyramid for a beacon pyramid. Because emerald is difficult to get in large amounts, you may choose to use another block as a substitute for the beacon pyramid.
+Blocks of Emerald (also known as emerald blocks) are decorative mineral blocks.
+Blocks of emerald can only be mined using an iron or diamond pickaxe.
+Blocks of emerald are often used to store emeralds in a compact fashion, or otherwise used as an expensive construction block.
+Blocks of emerald can be used to "power" a beacon. The top layer must be at least 3×3 optional lower layers can be adding as 5×5, 7×7, and 9×9 from top to bottom. The layers do not have to be entirely emerald blocks, as they may also contain blocks of iron, blocks of gold, and blocks of diamond.
+Trading.
+Villager.

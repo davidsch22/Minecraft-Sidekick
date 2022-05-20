@@ -1,0 +1,72 @@
+ Fire is a non-solid block. It has an animated face on all four sides, and two faces on the inside at slants. Fire is never created naturally when chunks generate, except in the Nether. It will be created if the player or a Ghast creates it, when Lava burns a flammable object, if lightning strikes a flammable block, or by using the Flint and Steel tool and the Fire Charge. Fire emits pixelated gray smoke while it is burning. Fire produces 15 units of light.
+Fire will spread over flammable surfaces, slowly causing all the blocks it can reach to burn away. Fire can climb up walls, across floors and ceilings and over small gaps. More precisely, a fire block can turn any air block into fire that is adjacent to a flammable block and up to one block downwards, one block sideways and four blocks upwards.   .
+Wood (and wood based blocks, like Fence Gates, Bookcases, Fences etc), Vines, Grass, Wool, etc are all flammable; TNT will detonate if adjacent to fire. Leaf Blocks are the fastest to be consumed by Fire as they are only 50% solid. Fire can be set out simply by hitting it. After being set out, it will make a hissing noise of a fire going out.
+Netherrack, a block found in The Nether, will burn forever when lit on fire, and can therefore be a useful trap or defense material around the player's shelter; although the player should be reminded that everything will burn in fire, including dropped items that fall in fire and any nearby flammable blocks. If placed in the overworld before rain falls, the fire will not go out but if lit in rain it will go out slowly.
+Cows, pigs and chickens will drop cooked meat if they die while they are on fire. However, while attempting to burn them with lava, they will sometimes drop raw meat if the damage tick from the lava was the decisive one to the animal's life. This is because the burning attribute for Lava only comes after the damage which the Lava block deals upon contact, so the animal will die from normal damage without being burnt.
+The Wooden Double Slab was formerly non-flammable, but this has been fixed.
+Via inventory modding, it is possible to create fire as a non-stackable block and with it, one is able to create chainmail armor.
+It's normally impossible to get the fire block, although you can rarely obtain chain mail (through Trading with a Villager or rare drop from a mob wearing it).
+Tall Grass on fire for a few seconds.
+Fire set with Fire Charge.
+A house in a village burning.
+Add a photo to this gallery.
+10 messages TKYLE20.
+		CandD wrote:Fire be aquired by setting the ground on fire with a Fire Charge and waiting until the fire goes out. It will then change into an i...		2013-01-31T21:59:31Z.
+10 messages CandD.
+		Without the wiki, I would have no Idea how to make an enchantment table. I also wouldn't have known that emeralds existed!		2013-01-31T22:50:28Z.
+See more discussions >
+Fire is a harmful non-solid block.
+Fire cannot be obtained as item under any circumstances. It can be placed using flint and steel and fire charges.
+Fire naturally generates in the Nether.
+Lava can naturally create fire (see below).
+Lightning bolts can also create fire, as also may explosions of beds, ender crystals, ghast and blaze fireballs.
+When placed, fire will burn for a short and randomly determined amount of time. If nothing flammable is adjacent to it, the flames will die out. If water touches fire, the fire will be extinguished.
+Fire will spread onto and burn flammable blocks Wood planks.
+Fire will spread onto and burn flammable blocks Wood slabs.
+Fire will spread onto and burn flammable blocks Wood.
+Fire will spread onto and burn flammable blocks Leaves.
+Fire will spread onto and burn flammable blocks Vines.
+Fire will spread onto and burn flammable blocks Grass.
+Fire will spread onto and burn flammable blocks Wool.
+Fire will spread onto and burn flammable blocks Fences.
+Fire will spread onto and burn flammable blocks Wood stairs.
+Fire will spread onto and burn flammable blocks Coal blocks.
+Fire will spread onto and burn flammable blocks Hay bales.
+Fire will spread onto and burn flammable blocks Bookshelves.
+Fire will spread onto and burn flammable blocks Flowers.
+Fire will spread onto and burn flammable blocks TNT (ignites instead of vanishing).
+Fire will spread onto and burn flammable blocks Sponge (Pocket Edition only).
+Fire will spread onto and burn flammable blocks Sign (Pocket Edition only).
+Fire will burn leaves slightly faster than the other flammable objects, indicating the game has different burn durations for different types of flammable blocks (though see block ticks to explain randomness in durations). Non-flammable blocks can be lit but do not burn away, and will not spread fire to other non-flammable blocks. Non-flammable blocks other than netherrack will extinguish themselves after a few seconds.
+Mobs and players will catch fire when exposed to fire. Fire will obstruct the player's view slightly and they will slowly lose health at a rate of ⁄2 heart per second. This is the same rate that the player gains health in peaceful mode, so fire alone will not kill you in this mode. After they move out of the fire block, they will keep burning for 8 seconds, which deals additional 4 hearts damage (unless the fire is put out by rain or water). In Pocket Edition, contact with burning mobs catches fire to the player.
+Items or blocks falling into fire will catch light and quickly disappear.
+If a mob that can drop meat dies while on fire, it will drop the cooked version of it, with the exception of guardians.
+Nether mobs cannot be damaged by fire, and will not catch on fire.
+Fire will spread over flammable surfaces. Fire can climb up walls, across floors and ceilings, and over small gaps. More precisely, a fire block can turn any air block that is adjacent to a flammable block into a fire block. This can happen at a distance of up to one block downwards, one block sideways (including diagonals), and four blocks upwards of the original fire source. Therefore if the player is using it as a fireplace, caution is needed. Blocks in the way will not prevent fire from igniting blocks above it--so even if you protect your wooden roof with cobblestone between it and the fire, the fire will completely ignore that cobblestone.
+Fire spreads from a still lava block similarly: any air block one above and up to one block sideways (including diagonals) or two above and two blocks sideways (including diagonals) that is adjacent to a flammable block may be turned into a fire block.
+Fire will burn out after a while on its own, however the player may want to extinguish the fire as soon as possible to prevent damage. You can use water to extinguish the fire. Punching or hitting the side of a burning block will extinguish the fire block on that side. Hitting fire with a tool does not use up any uses for the tool. Placing blocks on the fire will also extinguish it.
+Mobs on fire will be extinguished when in water or in a cauldron containing it. In the latter case, one layer of water will disappear.
+Netherrack will maintain fire forever when set on fire, unless put out by lava, water or the player. Note that rain won't put out Netherrack fire. Bedrock in the End will also burn eternally.
+If gamerule doFireTick is false, fire will last forever until it is put out by the player and will not spread.
+Fire blocks have ID minecraft:fire (51) and are further defined by block states.
+Sometimes, in Survival when you walk into a fire and then walk out very quickly you will not stay on fire.
+Curiously, if a gravity-affected block such as sand or gravel falls on a block of which the top is on fire, it will extinguish the fire rather than drop itself as an item, despite fire being a non-solid block.
+Burning mobs turn orange and emit large fire particles around their body.
+The fire spreading mechanic is based on how prior PC Beta 1.6 would be.
+A house that has caught fire because it was too close to a lava lake, and made out of wood.
+A burning zombie in Pocket Edition emitting unique fire particles.
+A natural fire started by lava flowing into a tree.
+Dec value: 51 Hex value: 33.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Luminance: 15.
+Fire is an animated block and can only be found naturally in the Nether. Fire can also be created when a player uses flint and steel or a fire charge, when lava or fire burns surrounding flammable objects, when lightning strikes, when Blazes attack and when an explosion occurs, like the attack of a Ghast or an exploding bed.
+Fire produces a light level of 15, the same as lava, but will not last forever, unless netherrack is lit on fire. Fire burns for a short, random amount of time and will spread to any flammable block directly next to it, one block under it or up to 4 blocks above it. Especially the upward spread can be disastrous in forests, as leaves burn faster than other flammable objects. Large forests can easily turn into a sea of flames, which can cause enormous lag on slower computers.
+Fire can also burn the player and mobs, which will do half a heart of damage per second. Anything thrown into fire will be destroyed.
+Water and rain can extinguish fire, so having a bucket of water is always a good idea when traveling about. Punching a fire block will extinguish it, but punching a mob that is on fire will not put out the fire. Like normal fire blocks, fire on mobs and animals will eventually burn out, though many mobs have a low enough health to be killed before the fire burns out. Cows, pigs and chickens will drop their meat in the cooked form when they die while on fire.
+Placing a block on fire will extinguish it as well.
+Fire will melt snow and ice, but not snow blocks. TNT close to fire will also be activated, so be careful.
+Netherrack will burn forever, even in rain, untill the player choses to put it out. This can be useful to create traps, boudaries or a type of garbage bin to drop unwanted items on. Netherrack is also often used in fireplaces and other decorative features. Bedrock will also burn forever in the End, but this can only be placed there if a player aquires the block through codes, mods or creative mode.
+Fire blocks are not obtainable without the use of codes or mods, but it’s the only way to craft chainmail armour. Chainmail armour is partially transparent to mimic the look of the chains. Like fire blocks, chainmail armour cannot be obtained in game without the use of mods or codes.

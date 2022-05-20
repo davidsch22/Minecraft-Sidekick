@@ -1,0 +1,19 @@
+This is the brick block, for the brick item see Brick (Item).
+Bricks are used for decorating purposes and as building blocks. It will not be naturally spawned in the world so it must be crafted. It is mostly used to up the aesthetic appeal of homes and towers. Since bricks are not flammable, it is often used to make fireplaces or fireguards. Brick blocks are made by putting clay balls in a furnace and then crafting the bricks in a 2x2 square. Brick is a durable block and resists explosions well. A Pickaxe must be used to recover the resource of a placed block, and will take under a second to break. Breaking a block with the player's hand is slow and will not yield the resource. Bricks have a blast resistance of 30.
+Clay can be used to make bricks or clay blocks. Breaking clay drops 4 clay balls, which can then be smelted into clay bricks. The 4 clay bricks can then be crafted into one brick block. And this means that for each clay block found in a map, players can make 1 brick block.
+In earlier versions of Minecraft, brick pyramids would appear. This feature has since been removed.
+Bricks are usually used for houses because wood burns.
+A single Brick.
+Fireplace built with bricks.
+Add a photo to this gallery.
+Bricks are a decorative building block.
+Bricks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+Bricks have the same blast resistance as other stone-based blocks, so it can be used as a durable building block.
+Clay.
+Clay (block).
+Nether brick.
+Dec value: 336.
+Hex value: 150.
+Maximum stack 64.
+Bricks are created by cooking clay in a furnace. Their only current purpose is to create brick blocks, a decorative building block.
+Finding large quantities of clay can be a little tricky, but the best places to look are swamp biomes and shore lines. Especially swamp biomes are good, as the water is often shallow, which makes harvesting the clay a lot faster.

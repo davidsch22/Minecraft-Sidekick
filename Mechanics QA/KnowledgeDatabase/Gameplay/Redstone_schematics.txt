@@ -1,0 +1,2 @@
+MCRedstoneSim (from this point MCRS), uses a basic symbolism to represent redstone circuits. This same symbolism is used on the circuits page.
+The symbols used in MCRS are shown below.

@@ -1,0 +1,13 @@
+Dec value: Block: 83; Item: 338.
+Hex value: Block: 53; Item: 152.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Sugar cane can be found in every biome, but can only be found on dirt, grass or sand which is directly next to water.This means it’s rarely found in snow biomes, as water is often frozen here, which causes the sugar cane to pop out of the ground.
+Sugar cane can only grow up to a height of 3 blocks, but taller generated sugar cane can sometimes be found. It’s also possible to place sugar cane on top of other sugar cane, which can create enormous canes. Using bonemeal on sugar cane will not instantly grow it, so patience is requires to grow it.
+Sugar cane will stop the flow of lava and water, any lava or water that falls on top of it will simply spread out. Sugar cane isn’t flammable, which makes it a great way to block lava, while still allowing light in. Sugar cane placed in water will create an airlock, which can be extended to any height, which is helpful for anybody who wants to create an underwater base, or anybody who wants to farm underwater.
+Despite blocking lava and water, it is possible to walk, swim and shoot arrows through sugar cane. Some mobs, like zombies and skeletons, can also see and walk through it.
+The basics of sugar cane farming are very easy. All you need to do is make sure the sugar cane is placed on dirt, grass or sand and right next to water. Water diagonal to the sugar cane will not work. The water can be covered with another block, allowing for better walk ways.
+Slabs or lily pads are used most often.
+Sugar cane requires 2 transparent block above it in order to grow, so placing a solid block 4 blocks above the ground will prevent the sugar cane from growing 3 blocks high. They require no light, though it’s advised to light up the area to prevent hostile mobs from spawning. There are various ways to farm sugar cane, both land efficient as time efficient. We’ve covered those methods in seperate guides, found here.

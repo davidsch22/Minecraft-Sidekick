@@ -1,0 +1,39 @@
+Golden Apples are moderately difficult to obtain, but are the most beneficial Food item. They are found extremely rarely in Dungeons, Strongholds, and Abandoned Mine Shaft chests, though they can also be obtained by crafting a Red Apple and eight Gold Ingots together. Eating one heals , and grants enhanced regeneration for 4 seconds, regardless of hunger level. They are considered to be very valuable to players and are often kept as a kind of trophy, although it is now easier to obtain after 1.1.0. When in your inventory, Golden Apples shine purple, much like enchanted tools and armor. Golden apples can heal 2 hearts of health (confirmed, heals 1/2 heart/second, so 2 hearts over 4 seconds.) As of the Minecraft 1.3 update, a new Golden Apple recipe has been created. The new Golden Apple recipe requires Gold Blocks, and will give the player who eats it Regeneration for 30 seconds and Resistance and Fire Resistance for 5 minutes. The new Golden Apple shines as if it were enchanted and has a purple tool-tip when the cursor is over it. Normal Golden Apples can also cure a Zombie Villager if splashed by a Splash Potion of Weakness as well and revert it to a normal Villager but for some reason, enchanted Golden Apples doesn't work.
+ They are the only food item beside the Golden Carrot that cause temporary constant health regeneration that is not dependent on the player's hunger. This is indicated by the line of hearts bobbing up and down in a wave pattern, with each full wave restoring half a heart.
+ Compared with potions of regeneration, golden apples are available for fighting monsters before you are able to brew or even go to the Nether in single player mode. This is especially true for Blazes, who are the sole source of Blaze Rods needed for brewing.
+ Golden apples also are stackable up to 64 like other food, unlike restoration potions which take up an inventory space with just one.
+ The new Golden apples are preferred over Fire Resistance potions by some players, for the same reason as stated above.
+ The second Golden Apple can be found in dungeons as well as the original.
+ Apples can come from Dungeons and now can be cut from trees, but they are still hard to find due to the fact that not all Dungeons have apples in the chest and that when you cut down a tree not every tree has an apple.
+ Golden apples have an extremely slim chance of appearing in chests: 1/125 (0.8%).
+ As of the 1.0.0 release health generation is no longer unique to golden apples as the player can brew health regeneration potions. Not only do potions last longer (0:45) than a golden apple (0:04), they can also be upgraded with redstone and glowstone dust to either heal the player more rapidly or to have an even longer duration (2:00). Since golden apples are a food, they cannot be upgraded, unlike potions.
+ The second Golden Apple recipe takes a lot of resources to build, if one desired to create it (8 Blocks of Gold and 1 Apple).
+ As of 1.6 golden apples regeneration is nerfed a very slight amount, also golden apples (the stronger version) have a new effect called absorption which lasts for 2 minutes, supposedly it works like feather falling but with your whole player body so if you fall you take 2 hearts less of damage but it takes away from your 2 golden hearts as well.
+Golden Apples were added at some point between late Indev and mid Indev, some time after the addition of Red Apples themselves. At that time, they could only be picked up from a dead Notch. They healed a full ten hearts of health when eaten prior to the Beta 1.8 update, making them the single best food in the entire game—at the expense of being near unobtainable.
+Since Beta 1.8, due to the addition of hunger, Golden Apples were changed so that they only healed five hunger points, but also gave the status effect of regeneration for 30 seconds.
+Since Beta 1.9 pre-release 2, Golden Apples gained a purple glow when viewed from the player's inventory, and its name tag was changed from the standard white to a magenta color.
+In the second weekly build, 11w48a, Golden Apples became easier to craft. Red apples became able to very rarely drop from Oak Leaves, meaning that players no longer have to venture into Strongholds/Dungeons/Abandoned Mine Shafts to find one.
+Before 1.0.0, golden apples were the only food item that could completely refill the player's health, without a full hunger bar.
+In Minecraft 1.1, Golden Apples were nerfed so that they only healed two hunger and only gave 4 seconds of regeneration. To balance this, their crafting recipe was changed to requiring Gold Nuggets instead of Gold Blocks. For although its natural spawn is rare, it is easier to obtain through crafting. With now common availability of apples and being reduced to 1.25% their former cost in gold, they are for the first time a practical source of healing in Survival. All of these factors make the Golden Apple's value decrease greatly.
+As of the Minecraft 1.3.1 Update, a second Golden Apple recipe was implemented into the game. The recipe is the exact same as the pre-1.1 recipe (which required Gold Blocks instead of Gold Nuggets) and gives the player Regeneration for 30 seconds and Resistance and Fire Resistance for 5 minutes. The second Golden Apple now has a purple name and a purple glow, whilst the first one has just a blue name without the glow.
+Golden Apples and their enchanted counterparts were added to the Pocket Edition in 0.12.0.
+A golden apple in a Dungeon chest.
+Another golden apple found inside a Dungeon chest.
+A Stronghold chest containing a golden apple and other valuable items.
+Add a photo to this gallery.
+The Golden Apple is known in Norse and Greek Lore, often said to grant the one who eats it immortality, others say it holds unique healing properties, it varies from story to story of what the Golden Apples do to the consumer.
+There is a glitch in Minecraft: Xbox 360 Edition where if you eat a Enchanted Golden Apple your health will look weird or broken, and it cannot be fixed unless you get off the game and get back on.
+The golden apple is a special food item that can be eaten by the player.
+Enchanted golden apples (sometimes known as notch apples) are a variant of golden apples that require more materials to obtain, but have stronger effects.
+Regular golden apples can be found in chests in dungeons and strongholds. Each chest has about a 0.66% chance to contain a golden apple.
+To eat a golden apple, press and hold use while it is selected in the hotbar. Both restore 4 () points of hunger and 9.6 hunger saturation.
+The regular golden apple provides absorption for 2 minutes (providing 4 () points of absorption health) and regeneration II for 5 seconds (long enough to heal 4 () points of damage). The enchanted golden apple provides absorption for 2 minutes, regeneration V (1 () every 3 ticks,  × 3⅓ per second) for 30 seconds, fire resistance for 5 minutes and resistance (20% reduced damage from all sources except the Void) for 5 minutes.
+Golden apples can be eaten even when the player's hunger bar is full.
+A total of 200 ( × 100) health points can be restored by eating an enchanted golden apple. The healing speed is enough to endure nearly any damage except from the Void.
+A regular golden apple can be used to convert a zombie villager into a villager.
+Both types of golden apples can be used to improve the chances of taming a horse by 10%, for breeding horses and for speeding up the growth of baby horses by 4 minutes.
+Golden apples have the ID minecraft:golden_apple (322) and are further defined by their damage value.
+A comparison of the two golden apple variations.
+The effects of consuming an enchanted golden apple.
+A chest in a stronghold containing a golden apple.
+A golden apple found in a dungeon.

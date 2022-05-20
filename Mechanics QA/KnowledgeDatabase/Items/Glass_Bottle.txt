@@ -1,0 +1,5 @@
+The Glass Bottle is an item used to pick up water to make water bottles, which is the start of the brewing process.
+Witches have a chance of dropping 0-6 glass bottles upon death.
+In the Xbox 360 version you can craft it under Tools, in the same category as buckets.
+Glass bottles can be filled to make water bottles, which can then be used to brew items with a brewing stand. Glass bottles are also used to hold the resulting potion.
+A bottle may be filled by holding it in your hand and right clicking on a water source block or a filled cauldron. If filled via a water source, the water will be unaffected. If filled via a cauldron, 1/3 of the water in the cauldron will be removed. Therefore, using a cauldron to fill bottles is inefficient, except in the Nether where it is normally the only way to fill bottles.

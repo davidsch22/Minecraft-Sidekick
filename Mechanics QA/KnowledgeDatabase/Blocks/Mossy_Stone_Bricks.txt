@@ -1,0 +1,5 @@
+ Mossy Stone Brick is a new block type that was implemented in the 1.8 Beta update. As of 1.7, it has a Monster Egg variation too.
+Mossy Stone Brick is one of the main components that make up Strongholds, which were added in the 1.8 update. Just like its counter-part, the Moss Stone, it serves no purposes in-game, other than decoration for houses. The only way to obtain legitimately in survival mode is to mine it in strongholds. This makes is more rare than moss stone as moss stone is found in jungle temples and dungeons, whereas mossy stone brick is only found in strongholds.
+During the 1.8 pre-release, Mossy Stone Brick could be made by destroying Stone Brick Stairs that were facing a certain direction .
+The Mossy Stone Brick seems to be a variation of the the Moss Stone block as well as the Stone Brick.
+After snapshot 14w02a the Mossy Stone Brick got a crafting recipe.

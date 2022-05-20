@@ -1,0 +1,7 @@
+Pocket Edition Only.
+Beetroot seeds are items exclusive to Pocket Edition that can be grown to make beetroot.
+Beetroot seeds can be found by hoeing the ground. Hoeing the ground does not guarantee a beetroot drop - there is a 1/15 chance that a beetroot seed will be found. It is 30% rarer to find a beetroot seed than a regular seed.
+Fully grown beetroot seeds have a chance of dropping beetroot seeds and beetroots.
+Beetroot seeds can be placed on farmland. After being placed, it will undergo four states of growth. When fully grown it can be broken to produce beetroot seeds and beetroots.
+The first image released of beetroot seeds.
+A beetroot garden.

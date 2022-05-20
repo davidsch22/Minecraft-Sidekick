@@ -1,0 +1,8 @@
+Dec value: 31:2.
+Hex value: 1F.
+Minimum tool requirement to harvest: Shears.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Ferns spawn on grass block, but can only be found in jungle biomes. Destroying ferns will sometimes drop seeds. These blocks are not solid, so players and mobs can walk through them. They serve no use, other than their aesthetics. They can be harvested by using shears on them.
+Unlike tall grass, ferns will not grow when a player uses bonemeal on a grass block. Water will destroy the ferns, which still have a chance of dropping seeds, but because tall grass drops seeds as well and because ferns don’t regrow, it’s often advisable to use shears instead, either for personal use or to sell them to other players, if you play on a multiplayer (economy) server.

@@ -1,0 +1,2 @@
+Ghast tears are items dropped by ghasts when they are killed.
+Ghasts drop 0-1 ghast tears upon death.

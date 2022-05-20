@@ -1,0 +1,12 @@
+Dec value: 88.
+Hex value: 85.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Soul sand is a type of sand only found in the Nether. It has a unique ability that causes players and mobs to sink slightly when they walk on it. It will also slow players and mobs down.
+It can be found throughout the Nether, but is usually found in the lower regions, often near lava. It is also found in Nether fortresses, in which it’s used as a patch for nether warts to grow on. Nether warts can only be planted on soul sand.
+Soul sand placed next to lava will set players on fire due to it’s sinking ability, though an effective trap, this is also something you need to watch out for while being in the Nether.
+The most common defence mechanism is the one way door. Because soul sand sinks the player and mobs a little, going through doors is impossible. A player can jump over the soul sand however, allowing a player to go in and out of the door while a mob cannot come in from the side with soul sand. To prevent other players from jumping over the soul sand, placing a block 2 blocks above the soul sand will prevent them from being able to jump far enough or to jump at all. You could also place more soul sand blocks in front of the door, so it’s impossible not to jump in the soul sand.
+Rails placed on soul sand will not slow down minecarts, but players walking on those rails will. This makes it quite an effective escape route, though any player with a minecart will be able to follow you. Water on top of soul sand and ice under soul sand will increase the slowing effect a lot. This can make for a very annoying trap as getting out of a large maze build this way can take a long time. Though keep in mind that most multiplayer servers have the /spawn command enabled, which means players can simply teleport out.
+Though usually not very useful, soul sand will stop items carried by a water current. This could be used as a collection point, though water is often easy to direct anyway, making this trick a bit unnecessary.

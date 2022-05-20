@@ -1,0 +1,14 @@
+Horse Armor is an item that appeared in the 1.6 update. Horse armor is used to protect the player's horse from taking damage as they would do for themselves. Horse armor was previously crafted from iron, diamond, or gold, along with any color wool. Horse armor can currently only be found in generated chests particularly those of dungeons. Horse armour can also be obtained by trading with a villager , however, horse armor can't be crafted.
+There are three types of horse armor, those being iron, gold and diamond. Horse armor does not break over time like most tools. Even though gold is the worst in tools because of it's low durability, gold horse armor is actually a bit better than iron horse armor, it provides more protection and is much rarer. Diamond is still the best for protection when it comes to horse armor.
+Horse armor can be found naturally in dungeon chests, blacksmith chests, Nether Fortress chests, and Abandoned Mineshafts .
+Iron horse armor- 20%.
+Gold armor- 28%.
+Diamond horse armor- 44%.
+Despite regular armor protection values, gold horse armor will protect the horse by a bit more than iron horse armor would.
+Unlike regular armor, horse armor cannot be enchanted.
+If a horse dies while wearing armor, the armor will drop as an item.
+Horse armor is a special type of armor that can be given to a horse to wear.
+Dungeons, nether fortresses, village blacksmith, jungle temple, desert temple, and stronghold chests may contain any kind of horse armor in stacks of 1. Abandoned mineshafts only contain iron horse armor in minecarts with chests in stacks of 1.
+There is a gradual increase in the defense given from a horse wearing the different types of armor.
+A horse equipped with iron horse armor that is bound to a fence post with a Lead.
+The GUI for horses implemented in 13w21a which allows the removal and switching of armor.

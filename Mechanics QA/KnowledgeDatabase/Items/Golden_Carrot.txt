@@ -1,0 +1,4 @@
+A Golden Carrot is a valuable food item and brewing ingredient.
+To eat a golden carrot, press and hold use while it is selected in the hotbar. Eating one restores 6 () and 14.4 saturation points, the highest saturation of any food currently in the game.
+Golden carrots are used to tame, breed, grow, and heal horses and donkeys, and to breed and grow rabbits.
+Golden carrots being used for potions of night vision is based on the common misconception that eating carrots can improve one's vision; this is only true if one has vitamin A deficiency.

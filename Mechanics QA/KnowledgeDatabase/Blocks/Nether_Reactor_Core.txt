@@ -1,0 +1,7 @@
+The Nether Reactor Core is a block exclusive to Pocket and Pi editions. It is the main component in the Nether reactor structure.
+If a nether reactor core is mined with any pickaxe, it will drop itself; otherwise, it will drop nothing.
+This block is required to build the Nether reactor. Tapping on it will activate the reactor if built correctly.
+This is the inactive state of the core.
+This core is used when the Nether reactor is active.
+This core is used when the Nether reactor cycle has ended.
+Note that in any stage when the nether reactor core is mined, it will always drop as stage 1.

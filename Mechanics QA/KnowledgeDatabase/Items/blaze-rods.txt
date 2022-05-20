@@ -1,0 +1,6 @@
+Dec value: 369.
+Hex value: 171.
+Burning time: 120 seconds.
+Maximum stack 64.
+Blaze rods are dropped by blazes, found only in Nether fortresses. They’re used to craft brewing stands and blaze powder. Blaze powder is used in brewing, as well as a component of eyes of ender, magma cream and fire charges. They can be used as a reasonably efficient fuel in furnaces. They last 120 seconds, though compared to coal, which lasts 80 seconds, are a little less efficient, as coal is generally more widely available and easier to get.
+Farming Blazes for their blaze rods is quite easy. Blazes can spawn from blaze spawners found in the Nether fortresses, which makes it easy to build a safe room around the spawner to make killing them that much easier.

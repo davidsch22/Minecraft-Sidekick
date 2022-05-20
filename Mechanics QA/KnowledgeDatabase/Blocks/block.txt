@@ -1,0 +1,301 @@
+ Blocks are what minecraft is all about. They’re the building pieces that make up the world you play in, and allow you to let your imagination go wild.
+Almost all blocks can be aquired without using creative mode or other inventory editors. However, some blocks require a silk touch enchantment, which allows the player to harvest a block in it’s original state, rather than converting it to something else. Examples are grass blocks, which turn to dirt when you dig them up or ore blocks, which drop the ores.
+A block is about a cubic meter if you’d compare it to real life, which makes a minecraft character about 1.70 meters (5′ 7″). The texture of a block is a cube of 16x16x16 pixels, but there are texture packs that have higher resolution textures.
+There are over 100 different blocks, which can be divided in many different categories, like ores, plants, stones, mechanisms and many more. In this section, we’ll briefly describe each block, but for more information about the blocks or extra tips on how best to gather them, please refer to their individual articles. Some blocks could theoratically fall under more than one category, but in this section we’ve only placed each block in one category.
+These blocks occur naturally in the world and are generated when each world is created. They require no player input to be made.
+Air.
+Air blocks are invisible blocks that allow players and monsters to walk through the world. It’s impossible to get this ‘block’ without an inventory edit.
+Bedrock.
+Bedrock is an indestructable block which covers the bottom of the Overworld and the top and bottom of the Nether. They’re meant as boundaries, giving the world a minimum and maximum height.
+Clay Blocks.
+Often only found under the water, mostly near the edges or in the middle of lakes. Usually surrounded by sand. Clay can be dug up, causing it to drop clay which is used to make bricks or clay blocks.
+Cobblestone.
+Cobblestone is ‘created’ when a player mines normal stone. Melting it in a furnace will recreate a normal stone block. Cobblestone can also be found as part of structures, like villager houses and dungeons.
+Cracked Stone Bricks.
+These bricks are only found in strongholds, making their supply very limited. Despite their cracked surface, they’re not weaker than their normal or mossy counter part.
+Dirt Blocks.
+Dirt is almost always the top layer in the Overworld. Grass and mycelium can spread onto it, but digging up either one of these will revert it to dirt.
+Farmland.
+Though not really considered a natural block, as it requires a player to use a hoe on grass or dirt, farmland does occur in villages which are generated with the rest of the world. Farmland allows a player to plant seeds, but require a source of water to be within 4 blocks from it in order to stay fertile.
+Grass Block.
+Grass blocks form the top most layer in almost every biome. Grass blocks are often required for mobs to spawn and grass will spread onto nearby dirt blocks. Snow can cover these blocks, but will not revert it to a dirt block.
+Gravel.
+One of the only blocks that is affected by gravity. If it isn’t supported by other blocks, it will fall untill it hits another block. Gravel can be found in many places, both on the surface as underground, though it’s often easier to look for it underground.
+Ice Blocks.
+Ice will form on any water during snow form, but only on water that isn’t covered by other blocks, no matter how high the block is above the water or if the water block is too close to a heat source, like a torch.
+Mossy Cobblestone.
+Mossy cobblestone is like normal cobblestone, but with a green texture added to it, resembling moss. Mossy cobblestone can only be found in dungeons, making it one of the rarer and harder to find blocks in game.
+Mossy Stone Brick.
+These blocks are only found in strongholds, making them hard to get and their supply is very limited.
+Mycelium.
+Mycelium blocks are similar to grass blocks, but purple. They only occur in mushroom biomes and will spread to dirt blocks. Digging up mycelium without the silk touch enchantment will turn it into a dirt block.
+Obsidian.
+Obsidian is created when water touches lava source blocks. Obsidian is the toughest material available to players without inventory edits and is resistant to all explosions. Obsidian is also used to create Nether portals, used to travel to the Nether, and.
+enchantment tables.
+Sand.
+Sand is one of the only blocks affected by gravity and will fall down until it’s supported by other blocks. Sand can be found in every biome, but is of course most prominent in desert biomes.
+Sandstone.
+Sandstone blocks are often the first 2-3 layers you’ll find below sand, and are of course easiest to gather in desert biomes.
+Stone.
+Stone makes up most of the minecraft world. Mining stone will turn it into cobblestone.
+Stone Bricks.
+These blocks are only found in stronghold, but they can also be created by the player by placing 4 stone blocks in a 2×2 square in any crafting grid.
+All ore blocks require the use of a pickaxe with the silk touch pick if you want to mine the block, instead of its ores.
+Coal Ore.
+Coal can be found pretty much everywhere and is a common sight in every map. A wooden pickaxe is the minimum requirement to mine coal.
+Diamond Ore.
+Diamond ore are hard to find, only occuring in the bottom 17 layers. Finding diamonds can be very difficult, but there are several tips and tricks you can use to make it a little easier.
+Gold Ore.
+Gold ores can be found in the bottom 32 layers and aren’t too difficult to find. Gold is used in many crafted items, including armour and tools, but their durability is very low.
+Iron Ore.
+Iron ore can be found in all layers between 64 (sea level) and bedrock. They’re very easy to find and players will often ignore them once they have a decent supply of iron.
+Lapis Lazuli Ore.
+This blue ore is often mistaken for diamonds, which often disapoints a player. Lapis lazuli is currently only used in dyes or to create a lapis block. Lapis Lazuli ores can only be found in the bottom 33 layers.
+Redstone Ore.
+Redstone ore is found in the bottom 16 layers and used in redstone circuits and some created items. Several pieces of redstone dust will drop from 1 ore block, which quickly gives the player a large supply of redstone.
+Mineral blocks are created by using 9 of it’s corresponding ore in a 3×3 square on a crafting table. They’re usually only used for their looks.
+Block of Diamond.
+A solid, light blue block of diamond. Often used to display a player’s wealth on multiplayer servers.
+Block of Gold.
+A solid, golden block. Gold is sometimes used as a.
+currency on multiplayer servers.
+Block of Iron.
+A solid, white block. Due to the large amount of iron ore available, large amounts of iron blocks can easily be created and used to decorate a house.
+Lapis Lazuli Block.
+A dark blue block, often considered to be one of the nicest looking blocks. Due to the lack of uses of lapis lazuli, they’re often turned into these blocks and used for decorational purposes.
+These blocks are part of the natural world in minecraft. They make up the trees, grass.
+and other natural parts of minecraft.
+Cactus blocks.
+Cacti can only grow on sand, up to a height of 3 blocks, but can be made taller by players. Cacti will hurt monsters and players who come into contact with it.
+and can destroy any block that’s dropped onto it.
+Dandelions.
+Yellow flowers (dandelions) can be found in every land biome with the exception of desert biomes. Yellow flowers are used to create dyes for wool. Using bone meal on a grass block will grow tall grass, yellow and red flowers on grass blocks around it, allowing the player to harvest large amounts of grass and flowers in a short time.
+Dead Bush.
+These dry scrubs are purely aesthetical, found mostly in desert biomes, but have been found in swamp biomes as well. These bushes can be picked up by harvesting it with shears.
+Fern.
+Ferns look a lot like small pine trees. They can often be found in Jungle biomes and unlike dead bushes, ferns can be picked up and replanted.
+Huge brown mushroom block.
+These form the top of huge brown mushrooms, found in mushroom biomes and created by using bonemeal on normal brown mushrooms. Harvesting these blocks will drop brown mushrooms. A silk touch enchantment is needed to get the block itself.
+Huge mushroom stalk.
+These stalks support the top of both huge red and brown mushrooms, which can be found in mushroom biomes and created by using bonemeal on normal mushrooms. A silk touch enchantment is required to harvest this block.
+Huge red mushroom block.
+These form the top of huge red mushrooms, found in mushroom biomes and created by using bonemeal on normal red mushrooms. Harvesting these blocks will drop red mushrooms. A silk touch enchantment is needed to get the block itself.
+Leaves.
+Leaves are naturally only generated as part of trees and are thus within a few blocks away from a wooden block. Removing these wooden blocks will cause the leaves to slowly decay. Leaves can be harvested by using shears, after which they can be placed on other blocks. Leaves that are placed by a player will not decay, even if there is no wooden block attached to it.
+Lily pad.
+Lily pads are unique to swamp biomes and can be stand on. Lily pads can be harvested like normal blocks and be placed by the player on any water block.
+Melon.
+Melons are grown by using melon seeds on farmland. These seeds can only be found in chests in abandoned mineshafts. Harvesting a melon block will drop melon slices, these slices can be eaten, used to create a melon block or crafted into more.
+melon seeds.
+Melon stalk.
+These stalks are grown over time after planting a melon seed, which are only found in chests in abandoned mineshafts.
+Melon stalks look identical to pumpkin stalks, but they will not attach themselves to pumpkins.
+Pumpkin.
+Pumpkins are randomly generated as small fields or grown by planting pumpkin seeds. These seeds can be found in chests in abandoned mineshafts or ‘crafted’ by using pumpkins. Harvesting a pumpkin block which drop a pumpkin, which can be placed on the ground, turned into a Jack-o-lantern, crafted into.
+more pumpkin seeds or worn on the head.
+Pumpkin stalk.
+These stalks are grown over time after planting a pumpkin seed. These seeds are found in chests in abandoned mineshafts and by ‘crafting’ them using a pumpkin. Pumpkin stalks look identical to melon stalks, but they will not attach themselves to melons.
+Roses.
+Red flowers (roses) can be found in any land biome, with the exception of desert biomes. They’re also carried and dropped by iron golems. Red flowers are used to make dyes for wool. Using bone meal on a grass block will grow tall grass, red and yellow flowers on grass blocks around it, allowing you to quickly harvest.
+a large amount of grass and flowers.
+Saplings.
+Saplings drop from leaves which decay or are destroyed by players. Planting a sapling will grow a tree after some time, but can be done instantly by using bone meal on the sapling. There are currently 4 kinds of saplings: Birch, jungle, oak and pine.
+Sugar cane.
+Sugar cane can be found on dirt, grass and sand blocks along the edge of water. Sugar cane normally grows up to a height of 3 blocks, but when the world is generated, some suger can stalks can be up to 6 blocks high. Players can make sugar cane taller by placing more sugarcane on top of it.
+Tall grass.
+Tall grass grows on grass block and can be found in any land biomes, with the exception of desert biomes. Destroying tall grass has a small chance of dropping seeds, used to grow wheat. Using shears on grass will drop grass instead. Using bonemeal on a grass block will grown tall grass, red and yellow flowers on blocks around it, allowing for a large harvest in a short.
+amount of time.
+Vines.
+Vines can be found in Jungle and Swamp biomes and grow on trees.
+and leaves. Vines will grow down untill it hits another block, which means a vine could grow to become over 250 blocks. Vines can grow on most blocks, but doesn’t require a block to support it. Vines can be harvested by using shears and placed on almost any block. Vines can also be climbed when they’re on a solid block, allowing players to climb vertically without having to jump.
+Wheat.
+Wheat is grown by using seeds on farmland. Seeds can be found by destroying tall grass or wheat. Wheat can also be found in villages, where it grows in small fields. Wheat can be used to make bread or to lure and breed most passive animals.
+Wood.
+Wood is of course part of all trees and can be harvest with.
+anything. There are 4 different colours, each coming from it’s corresponding tree type. Wood can be turned into planks, each type of wood will.
+turn into specific coloured planks.
+These blocks require the input of a player to be made.
+Note that these blocks aren’t the only player made blocks, but most of the other blocks have been put in a seperate category. With the exception of being inside villages and strongholds, most of these items don’t occur.
+naturally in a minecraft world.
+Brick blocks.
+These blocks are created by placing 4 bricks in a 2×2 square in any crafting interface. Bricks are created by smelting clay in a furnace. A pickaxe is requires to harvest this block.
+Chiseled sandstone.
+Decorated sandstone is created by placing 2 stone slabs on top of each other in any crafting interface. Decorated sandstone appears to have a creeper face on it, along with other lines, most likely resembling hieroglyphics.
+Fence.
+Fence blocks are 1.5 blocks tall, which prevents players and most mobs from climbing or jumping over it. They make a great barrier to keep monsters out or animals in a confined area.
+Glass.
+Glass is created by melting sand in a furnace. Their transparency allows light to go through and to see beyond it. Most monsters are unable to see a player through glass, though some monsters, like spiders, are capable of stalking a player through solid walls.
+Glass panes.
+Glass panes are thin sheets of glass, created by putting glass blocks in a 2×3 rectangle in a crafting table. Glass panes allow a player to walk closer to the window if it’s stacked at least 2 blocks high, this is often prefered on higher buildings as it allows a steeper angle to look down at.
+Iron bars.
+Iron bars can be found in strongholds and villages and can serve as both a fence and a prison style window. Iron bars are created with iron ingots and are most commonly used as prison bars by players.
+Jack-o-lantern.
+These lanterns are created by combining a torch and a pumpkin. The lantern emits the same amount of light as glowstone and torches, but have the added bonus of being able to be placed under or in the flow of water.
+Slabs.
+Slabs are blocks that are half a block high. They can be placed as either the top or bottom half where a normal block would normally be placed. The only blocks that can be placed in the other half of a block that isn’t occupied by a slab, is a slab of the same kind, creating a double slab block. There are currently 6 different kinds of slabs: Brick, cobblestone, sandstone, stone, stone brick and wood.
+Smooth sandstone.
+Smooth stand is a different varient of sandstone, created by by placing 4 pieces of sandstone in a square in any crafting interface.
+Snow block.
+Snow blocks don’t occur naturally but can be created with 4 snowballs.
+Unlike snowfall and ice, snow blocks don’t melt when they’re near a heat (light) source.
+Stairs.
+Stair blocks can be found in villages, but are otherwise only found when a player creates it. Stairs allow for a smooth transition when descending or ascending, preventing the player from having to jump every block he/she wants.
+to go up. There are 5 types of stairs: brick, cobblestone, nether brick, stone brick and wood.
+Wooden planks.
+Wooden planks are created by placing wood in either a crafting table or the crafting grid in a player’s inventory. There are 4 colours of wood, created by their corresponding types of wood.
+Wool.
+Wool is either created with string or sheared from sheep. Wool can be coloured using dyes, allowing a player to create a total of 16 different colours. White, light grey, grey, black, brown and pink wool are the only colours you may find naturally on sheep. All others can only be created or sheared from recoloured sheep.
+These blocks are often player made and offer a wide variety of function, from crafting to storage.
+Bed.
+Beds allow a player to sleep at night, which will wake them up automatically in the morning, making it an effective way to avoid monsters. Beds are made with 3 wools of any colour on top of 3 wooden planks of any colour. Sleeping on multiplayer servers is possible, but requires everybody to be in bed at the same time.
+Bookshelf.
+Bookshelves are created using 3 books and 6 planks, but they can also be found in villages and strongholds. A bookshelf is often only used for its aesthetics, but when placed a block away from an enchantment table, bookshelves will increase the maximum level of enchantments that can be used. Small particles will fly from the bookshelves towards the enchantment table.
+Brewing stand.
+Brewing stands allow players to brew various potions which can aid them in battle. Brewing isn’t difficult, but aquiring the needed ingredients can take a long time.
+Cake.
+Cake is the only food type you can place on the floor and can be eaten by right clicking on it. It can be eaten 6 times, each time shrinking a little in size and restoring 1 food bar.
+Cobweb.
+These spiderwebs are found in abandoned mineshafts and will cause any player or monster, with the exception of (cave) spiders to be slowed down. Breaking these webs will cause it to drop string. Cobwebs are often used as part of traps or purely for their aesthetics in custom adventure maps. It’s not possible to get these blocks without being in creative mode or without using mods.
+Cauldron.
+A cauldron can be filled with water, allowing a player to fill 3 bottles of water, each time a player fills a bottle of water, the water level will lower a little. Cauldrons are often only used for aesthetic purposes, as filling water bottles on water sources is faster and lasts infinitely.
+Chest.
+Chests offer players 27 spots to save items in. 2 chests can be placed next to each other to form a larger chest, allowing a player to store up to 54 stacks of items. Destroying a chest will drop it and all the items it contains on the floor.
+Crafting table.
+Crafting tables are used to craft items that require more than the 4 crafting spots a player has in the inventory display.
+Enchantment table.
+These tables allow a player to use their xp levels to enchant their weapons, tools and armour. Bookshelves can be placed around it to increase the maximum level of an enchantment.
+End portal frame.
+These blocks make up the End portal and require a.
+an eye of ender to be put into its hole. Once all frame pieces have an eye, the portal will be activated. It’s impossible to get this item in game without the use of mods.
+Furnace.
+Furnaces work both as a stove and a smelting furnace, allowing players to cook their food and turn their ores into ingots.
+Jukebox.
+Jukeboxes are used to play music discs, which can be aquired in chests in dungeons or by getting a skeleton to kill a creeper.
+Ladder.
+Ladders allow a player to climb vertically without having to jump. Holding shift while on a ladder will prevent a player from going down, allowing a player to stay in 1 place while on the ladder.
+Sign.
+Sign posts can be used to write small messages or description on. The message is to be written when the sign is placed, but destroying the sign will drop it on the floor and allow you to write a new message.
+Torches.
+Torches provide the player with a light source, which will prevent hostile mobs from spawning. Holding a torch in your hand will not provide you with light, only placing it down will. Torches are created by placing coal or charcoal above sticks in a crafting table.
+These items provide either short or continues pulse, allowing mechanisms to be activated or de-activated. These items are often activated.
+by players, but, in some cases, can also be activated by mobs.
+Button.
+Buttons will send a small pulse through solid blocks, which will activate many other mechanisms for a short time. After clicking the button, whatever is connected will be activated for 1 second before being turned off again.
+Detector rail.
+These rails work a lot like pressure plates. Once a minecart rides over these tracks, a pulse will be send through the sides of the rails and activating anything that is connected to it. As long as a minecart remains on these tracks, the pulse will stay on.
+Lever.
+A lever can be pulled and will send a continues pulse when it’s activated.
+Levers allow a mechanism to remain activated infinitely, but turning it on and off will require you to pull the lever up and down.
+Redstone torch.
+These torches provide a continues pulse, but can be turned off themselves by providing it with a different power source. They’re often used in redstone clocks, but they can burn out if the clock is too fast. Redstone torches also emit a dim light, but this is too dark to be used against monster spawning.
+Stone pressure plate.
+These pressure plates require players or mobs to stand on it before they are activated. As long as it’s pushed down, the plate will send a continuous pulse, which will activate any mechanism. Mobs or players riding a minecart can also activate an stone pressure plate when the minecart lands on it.
+Wooden pressure plate.
+These pressure plates can be activated be activated in several ways. The most obvious is when a player or monster stands on it, but it’s also possible to drop an item on it, cast your fishing rod on it or by shooting an arrow on it.
+These blocks can change their state or the state of something else around them. They range from doors to red stone dust mechanisms. All of these blocks can be activated using power providing blocks.
+Dispenser.
+Dispensers will either fire or drop an item that is in its inventory, depending on the type of item. Dispensers have to be activated, but will only fire once when activated. So for multiple shots, some type of redstone clock will have to be made, unless the player is willing to push a button over and over.
+Fence gate.
+These gates match up perfectly with fences. Like fences, gates are 1.5 blocks high, which will prevent players and most mobs from jumping over it, but will allow a player to move in and out of fenced areas by simply opening the gate.
+Iron door.
+Iron doors are stronger than their wooden counter part, but can only be opened when it’s activated through some means of power.
+Monster Spawners.
+Monster spawners do exactly what the name says, spawn monsters. Each spawner can only spawn 1 type of monster. Spawners can be found in dungeons, fortresses, strongholds and abandoned mineshafts.
+Note block.
+Note blocks will play a note when it’s activated, the pitch can be changed by right clicking it, while placing the note on a specific block will change the instrument. There are 5 different instruments. Note blocks have been used to create many songs through elaborate red stone circuits.
+Piston.
+A piston will push many blocks in front of it’s wooden plate when it’s activated. They’re often used to automate some processes or used in different types of traps.
+Powered rails.
+Powered rails will provide a minecart with a speed boost when it rides on these rails, as long as these rails are powered.
+Redstone repeater.
+A repeater will repeat any pulse it receives, which can extend red stone circuits passed their 15 block limit. A delay of 0.1 is added when a pulse is passed, but can be increased up to 0.4 seconds.
+Redstone wire.
+Placing redstone dust on a block will allow any pulse to pass through it, extending any power that’s delivered. The maximum range of a pulse is 15 blocks, but repeaters can extend this.
+Redstone lamp.
+These lamps are similar to glowstone blocks, but require a power source to be lit. This allows for light that can be toggled on and off.
+Sticky piston.
+These pistons will not only push a block when it’s activated, but will pull back the attached block when it’s deactivated. They’re often used for larger doors and many traps.
+Trapdoor.
+These doors will block off a single block, which is often useful when you want to prevent mobs from climbing your ladders. They’re often also used in aesthetic ways, like surrounding a dirt block to create a plant pot.
+Wooden door.
+Wooden doors are used to block entrances and create safe paths through which only players and villagers can go. However, zombies are able to destroy wooden doors on hard and hardcore mode.
+These blocks are unique to the nether, but can be taken to other dimensions.
+Glowstone block.
+These blocks emit light, just like torches, but have the added advantage of being able to be placed under water or in the flow of water. Harvesting this block will cause it to shatter into pieces of glowstone dust, which can be used to recreate this block.
+Netherrack.
+These blocks cover most of the Nether and can be set on fire. The fire will never stop burning, not even in the rain.
+Netherbrick.
+They make up most of Nether fortresses and can be mined.
+like any other rock. Netherbrick can be used to create netherbrick stairs and netherbrick fences.
+Netherbrick fence.
+These fences are like normal fences, which means they’re 1.5 blocks high and prevent players and most mobs from jumping over it.
+Nether brick stairs.
+Like other stairs, nether brick stairs allow a player to smoothly ascend or descent, without having to jump up blocks.
+Nether wart.
+Nether warts grow in Nether fortresses and can only be grown in the Nether on soul sand, but can be taken to and planted in other dimensions, in which they won’t grow. These warts are used in brewing potions and are the first ingredient that has to be added in almost all potion recipes.
+Soul sand.
+This odd looking sand will cause any player or mob that walks on it, to sink a little. It also slows anything that walks on it. The sinking effect prevents players and mobs from getting onto many onto many other blocks without jumping. It also prevents mobs and players.
+from walking through a door.
+These blocks are unique to the End, but can be taken to other dimensions.
+Dragon egg.
+The dragon egg is dropped after the Ender dragon is killed. Picking it up is a little tricky due to it’s teleporting ability. When you click on it in a normal fashion, the egg will teleport. In order to pick it up it’s best to start mining a block next to.
+it and moving your mouse over the egg. Your character will start to mine the egg, but the egg won’t teleport.
+End stone.
+These stones make up most of the End and can be harvested easily. They cannot be picked up by endermen or destroyed by Ender dragons. They explosive resistance is also the highest of blocks that can be destroyed by explosions.
+These blocks are some of the animated blocks, but are often only available through inventory editors or in creative mode.
+End portal blocks.
+These blocks make up the active part of an End portal and are only available through inventory edits, which’ll allow you to place 1 block portions of these portals.
+Fire.
+Fire is naturally spawned in the Nether and can be created by a player. Fire will spread to any flameable block that’s too close. Rain will extinguish the fire, with the exception of netherrack, which will always stay on fire. Fire ‘blocks’ are only available through inventory edits and can.
+be used to create chainmail armour, in the same way you’d create.
+normal armour.
+Lava and flowing lava.
+Although lava source blocks can be picked up using a bucket, a lava block is only available through inventory edits. Lava will destroy any dropped blocks that come into contact with it. Blocking or destroying a lava source block will not stop the whole lava flow, which makes getting rid of lava an annoying task, which involves the placement and destruction of many blocks on top of the lava. If lava flows on top of water blocks, the water will turn into stone.
+Portal blocks.
+These are the purple ‘blocks’ that make up the active part of a Nether portal. By using an inventory edit, portal blocks.
+can be placed on other blocks.
+Water and flowing water.
+Like lava, water source blocks can be picked up with a bucket, but water blocks are only available through inventory edits. Unlike lava, blocking or destroying a water source block will stop the whole flow of water and essentialy removing all the water.
+that came from it. Pouring water on lava will turn flowing lava into cobblestone and lava.
+source blocks into obsidian.
+These blocks are only available in create mode or through the use of inventory edits.
+Decorated stone bricks.
+These stones have several squared layers but aren’t found naturally in game. Like other stone brick blocks, these blocks can be used to create stone brick slabs and stairs.
+Sponge.
+Sponges used to be able to absorb water, which was useful when trying to keep water out. This ability was later removed. Sponges are now purely used for aesthetic purposes.
+These blocks are only available in the minecraft pocket edition, a minecraft edition for mobile phones.
+Blue roses.
+These roses look the same as roses, but are of course light blue. They’re currently the only used item in pocket edition that isn’t available in the normal version of minecraft.
+Camera.
+This block is not used in the pocket edition, but can be found in the game files. It’s very similar to the camera in previous versions of the pc version of minecraft, which was also never implemented.
+These blocks are used when a state of normal blocks change. The only way they can be obtained is through the use of mods, but even then, using these blocks without them reverting to their normal versions or without being destroyed is quite difficult, if not impossible.
+Active redstone lamp.
+This is obviously the active state of a redstone lamp and it can be obtained through mods.
+However, placing the block will immediately cause it to change back to its off state.
+Active Redstone Repeater.
+These are the blocks used when a redstone repeater is activated.
+If a player obtains this through inventory edits, placing it will immediately cause it to lose it’s charge.
+Block ID 36.
+These blocks are used when a piston is activated or de-activated. It’s possible to get these by using mods, but will be black when placed and turn invisible when a block next to it is removed.
+Burning Furnace.
+These are obviously the blocks used when a furnace is cooking or smelting something. It’s possible to place these without losing it’s active state.
+Glowing Redstone Ore.
+When a player or monster walks over redstone.
+ore, the ore will emit a dim light. This is the block that’s used for that affect. Placing it without losing its charge is impossible.
+Off-state Redstone Torch.
+When a redstone torch is powered, it’ll turn itself off. Redstone torches can also burn out, resulting in this block. It’s possible to place these torches without them reverting back to their active state, which can often be useful for aesthetic purposes. Destroying this torch will cause it to drop as an active redstone torch.
+Piston Arm.
+This is the component that moves when a (sticky) piston is activated. The only way to place this block is through the use of programs, but preventing it from reverting back to its original state is a little tricky as updating blocks around it can cause it to be destroyed.
+Unused blocks are blocks which are part of the minecraft code, but they’re no longer used. It’s possible to get these through mods, however.
+Locked Chests.
+These chests were part of an april fools joke. Any player who would try to open this chest would get a message that would lead them to an april fools minecraft store. Locked chests are still part of the game code and some players could still have them in their inventory, but placing them down will cause them to disapear.
+These blocks were often worked on and were planned to be part of the game, but, for whatever reason, they were never implemented.
+Crying Obsidian.
+Crying obsidian was a project of Jeb and was supposed to be used as a way to change a players spawn point, a feature that is now part of beds.
+Dirt slab.
+Dirt slabs were once created and tested out, but caused.
+all dirt blocks to turn into dirt slabs, so they were never developed and implemented. Instead, stone slabs were added. It’s unclear if dirt slabs will ever be implemented.
+Gears.
+Gears never had a real use in game, but could be used by players through the use of inventory edits. They were indestructible. The purpose of this block is unknown, but because their data value was later used for redstone, it’s safe to assume they were to be used in a similar fashion as redstone is used today.
+Spike Block.
+Spike blocks were originally supposed to be another version of pistons, one with dangerous spikes on them. Sticky pistons were focused on instead and it’s unknown (and unlikely) if these blocks will ever be implemented.

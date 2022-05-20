@@ -1,0 +1,51 @@
+ A Redstone Lamp is a block visually resembling Glowstone (hence its crafting materials) that gives off light as long as it is powered. While powered, they have a luminescence like a torch and the same light level as glowstone. They require constant input in order to emit light (making them somewhat inefficent) from a redstone current. Similarly to other light emitting blocks, they will melt snow and ice.
+A Redstone Lamp will light if it is powered by a redstone signal, or if it is next to a powered (solid) block.
+A Redstone Lamp with a switch placed on it will behave just like a standard solid block, meaning that if a Redstone Lamp is powered, it will power the block adjacent to it. It will also power Redstone wire if it is placed on top of, underneath, or directly next to the lamp following the same principles as a standard solid block. Unlike Glowstone, when a Redstone Lamp is broken it will not break into Glowstone Dust or Redstone Dust. Instead, it will yield one Redstone Lamp, just like a standard block. It should also be noted that the lamps have not yet been optimized so a large number of blinking lights can cause FPS drops or even crashes.
+A player may be tempted to use a Redstone lamp as a functional light source, however unless the player is in peaceful mode, mobs will likely spawn in an unlit room (unless your flooring is half steps, in which mobs can't spawn). The fact that Glowstone and torches emit light constantly makes them better lighting options.
+Redstone lamps can instead be used to create a redstone display as an alternative for redstone torches, which do not emit much light, the player creating such a display however should be aware that each "pixel" is a small cross making straight lines impossible. This can be corrected by making the screen two blocks (of any redstone conducting block) thick. Then add levers or some be displayed.
+A system of redstone lamps wired to a half day clock can be used to illuminate a structure at night automatically as long as the clock is synchronized properly to spawning light levels of mobs.
+Because mobs can spawn on unlit lamps it makes them a great way to make a mob killing system because you can control when you want the mobs to spawn by having the lights on or off. You can also hook up a bunch of lamps to a line of repeaters to make a timed light.
+Redstone lamps may also be used for automated mushroom farming, since a mushroom will "pop" if the light level becomes too high.
+Before Redstone lamps Notch wanted to implement an item called the Lantern, but the idea was scrapped and only later reemerged as the Redstone Lamp, however, several differences exist between the two.
+With the ad The lantern would serve as a permanent source of light. According to Notch, when the update would occur, all torches placed on the map, in the inventory, and in chests prior to the update would be converted to lanterns. To do this, the lanterns would use the (former) block ID of torches along with a re-skin.
+The Glowstone introduced in the Halloween Update was a potential item requirement to craft lanterns, as it has the greatest luminescence as a raw material. This would also make lanterns relatively inaccessible and a risky item to get, as has been hinted at by Notch. A second potential item that might have been required to create lanterns was Netherrack, it being a block that never burns out whilst lit. These items both can be obtained by going to the Nether.
+Redstone Lamps, originally called Lanterns, were planned crafted objects originally planned to be introduced in the Halloween Update. This feature was delayed because of the lack of time and would have been implemented in a future update.
+On November 11, 2010, on his Twitter account, Notch claimed (likely as a joke) that "lamps" had actually stood for "Light A-givin' Material Portal Side... the yellow stone thing", probably referring to Glowstone. However, on January 13, 2011 Notch claimed that lanterns were "postponed", and added on January 20 that he was "not sure" when they would be implemented.
+On the 12th of June, Notch also hinted at adding them, or at least that he's working on them.
+During Minecon when confronted about Lanterns, Notch said that lanterns were scrapped due to the majority of people preferring torches.
+Later, Jeb started working on a Lantern-like idea that will feature a glowstone light source, but will be purely generational as their existence will not change the effects of torches like the Lantern was supposed to do. This idea will grow into the Redstone Lamp.
+The Redstone Lamp was introduced in Snapshot 12w07a on February 15, 2012. Jeb passively announced the addition of Lamps in a tweet the day before its release in response to another tweet.
+The texture for the off-state lamp was darkened in Minecraft 1.2 Preview.
+The Redstone Lamp was added officially in Minecraft 1.2.
+Previously, breaking a lit Redstone Lamp will yield a lit Redstone Lamp block which does not stack with normal, unlit Redstone Lamps in the inventory. This was fixed as of 1.2.4.
+When first implemented, hooking a redstone lamp up to a rapid-pulser will strobe the light, causing lag. This was fixed in 1.2.4.
+A Redstone Lamp powered by a Redstone Torch.
+Redstone lamp.
+A creation made of Redstone lamps.
+Add a photo to this gallery.
+A redstone lamp is a block which produces light when activated with redstone power.
+A redstone lamp can be mined by hand or with any tool, dropping itself as an item.
+A redstone lamp can be used to produce switchable light.
+To place a redstone lamp, use a redstone lamp item while pointing at a surface facing the space the redstone lamp should occupy.
+Redstone lamps are redstone mechanisms and can be activated by An adjacent active power component, including above or below: for example, a redstone torch (except that a redstone torch will not activate a redstone lamp it is attached to), a block of redstone, a daylight sensor, etc.
+Redstone lamps are redstone mechanisms and can be activated by An adjacent powered block (for example, an opaque block with an active redstone torch under it), including above or below.
+Redstone lamps are redstone mechanisms and can be activated by A powered redstone comparator or redstone repeater facing the redstone lamp.
+Redstone lamps are redstone mechanisms and can be activated by Adjacent powered redstone dust configured to point at the redstone lamp (or on top of it) or directionless; a redstone lamp is not activated by adjacent powered redstone dust that is configured to point away from it.
+A redstone lamp activates instantly, but takes 2 redstone ticks to turn off (4 game ticks, or 0.2 seconds barring lag).
+An active redstone lamp produces block light 15. An inactive redstone lamp produces no light.
+Although a redstone lamp acts like an opaque block in most ways (torches and levers can be attached to it, redstone dust can be placed on it, etc.), an active redstone lamp is "transparent" to sky light, reducing the sky light level by 1.
+A redstone lamp uses its ID to specify its activation state.
+Every redstone lamp (active or inactive) has a block data value of 0. Redstone lamps have no block states.
+A redstone lamp shown during the day that is switched off.
+A redstone lamp shown during the day that is switched on.
+A redstone lamp shown during the evening that is switched off.
+A redstone lamp shown during the evening that is switched on.
+Demonstrating how wire powers redstone lamps.
+Demonstrating how repeaters power redstone lamps.
+Demonstrating how a solid block powers redstone lamps.
+Note that lamps themselves are solid blocks, so they power other lamps. This causes the cross-shaped patterns that you see. Floor torch with no lamp above it.
+ Floor torch with a lamp above it.
+ Wall torch with no lamp above it.
+ Wall torch with a lamp above it.
+A glowing roof is easy to do - just lay wire across the blocks, or line the top of the lamps with redstone blocks. Floors and walls are also do-able. For a floor, just use the "knight's move" shape underneath the floor with torches. For a wall, use wall-mounted torches that power blocks above them. A redstone lamp floor.
+ A redstone lamp wall.

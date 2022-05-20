@@ -1,0 +1,5 @@
+Dec value: 384.
+Hex value: 180.
+Maximum stack 64.
+The bottle o’enchanting is a special splash potion which will unleash 3-11 experience points when broken. It can only be obtained in creative mode or through the use of mods. It’s impossible to brew the bottle o’enchanting. The bottle o’enchanting is mainly used in custom adventure maps as a way to grant experience without the need of killing large amounts of mobs.
+Some players also use the bottle o’enchanting to test parts of their map or to gain certain items, like tools with the silk touch enchantment. It takes about 10-11 stacks of bottles to get level 50. If you need multiple high level enchantments, it’s easier to simply spawn in an Ender dragon and kill it for its xp, as it drops 20.000 xp, enough to get to level 102-110, or to level 50 various times.

@@ -1,0 +1,8 @@
+Emeralds are one of the rarest materials in Minecraft and the currency used in villager trading.
+Emerald ore mined using an iron or diamond pickaxe will drop one emerald. If the pickaxe is enchanted with fortune, it may drop an extra emerald per level of fortune, up to a maximum of 4 with Fortune III. If the ore is mined using a pickaxe enchanted with silk touch, it will drop itself.
+Chests in desert temples and jungle temples may contain emeralds in stacks of 1 to 3. In Pocket Edition they can also be found in blacksmith chests.
+Emeralds are primarily used as currency for trading with villagers. Trading is a much easier and less time consuming way to obtain emeralds than mining is.
+The first image of the trading system released by Jeb. What would become Emeralds can be seen in the inventory space.
+A wall of emerald ore utilizing a previous texture in snapshot 12w21a.
+Emerald block, emerald ore, and emerald.
+The previous texture of emerald in 12w21a.

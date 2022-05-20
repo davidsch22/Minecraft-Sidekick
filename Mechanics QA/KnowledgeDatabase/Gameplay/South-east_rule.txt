@@ -1,0 +1,7 @@
+The south-east rule (formerly known as the south-west rule) is an unintentional mechanic in Minecraft wherein various effects occur based on compass rose directions, specifically in a south-east variant. It could be better described as the Z-X rule, as the rule as always acted towards positive Z and positive X.
+Rails will curve south or east when they are initially placed at a "T" intersection or a "+" intersection. They will also curve away from the south or east when powered.
+Mobs being spawned by spawn eggs, spawned by monster spawners, built by the player, and newborn baby animals will always appear to be facing the southern direction.
+TNT cannons tend to fire farther when facing east or south. Designs that don't account for spread also exhibit horizontal drift eastward/southward as well.
+Many bugs cause problems relating to south and east, such as villagers trying to cram into the house that is mostly in the southern-eastern area of the village.
+The debug screen displays direction using the value "f" under coordinates such that 0 is South, 1 is West, 2 is North and 3 is East.
+Trees in the Nether warp when grown, and this warping is parallel to a line going south-east.

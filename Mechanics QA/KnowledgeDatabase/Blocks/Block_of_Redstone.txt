@@ -1,0 +1,16 @@
+ A Block of Redstone is a type of decorative and functional block that was added in 1.5 that can be crafted with 9 Redstone Dust. Redstone Blocks have all the properties of a normal block, but they also serve similarly to Redstone Torches, except for the fact that they can be placed on ceilings or float in midair, and that they cannot be shut off.
+Add a photo to this gallery.
+A block of redstone (also known as redstone block) acts as a piston-movable redstone power source which cannot be turned off.
+Blocks of redstone can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+A block of redstone can be used as a redstone power source, and can be crafted back into redstone.
+Blocks of redstone can be crafted back into redstone, and thus provide compact storage for redstone like other blocks of minerals (block of iron, block of gold, etc.).
+To place a block of redstone, use the Place Block control.
+Blocks of redstone are always active and cannot be turned off. A block of redstone powers any adjacent redstone dust, including above or below, to power level 15.
+A block of redstone powers any adjacent redstone comparators or redstone repeaters facing away from the block of redstone to power level 15.
+A block of redstone activates any adjacent mechanism components (doors, redstone lamps, etc.), including above or below, with the exception of pistons, which cannot be activated by any power source directly in front of them.
+Adjacent opaque blocks will not be powered.
+If a redstone torch is attached to a block of redstone, it will deactivate after 1 redstone tick and will not reactivate (which is normal behavior for a redstone torch attached to a powered block).
+A block of redstone can be moved by a piston, and water and lava will flow around a block of redstone without affecting it.
+As the block of redstone is not fully opaque, chests can be opened when covered by one. Also, non-solid blocks such as ladders cannot be placed onto its sides.
+Block of redstone as circuit component.
+Example of how blocks of redstone can be used to power rails (from beneath).

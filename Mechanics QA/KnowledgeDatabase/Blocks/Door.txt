@@ -1,0 +1,39 @@
+A door is a block that can be used as a switchable barrier.
+There are seven different kinds of doors: six types of wood doors, as well as an iron door. In console and pocket editions, there is only one type of wooden door.
+Doors can be obtained by crafting, and can be found in villages and strongholds.
+To break a door, attack it. An iron door removed by hand will not drop itself as an item.
+A door will also be removed and drop itself as an item if the block beneath the door is moved, removed, or destroyed.
+A door will also be removed and drop itself as an item if a piston tries to push the door (trying to pull a door does nothing) or moves a block into its space.
+Oak wood doors are generated on buildings in villages, forming the entrances to the majority of buildings. Oak wood doors and iron doors generate naturally in strongholds, with the latter having a stone button to open.
+Wood doors can be opened and closed by players and villagers, and can be broken by zombies in Hard mode. Iron doors can only be opened with redstone power.
+Doors must be "attached" to a block beneath them. To place a door, use a door item while pointing at the top of the block it should be attached to. A door can be attached to the top of any full solid opaque block (stone, dirt, blocks of gold, etc).
+A door can be attached to the top of an upside-down slab or upside-down stairs.
+When placed, a door will occupy the side of the block towards the placing player's back — if a player places a door in front of them, the door will occupy the side of the block closest to them (and open away from them); if a player places a door in their own space, the door will end up behind the player (and open through them).
+By default a door's "hinge" will be on the left side and its "handle" on the right side (from the placing player's point of view), but the hinge can be forced to the right side by placing a door to the right of another door (creating a double door where both doors open away from each other).
+By default a door's "hinge" will be on the left side and its "handle" on the right side (from the placing player's point of view), but the hinge can be forced to the right side by placing a door to the left of a full solid opaque block (top or bottom), making the hinge appear to attach to the side block.
+Water and lava will flow around doors. Lava can create fire in air blocks next to wood doors as if the wood doors were flammable, but the doors will not burn up (and can't be burned by other methods either).
+A door can be used as a switchable barrier to entity movement. Although primarily used to block movement by mobs and players, a door can also be used to control the movement of boats (for example, a door placed in a two-wide water flow will stop a boat when perpendicular to the flow, but allow it to move again when parallel), items and minecarts (a door can stop a falling item or minecart, then allow it to drop again when the door moves), etc.
+Doors are 0.1875 (⁄16) blocks thick. The rest of a door's space can be moved through freely and provides a breathable space if placed underwater. A door occupies two block spaces and both halves normally act as a single barrier, but if a player is occupying the space a door moves to, the player can jump up to land on the bottom part of the door and then again to land on top of the door.
+To open or close a wood door, use the Use Item/Place Block control. When a door opens or closes, it immediately changes its orientation without affecting anything in the space it "passes through". Moving doors don't push entities the way that pistons do.
+Villagers can open and close wood doors, but only do so with doors they consider part of their village.
+Some zombies can break wood doors in Hard mode, but only do so to reach targeted players or villagers. Zombies have only a 5% chance to spawn with the ability to break doors, and will only attempt to break wood doors which are in their "closed" state, even if a door is placed so that its "open" state blocks access (for example, by facing sideways when placing a door so that it allows passage when closed and blocks passage when open).
+Iron doors can only be opened with redstone power (a button, a redstone circuit, etc.). Villagers and zombies cannot affect an iron door except by accidentally stepping on a pressure plate.
+The sound of opening and closing of a door can be heard up to 16 blocks away, like most mob sounds.
+Both wood and iron doors can be controlled with redstone power.
+A door is a redstone mechanism component and can be activated by an adjacent active power component, including above or below: for example, a redstone torch, a block of redstone, a daylight sensor, etc.
+A door is a redstone mechanism component and can be activated by an adjacent powered block (for example, a block with an active redstone torch under it), including above or below.
+A door is a redstone mechanism component and can be activated by a powered redstone comparator or redstone repeater facing the door.
+A door is a redstone mechanism component and can be activated by powered redstone dust configured to point at the door or a directionless "dot" next to it; a door is not activated by adjacent powered redstone dust which is configured to point in another direction.
+All methods of activating a door can be applied to either the top or bottom parts of a door.
+When activated, a door will immediately "rotate" around its hinge side to its open state. When deactivated, a door immediately returns to its closed state.
+An activated wood door can still be closed by a player or villager, and won't re-open until it receives a new activation signal (if a door has been closed "by hand", it still needs to be deactivated and then reactivated to open by redstone).
+A door's type is defined by its ID name, and its orientation and status are stored in the block data of its top and bottom halves. A door also has a block state which is expected to replace the functionality of block data in a future version.
+A door's ID defines what type of door it is.
+A door specifies its hinge side in the block data of its upper block, and its facing and opened status in the block data of its lower block.
+In Pocket Edition, standing in the center of a door will mean that you can punch blocks on the other side of the door without any interference.
+If you punch a door in the Xbox 360 Edition, it will open.
+Iron doors have a scar where the handle would be, as they are merely a resprited oak door.
+Naturally occurring iron door in a stronghold.
+First picture of new 1.8 variants of doors.
+All 7 types of doors with their respective trapdoors.
+Arrows shot into a door which was opened, causing a floating bug.

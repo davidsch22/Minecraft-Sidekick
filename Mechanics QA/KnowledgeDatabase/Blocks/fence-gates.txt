@@ -1,0 +1,11 @@
+Dec value: 107.
+Hex value: 6B.
+Minimum tool requirement to break: None.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: Yes.
+Fence gates are small doors, usually used in combination with fences, allowing easy access to the other side of fences without having to place a big door next to it. Fences can be activated with redstone or other switches, or by simply clicking on it, like you would on a wooden door. A powered fence gate will open, when the power is turned off, the gate will close again.
+Like fences, fence gates count as 1.5 blocks high when players and mobs come into contact with it, preventing players and most mobs from jumping over it. Fence gates are created with 2 wooden planks and 4 sticks and are currently only available in 1 colour. There are no Nether brick fence gates.
+Fences will always face the player when placed and clicking it to open it will make the doors face away from you. Doors opened with redstone will always face the same direction, which is either south or east. Fence gates cannot be placed directly on top of each other, if you do want them stacked, place the top one on a block first, then remove the block and place the bottom one. You will still have to open both doors individually.
+Paintings can be placed on blocks next to the doors, which will cover the doors if the painting is big enough, which basically creaties a secret door. It’s possible to open and close the gates without the painting fall off.
+Fence gates will allow boats and water to pass through, but will prevent lava and water from flowing through it. Unlike wooden doors, fence gates cannot be opened by villagers or destroyed by zombies, making them a safer choice.

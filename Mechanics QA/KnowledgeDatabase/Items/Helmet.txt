@@ -1,0 +1,18 @@
+Helmets are a type of armor that covers the head of the player. There are five types of helmets - Leather Cap, Chain Helmet, Iron Helmet, Diamond Helmet and Gold Helmet.
+If a zombie, zombie pigman or skeleton is wearing armor, there is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) that the mob will drop a helmet upon death. It will usually be badly damaged, and may be enchanted.
+Iron helmets can be found in village chests in stacks of 1.
+Armorer villagers sell iron helmets for 4–6 emeralds as one of their initial tier trades, and chainmail helmets for 5–7 emeralds as one of their fourth tier trades.
+Helmets can be placed in the top armor slot of a player's inventory for activation.
+Defense points are each signified by half of a shirt of mail in the armor bar above the health bar. Each defense point will reduce any damage dealt to the player which is absorbed by armor by 4%, increasing additively with the number of defense points. Different materials and combinations of armor provide different levels of defense.
+The following table shows the amount of defense points added by helmets.
+The following table shows the amount of damage each piece of armor can absorb before being destroyed.
+Any "hit" from a damage source that can be blocked by armor will remove one point of durability from each piece of armor worn. Damage taken that armor doesn't protect (such as falling or drowning) will not damage the armor, even if it is enchanted to protect against that type of damage. The following chart displays how many hits helmets can endure.
+A helmet can receive the following enchantments Fire Protection.
+A helmet can receive the following enchantments Projectile Protection.
+A helmet can receive the following enchantments Blast Protection.
+A helmet can receive the following enchantments Protection.
+A helmet can receive the following enchantments Unbreaking.
+A helmet can receive the following enchantments Respiration.
+A helmet can receive the following enchantments Aqua Affinity.
+A helmet can receive the following enchantments Thorns.
+A zombie wearing a helmet in Survival Test.

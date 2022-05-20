@@ -1,0 +1,40 @@
+Experience (or XP for short) can be obtained by gathering Experience Orbs from mining, defeated mobs and players, breeding, fishing, and using Furnaces. As tradition, experience points accumulate into experience levels. However, unlike many games, experience levels do not directly increase the character's abilities. Instead, experience is used for Enchanting and Anvils, to produce weapons, armor, and tools with various useful abilities.
+Most experience comes in the form of Experience Orbs, special items which cannot be placed in inventory or a container, but will automatically be added to the player's total when collected. Experience orbs will "float" or glide toward the player if they are 2-3 blocks away.
+Gathering experience points increases the player's experience level by gradually filling a bar on the bottom of the screen until a new level is achieved when the bar is full. When the player dies, they drop level*7 # of experience orbs, up to a maximum of 100 points (enough to reach level 5). All the other experience vanishes.
+Experience can be gained from several different sources As traditional, from killing monsters, which drop Experience Orbs along with any other items. A mob will not drop experience unless it dies within five seconds (100 game ticks) of an attack registered as a player hit (including tamed wolves and TNT). This allows gaining experience from, say, knocking a monster off a cliff (fetching the orbs might be another question). You can also try to "claim" a burning monster by hitting or shooting it once—even if the blow doesn't kill it, if the fire does within 5 seconds, it will drop XP. (5 seconds of fire only does 5 () damage, but of course you can keep trying).
+ Mobs killed by TNT activated by a player using Flint and Steel will drop XP as usual; however mobs killed by TNT that was activated by fire, redstone, or an explosion that wasn't player activated don't drop any experience.
+ Mobs will drop a random number of orbs, and the orbs can have different values. However, the total value will always remain within the values given below, regardless of difficulty setting.
+ Hostile mobs give more experience than passive ones. Baby animals, bats, golems, and villagers give no experience at all. The Enderdragon gives orbs totalling 12,000 XP, over 200 times more than anything else in the game. Some hostile mobs spawn with weapons, or can spawn with weapons and/or armor. As of at least version 1.6.2, these mobs give an extra 1-3 points (randomly) per piece of equipment that they spawned with. Equipment picked up after spawning doesn't count.
+ Mining (destroying) a spawner block gives a hefty amount of experience as orbs.
+Experience can be gained from several different sources From mining any ore, except iron and gold. The orbs are produced along with the mineral item(s). If a Silk Touch pick is used to mine the ore block, the experience is not dropped, but the block can later be placed and mined normally to release the mineral and the experience. The ore will still produce orbs if destroyed by an explosion, whether or not it was caused by player activated TNT.
+Experience can be gained from several different sources From smelting any of various items. Smelting any ore yields some experience, but normally only iron and gold are worthwhile. For all other ores, mining them is better.
+ Moderate amounts are gained by smelting/cooking other materials: food, clay balls or blocks, cactus, wood logs, sand, or cobblestone.
+ The experience given from smelting does not appear as orbs, but is granted immediately to the player who removes the product from the furnace.
+ The smelted material must be taken from the furnace through its GUI window. Using a hopper to unload the furnace forfeits the experience, as does dumping the contents by breaking the furnace.
+Experience can be gained from several different sources From breeding animals, which produces orbs along with the baby animal. Breaking eggs does not give experience.
+Experience can be gained from several different sources From fishing. The experience is awarded immediately upon reeling in the fish, even if the fish itself is not picked up.
+Experience can be gained from several different sources A Bottle o' Enchanting releases orbs when broken.
+The formulas for figuring out how many experience orbs you need to get to the next level are as follows.
+Experience Required = 2[Current Level] + 7 (at levels 0-15).
+5[Current Level] - 38 (at levels 16-30)9[Current Level] - 158 (at level 31+).
+One can determine how much experience has been collected to reach a level using the equations.
+Total Experience = [Level] + 6[Level] (at levels 0-15).
+2.5[Level] - 40.5[Level] + 360 (at levels 16-30)4.5[Level] - 162.5[Level] + 2220 (at level 31+).
+Killing one large slime and all the slimes that split from it will yield from 12 to 28 experience, with an average of 19.
+The maximum that can be used on a single enchantment is 30 levels, while the anvil will accept jobs up to level 39 (in creative mode the anvil limit is lifted).
+Level 16 is a quarter of the way to level 30, while level 22 is about halfway there. Level 30 in turn, is halfway to level 39.
+Killing the Ender Dragon will give approximately 68 XP levels. The Ender Dragon actually drops 10 orbs worth 1,000 experience points, and another worth 2,000. Taken separately, the smaller orbs could take a player from zero to level 26, while the big orb would take a player from zero to level 34.
+Maximum experience value can be gained by /xp command is 2147483648 (which is 2^31. Likely a limitation due to the 32 bit nature of Minecraft).
+Maximum level is 21863.
+Score is the number of experience the player has collected since their last death. This number is the total experience the player has collected, rather than the amount of experience they had upon death. When the player dies, the score is displayed on the death screen.
+The experience level costs were heavily revised in snapshot 12w22a and 12w23a. Before these, reaching level 50 (the maximum usable on a single enchantment) required 4625 experience, corresponding to defeating 925 hostile mobs (assuming the "common" ones.) Afterwards, considerably less experience is needed to get into higher levels (The amount which would formerly get the player to level 30 now gets them to level 39). Higher levels cost more experience than lower ones, but the levels are still easier to get than in 1.2.5. Now level 30 is the maximum for enchantments, and that cost is equivalent of 165 "common" mobs, less than 1/5 the old price.
+Experience orbs will drop from a mob if it dies within 5 seconds of being hit by a player. This means you can use fall damage by knocking mobs off a cliff.
+Using enchantments does not decrease your score (which is shown on death).
+The announcement of the changes in snapshot 12w23a incorrectly stated "enchantment levels are slightly exponential again"; in fact, they are quadratic at higher levels.
+If you gain too many experience points (such as a trillion through commands), the experience bar will disappear altogether as well as your level on your HUD. This appears to occur around level 32,767 (which is equal to (2^15)-1; the largest value representable as a 16-bit signed integer).
+The maximum XP that you can earn from the /xp command is 2,147,483,647 levels (which is equal to (2^31)-1; the largest value representable as a 32-bit signed integer).
+The maximum experience level is 24791 (With just /xp).
+The maximum experience level is 32767 (With just /xp #L)(Where # is the level and the L increases the person's level by that many levels).
+The highest level you can gain with /xp without overflowing is 1241258, which results in 2,147,483,647 exp, which is the maximum value for the int data type, in Java, which is what is used to store the exp value.
+Large XP orbs dropped from the Ender Dragon give the player more XP.
+Death.

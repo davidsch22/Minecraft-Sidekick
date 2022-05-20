@@ -1,0 +1,11 @@
+Leather is a versatile crafting material.
+Cows drop up to 2 pieces of leather upon death.
+Horses drop up to 2 pieces of leather upon death.
+Leather can be obtained as a "junk" item from fishing.
+Leatherworker villagers will buy 9-12 leather for an emerald.
+Dec value: 334.
+Hex value: 14E.
+Maximum stack 64.
+Leather is obtained by killing cows and mooshrooms, which both drop 0-2 pieces of leather. It is currently only used to create leather armour, which is the weakest type of armour.
+Leather armour hardly has any armour rating and although it’s better than nothing, iron armour is often aquired very early in game, sometimes even before a player has aquired the 24 pieces of leather it takes to craft a full set.
+Farming leather is very easy. The easiest method is to simply breed cow, though if you don’t need a lot, traveling around a bit and killing every cow in sight will often get you enough leather.

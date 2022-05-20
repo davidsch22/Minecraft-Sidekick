@@ -1,0 +1,27 @@
+Soul Sand (also known as Slow Sand, Mud, Hell Mud or Nethermud) is a brown-grey dirt-type block with sad, pixelated faces on it. It is found naturally only in The Nether, usually near large bodies of lava in deposits similar to gravel deposits. It is commonly thought that the best tool for harvesting Soul Sand is a shovel because harvesting it makes the same sound as dirt, gravel and sand. However, shovels make no effect in speeding up the collection process. Swords can harvest it slightly faster, but this costs two uses of the sword instead of one. Soul Sand is also used in the creation of The Wither.
+This material has looks somewhat similar to that of a dirt block, but it has some unique features. It slows the movement of any player or mob on its surface, and players sink slightly into the block while walking on it. It is only 15/16 the height of a normal block, so the player cannot walk from a block of Soul Sand to a slab without jumping. This also means that you can not get off of Soul Sand while holding down the sneak key, unless the player jumps.
+Soul Sand is used to plant Nether Wart for use in potions, you can farm not only in the nether, but also in the Overworld. It can also be used as a trap to slow down hostile mobs giving the player an additional second to pull out a weapon. Thirdly, it can be used to create the Wither boss by making a T shape out of soul sand and putting 3 Wither Skeleton Heads on top.
+Note, that this is not in the Crafting Table, but you have to build it.
+When first released, sneaking onto a Soul Sand block would not prevent the player from falling off the block. This bug was fixed in the 1.2.1 Alpha patch.
+Putting an ice block or Cobweb under Soul Sand dramatically slows the player down more than the Soul Sand alone already would have.
+Because of the fact that you go down a few millimeters when standing on Soul Sand, shifting at the edge of Soul Sand which is next to lava will set you on fire and let the player take lava damage.
+The slowest speed you can have while still moving can be achieved by sneaking and blocking with your sword while walking on Soul Sand with ice underneath it through cobwebs and still lava backwards, under the effect of a potion of slowness II. In addition, if the player is under these conditions and is moving at a steep angle against an adjacent block, they can move at almost infinitesimal speeds, moving only 0.00001 m at a time.
+It can be found in patches in Nether Fortress with Nether Warts growing on it. This is the only place you can find Nether Warts.
+When placed in the Overworld, Soul Sand will not destroy boats that are piloted into it (vs sand, dirt, etc. that cause damage/death).
+Once stepped on, in the Overworld the sky will get dark.
+Soul sand (also known as hell sand in the code or as slow sand) is a block only naturally found in the Nether.
+Soul sand can be mined with any tool, or without a tool, but shovels are the quickest.
+Soul sand is found below Y=65 in the Nether, generally in four-block-deep layers. It is also found naturally in nether fortresses, in the Nether Wart room.
+Soul sand slows the movement of any mob or player, and causes them to sink slightly into the block while walking on it. Its slowing effect is increased when placed in water, or above ice, packed ice, or slime blocks. It can also suffocate mobs which are smaller than a slab, namely silverfish and endermite.
+Soul sand is used for growing nether wart, a primary base ingredient for many varieties of potions. Nether wart is planted on soul sand (like seeds on farmland), and at full maturity produces multiple nether wart when harvested.
+4 blocks of soul sand are used in the construction of a wither.
+Note: The video states that one-way doors can be made with soul sand. This was a bug that was fixed in 1.8. The video also does not state soul sand's usage in building the wither.
+The first appearance of this block was on Notch's blog.
+Soul sand can generate on the floor of caverns and lava pools below Y=60 only if it generated in that same column at Y=60 or above.
+Because soul sand is not as high as a full block, standing near lava while on soul sand will set you on fire.
+If a water current is pushing you diagonally against a wall and Soul Sand is the block adjacent to your head when the current ends, it will cause you to jump.
+If snow or carpet is over soul sand, the effects of it being a partial block are avoided, as you will be walking on the cover block, not the soul sand.
+Due to the ability to reset the Nether in the console edition, soul sand is renewable in that edition. Although you can reset the Nether in the PC edition by deleting the DIM-1 folder in a Minecraft world file, some may consider this cheating.
+Walking on soul sand will visibly darken the sky in the Overworld; this effect is less noticeable during the night.
+Soul sand has two little circles on one half of the top, and that half always points toward the west, allowing for easy direction finding in the Nether without using the debug screen.
+Naturally occurring soul sand.

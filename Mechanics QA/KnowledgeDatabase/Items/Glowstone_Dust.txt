@@ -1,0 +1,6 @@
+Glowstone Dust is an item which is used to craft glowstone, create thick potions, and increase the strength of potions.
+When broken using anything other than a Silk Touch-enchanted tool, a glowstone block will drop 2-4 glowstone dust. A Fortune enchantment increases the chances of higher drops to 4 pieces of glowstone dust per block.
+A witch may drop up to 6 pieces of glowstone dust upon death.
+In the Console Edition, a blaze drops 0-2 glowstone dust upon death. This makes glowstone a renewable resource in the Console Editions despite the lack of glowstone clusters due to small worlds.
+In Pocket Edition, glowstone dust can be obtained by creating and activating the nether reactor, which drops enough dust for around usually 15 glowstone blocks. Glowstone blocks can be crafted with the PE crafting table and does not require the stonecutter.
+Two units of glowstone dust, dropped on Netherrack.
