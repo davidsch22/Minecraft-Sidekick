@@ -1,0 +1,17 @@
+{
+  "name": "sidekick-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gr3enMachin3",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.34.0",
+    "mineflayer": "^4.8.1",
+    "prismarine-viewer": "^1.23.0"
+  }
+}
