@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod;
+package com.gr3enmachin3.sidekickmod;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
@@ -9,13 +9,13 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod(RosieMod.MOD_ID)
-public class RosieMod
+@Mod(SidekickMod.MOD_ID)
+public class SidekickMod
 {
-    public static final String MOD_ID = "rosiemod";
+    public static final String MOD_ID = "sidekickmod";
     public static final Logger LOGGER = LogManager.getLogger();
 
-    public RosieMod() {
+    public SidekickMod() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::loaded);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);

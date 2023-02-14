@@ -13,9 +13,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.15.2-0.1'
-group = 'com.gr3enmachin3.rosiemod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'RosieMod'
+version = '1.15.2-0.2'
+group = 'com.gr3enmachin3.sidekickmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'SidekickMod'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
@@ -74,7 +74,7 @@ minecraft {
             // Recommended logging level for the console
             property 'forge.logging.console.level', 'debug'
 
-            args '--mod', 'rosiemod', '--all', '--output', file('src/generated/resources/')
+            args '--mod', 'sidekickmod', '--all', '--output', file('src/generated/resources/')
 
             mods {
                 rosiemod {
@@ -95,8 +95,6 @@ dependencies {
     // The userdev artifact is a special name and will get all sorts of transformations applied to it.
     minecraft 'net.minecraftforge:forge:1.15.2-31.1.0'
 
-    compile files('libs/baritone-api-forge-1.5.3.jar')
-
     // You may put jars on which you depend on in ./libs or you may define them like so..
     // compile "some.group:artifact:version:classifier"
     // compile "some.group:artifact:version"
@@ -104,6 +102,7 @@ dependencies {
     // Real examples
     // compile 'com.mod-buildcraft:buildcraft:6.0.8:dev'  // adds buildcraft to the dev env
     // compile 'com.googlecode.efficient-java-matrix-library:ejml:0.24' // adds ejml to the dev env
+    compile files('libs/baritone-api-forge-1.5.3.jar')
 
     // The 'provided' configuration is for optional dependencies that exist at compile-time but might not at runtime.
     // provided 'com.mod-buildcraft:buildcraft:6.0.8:dev'
@@ -121,9 +120,9 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "rosiemod",
+            "Specification-Title": "sidekickmod",
             "Specification-Vendor": "Gr3enMachin3",
-            "Specification-Version": "0.1",
+            "Specification-Version": "1.15.2-0.2",
             "Implementation-Title": project.name,
             "Implementation-Version": "${version}",
             "Implementation-Vendor" :"Gr3enMachin3",

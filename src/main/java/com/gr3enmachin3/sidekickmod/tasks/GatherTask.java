@@ -1,8 +1,8 @@
-package com.gr3enmachin3.rosiemod.tasks;
+package com.gr3enmachin3.sidekickmod.tasks;
 
-import com.gr3enmachin3.rosiemod.RosieMod;
-import com.gr3enmachin3.rosiemod.maps.BiomeLogMap;
-import com.gr3enmachin3.rosiemod.maps.BlockItemMap;
+import com.gr3enmachin3.sidekickmod.SidekickMod;
+import com.gr3enmachin3.sidekickmod.maps.BiomeLogMap;
+import com.gr3enmachin3.sidekickmod.maps.BlockItemMap;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screen.inventory.InventoryScreen;
 import net.minecraft.entity.player.PlayerEntity;
@@ -13,7 +13,7 @@ import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
-@EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
+@EventBusSubscriber(modid=SidekickMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
 public class GatherTask extends Task {
     private static String blockName;
     private static String itemName;
@@ -36,7 +36,7 @@ public class GatherTask extends Task {
     @Override
     public void run() {
         if (blockName.equals("log")) {
-            // Biome thisBiome = player.world.getBiomeManager().getBiome(player.getPosition())
+            // Biome thisBiome = player.world.getBiomeManager().getBiome(player.getPosition());
             Biome thisBiome = player.world.func_225523_d_().func_226836_a_(player.getPosition());
             String log = BiomeLogMap.get(thisBiome);
             if (log.equals("none")) {

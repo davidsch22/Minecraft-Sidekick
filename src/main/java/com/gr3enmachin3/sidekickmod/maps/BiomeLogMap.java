@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.maps;
+package com.gr3enmachin3.sidekickmod.maps;
 
 import net.minecraft.world.biome.Biome;
 import net.minecraft.world.biome.Biomes;

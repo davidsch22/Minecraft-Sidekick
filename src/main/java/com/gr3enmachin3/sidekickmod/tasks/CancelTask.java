@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.tasks;
+package com.gr3enmachin3.sidekickmod.tasks;
 
 public class CancelTask extends Task {
     public CancelTask(String requester) {

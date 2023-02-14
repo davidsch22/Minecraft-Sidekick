@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.maps;
+package com.gr3enmachin3.sidekickmod.maps;
 
 import java.util.HashMap;
 import java.util.Map;

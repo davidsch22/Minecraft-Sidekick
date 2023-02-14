@@ -1,4 +1,4 @@
-package com.gr3enmachin3.rosiemod.tasks;
+package com.gr3enmachin3.sidekickmod.tasks;
 
 public class TpTask extends Task {
     public TpTask(String requester) {

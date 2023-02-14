@@ -1,12 +1,12 @@
-package com.gr3enmachin3.rosiemod;
+package com.gr3enmachin3.sidekickmod;
 
-import com.gr3enmachin3.rosiemod.tasks.*;
-import com.gr3enmachin3.rosiemod.tasks.Task;
+import com.gr3enmachin3.sidekickmod.tasks.*;
+import com.gr3enmachin3.sidekickmod.tasks.Task;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
-@EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
+@EventBusSubscriber(modid=SidekickMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
 public class ChatReader {
     @SubscribeEvent
     public static void readChat(ClientChatReceivedEvent event) {
@@ -28,6 +28,11 @@ public class ChatReader {
             // Follow Command
             else if (message.contains("follow me")) {
                 task = new FollowTask(speaker);
+            }
+
+            // Farm Command
+            else if (message.contains("farm for me")) {
+                task = new FarmTask(speaker);
             }
 
             // Gather Command

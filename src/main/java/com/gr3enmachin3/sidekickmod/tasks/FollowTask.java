@@ -1,13 +1,13 @@
-package com.gr3enmachin3.rosiemod.tasks;
+package com.gr3enmachin3.sidekickmod.tasks;
 
-import com.gr3enmachin3.rosiemod.RosieMod;
+import com.gr3enmachin3.sidekickmod.SidekickMod;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.util.math.Vec3d;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 
-@EventBusSubscriber(modid=RosieMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
+@EventBusSubscriber(modid=SidekickMod.MOD_ID, bus=EventBusSubscriber.Bus.FORGE)
 public class FollowTask extends Task {
     protected static boolean isFollowing = false;
 
