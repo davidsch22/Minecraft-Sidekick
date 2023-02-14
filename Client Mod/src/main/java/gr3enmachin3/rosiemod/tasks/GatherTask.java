@@ -68,7 +68,8 @@ public class GatherTask extends Task {
             if (itemStack == null) return;
 
             slot = player.getInventory().findSlotMatchingItem(itemStack);
-            if (slot != -1 && player.inventory.getStackInSlot(slot).getCount() >= desiredAmount) {
+            player.getInventory().getItem(slot);
+            if (slot != -1 && player.getInventory().getItem(slot).getCount() >= desiredAmount) {
                 isGathering = false;
                 isReturning = true;
                 player.chat("I have what you wanted, " + requester + ". I'm coming back");
@@ -77,10 +78,10 @@ public class GatherTask extends Task {
         }
 
         if (isReturning) {
-            Player reqPlayer = player.world.getPlayers().stream().filter(entPlayer ->
+            Player reqPlayer = player.getCommandSenderWorld().players().stream().filter(entPlayer ->
                     entPlayer.getName().getString().equals(requester)).findFirst().orElse(null);
             if (reqPlayer != null) {
-                double distance = player.getPositionVector().distanceTo(reqPlayer.getPositionVector());
+                double distance = player.position().distanceTo(reqPlayer.position());
                 if (distance <= 4) {
                     isReturning = false;
                     FollowTask.isFollowing = true;
@@ -94,9 +95,7 @@ public class GatherTask extends Task {
     private static void dropStack() {
         player.chat("Here you go, " + requester);
 
-        InventoryScreen invScreen = new InventoryScreen(player);
-        Minecraft.getInstance().displayGuiScreen(invScreen);
-
+        player.sendOpenInventory();
         new Thread(() -> {
             try {
                 Thread.sleep(1000);
@@ -104,9 +103,10 @@ public class GatherTask extends Task {
                 if (slot >= 0 && slot <= 8) {
                     slot += 36;
                 }
-                ItemStack stack = Minecraft.getInstance().playerController.windowClick(invScreen.getContainer().windowId, slot, 1, ClickType.THROW, player);
-                player.inventory.setItemStack(stack);
-                player.closeScreen();
+                player.inventoryMenu.clicked(player.inventoryMenu.containerId, slot, ClickType.THROW, player);
+                assert Minecraft.getInstance().player != null;
+                player.getInventory().setPickedItem(player.getInventory().getItem(slot));
+                player.closeContainer();
 
                 FollowTask.isFollowing = false;
             } catch (InterruptedException e) {

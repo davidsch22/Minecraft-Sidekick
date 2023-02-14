@@ -7,8 +7,8 @@ public class TpTask extends Task {
 
     @Override
     public void run() {
-        player.sendChatMessage("/tp " + requester);
-        player.sendChatMessage("I'm here, " + requester);
+        player.chat("/tp " + requester);
+        player.chat("I'm here, " + requester);
         oldRequester = requester;
     }
 }

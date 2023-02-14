@@ -11,7 +11,7 @@ public class CancelTask extends Task {
     }
 
     public void run(boolean interrupt) {
-        if (!interrupt) player.sendChatMessage("Ok");
+        if (!interrupt) player.chat("Ok");
         FollowTask.isFollowing = false;
         GatherTask.isGathering = false;
         GatherTask.isReturning = false;
