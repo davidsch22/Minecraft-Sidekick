@@ -24,6 +24,7 @@ node_modules
 eclipse
 run
 __pycache__
+.vscode
 
 # Files from Forge MDK
 forge*changelog.txt

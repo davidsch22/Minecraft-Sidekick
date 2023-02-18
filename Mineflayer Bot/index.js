@@ -1,12 +1,13 @@
 import { createBot } from 'mineflayer';
 import { mineflayer as mineflayerViewer } from 'prismarine-viewer';
+import { parseMessage } from './chat-parser';
 
 const options = {
-  host: 'localhost',
-  port: 52765,
-  username: 'deschulz22@gmail.com',
-  password: process.argv[2],
-  auth: 'microsoft'
+    host: 'localhost',
+    port: 52765,
+    username: 'deschulz22@gmail.com',
+    password: process.argv[2],
+    auth: 'microsoft'
 };
 
 const bot = createBot(options);
@@ -17,7 +18,7 @@ bot.once('spawn', () => {
 
 bot.on('chat', (username, message) => {
     if (username === bot.username) return;
-    bot.chat(message);
+    parseMessage(message, username);
 });
 
 // Log errors and kick reasons:
